@@ -1,0 +1,37 @@
+{
+  "comparison_index": 1068,
+  "comparison": {
+    "from_folder": "Instagram_38100024_alpha",
+    "to_folder": "Instagram_38100032_alpha",
+    "from_version_code": 378501657,
+    "to_version_code": 378502037,
+    "from_version_name": "381.0.0.0.24",
+    "to_version_name": "381.0.0.0.32"
+  },
+  "summary": {
+    "old_total": 1176,
+    "new_total": 1176,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "EnableDefaultAutoReshareToStoryRequest",
+      "old_client_doc_id": "12111244128767872967048841768",
+      "new_client_doc_id": "12111244124587913931945038624",
+      "changes": {
+        "client_doc_id": {
+          "old": "12111244128767872967048841768",
+          "new": "12111244124587913931945038624"
+        },
+        "operation_text_hash": {
+          "old": "8767872967048841768",
+          "new": "4587913931945038624"
+        }
+      }
+    }
+  ]
+}

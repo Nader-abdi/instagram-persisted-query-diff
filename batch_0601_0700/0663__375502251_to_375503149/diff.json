@@ -1,0 +1,112 @@
+{
+  "comparison_index": 663,
+  "comparison": {
+    "from_folder": "Instagram_35500027_alpha",
+    "to_folder": "Instagram_35500037_alpha",
+    "from_version_code": 375502251,
+    "to_version_code": 375503149,
+    "from_version_name": "355.0.0.0.27",
+    "to_version_name": "355.0.0.0.37"
+  },
+  "summary": {
+    "old_total": 880,
+    "new_total": 880,
+    "added": 0,
+    "removed": 0,
+    "changed": 6
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "GetAllPresencePoints",
+      "old_client_doc_id": "8283516483041776466573573111",
+      "new_client_doc_id": "8283516488450666895473784807",
+      "changes": {
+        "client_doc_id": {
+          "old": "8283516483041776466573573111",
+          "new": "8283516488450666895473784807"
+        },
+        "operation_text_hash": {
+          "old": "3041776466573573111",
+          "new": "8450666895473784807"
+        }
+      }
+    },
+    {
+      "operation": "GetFriendMapSettingsQuery",
+      "old_client_doc_id": "245318206217435858158626232339",
+      "new_client_doc_id": "24531820628705297162397479930",
+      "changes": {
+        "client_doc_id": {
+          "old": "245318206217435858158626232339",
+          "new": "24531820628705297162397479930"
+        },
+        "operation_text_hash": {
+          "old": "17435858158626232339",
+          "new": "8705297162397479930"
+        }
+      }
+    },
+    {
+      "operation": "IGCreatorAIAutoReplyStatus",
+      "old_client_doc_id": "31560074183991760288743329134",
+      "new_client_doc_id": "315600741815929022780066865028",
+      "changes": {
+        "client_doc_id": {
+          "old": "31560074183991760288743329134",
+          "new": "315600741815929022780066865028"
+        },
+        "operation_text_hash": {
+          "old": "3991760288743329134",
+          "new": "15929022780066865028"
+        }
+      }
+    },
+    {
+      "operation": "IGCreatorAIGuidanceStepCompleteMutation",
+      "old_client_doc_id": "24662476652751342242661292906",
+      "new_client_doc_id": "24662476659393560894186194089",
+      "changes": {
+        "client_doc_id": {
+          "old": "24662476652751342242661292906",
+          "new": "24662476659393560894186194089"
+        },
+        "operation_text_hash": {
+          "old": "2751342242661292906",
+          "new": "9393560894186194089"
+        }
+      }
+    },
+    {
+      "operation": "IGCreatorAIGuidanceStepsQuery",
+      "old_client_doc_id": "365773900313846674865232093469",
+      "new_client_doc_id": "36577390034544973007427508629",
+      "changes": {
+        "client_doc_id": {
+          "old": "365773900313846674865232093469",
+          "new": "36577390034544973007427508629"
+        },
+        "operation_text_hash": {
+          "old": "13846674865232093469",
+          "new": "4544973007427508629"
+        }
+      }
+    },
+    {
+      "operation": "UpdateFriendMapSettingsMutation",
+      "old_client_doc_id": "211996820817737020210779361688",
+      "new_client_doc_id": "211996820813792777692861842530",
+      "changes": {
+        "client_doc_id": {
+          "old": "211996820817737020210779361688",
+          "new": "211996820813792777692861842530"
+        },
+        "operation_text_hash": {
+          "old": "17737020210779361688",
+          "new": "13792777692861842530"
+        }
+      }
+    }
+  ]
+}

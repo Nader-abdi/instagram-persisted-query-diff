@@ -1,0 +1,76 @@
+{
+  "comparison_index": 838,
+  "comparison": {
+    "from_folder": "Instagram_36400065_alpha",
+    "to_folder": "Instagram_36400081_alpha",
+    "from_version_code": 376805470,
+    "to_version_code": 376806865,
+    "from_version_name": "364.0.0.0.65",
+    "to_version_name": "364.0.0.0.81"
+  },
+  "summary": {
+    "old_total": 951,
+    "new_total": 953,
+    "added": 2,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [
+    {
+      "operation": "QueryUserIgPrivacyJurisdictionWithIgid",
+      "client_doc_id": "41696493971631480767344209787"
+    },
+    {
+      "operation": "SetUserPrivacyJurisdictionOverrideWithIgid",
+      "client_doc_id": "227083826315301185275312201339"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "GenAIImagineSuggestionsQuery",
+      "old_client_doc_id": "78596836117164778251647437033",
+      "new_client_doc_id": "7859683618223389968732777962",
+      "changes": {
+        "client_doc_id": {
+          "old": "78596836117164778251647437033",
+          "new": "7859683618223389968732777962"
+        },
+        "operation_text_hash": {
+          "old": "17164778251647437033",
+          "new": "8223389968732777962"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineByUsernameQuery",
+      "old_client_doc_id": "150523945815452649161520881862",
+      "new_client_doc_id": "15052394581229902818698854591",
+      "changes": {
+        "client_doc_id": {
+          "old": "150523945815452649161520881862",
+          "new": "15052394581229902818698854591"
+        },
+        "operation_text_hash": {
+          "old": "15452649161520881862",
+          "new": "1229902818698854591"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "560303508835486649869592520",
+      "new_client_doc_id": "5603035089643264219089950168",
+      "changes": {
+        "client_doc_id": {
+          "old": "560303508835486649869592520",
+          "new": "5603035089643264219089950168"
+        },
+        "operation_text_hash": {
+          "old": "835486649869592520",
+          "new": "9643264219089950168"
+        }
+      }
+    }
+  ]
+}

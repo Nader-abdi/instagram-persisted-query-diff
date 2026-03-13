@@ -1,0 +1,72 @@
+{
+  "comparison_index": 1135,
+  "comparison": {
+    "from_folder": "Instagram_38900077_alpha",
+    "to_folder": "Instagram_38900187_beta",
+    "from_version_code": 379503932,
+    "to_version_code": 379504519,
+    "from_version_name": "389.0.0.0.77",
+    "to_version_name": "389.0.0.1.87"
+  },
+  "summary": {
+    "old_total": 1226,
+    "new_total": 1227,
+    "added": 1,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [
+    {
+      "operation": "AICharacterSetCreatorCharacterMutualFollowsMutation",
+      "client_doc_id": "37630310476126024656369425"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FxIgXavSwitcherBadgingDataQuery",
+      "old_client_doc_id": "83794259216787876144697489189",
+      "new_client_doc_id": "837942592711909631230543880",
+      "changes": {
+        "client_doc_id": {
+          "old": "83794259216787876144697489189",
+          "new": "837942592711909631230543880"
+        },
+        "operation_text_hash": {
+          "old": "16787876144697489189",
+          "new": "711909631230543880"
+        }
+      }
+    },
+    {
+      "operation": "IGGenAIEditCuratedPresetsQuery",
+      "old_client_doc_id": "37255863501434434051279900800",
+      "new_client_doc_id": "37255863507373334815363512689",
+      "changes": {
+        "client_doc_id": {
+          "old": "37255863501434434051279900800",
+          "new": "37255863507373334815363512689"
+        },
+        "operation_text_hash": {
+          "old": "1434434051279900800",
+          "new": "7373334815363512689"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "5603035088839714644139129978",
+      "new_client_doc_id": "56030350810636941116823499738",
+      "changes": {
+        "client_doc_id": {
+          "old": "5603035088839714644139129978",
+          "new": "56030350810636941116823499738"
+        },
+        "operation_text_hash": {
+          "old": "8839714644139129978",
+          "new": "10636941116823499738"
+        }
+      }
+    }
+  ]
+}

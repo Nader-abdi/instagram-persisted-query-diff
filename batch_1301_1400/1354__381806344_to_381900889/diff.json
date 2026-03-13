@@ -1,0 +1,112 @@
+{
+  "comparison_index": 1354,
+  "comparison": {
+    "from_folder": "Instagram_412003587",
+    "to_folder": "Instagram_41300017_alpha",
+    "from_version_code": 381806344,
+    "to_version_code": 381900889,
+    "from_version_name": "412.0.0.35.87",
+    "to_version_name": "413.0.0.0.17"
+  },
+  "summary": {
+    "old_total": 1425,
+    "new_total": 1425,
+    "added": 0,
+    "removed": 0,
+    "changed": 6
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "BcnFilteredFolderSnapshotQuery",
+      "old_client_doc_id": "154840311110384611717759438378",
+      "new_client_doc_id": "15484031112007307272566232997",
+      "changes": {
+        "client_doc_id": {
+          "old": "154840311110384611717759438378",
+          "new": "15484031112007307272566232997"
+        },
+        "operation_text_hash": {
+          "old": "10384611717759438378",
+          "new": "2007307272566232997"
+        }
+      }
+    },
+    {
+      "operation": "BcnFolderSnapshotQuery",
+      "old_client_doc_id": "415277283717540035548660330644",
+      "new_client_doc_id": "4152772837897314818138182245",
+      "changes": {
+        "client_doc_id": {
+          "old": "415277283717540035548660330644",
+          "new": "4152772837897314818138182245"
+        },
+        "operation_text_hash": {
+          "old": "17540035548660330644",
+          "new": "897314818138182245"
+        }
+      }
+    },
+    {
+      "operation": "BcnInboxSnapshotQuery",
+      "old_client_doc_id": "18375888966634707898275997697",
+      "new_client_doc_id": "183758889611790756432561439189",
+      "changes": {
+        "client_doc_id": {
+          "old": "18375888966634707898275997697",
+          "new": "183758889611790756432561439189"
+        },
+        "operation_text_hash": {
+          "old": "6634707898275997697",
+          "new": "11790756432561439189"
+        }
+      }
+    },
+    {
+      "operation": "BcnInboxThreadSnapshotByParticipantsQuery",
+      "old_client_doc_id": "407740362515470620455641731762",
+      "new_client_doc_id": "40774036258816875935851085718",
+      "changes": {
+        "client_doc_id": {
+          "old": "407740362515470620455641731762",
+          "new": "40774036258816875935851085718"
+        },
+        "operation_text_hash": {
+          "old": "15470620455641731762",
+          "new": "8816875935851085718"
+        }
+      }
+    },
+    {
+      "operation": "BcnInboxThreadSnapshotQuery",
+      "old_client_doc_id": "17477233583587345188194958740",
+      "new_client_doc_id": "17477233582736616680016391807",
+      "changes": {
+        "client_doc_id": {
+          "old": "17477233583587345188194958740",
+          "new": "17477233582736616680016391807"
+        },
+        "operation_text_hash": {
+          "old": "3587345188194958740",
+          "new": "2736616680016391807"
+        }
+      }
+    },
+    {
+      "operation": "MovieGenQuery",
+      "old_client_doc_id": "169028701910093649965919186785",
+      "new_client_doc_id": "169028701913492365191933469935",
+      "changes": {
+        "client_doc_id": {
+          "old": "169028701910093649965919186785",
+          "new": "169028701913492365191933469935"
+        },
+        "operation_text_hash": {
+          "old": "10093649965919186785",
+          "new": "13492365191933469935"
+        }
+      }
+    }
+  ]
+}

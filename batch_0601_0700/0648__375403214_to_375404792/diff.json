@@ -1,0 +1,52 @@
+{
+  "comparison_index": 648,
+  "comparison": {
+    "from_folder": "Instagram_35400039_alpha",
+    "to_folder": "Instagram_35400058_alpha",
+    "from_version_code": 375403214,
+    "to_version_code": 375404792,
+    "from_version_name": "354.0.0.0.39",
+    "to_version_name": "354.0.0.0.58"
+  },
+  "summary": {
+    "old_total": 877,
+    "new_total": 877,
+    "added": 0,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "GetPotatoContainersForUser",
+      "old_client_doc_id": "116283577816774188990676122241",
+      "new_client_doc_id": "116283577813392839542271935118",
+      "changes": {
+        "client_doc_id": {
+          "old": "116283577816774188990676122241",
+          "new": "116283577813392839542271935118"
+        },
+        "operation_text_hash": {
+          "old": "16774188990676122241",
+          "new": "13392839542271935118"
+        }
+      }
+    },
+    {
+      "operation": "GetPotatoMediaForContainer",
+      "old_client_doc_id": "19037811806706072859419229460",
+      "new_client_doc_id": "19037811802923348108198725729",
+      "changes": {
+        "client_doc_id": {
+          "old": "19037811806706072859419229460",
+          "new": "19037811802923348108198725729"
+        },
+        "operation_text_hash": {
+          "old": "6706072859419229460",
+          "new": "2923348108198725729"
+        }
+      }
+    }
+  ]
+}

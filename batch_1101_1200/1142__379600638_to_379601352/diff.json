@@ -1,0 +1,52 @@
+{
+  "comparison_index": 1142,
+  "comparison": {
+    "from_folder": "Instagram_39000012_alpha",
+    "to_folder": "Instagram_39000026_alpha",
+    "from_version_code": 379600638,
+    "to_version_code": 379601352,
+    "from_version_name": "390.0.0.0.12",
+    "to_version_name": "390.0.0.0.26"
+  },
+  "summary": {
+    "old_total": 1226,
+    "new_total": 1226,
+    "added": 0,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGFriendingCenterQuery",
+      "old_client_doc_id": "107697647610484267436202036300",
+      "new_client_doc_id": "10769764766234747292959287512",
+      "changes": {
+        "client_doc_id": {
+          "old": "107697647610484267436202036300",
+          "new": "10769764766234747292959287512"
+        },
+        "operation_text_hash": {
+          "old": "10484267436202036300",
+          "new": "6234747292959287512"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "5603035082357836863514388032",
+      "new_client_doc_id": "5603035085337542503996595880",
+      "changes": {
+        "client_doc_id": {
+          "old": "5603035082357836863514388032",
+          "new": "5603035085337542503996595880"
+        },
+        "operation_text_hash": {
+          "old": "2357836863514388032",
+          "new": "5337542503996595880"
+        }
+      }
+    }
+  ]
+}

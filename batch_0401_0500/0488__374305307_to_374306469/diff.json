@@ -1,0 +1,42 @@
+{
+  "comparison_index": 488,
+  "comparison": {
+    "from_folder": "Instagram_34300064_alpha",
+    "to_folder": "Instagram_34300079_alpha",
+    "from_version_code": 374305307,
+    "to_version_code": 374306469,
+    "from_version_name": "343.0.0.0.64",
+    "to_version_name": "343.0.0.0.79"
+  },
+  "summary": {
+    "old_total": 780,
+    "new_total": 781,
+    "added": 1,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "IGEmojiPongHighScoresQuery",
+      "client_doc_id": "418976006417165284339446470533"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FanClubInfo",
+      "old_client_doc_id": "2583595460102139248379385014",
+      "new_client_doc_id": "25835954604622025435372452686",
+      "changes": {
+        "client_doc_id": {
+          "old": "2583595460102139248379385014",
+          "new": "25835954604622025435372452686"
+        },
+        "operation_text_hash": {
+          "old": "102139248379385014",
+          "new": "4622025435372452686"
+        }
+      }
+    }
+  ]
+}

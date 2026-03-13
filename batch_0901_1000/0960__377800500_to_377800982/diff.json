@@ -1,0 +1,67 @@
+{
+  "comparison_index": 960,
+  "comparison": {
+    "from_folder": "Instagram_3740005_alpha",
+    "to_folder": "Instagram_3740008_alpha",
+    "from_version_code": 377800500,
+    "to_version_code": 377800982,
+    "from_version_name": "374.0.0.0.5",
+    "to_version_name": "374.0.0.0.8"
+  },
+  "summary": {
+    "old_total": 1040,
+    "new_total": 1040,
+    "added": 0,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "GenAIImagineVideoPresetOptionsQuery",
+      "old_client_doc_id": "11955372797682225562524114588",
+      "new_client_doc_id": "11955372799819008426453057683",
+      "changes": {
+        "client_doc_id": {
+          "old": "11955372797682225562524114588",
+          "new": "11955372799819008426453057683"
+        },
+        "operation_text_hash": {
+          "old": "7682225562524114588",
+          "new": "9819008426453057683"
+        }
+      }
+    },
+    {
+      "operation": "ProfileUserInfo",
+      "old_client_doc_id": "20196015966854969823533401331",
+      "new_client_doc_id": "201960159617473022023900505617",
+      "changes": {
+        "client_doc_id": {
+          "old": "20196015966854969823533401331",
+          "new": "201960159617473022023900505617"
+        },
+        "operation_text_hash": {
+          "old": "6854969823533401331",
+          "new": "17473022023900505617"
+        }
+      }
+    },
+    {
+      "operation": "ProfileUserInfoByUsername",
+      "old_client_doc_id": "40883119017273819787401996577",
+      "new_client_doc_id": "4088311907166241923798669435",
+      "changes": {
+        "client_doc_id": {
+          "old": "40883119017273819787401996577",
+          "new": "4088311907166241923798669435"
+        },
+        "operation_text_hash": {
+          "old": "17273819787401996577",
+          "new": "7166241923798669435"
+        }
+      }
+    }
+  ]
+}

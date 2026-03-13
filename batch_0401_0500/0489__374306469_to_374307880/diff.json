@@ -1,0 +1,155 @@
+{
+  "comparison_index": 489,
+  "comparison": {
+    "from_folder": "Instagram_34300079_alpha",
+    "to_folder": "Instagram_34300096_alpha",
+    "from_version_code": 374306469,
+    "to_version_code": 374307880,
+    "from_version_name": "343.0.0.0.79",
+    "to_version_name": "343.0.0.0.96"
+  },
+  "summary": {
+    "old_total": 781,
+    "new_total": 784,
+    "added": 3,
+    "removed": 0,
+    "changed": 8
+  },
+  "added": [
+    {
+      "operation": "BloksAsyncActionQuery",
+      "client_doc_id": "356548512617879719305879856984"
+    },
+    {
+      "operation": "FetchMetaPlaceQuery",
+      "client_doc_id": "1377666485156170433414816776"
+    },
+    {
+      "operation": "NUXConfirmContactPointMutation",
+      "client_doc_id": "201789510316146760580282583221"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "CXPResetNoticeUserMutation",
+      "old_client_doc_id": "78773828112503278733759333446",
+      "new_client_doc_id": "7877382816053325685189503582",
+      "changes": {
+        "client_doc_id": {
+          "old": "78773828112503278733759333446",
+          "new": "7877382816053325685189503582"
+        },
+        "operation_text_hash": {
+          "old": "12503278733759333446",
+          "new": "6053325685189503582"
+        }
+      }
+    },
+    {
+      "operation": "CrosspostingUnifiedConfigsQuery",
+      "old_client_doc_id": "216179630711052902210951782494",
+      "new_client_doc_id": "21617963073867123972087307827",
+      "changes": {
+        "client_doc_id": {
+          "old": "216179630711052902210951782494",
+          "new": "21617963073867123972087307827"
+        },
+        "operation_text_hash": {
+          "old": "11052902210951782494",
+          "new": "3867123972087307827"
+        }
+      }
+    },
+    {
+      "operation": "FBToIGFeedDefaultPrivacyOptInMutation",
+      "old_client_doc_id": "26451849762508713165291989358",
+      "new_client_doc_id": "26451849766633449673848564857",
+      "changes": {
+        "client_doc_id": {
+          "old": "26451849762508713165291989358",
+          "new": "26451849766633449673848564857"
+        },
+        "operation_text_hash": {
+          "old": "2508713165291989358",
+          "new": "6633449673848564857"
+        }
+      }
+    },
+    {
+      "operation": "IGBplAutoXPostMutation",
+      "old_client_doc_id": "23557955185469668274393179132",
+      "new_client_doc_id": "235579551814358197794623767285",
+      "changes": {
+        "client_doc_id": {
+          "old": "23557955185469668274393179132",
+          "new": "235579551814358197794623767285"
+        },
+        "operation_text_hash": {
+          "old": "5469668274393179132",
+          "new": "14358197794623767285"
+        }
+      }
+    },
+    {
+      "operation": "IgBplAutoXpostingQuery",
+      "old_client_doc_id": "62193084410625843279300849580",
+      "new_client_doc_id": "62193084412090870287319490232",
+      "changes": {
+        "client_doc_id": {
+          "old": "62193084410625843279300849580",
+          "new": "62193084412090870287319490232"
+        },
+        "operation_text_hash": {
+          "old": "10625843279300849580",
+          "new": "12090870287319490232"
+        }
+      }
+    },
+    {
+      "operation": "IgCreatorsTrialsGraduateTrialMutation",
+      "old_client_doc_id": "142147612110118990979288084985",
+      "new_client_doc_id": "142147612114625889555336819090",
+      "changes": {
+        "client_doc_id": {
+          "old": "142147612110118990979288084985",
+          "new": "142147612114625889555336819090"
+        },
+        "operation_text_hash": {
+          "old": "10118990979288084985",
+          "new": "14625889555336819090"
+        }
+      }
+    },
+    {
+      "operation": "MetaPlacesQuery",
+      "old_client_doc_id": "30257805902235876140169869053",
+      "new_client_doc_id": "30257805901891154323040696921",
+      "changes": {
+        "client_doc_id": {
+          "old": "30257805902235876140169869053",
+          "new": "30257805901891154323040696921"
+        },
+        "operation_text_hash": {
+          "old": "2235876140169869053",
+          "new": "1891154323040696921"
+        }
+      }
+    },
+    {
+      "operation": "UpdateAutoCrossPostingSettingMutation",
+      "old_client_doc_id": "426526496614420180862159088098",
+      "new_client_doc_id": "426526496618412636595700536970",
+      "changes": {
+        "client_doc_id": {
+          "old": "426526496614420180862159088098",
+          "new": "426526496618412636595700536970"
+        },
+        "operation_text_hash": {
+          "old": "14420180862159088098",
+          "new": "18412636595700536970"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "comparison_index": 322,
+  "comparison": {
+    "from_folder": "Instagram_30100096_alpha",
+    "to_folder": "Instagram_301000103_alpha",
+    "from_version_code": 370107372,
+    "to_version_code": 370107891,
+    "from_version_name": "301.0.0.0.96",
+    "to_version_name": "301.0.0.0.103"
+  },
+  "summary": {
+    "old_total": 195,
+    "new_total": 196,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "CancelSettingChangeRequest",
+      "client_doc_id": "23503781396864122061604201339"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

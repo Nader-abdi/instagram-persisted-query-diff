@@ -1,0 +1,42 @@
+{
+  "comparison_index": 603,
+  "comparison": {
+    "from_folder": "Instagram_35100072_alpha",
+    "to_folder": "Instagram_35100077_alpha",
+    "from_version_code": 375104990,
+    "to_version_code": 375105405,
+    "from_version_name": "351.0.0.0.72",
+    "to_version_name": "351.0.0.0.77"
+  },
+  "summary": {
+    "old_total": 847,
+    "new_total": 848,
+    "added": 1,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "GetPotatoFeedLikersQuery",
+      "client_doc_id": "31655676616943077318050475302"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGDirectFeatureLimitExplicitLiveQuery",
+      "old_client_doc_id": "131503687310918160634694339036",
+      "new_client_doc_id": "131503687310748130904828029508",
+      "changes": {
+        "client_doc_id": {
+          "old": "131503687310918160634694339036",
+          "new": "131503687310748130904828029508"
+        },
+        "operation_text_hash": {
+          "old": "10918160634694339036",
+          "new": "10748130904828029508"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "comparison_index": 1074,
+  "comparison": {
+    "from_folder": "Instagram_38100075_alpha",
+    "to_folder": "Instagram_38100284_beta",
+    "from_version_code": 378504127,
+    "to_version_code": 378504653,
+    "from_version_name": "381.0.0.0.75",
+    "to_version_name": "381.0.0.2.84"
+  },
+  "summary": {
+    "old_total": 1177,
+    "new_total": 1179,
+    "added": 4,
+    "removed": 2,
+    "changed": 11
+  },
+  "added": [
+    {
+      "operation": "BcnInboxUQPPDeltas",
+      "client_doc_id": "11962387127906159783955152589"
+    },
+    {
+      "operation": "IGAIVoiceMutation",
+      "client_doc_id": "17916631437293375734514227475"
+    },
+    {
+      "operation": "IGAIVoicesList",
+      "client_doc_id": "22791578614180994294300194741"
+    },
+    {
+      "operation": "ThreadPromptSheetMessagingChatTasksQuery",
+      "client_doc_id": "271633267611288463789920503269"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "BCNInboxUQPPDeltas",
+      "client_doc_id": "31914841646353871897043726273"
+    },
+    {
+      "operation": "IGContentBasedHashtagSuggestionsQuery",
+      "client_doc_id": "350590323517118536870687866061"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "BCNInboxMessagePointQuery",
+      "old_client_doc_id": "334647781711106103436800856946",
+      "new_client_doc_id": "33464778179981515817774940626",
+      "changes": {
+        "client_doc_id": {
+          "old": "334647781711106103436800856946",
+          "new": "33464778179981515817774940626"
+        },
+        "operation_text_hash": {
+          "old": "11106103436800856946",
+          "new": "9981515817774940626"
+        }
+      }
+    },
+    {
+      "operation": "BCNInboxMultiMessagesQuery",
+      "old_client_doc_id": "292978478212462675901899109054",
+      "new_client_doc_id": "2929784782532511042284821294",
+      "changes": {
+        "client_doc_id": {
+          "old": "292978478212462675901899109054",
+          "new": "2929784782532511042284821294"
+        },
+        "operation_text_hash": {
+          "old": "12462675901899109054",
+          "new": "532511042284821294"
+        }
+      }
+    },
+    {
+      "operation": "BCNInboxSnapshotQuery",
+      "old_client_doc_id": "151435615612764292315982645623",
+      "new_client_doc_id": "15143561568741329331229472537",
+      "changes": {
+        "client_doc_id": {
+          "old": "151435615612764292315982645623",
+          "new": "15143561568741329331229472537"
+        },
+        "operation_text_hash": {
+          "old": "12764292315982645623",
+          "new": "8741329331229472537"
+        }
+      }
+    },
+    {
+      "operation": "BCNInboxThreadSnapshotByParticipantsQuery",
+      "old_client_doc_id": "27796257977653730484299325044",
+      "new_client_doc_id": "277962579713967024123470427355",
+      "changes": {
+        "client_doc_id": {
+          "old": "27796257977653730484299325044",
+          "new": "277962579713967024123470427355"
+        },
+        "operation_text_hash": {
+          "old": "7653730484299325044",
+          "new": "13967024123470427355"
+        }
+      }
+    },
+    {
+      "operation": "BCNInboxThreadSnapshotQuery",
+      "old_client_doc_id": "173920685414982780836308264847",
+      "new_client_doc_id": "17392068547364527737000974995",
+      "changes": {
+        "client_doc_id": {
+          "old": "173920685414982780836308264847",
+          "new": "17392068547364527737000974995"
+        },
+        "operation_text_hash": {
+          "old": "14982780836308264847",
+          "new": "7364527737000974995"
+        }
+      }
+    },
+    {
+      "operation": "BcnSlideSearchNullStateQuery",
+      "old_client_doc_id": "12576931572459548564154113790",
+      "new_client_doc_id": "12576931574251729733688752452",
+      "changes": {
+        "client_doc_id": {
+          "old": "12576931572459548564154113790",
+          "new": "12576931574251729733688752452"
+        },
+        "operation_text_hash": {
+          "old": "2459548564154113790",
+          "new": "4251729733688752452"
+        }
+      }
+    },
+    {
+      "operation": "BcnSlideSearchQueryStateQuery",
+      "old_client_doc_id": "160045497412983706831857383554",
+      "new_client_doc_id": "160045497415787028294885418412",
+      "changes": {
+        "client_doc_id": {
+          "old": "160045497412983706831857383554",
+          "new": "160045497415787028294885418412"
+        },
+        "operation_text_hash": {
+          "old": "12983706831857383554",
+          "new": "15787028294885418412"
+        }
+      }
+    },
+    {
+      "operation": "BcnSlideUsersQuery",
+      "old_client_doc_id": "143696284411183647723113000687",
+      "new_client_doc_id": "143696284410531518007568926527",
+      "changes": {
+        "client_doc_id": {
+          "old": "143696284411183647723113000687",
+          "new": "143696284410531518007568926527"
+        },
+        "operation_text_hash": {
+          "old": "11183647723113000687",
+          "new": "10531518007568926527"
+        }
+      }
+    },
+    {
+      "operation": "GetOnboardingNuxEligibility",
+      "old_client_doc_id": "22279101724480924165578129591",
+      "new_client_doc_id": "22279101723353643245542950304",
+      "changes": {
+        "client_doc_id": {
+          "old": "22279101724480924165578129591",
+          "new": "22279101723353643245542950304"
+        },
+        "operation_text_hash": {
+          "old": "4480924165578129591",
+          "new": "3353643245542950304"
+        }
+      }
+    },
+    {
+      "operation": "PendingFollows",
+      "old_client_doc_id": "3313842931591177162895369014",
+      "new_client_doc_id": "3313842939408964195295884938",
+      "changes": {
+        "client_doc_id": {
+          "old": "3313842931591177162895369014",
+          "new": "3313842939408964195295884938"
+        },
+        "operation_text_hash": {
+          "old": "1591177162895369014",
+          "new": "9408964195295884938"
+        }
+      }
+    },
+    {
+      "operation": "PendingFollows_At_Pando_Connection_Pagination_Query_users",
+      "old_client_doc_id": "184793339912635631601879686198",
+      "new_client_doc_id": "18479333991994615707765477445",
+      "changes": {
+        "client_doc_id": {
+          "old": "184793339912635631601879686198",
+          "new": "18479333991994615707765477445"
+        },
+        "operation_text_hash": {
+          "old": "12635631601879686198",
+          "new": "1994615707765477445"
+        }
+      }
+    }
+  ]
+}

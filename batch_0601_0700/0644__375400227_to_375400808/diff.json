@@ -1,0 +1,72 @@
+{
+  "comparison_index": 644,
+  "comparison": {
+    "from_folder": "Instagram_3540002_alpha",
+    "to_folder": "Instagram_3540009_alpha",
+    "from_version_code": 375400227,
+    "to_version_code": 375400808,
+    "from_version_name": "354.0.0.0.2",
+    "to_version_name": "354.0.0.0.9"
+  },
+  "summary": {
+    "old_total": 874,
+    "new_total": 875,
+    "added": 1,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [
+    {
+      "operation": "LeaveCollabNoteRequest",
+      "client_doc_id": "15068946213273585040511223142"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "BlendQuery",
+      "old_client_doc_id": "9195308961748590444912509520",
+      "new_client_doc_id": "9195308969883005529133614590",
+      "changes": {
+        "client_doc_id": {
+          "old": "9195308961748590444912509520",
+          "new": "9195308969883005529133614590"
+        },
+        "operation_text_hash": {
+          "old": "1748590444912509520",
+          "new": "9883005529133614590"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineGenerateSuggestionsQuery",
+      "old_client_doc_id": "2948162114908708388263099469",
+      "new_client_doc_id": "29481621147962520778570525485",
+      "changes": {
+        "client_doc_id": {
+          "old": "2948162114908708388263099469",
+          "new": "29481621147962520778570525485"
+        },
+        "operation_text_hash": {
+          "old": "908708388263099469",
+          "new": "7962520778570525485"
+        }
+      }
+    },
+    {
+      "operation": "UpdateBlendMembership",
+      "old_client_doc_id": "140080629216946187962947483344",
+      "new_client_doc_id": "140080629216279464073732099586",
+      "changes": {
+        "client_doc_id": {
+          "old": "140080629216946187962947483344",
+          "new": "140080629216279464073732099586"
+        },
+        "operation_text_hash": {
+          "old": "16946187962947483344",
+          "new": "16279464073732099586"
+        }
+      }
+    }
+  ]
+}

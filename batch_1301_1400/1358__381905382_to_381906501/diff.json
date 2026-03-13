@@ -1,0 +1,26 @@
+{
+  "comparison_index": 1358,
+  "comparison": {
+    "from_folder": "Instagram_413001984_beta",
+    "to_folder": "Instagram_413004184",
+    "from_version_code": 381905382,
+    "to_version_code": 381906501,
+    "from_version_name": "413.0.0.19.84",
+    "to_version_name": "413.0.0.41.84"
+  },
+  "summary": {
+    "old_total": 1431,
+    "new_total": 1432,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "BaselFetchReusableTextStylesQuery",
+      "client_doc_id": "21749775037487572834941857798"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

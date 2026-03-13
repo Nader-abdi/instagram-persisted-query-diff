@@ -1,0 +1,42 @@
+{
+  "comparison_index": 414,
+  "comparison": {
+    "from_folder": "Instagram_32200062_alpha",
+    "to_folder": "Instagram_32200067_alpha",
+    "from_version_code": 372204697,
+    "to_version_code": 372205076,
+    "from_version_name": "322.0.0.0.62",
+    "to_version_name": "322.0.0.0.67"
+  },
+  "summary": {
+    "old_total": 234,
+    "new_total": 235,
+    "added": 1,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "AutoDubPreviewQuery",
+      "client_doc_id": "388711397617399816743468855662"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "SchoolsUserDirectory",
+      "old_client_doc_id": "19299163998578001835097266441",
+      "new_client_doc_id": "19299163999020529328069993078",
+      "changes": {
+        "client_doc_id": {
+          "old": "19299163998578001835097266441",
+          "new": "19299163999020529328069993078"
+        },
+        "operation_text_hash": {
+          "old": "8578001835097266441",
+          "new": "9020529328069993078"
+        }
+      }
+    }
+  ]
+}

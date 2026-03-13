@@ -1,0 +1,67 @@
+{
+  "comparison_index": 579,
+  "comparison": {
+    "from_folder": "Instagram_349000109_alpha",
+    "to_folder": "Instagram_349002104_beta",
+    "from_version_code": 374908794,
+    "to_version_code": 374909512,
+    "from_version_name": "349.0.0.0.109",
+    "to_version_name": "349.0.0.2.104"
+  },
+  "summary": {
+    "old_total": 834,
+    "new_total": 834,
+    "added": 0,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "BlendQuery",
+      "old_client_doc_id": "9195308961748590444912509520",
+      "new_client_doc_id": "91953089610293416040979062807",
+      "changes": {
+        "client_doc_id": {
+          "old": "9195308961748590444912509520",
+          "new": "91953089610293416040979062807"
+        },
+        "operation_text_hash": {
+          "old": "1748590444912509520",
+          "new": "10293416040979062807"
+        }
+      }
+    },
+    {
+      "operation": "FetchMetaPlaceQuery",
+      "old_client_doc_id": "1377666484861516040517998317",
+      "new_client_doc_id": "1377666485156170433414816776",
+      "changes": {
+        "client_doc_id": {
+          "old": "1377666484861516040517998317",
+          "new": "1377666485156170433414816776"
+        },
+        "operation_text_hash": {
+          "old": "4861516040517998317",
+          "new": "5156170433414816776"
+        }
+      }
+    },
+    {
+      "operation": "UpdateBlendMembership",
+      "old_client_doc_id": "140080629216946187962947483344",
+      "new_client_doc_id": "14008062926096942070162794923",
+      "changes": {
+        "client_doc_id": {
+          "old": "140080629216946187962947483344",
+          "new": "14008062926096942070162794923"
+        },
+        "operation_text_hash": {
+          "old": "16946187962947483344",
+          "new": "6096942070162794923"
+        }
+      }
+    }
+  ]
+}

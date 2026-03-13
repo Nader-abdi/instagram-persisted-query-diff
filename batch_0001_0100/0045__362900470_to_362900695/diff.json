@@ -1,0 +1,26 @@
+{
+  "comparison_index": 45,
+  "comparison": {
+    "from_folder": "Instagram_22900013_alpha",
+    "to_folder": "Instagram_22900020_alpha",
+    "from_version_code": 362900470,
+    "to_version_code": 362900695,
+    "from_version_name": "229.0.0.0.13",
+    "to_version_name": "229.0.0.0.20"
+  },
+  "summary": {
+    "old_total": 126,
+    "new_total": 125,
+    "added": 0,
+    "removed": 1,
+    "changed": 0
+  },
+  "added": [],
+  "removed": [
+    {
+      "operation": "UpgradeOverMobileDataPreferences",
+      "client_doc_id": "279619945310404898492913418576"
+    }
+  ],
+  "changed": []
+}

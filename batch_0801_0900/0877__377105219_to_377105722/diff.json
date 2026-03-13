@@ -1,0 +1,30 @@
+{
+  "comparison_index": 877,
+  "comparison": {
+    "from_folder": "Instagram_36700064_alpha",
+    "to_folder": "Instagram_36700070_alpha",
+    "from_version_code": 377105219,
+    "to_version_code": 377105722,
+    "from_version_name": "367.0.0.0.64",
+    "to_version_name": "367.0.0.0.70"
+  },
+  "summary": {
+    "old_total": 971,
+    "new_total": 973,
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "GenAIImagineCanvasAPI",
+      "client_doc_id": "18902327391435560065781768853"
+    },
+    {
+      "operation": "TranscribeMediaMessage",
+      "client_doc_id": "94056519317593128406291670805"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

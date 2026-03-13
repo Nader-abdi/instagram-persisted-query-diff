@@ -1,0 +1,67 @@
+{
+  "comparison_index": 859,
+  "comparison": {
+    "from_folder": "Instagram_3660007_alpha",
+    "to_folder": "Instagram_36600012_alpha",
+    "from_version_code": 377000645,
+    "to_version_code": 377001018,
+    "from_version_name": "366.0.0.0.7",
+    "to_version_name": "366.0.0.0.12"
+  },
+  "summary": {
+    "old_total": 953,
+    "new_total": 953,
+    "added": 0,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "GenAIImagineSuggestionsQuery",
+      "old_client_doc_id": "7859683618223389968732777962",
+      "new_client_doc_id": "7859683612610241825083620512",
+      "changes": {
+        "client_doc_id": {
+          "old": "7859683618223389968732777962",
+          "new": "7859683612610241825083620512"
+        },
+        "operation_text_hash": {
+          "old": "8223389968732777962",
+          "new": "2610241825083620512"
+        }
+      }
+    },
+    {
+      "operation": "IGSocialAvatarStickersEligibilityQuery",
+      "old_client_doc_id": "425589764112869553323191710997",
+      "new_client_doc_id": "42558976419878195812083624206",
+      "changes": {
+        "client_doc_id": {
+          "old": "425589764112869553323191710997",
+          "new": "42558976419878195812083624206"
+        },
+        "operation_text_hash": {
+          "old": "12869553323191710997",
+          "new": "9878195812083624206"
+        }
+      }
+    },
+    {
+      "operation": "MetaAiContentDeepDiveQuery",
+      "old_client_doc_id": "1189686844951765104211421649",
+      "new_client_doc_id": "1189686847549726662506115367",
+      "changes": {
+        "client_doc_id": {
+          "old": "1189686844951765104211421649",
+          "new": "1189686847549726662506115367"
+        },
+        "operation_text_hash": {
+          "old": "4951765104211421649",
+          "new": "7549726662506115367"
+        }
+      }
+    }
+  ]
+}

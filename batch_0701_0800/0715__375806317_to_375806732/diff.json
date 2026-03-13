@@ -1,0 +1,132 @@
+{
+  "comparison_index": 715,
+  "comparison": {
+    "from_folder": "Instagram_35800082_alpha",
+    "to_folder": "Instagram_35800088_alpha",
+    "from_version_code": 375806317,
+    "to_version_code": 375806732,
+    "from_version_name": "358.0.0.0.82",
+    "to_version_name": "358.0.0.0.88"
+  },
+  "summary": {
+    "old_total": 927,
+    "new_total": 926,
+    "added": 0,
+    "removed": 1,
+    "changed": 7
+  },
+  "added": [],
+  "removed": [
+    {
+      "operation": "IGDReceiverFetchACSOnly",
+      "client_doc_id": "9865305247306494623619821839"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "AiStudioFetchHomeSections",
+      "old_client_doc_id": "6260917552895127130770207379",
+      "new_client_doc_id": "6260917559043238759492200011",
+      "changes": {
+        "client_doc_id": {
+          "old": "6260917552895127130770207379",
+          "new": "6260917559043238759492200011"
+        },
+        "operation_text_hash": {
+          "old": "2895127130770207379",
+          "new": "9043238759492200011"
+        }
+      }
+    },
+    {
+      "operation": "AiStudioFetchHomeSectionsV2",
+      "old_client_doc_id": "33107665529778068350006298100",
+      "new_client_doc_id": "33107665529551928330886458169",
+      "changes": {
+        "client_doc_id": {
+          "old": "33107665529778068350006298100",
+          "new": "33107665529551928330886458169"
+        },
+        "operation_text_hash": {
+          "old": "9778068350006298100",
+          "new": "9551928330886458169"
+        }
+      }
+    },
+    {
+      "operation": "AiStudioFetchHomeSectionsV2_At_Pando_Connection_Pagination_XFBGENAIPersonaLayout_union_sections_query",
+      "old_client_doc_id": "13860351817218418479855973188",
+      "new_client_doc_id": "13860351818111579858789808683",
+      "changes": {
+        "client_doc_id": {
+          "old": "13860351817218418479855973188",
+          "new": "13860351818111579858789808683"
+        },
+        "operation_text_hash": {
+          "old": "7218418479855973188",
+          "new": "8111579858789808683"
+        }
+      }
+    },
+    {
+      "operation": "AiStudioFetchHomeSections_At_Pando_Connection_Pagination_XFBGENAIPersonaLayout_sections_query",
+      "old_client_doc_id": "18433255707995141595992264142",
+      "new_client_doc_id": "184332557015530645342530440027",
+      "changes": {
+        "client_doc_id": {
+          "old": "18433255707995141595992264142",
+          "new": "184332557015530645342530440027"
+        },
+        "operation_text_hash": {
+          "old": "7995141595992264142",
+          "new": "15530645342530440027"
+        }
+      }
+    },
+    {
+      "operation": "AiStudioYourAisQuery",
+      "old_client_doc_id": "2471626306473659746978529579",
+      "new_client_doc_id": "24716263067114426083720357565",
+      "changes": {
+        "client_doc_id": {
+          "old": "2471626306473659746978529579",
+          "new": "24716263067114426083720357565"
+        },
+        "operation_text_hash": {
+          "old": "473659746978529579",
+          "new": "7114426083720357565"
+        }
+      }
+    },
+    {
+      "operation": "IGDReceiverFetchDeidentified",
+      "old_client_doc_id": "27607795801474597466478035170",
+      "new_client_doc_id": "276077958011579171164799857162",
+      "changes": {
+        "client_doc_id": {
+          "old": "27607795801474597466478035170",
+          "new": "276077958011579171164799857162"
+        },
+        "operation_text_hash": {
+          "old": "1474597466478035170",
+          "new": "11579171164799857162"
+        }
+      }
+    },
+    {
+      "operation": "MetaHCMQuery",
+      "old_client_doc_id": "166916289713224963413157020288",
+      "new_client_doc_id": "166916289713170789264828805275",
+      "changes": {
+        "client_doc_id": {
+          "old": "166916289713224963413157020288",
+          "new": "166916289713170789264828805275"
+        },
+        "operation_text_hash": {
+          "old": "13224963413157020288",
+          "new": "13170789264828805275"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "comparison_index": 920,
+  "comparison": {
+    "from_folder": "Instagram_37100057_alpha",
+    "to_folder": "Instagram_37100063_alpha",
+    "from_version_code": 377505944,
+    "to_version_code": 377506532,
+    "from_version_name": "371.0.0.0.57",
+    "to_version_name": "371.0.0.0.63"
+  },
+  "summary": {
+    "old_total": 1006,
+    "new_total": 1004,
+    "added": 0,
+    "removed": 2,
+    "changed": 0
+  },
+  "added": [],
+  "removed": [
+    {
+      "operation": "IGDebugDeleteAvatar",
+      "client_doc_id": "90596075111256299130783378784"
+    },
+    {
+      "operation": "IGDebugSetRandomAvatar",
+      "client_doc_id": "19414409713781353927580712107"
+    }
+  ],
+  "changed": []
+}

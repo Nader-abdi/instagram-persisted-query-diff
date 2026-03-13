@@ -1,0 +1,65 @@
+{
+  "comparison_index": 748,
+  "comparison": {
+    "from_folder": "Instagram_36000086_alpha",
+    "to_folder": "Instagram_360000122_alpha",
+    "from_version_code": 376007410,
+    "to_version_code": 376010422,
+    "from_version_name": "360.0.0.0.86",
+    "to_version_name": "360.0.0.0.122"
+  },
+  "summary": {
+    "old_total": 946,
+    "new_total": 949,
+    "added": 3,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [
+    {
+      "operation": "EotrPinResetSendNotification",
+      "client_doc_id": "5629955284310062877362030687"
+    },
+    {
+      "operation": "FanClubFreeTrialEligibility",
+      "client_doc_id": "215777927514046000388038726690"
+    },
+    {
+      "operation": "IGNMEBenefitContentProtectionQuotaInfoQuery",
+      "client_doc_id": "378596029811048619613813733704"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "AiStudioRemixFetchPersona",
+      "old_client_doc_id": "136667931011824836482280414837",
+      "new_client_doc_id": "136667931015024090361080214838",
+      "changes": {
+        "client_doc_id": {
+          "old": "136667931011824836482280414837",
+          "new": "136667931015024090361080214838"
+        },
+        "operation_text_hash": {
+          "old": "11824836482280414837",
+          "new": "15024090361080214838"
+        }
+      }
+    },
+    {
+      "operation": "FetchGlobalDirectoryQuery",
+      "old_client_doc_id": "271740232512773502359702368017",
+      "new_client_doc_id": "27174023258200701964494067080",
+      "changes": {
+        "client_doc_id": {
+          "old": "271740232512773502359702368017",
+          "new": "27174023258200701964494067080"
+        },
+        "operation_text_hash": {
+          "old": "12773502359702368017",
+          "new": "8200701964494067080"
+        }
+      }
+    }
+  ]
+}

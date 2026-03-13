@@ -1,0 +1,180 @@
+{
+  "comparison_index": 1186,
+  "comparison": {
+    "from_folder": "Instagram_39300045_alpha",
+    "to_folder": "Instagram_39300057_alpha",
+    "from_version_code": 379902377,
+    "to_version_code": 379902959,
+    "from_version_name": "393.0.0.0.45",
+    "to_version_name": "393.0.0.0.57"
+  },
+  "summary": {
+    "old_total": 1250,
+    "new_total": 1255,
+    "added": 7,
+    "removed": 2,
+    "changed": 8
+  },
+  "added": [
+    {
+      "operation": "AICharacterSingleTapPromptEnhancementMutation",
+      "client_doc_id": "356916656311360550098797873677"
+    },
+    {
+      "operation": "CreateOrUpdateLink",
+      "client_doc_id": "795651920387904821037365013"
+    },
+    {
+      "operation": "FxFoaLinkageCacheQuery",
+      "client_doc_id": "405093239913564988682517296086"
+    },
+    {
+      "operation": "ProfileUpdateProfileTags",
+      "client_doc_id": "25916655718212209917404195340"
+    },
+    {
+      "operation": "RemoveLink",
+      "client_doc_id": "420875630315076198579700234790"
+    },
+    {
+      "operation": "ReorderLinks",
+      "client_doc_id": "46046741116176128843730664621"
+    },
+    {
+      "operation": "ThirdPartyTrendsQuery",
+      "client_doc_id": "313826684215491279077323436985"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "IGAvatarReactionsQuery",
+      "client_doc_id": "4960933565612635658635141534"
+    },
+    {
+      "operation": "IGToFBXPostingDestinationsQuery",
+      "client_doc_id": "405780088718386212236688611204"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "AILookupConsumptionCardStreamingResults",
+      "old_client_doc_id": "401857863213420825511943745307",
+      "new_client_doc_id": "401857863215164622808249216085",
+      "changes": {
+        "client_doc_id": {
+          "old": "401857863213420825511943745307",
+          "new": "401857863215164622808249216085"
+        },
+        "operation_text_hash": {
+          "old": "13420825511943745307",
+          "new": "15164622808249216085"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineVideoGenerationStatusQuery",
+      "old_client_doc_id": "171719779010471009930301459999",
+      "new_client_doc_id": "171719779015753882300614457579",
+      "changes": {
+        "client_doc_id": {
+          "old": "171719779010471009930301459999",
+          "new": "171719779015753882300614457579"
+        },
+        "operation_text_hash": {
+          "old": "10471009930301459999",
+          "new": "15753882300614457579"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineVideoProjectMutation",
+      "old_client_doc_id": "176127021210469466595788652825",
+      "new_client_doc_id": "17612702126055462648181870757",
+      "changes": {
+        "client_doc_id": {
+          "old": "176127021210469466595788652825",
+          "new": "17612702126055462648181870757"
+        },
+        "operation_text_hash": {
+          "old": "10469466595788652825",
+          "new": "6055462648181870757"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineVideoSceneMutation",
+      "old_client_doc_id": "7117083686835618083304393178",
+      "new_client_doc_id": "7117083689329608012362686165",
+      "changes": {
+        "client_doc_id": {
+          "old": "7117083686835618083304393178",
+          "new": "7117083689329608012362686165"
+        },
+        "operation_text_hash": {
+          "old": "6835618083304393178",
+          "new": "9329608012362686165"
+        }
+      }
+    },
+    {
+      "operation": "IGCommercePageProductGridComponentQuery",
+      "old_client_doc_id": "36325311585550990693835650253",
+      "new_client_doc_id": "36325311586295874354486891691",
+      "changes": {
+        "client_doc_id": {
+          "old": "36325311585550990693835650253",
+          "new": "36325311586295874354486891691"
+        },
+        "operation_text_hash": {
+          "old": "5550990693835650253",
+          "new": "6295874354486891691"
+        }
+      }
+    },
+    {
+      "operation": "IGGenAIEditCuratedPresetsQuery",
+      "old_client_doc_id": "37255863507373334815363512689",
+      "new_client_doc_id": "372558635010374241627666834680",
+      "changes": {
+        "client_doc_id": {
+          "old": "37255863507373334815363512689",
+          "new": "372558635010374241627666834680"
+        },
+        "operation_text_hash": {
+          "old": "7373334815363512689",
+          "new": "10374241627666834680"
+        }
+      }
+    },
+    {
+      "operation": "IGIABExpandableFooterQuery",
+      "old_client_doc_id": "301531741216040086584585679397",
+      "new_client_doc_id": "301531741210925772428602638814",
+      "changes": {
+        "client_doc_id": {
+          "old": "301531741216040086584585679397",
+          "new": "301531741210925772428602638814"
+        },
+        "operation_text_hash": {
+          "old": "16040086584585679397",
+          "new": "10925772428602638814"
+        }
+      }
+    },
+    {
+      "operation": "TopSerpQuery",
+      "old_client_doc_id": "41853168193841640694313634450",
+      "new_client_doc_id": "41853168197363407438898571120",
+      "changes": {
+        "client_doc_id": {
+          "old": "41853168193841640694313634450",
+          "new": "41853168197363407438898571120"
+        },
+        "operation_text_hash": {
+          "old": "3841640694313634450",
+          "new": "7363407438898571120"
+        }
+      }
+    }
+  ]
+}

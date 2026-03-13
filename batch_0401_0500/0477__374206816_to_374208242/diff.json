@@ -1,0 +1,54 @@
+{
+  "comparison_index": 477,
+  "comparison": {
+    "from_folder": "Instagram_34200082_alpha",
+    "to_folder": "Instagram_34200099_alpha",
+    "from_version_code": 374206816,
+    "to_version_code": 374208242,
+    "from_version_name": "342.0.0.0.82",
+    "to_version_name": "342.0.0.0.99"
+  },
+  "summary": {
+    "old_total": 772,
+    "new_total": 776,
+    "added": 4,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "DeadCodeClassMutation",
+      "client_doc_id": "33515049399787940948527605487"
+    },
+    {
+      "operation": "IGDirectIsServiceProviderTOSSignedQuery",
+      "client_doc_id": "292460594917821412307916910554"
+    },
+    {
+      "operation": "IGDirectSetIsServiceProviderTOSSignedMutation",
+      "client_doc_id": "25226431701087281438849756843"
+    },
+    {
+      "operation": "IGQuickSnapMuteUserMutation",
+      "client_doc_id": "35558766285072625854615818729"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "ClipsProfileQuery",
+      "old_client_doc_id": "2090492316185922485741663181",
+      "new_client_doc_id": "209049231611982272160400854040",
+      "changes": {
+        "client_doc_id": {
+          "old": "2090492316185922485741663181",
+          "new": "209049231611982272160400854040"
+        },
+        "operation_text_hash": {
+          "old": "185922485741663181",
+          "new": "11982272160400854040"
+        }
+      }
+    }
+  ]
+}

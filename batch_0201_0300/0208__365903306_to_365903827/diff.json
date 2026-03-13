@@ -1,0 +1,57 @@
+{
+  "comparison_index": 208,
+  "comparison": {
+    "from_folder": "Instagram_25900096_alpha",
+    "to_folder": "Instagram_259004104_beta",
+    "from_version_code": 365903306,
+    "to_version_code": 365903827,
+    "from_version_name": "259.0.0.0.96",
+    "to_version_name": "259.0.0.4.104"
+  },
+  "summary": {
+    "old_total": 163,
+    "new_total": 164,
+    "added": 1,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [
+    {
+      "operation": "IGSendWhatsappLinkCreationVerification",
+      "client_doc_id": "22882046482930682392156581319"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FxIGMasterAccountQuery",
+      "old_client_doc_id": "2360595176862111525507030448",
+      "new_client_doc_id": "23605951717370706237604619409",
+      "changes": {
+        "client_doc_id": {
+          "old": "2360595176862111525507030448",
+          "new": "23605951717370706237604619409"
+        },
+        "operation_text_hash": {
+          "old": "6862111525507030448",
+          "new": "17370706237604619409"
+        }
+      }
+    },
+    {
+      "operation": "IGProactiveWarningBannerQuery",
+      "old_client_doc_id": "37944519215708589561714719842",
+      "new_client_doc_id": "379445192112268796052228850648",
+      "changes": {
+        "client_doc_id": {
+          "old": "37944519215708589561714719842",
+          "new": "379445192112268796052228850648"
+        },
+        "operation_text_hash": {
+          "old": "5708589561714719842",
+          "new": "12268796052228850648"
+        }
+      }
+    }
+  ]
+}

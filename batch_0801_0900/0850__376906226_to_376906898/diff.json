@@ -1,0 +1,142 @@
+{
+  "comparison_index": 850,
+  "comparison": {
+    "from_folder": "Instagram_36500073_alpha",
+    "to_folder": "Instagram_36500081_alpha",
+    "from_version_code": 376906226,
+    "to_version_code": 376906898,
+    "from_version_name": "365.0.0.0.73",
+    "to_version_name": "365.0.0.0.81"
+  },
+  "summary": {
+    "old_total": 951,
+    "new_total": 951,
+    "added": 0,
+    "removed": 0,
+    "changed": 8
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "AcceptCollabNoteInvite",
+      "old_client_doc_id": "3431426052613563542126121640",
+      "new_client_doc_id": "34314260515061217535147761357",
+      "changes": {
+        "client_doc_id": {
+          "old": "3431426052613563542126121640",
+          "new": "34314260515061217535147761357"
+        },
+        "operation_text_hash": {
+          "old": "2613563542126121640",
+          "new": "15061217535147761357"
+        }
+      }
+    },
+    {
+      "operation": "CreateInboxTrayItemRequest",
+      "old_client_doc_id": "35104002913729467729273817921",
+      "new_client_doc_id": "35104002910296285140662469460",
+      "changes": {
+        "client_doc_id": {
+          "old": "35104002913729467729273817921",
+          "new": "35104002910296285140662469460"
+        },
+        "operation_text_hash": {
+          "old": "13729467729273817921",
+          "new": "10296285140662469460"
+        }
+      }
+    },
+    {
+      "operation": "DeclineCollabNoteInvite",
+      "old_client_doc_id": "1392838299103106232916479747",
+      "new_client_doc_id": "13928382916370548644043067909",
+      "changes": {
+        "client_doc_id": {
+          "old": "1392838299103106232916479747",
+          "new": "13928382916370548644043067909"
+        },
+        "operation_text_hash": {
+          "old": "9103106232916479747",
+          "new": "16370548644043067909"
+        }
+      }
+    },
+    {
+      "operation": "InboxTrayRequest",
+      "old_client_doc_id": "2683844419738756363316069119",
+      "new_client_doc_id": "26838444194696110936664043696",
+      "changes": {
+        "client_doc_id": {
+          "old": "2683844419738756363316069119",
+          "new": "26838444194696110936664043696"
+        },
+        "operation_text_hash": {
+          "old": "738756363316069119",
+          "new": "4696110936664043696"
+        }
+      }
+    },
+    {
+      "operation": "InboxTrayRequestForUserQuery",
+      "old_client_doc_id": "2035639077132951889684442179",
+      "new_client_doc_id": "20356390716962171297824075869",
+      "changes": {
+        "client_doc_id": {
+          "old": "2035639077132951889684442179",
+          "new": "20356390716962171297824075869"
+        },
+        "operation_text_hash": {
+          "old": "7132951889684442179",
+          "new": "16962171297824075869"
+        }
+      }
+    },
+    {
+      "operation": "InstagramContactSyncForWearablesQuery",
+      "old_client_doc_id": "390476795111695875016926815080",
+      "new_client_doc_id": "39047679516276302617170332279",
+      "changes": {
+        "client_doc_id": {
+          "old": "390476795111695875016926815080",
+          "new": "39047679516276302617170332279"
+        },
+        "operation_text_hash": {
+          "old": "11695875016926815080",
+          "new": "6276302617170332279"
+        }
+      }
+    },
+    {
+      "operation": "LeaveCollabNoteRequest",
+      "old_client_doc_id": "150689462112502539851235855562",
+      "new_client_doc_id": "150689462114630674654042309676",
+      "changes": {
+        "client_doc_id": {
+          "old": "150689462112502539851235855562",
+          "new": "150689462114630674654042309676"
+        },
+        "operation_text_hash": {
+          "old": "12502539851235855562",
+          "new": "14630674654042309676"
+        }
+      }
+    },
+    {
+      "operation": "SearchDiscoveryConnectionQuery",
+      "old_client_doc_id": "123225916112419493471600857023",
+      "new_client_doc_id": "12322591614633809819192557764",
+      "changes": {
+        "client_doc_id": {
+          "old": "123225916112419493471600857023",
+          "new": "12322591614633809819192557764"
+        },
+        "operation_text_hash": {
+          "old": "12419493471600857023",
+          "new": "4633809819192557764"
+        }
+      }
+    }
+  ]
+}

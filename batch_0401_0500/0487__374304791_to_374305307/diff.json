@@ -1,0 +1,37 @@
+{
+  "comparison_index": 487,
+  "comparison": {
+    "from_folder": "Instagram_34300058_alpha",
+    "to_folder": "Instagram_34300064_alpha",
+    "from_version_code": 374304791,
+    "to_version_code": 374305307,
+    "from_version_name": "343.0.0.0.58",
+    "to_version_name": "343.0.0.0.64"
+  },
+  "summary": {
+    "old_total": 780,
+    "new_total": 780,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "MetaHCMQuery",
+      "old_client_doc_id": "16691628972078077176597039743",
+      "new_client_doc_id": "166916289715028993204360340408",
+      "changes": {
+        "client_doc_id": {
+          "old": "16691628972078077176597039743",
+          "new": "166916289715028993204360340408"
+        },
+        "operation_text_hash": {
+          "old": "2078077176597039743",
+          "new": "15028993204360340408"
+        }
+      }
+    }
+  ]
+}

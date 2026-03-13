@@ -1,0 +1,42 @@
+{
+  "comparison_index": 228,
+  "comparison": {
+    "from_folder": "Instagram_27600020_alpha",
+    "to_folder": "Instagram_27600030_alpha",
+    "from_version_code": 367601376,
+    "to_version_code": 367601970,
+    "from_version_name": "276.0.0.0.20",
+    "to_version_name": "276.0.0.0.30"
+  },
+  "summary": {
+    "old_total": 176,
+    "new_total": 177,
+    "added": 1,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "AdToolsHighlightsHubQuery",
+      "client_doc_id": "336934780215422623865324599475"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGToFBXPostingDestinationsQuery",
+      "old_client_doc_id": "40578008878565467658799840396",
+      "new_client_doc_id": "40578008875230392989396182000",
+      "changes": {
+        "client_doc_id": {
+          "old": "40578008878565467658799840396",
+          "new": "40578008875230392989396182000"
+        },
+        "operation_text_hash": {
+          "old": "8565467658799840396",
+          "new": "5230392989396182000"
+        }
+      }
+    }
+  ]
+}

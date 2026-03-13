@@ -1,0 +1,42 @@
+{
+  "comparison_index": 1327,
+  "comparison": {
+    "from_folder": "Instagram_41100050_alpha",
+    "to_folder": "Instagram_41100057_alpha",
+    "from_version_code": 381702657,
+    "to_version_code": 381703021,
+    "from_version_name": "411.0.0.0.50",
+    "to_version_name": "411.0.0.0.57"
+  },
+  "summary": {
+    "old_total": 1424,
+    "new_total": 1423,
+    "added": 0,
+    "removed": 1,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [
+    {
+      "operation": "AutofillSettingsUpdateMetaPayDisclosure",
+      "client_doc_id": "320170490410423642152431559299"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "VPMServerLoginFinishMutation",
+      "old_client_doc_id": "23002010286925456917929828613",
+      "new_client_doc_id": "23002010283647898966140818313",
+      "changes": {
+        "client_doc_id": {
+          "old": "23002010286925456917929828613",
+          "new": "23002010283647898966140818313"
+        },
+        "operation_text_hash": {
+          "old": "6925456917929828613",
+          "new": "3647898966140818313"
+        }
+      }
+    }
+  ]
+}

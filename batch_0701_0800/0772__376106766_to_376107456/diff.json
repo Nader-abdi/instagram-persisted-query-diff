@@ -1,0 +1,65 @@
+{
+  "comparison_index": 772,
+  "comparison": {
+    "from_folder": "Instagram_36100076_alpha",
+    "to_folder": "Instagram_36100084_alpha",
+    "from_version_code": 376106766,
+    "to_version_code": 376107456,
+    "from_version_name": "361.0.0.0.76",
+    "to_version_name": "361.0.0.0.84"
+  },
+  "summary": {
+    "old_total": 953,
+    "new_total": 956,
+    "added": 3,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [
+    {
+      "operation": "IGDirectMessagingSearchMetaAICopySnippetToThreadMutation",
+      "client_doc_id": "8474417734324041590134211432"
+    },
+    {
+      "operation": "IGPermissionsMessagingControlQuery",
+      "client_doc_id": "1857984596887468787999109134"
+    },
+    {
+      "operation": "MetaAiSendMediaToChat",
+      "client_doc_id": "31462673616790151881768158295"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FBPayAccount",
+      "old_client_doc_id": "3742226823456768346780727132",
+      "new_client_doc_id": "374222682317431869499760413896",
+      "changes": {
+        "client_doc_id": {
+          "old": "3742226823456768346780727132",
+          "new": "374222682317431869499760413896"
+        },
+        "operation_text_hash": {
+          "old": "456768346780727132",
+          "new": "17431869499760413896"
+        }
+      }
+    },
+    {
+      "operation": "FBPayAuthTicketQuery",
+      "old_client_doc_id": "143284785814708135133756331963",
+      "new_client_doc_id": "14328478586434846042691281005",
+      "changes": {
+        "client_doc_id": {
+          "old": "143284785814708135133756331963",
+          "new": "14328478586434846042691281005"
+        },
+        "operation_text_hash": {
+          "old": "14708135133756331963",
+          "new": "6434846042691281005"
+        }
+      }
+    }
+  ]
+}

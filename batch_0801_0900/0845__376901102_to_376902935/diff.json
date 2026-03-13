@@ -1,0 +1,50 @@
+{
+  "comparison_index": 845,
+  "comparison": {
+    "from_folder": "Instagram_36500013_alpha",
+    "to_folder": "Instagram_36500033_alpha",
+    "from_version_code": 376901102,
+    "to_version_code": 376902935,
+    "from_version_name": "365.0.0.0.13",
+    "to_version_name": "365.0.0.0.33"
+  },
+  "summary": {
+    "old_total": 950,
+    "new_total": 953,
+    "added": 3,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "CreateOrUpdateAmbientData",
+      "client_doc_id": "1870627012465029332014988657"
+    },
+    {
+      "operation": "IGAdsCollectionInfoODLQuery",
+      "client_doc_id": "34627271646140593741330729922"
+    },
+    {
+      "operation": "IGDirectRemoveThreadImageMutation",
+      "client_doc_id": "5002774511220457566957720267"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "GenAINuxConsentStatusQuery",
+      "old_client_doc_id": "229641374517154402304448195186",
+      "new_client_doc_id": "22964137453137453378135936212",
+      "changes": {
+        "client_doc_id": {
+          "old": "229641374517154402304448195186",
+          "new": "22964137453137453378135936212"
+        },
+        "operation_text_hash": {
+          "old": "17154402304448195186",
+          "new": "3137453378135936212"
+        }
+      }
+    }
+  ]
+}

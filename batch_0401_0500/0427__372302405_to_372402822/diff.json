@@ -1,0 +1,65 @@
+{
+  "comparison_index": 427,
+  "comparison": {
+    "from_folder": "Instagram_32300032_alpha",
+    "to_folder": "Instagram_32400037_alpha",
+    "from_version_code": 372302405,
+    "to_version_code": 372402822,
+    "from_version_name": "323.0.0.0.32",
+    "to_version_name": "324.0.0.0.37"
+  },
+  "summary": {
+    "old_total": 238,
+    "new_total": 241,
+    "added": 3,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [
+    {
+      "operation": "AutodubCreateQuery",
+      "client_doc_id": "250304316012816569559244870583"
+    },
+    {
+      "operation": "EmojiKeywordsQuery",
+      "client_doc_id": "6645358928715329736628321995"
+    },
+    {
+      "operation": "InstantAvatarsOnDemandEligibility",
+      "client_doc_id": "37156765827917211445663970637"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "ExpressoTemplatePackAndUserInfoQuery",
+      "old_client_doc_id": "18795032142995276620232137002",
+      "new_client_doc_id": "18795032145865101778347455145",
+      "changes": {
+        "client_doc_id": {
+          "old": "18795032142995276620232137002",
+          "new": "18795032145865101778347455145"
+        },
+        "operation_text_hash": {
+          "old": "2995276620232137002",
+          "new": "5865101778347455145"
+        }
+      }
+    },
+    {
+      "operation": "SchoolsUserDirectory",
+      "old_client_doc_id": "19299163999020529328069993078",
+      "new_client_doc_id": "19299163992593165482660501847",
+      "changes": {
+        "client_doc_id": {
+          "old": "19299163999020529328069993078",
+          "new": "19299163992593165482660501847"
+        },
+        "operation_text_hash": {
+          "old": "9020529328069993078",
+          "new": "2593165482660501847"
+        }
+      }
+    }
+  ]
+}

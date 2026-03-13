@@ -1,0 +1,106 @@
+{
+  "comparison_index": 499,
+  "comparison": {
+    "from_folder": "Instagram_34400024_alpha",
+    "to_folder": "Instagram_34400032_alpha",
+    "from_version_code": 374402051,
+    "to_version_code": 374402468,
+    "from_version_name": "344.0.0.0.24",
+    "to_version_name": "344.0.0.0.32"
+  },
+  "summary": {
+    "old_total": 786,
+    "new_total": 788,
+    "added": 2,
+    "removed": 0,
+    "changed": 5
+  },
+  "added": [
+    {
+      "operation": "IGDGetThreadItems",
+      "client_doc_id": "135415151912444359393994202541"
+    },
+    {
+      "operation": "IgCreatorsTrialRevealStatusMutation",
+      "client_doc_id": "16763287094366311355983989062"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "ClipsProfileQuery",
+      "old_client_doc_id": "20904923166107871545454549718",
+      "new_client_doc_id": "20904923163765050102393184697",
+      "changes": {
+        "client_doc_id": {
+          "old": "20904923166107871545454549718",
+          "new": "20904923163765050102393184697"
+        },
+        "operation_text_hash": {
+          "old": "6107871545454549718",
+          "new": "3765050102393184697"
+        }
+      }
+    },
+    {
+      "operation": "FxIgXavSwitcherBadgingDataQuery",
+      "old_client_doc_id": "83794259211956023787573192287",
+      "new_client_doc_id": "83794259217680094030764295588",
+      "changes": {
+        "client_doc_id": {
+          "old": "83794259211956023787573192287",
+          "new": "83794259217680094030764295588"
+        },
+        "operation_text_hash": {
+          "old": "11956023787573192287",
+          "new": "17680094030764295588"
+        }
+      }
+    },
+    {
+      "operation": "IGCreatorActivationTrialTipQuery",
+      "old_client_doc_id": "16298571279412349752660618053",
+      "new_client_doc_id": "16298571272667057341230344054",
+      "changes": {
+        "client_doc_id": {
+          "old": "16298571279412349752660618053",
+          "new": "16298571272667057341230344054"
+        },
+        "operation_text_hash": {
+          "old": "9412349752660618053",
+          "new": "2667057341230344054"
+        }
+      }
+    },
+    {
+      "operation": "IgCreatorsTrialsGraduateTrialMutation",
+      "old_client_doc_id": "142147612114625889555336819090",
+      "new_client_doc_id": "142147612117713912123627242506",
+      "changes": {
+        "client_doc_id": {
+          "old": "142147612114625889555336819090",
+          "new": "142147612117713912123627242506"
+        },
+        "operation_text_hash": {
+          "old": "14625889555336819090",
+          "new": "17713912123627242506"
+        }
+      }
+    },
+    {
+      "operation": "IgCreatorsUpdateTrialGraduationStrategyMutation",
+      "old_client_doc_id": "347659341610622578999653554447",
+      "new_client_doc_id": "34765934162265131614420626093",
+      "changes": {
+        "client_doc_id": {
+          "old": "347659341610622578999653554447",
+          "new": "34765934162265131614420626093"
+        },
+        "operation_text_hash": {
+          "old": "10622578999653554447",
+          "new": "2265131614420626093"
+        }
+      }
+    }
+  ]
+}

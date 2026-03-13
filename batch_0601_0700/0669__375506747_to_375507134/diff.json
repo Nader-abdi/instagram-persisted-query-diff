@@ -1,0 +1,132 @@
+{
+  "comparison_index": 669,
+  "comparison": {
+    "from_folder": "Instagram_35500081_alpha",
+    "to_folder": "Instagram_35500085_alpha",
+    "from_version_code": 375506747,
+    "to_version_code": 375507134,
+    "from_version_name": "355.0.0.0.81",
+    "to_version_name": "355.0.0.0.85"
+  },
+  "summary": {
+    "old_total": 884,
+    "new_total": 885,
+    "added": 1,
+    "removed": 0,
+    "changed": 7
+  },
+  "added": [
+    {
+      "operation": "GetUniversalConsumerDisclosureStatus",
+      "client_doc_id": "20827062162499509365701716062"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "GenAIEditAnimateMutation",
+      "old_client_doc_id": "31976369786375623186029194746",
+      "new_client_doc_id": "319763697813323353054528587232",
+      "changes": {
+        "client_doc_id": {
+          "old": "31976369786375623186029194746",
+          "new": "319763697813323353054528587232"
+        },
+        "operation_text_hash": {
+          "old": "6375623186029194746",
+          "new": "13323353054528587232"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineEditMutation",
+      "old_client_doc_id": "33671555231709160081025931580",
+      "new_client_doc_id": "336715552314675693612344731505",
+      "changes": {
+        "client_doc_id": {
+          "old": "33671555231709160081025931580",
+          "new": "336715552314675693612344731505"
+        },
+        "operation_text_hash": {
+          "old": "1709160081025931580",
+          "new": "14675693612344731505"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineGenerateFlashMutation",
+      "old_client_doc_id": "27174422762649664289727321053",
+      "new_client_doc_id": "271744227611471284984504316235",
+      "changes": {
+        "client_doc_id": {
+          "old": "27174422762649664289727321053",
+          "new": "271744227611471284984504316235"
+        },
+        "operation_text_hash": {
+          "old": "2649664289727321053",
+          "new": "11471284984504316235"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineGenerateMutation",
+      "old_client_doc_id": "2741340089497011635867042180",
+      "new_client_doc_id": "2741340088738526537676034904",
+      "changes": {
+        "client_doc_id": {
+          "old": "2741340089497011635867042180",
+          "new": "2741340088738526537676034904"
+        },
+        "operation_text_hash": {
+          "old": "9497011635867042180",
+          "new": "8738526537676034904"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineRegenerateMutation",
+      "old_client_doc_id": "398001500414050507365440510390",
+      "new_client_doc_id": "398001500413586871421781398868",
+      "changes": {
+        "client_doc_id": {
+          "old": "398001500414050507365440510390",
+          "new": "398001500413586871421781398868"
+        },
+        "operation_text_hash": {
+          "old": "14050507365440510390",
+          "new": "13586871421781398868"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineSuggestionsQuery",
+      "old_client_doc_id": "78596836115416571952563712851",
+      "new_client_doc_id": "78596836116874475706869555231",
+      "changes": {
+        "client_doc_id": {
+          "old": "78596836115416571952563712851",
+          "new": "78596836116874475706869555231"
+        },
+        "operation_text_hash": {
+          "old": "15416571952563712851",
+          "new": "16874475706869555231"
+        }
+      }
+    },
+    {
+      "operation": "IGGraphQLBanyanQuery",
+      "old_client_doc_id": "1787950450523774155358193682",
+      "new_client_doc_id": "17879504503103901550307122221",
+      "changes": {
+        "client_doc_id": {
+          "old": "1787950450523774155358193682",
+          "new": "17879504503103901550307122221"
+        },
+        "operation_text_hash": {
+          "old": "523774155358193682",
+          "new": "3103901550307122221"
+        }
+      }
+    }
+  ]
+}

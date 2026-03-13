@@ -1,0 +1,72 @@
+{
+  "comparison_index": 1071,
+  "comparison": {
+    "from_folder": "Instagram_38100054_alpha",
+    "to_folder": "Instagram_38100061_alpha",
+    "from_version_code": 378503118,
+    "to_version_code": 378503439,
+    "from_version_name": "381.0.0.0.54",
+    "to_version_name": "381.0.0.0.61"
+  },
+  "summary": {
+    "old_total": 1176,
+    "new_total": 1177,
+    "added": 1,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [
+    {
+      "operation": "MetaAiBizAgentVoiceAttachmentsQuery",
+      "client_doc_id": "40777991024132552295495491605"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "AutofillFetchSettingsQuery",
+      "old_client_doc_id": "142384116114866684819172192816",
+      "new_client_doc_id": "142384116115253274796245933909",
+      "changes": {
+        "client_doc_id": {
+          "old": "142384116114866684819172192816",
+          "new": "142384116115253274796245933909"
+        },
+        "operation_text_hash": {
+          "old": "14866684819172192816",
+          "new": "15253274796245933909"
+        }
+      }
+    },
+    {
+      "operation": "BCNInboxMultiMessagesQuery",
+      "old_client_doc_id": "292978478214793921938288053079",
+      "new_client_doc_id": "292978478212462675901899109054",
+      "changes": {
+        "client_doc_id": {
+          "old": "292978478214793921938288053079",
+          "new": "292978478212462675901899109054"
+        },
+        "operation_text_hash": {
+          "old": "14793921938288053079",
+          "new": "12462675901899109054"
+        }
+      }
+    },
+    {
+      "operation": "IGDirectQuickSnapGetHistoryQuery",
+      "old_client_doc_id": "230854838618231704635896956711",
+      "new_client_doc_id": "230854838617127130107143231237",
+      "changes": {
+        "client_doc_id": {
+          "old": "230854838618231704635896956711",
+          "new": "230854838617127130107143231237"
+        },
+        "operation_text_hash": {
+          "old": "18231704635896956711",
+          "new": "17127130107143231237"
+        }
+      }
+    }
+  ]
+}

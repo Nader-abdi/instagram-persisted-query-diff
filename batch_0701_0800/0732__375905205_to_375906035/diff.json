@@ -1,0 +1,87 @@
+{
+  "comparison_index": 732,
+  "comparison": {
+    "from_folder": "Instagram_35900064_alpha",
+    "to_folder": "Instagram_35900079_alpha",
+    "from_version_code": 375905205,
+    "to_version_code": 375906035,
+    "from_version_name": "359.0.0.0.64",
+    "to_version_name": "359.0.0.0.79"
+  },
+  "summary": {
+    "old_total": 929,
+    "new_total": 930,
+    "added": 1,
+    "removed": 0,
+    "changed": 4
+  },
+  "added": [
+    {
+      "operation": "CheckVerificationStatusMutation",
+      "client_doc_id": "22426617484236575662444026720"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "AddSpotifyAccountLinkMutation",
+      "old_client_doc_id": "39724911143863297703852398972",
+      "new_client_doc_id": "39724911147281845935816063887",
+      "changes": {
+        "client_doc_id": {
+          "old": "39724911143863297703852398972",
+          "new": "39724911147281845935816063887"
+        },
+        "operation_text_hash": {
+          "old": "3863297703852398972",
+          "new": "7281845935816063887"
+        }
+      }
+    },
+    {
+      "operation": "IGAREffectsForProfileQuery",
+      "old_client_doc_id": "13621563685307475867180799665",
+      "new_client_doc_id": "13621563689617601126738463666",
+      "changes": {
+        "client_doc_id": {
+          "old": "13621563685307475867180799665",
+          "new": "13621563689617601126738463666"
+        },
+        "operation_text_hash": {
+          "old": "5307475867180799665",
+          "new": "9617601126738463666"
+        }
+      }
+    },
+    {
+      "operation": "IGMessagingBlackHoleURLsQuery",
+      "old_client_doc_id": "6300502810172617593066487364",
+      "new_client_doc_id": "6300502812927623466992561240",
+      "changes": {
+        "client_doc_id": {
+          "old": "6300502810172617593066487364",
+          "new": "6300502812927623466992561240"
+        },
+        "operation_text_hash": {
+          "old": "10172617593066487364",
+          "new": "12927623466992561240"
+        }
+      }
+    },
+    {
+      "operation": "IGSharedAccountsLiveQuery",
+      "old_client_doc_id": "207018113713324725421981460699",
+      "new_client_doc_id": "207018113713502504996388197646",
+      "changes": {
+        "client_doc_id": {
+          "old": "207018113713324725421981460699",
+          "new": "207018113713502504996388197646"
+        },
+        "operation_text_hash": {
+          "old": "13324725421981460699",
+          "new": "13502504996388197646"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "comparison_index": 922,
+  "comparison": {
+    "from_folder": "Instagram_37100068_alpha",
+    "to_folder": "Instagram_37100076_alpha",
+    "from_version_code": 377506955,
+    "to_version_code": 377507833,
+    "from_version_name": "371.0.0.0.68",
+    "to_version_name": "371.0.0.0.76"
+  },
+  "summary": {
+    "old_total": 1004,
+    "new_total": 1004,
+    "added": 1,
+    "removed": 1,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "GenAIImagineBulkSendMediaToChat",
+      "client_doc_id": "245127064610266609013218136267"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "ContentNotesClipsEntry",
+      "client_doc_id": "116950273617833106716380274469"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "FanClubInfo_At_Pando_Connection_Pagination_XIGFanClub_exclusive_media_content",
+      "old_client_doc_id": "31444893111106451332440891285",
+      "new_client_doc_id": "31444893118609622485932138523",
+      "changes": {
+        "client_doc_id": {
+          "old": "31444893111106451332440891285",
+          "new": "31444893118609622485932138523"
+        },
+        "operation_text_hash": {
+          "old": "1106451332440891285",
+          "new": "8609622485932138523"
+        }
+      }
+    }
+  ]
+}

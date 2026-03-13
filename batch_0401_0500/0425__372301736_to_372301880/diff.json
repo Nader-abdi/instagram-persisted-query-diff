@@ -1,0 +1,26 @@
+{
+  "comparison_index": 425,
+  "comparison": {
+    "from_folder": "Instagram_32300023_alpha",
+    "to_folder": "Instagram_32300025_alpha",
+    "from_version_code": 372301736,
+    "to_version_code": 372301880,
+    "from_version_name": "323.0.0.0.23",
+    "to_version_name": "323.0.0.0.25"
+  },
+  "summary": {
+    "old_total": 237,
+    "new_total": 238,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "LogStickerSheetImpressionMutation",
+      "client_doc_id": "418097342515815938999721711144"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

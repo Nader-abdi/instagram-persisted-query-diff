@@ -1,0 +1,37 @@
+{
+  "comparison_index": 234,
+  "comparison": {
+    "from_folder": "Instagram_27600085_alpha",
+    "to_folder": "Instagram_27600096_alpha",
+    "from_version_code": 367605457,
+    "to_version_code": 367606237,
+    "from_version_name": "276.0.0.0.85",
+    "to_version_name": "276.0.0.0.96"
+  },
+  "summary": {
+    "old_total": 177,
+    "new_total": 177,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGProAFTooltipChannelQuery",
+      "old_client_doc_id": "316488051815466941185083423644",
+      "new_client_doc_id": "31648805183881862638650057693",
+      "changes": {
+        "client_doc_id": {
+          "old": "316488051815466941185083423644",
+          "new": "31648805183881862638650057693"
+        },
+        "operation_text_hash": {
+          "old": "15466941185083423644",
+          "new": "3881862638650057693"
+        }
+      }
+    }
+  ]
+}

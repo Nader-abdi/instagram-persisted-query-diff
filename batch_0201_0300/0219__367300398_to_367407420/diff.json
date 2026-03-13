@@ -1,0 +1,117 @@
+{
+  "comparison_index": 219,
+  "comparison": {
+    "from_folder": "Instagram_2730004_alpha",
+    "to_folder": "Instagram_274002690",
+    "from_version_code": 367300398,
+    "to_version_code": 367407420,
+    "from_version_name": "273.0.0.0.4",
+    "to_version_name": "274.0.0.26.90"
+  },
+  "summary": {
+    "old_total": 176,
+    "new_total": 175,
+    "added": 0,
+    "removed": 1,
+    "changed": 6
+  },
+  "added": [],
+  "removed": [
+    {
+      "operation": "AYMTFetchChannelTipQuery",
+      "client_doc_id": "375842925012689237166645174295"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "CommonAREffectSearchQuery",
+      "old_client_doc_id": "309007243510382171984005256842",
+      "new_client_doc_id": "30900724352164990567688982338",
+      "changes": {
+        "client_doc_id": {
+          "old": "309007243510382171984005256842",
+          "new": "30900724352164990567688982338"
+        },
+        "operation_text_hash": {
+          "old": "10382171984005256842",
+          "new": "2164990567688982338"
+        }
+      }
+    },
+    {
+      "operation": "IGAPIFriendshipsUserFollowers",
+      "old_client_doc_id": "1599490858814696095277230341",
+      "new_client_doc_id": "15994908582167975980333039481",
+      "changes": {
+        "client_doc_id": {
+          "old": "1599490858814696095277230341",
+          "new": "15994908582167975980333039481"
+        },
+        "operation_text_hash": {
+          "old": "814696095277230341",
+          "new": "2167975980333039481"
+        }
+      }
+    },
+    {
+      "operation": "IGAPIFriendshipsUserFollowing",
+      "old_client_doc_id": "78298358610981819057662404902",
+      "new_client_doc_id": "78298358615478887270642415587",
+      "changes": {
+        "client_doc_id": {
+          "old": "78298358610981819057662404902",
+          "new": "78298358615478887270642415587"
+        },
+        "operation_text_hash": {
+          "old": "10981819057662404902",
+          "new": "15478887270642415587"
+        }
+      }
+    },
+    {
+      "operation": "IGAREffectCollectionQuery",
+      "old_client_doc_id": "22419679283575225209589313408",
+      "new_client_doc_id": "22419679287823587703190188691",
+      "changes": {
+        "client_doc_id": {
+          "old": "22419679283575225209589313408",
+          "new": "22419679287823587703190188691"
+        },
+        "operation_text_hash": {
+          "old": "3575225209589313408",
+          "new": "7823587703190188691"
+        }
+      }
+    },
+    {
+      "operation": "IGAREffectsByIdQuery",
+      "old_client_doc_id": "221300837212300705549535869750",
+      "new_client_doc_id": "22130083722183534489837979981",
+      "changes": {
+        "client_doc_id": {
+          "old": "221300837212300705549535869750",
+          "new": "22130083722183534489837979981"
+        },
+        "operation_text_hash": {
+          "old": "12300705549535869750",
+          "new": "2183534489837979981"
+        }
+      }
+    },
+    {
+      "operation": "IGAREffectsGalleryCategoriesQuery",
+      "old_client_doc_id": "33623978589512296926421551562",
+      "new_client_doc_id": "336239785816156962854618815227",
+      "changes": {
+        "client_doc_id": {
+          "old": "33623978589512296926421551562",
+          "new": "336239785816156962854618815227"
+        },
+        "operation_text_hash": {
+          "old": "9512296926421551562",
+          "new": "16156962854618815227"
+        }
+      }
+    }
+  ]
+}

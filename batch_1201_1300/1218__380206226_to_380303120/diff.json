@@ -1,0 +1,198 @@
+{
+  "comparison_index": 1218,
+  "comparison": {
+    "from_folder": "Instagram_3960046242",
+    "to_folder": "Instagram_39700061_alpha",
+    "from_version_code": 380206226,
+    "to_version_code": 380303120,
+    "from_version_name": "396.0.0.46.242",
+    "to_version_name": "397.0.0.0.61"
+  },
+  "summary": {
+    "old_total": 1249,
+    "new_total": 1251,
+    "added": 4,
+    "removed": 2,
+    "changed": 10
+  },
+  "added": [
+    {
+      "operation": "IGGenAIImagineAIFontsTextImageTransformMutation",
+      "client_doc_id": "427074700616975299073725175701"
+    },
+    {
+      "operation": "IGMarkControlInterstitialSeenMutation",
+      "client_doc_id": "13490549621763669521778629252"
+    },
+    {
+      "operation": "ProductLinkVerificationMutation",
+      "client_doc_id": "163005389917217013953953345798"
+    },
+    {
+      "operation": "SilverstoneAppInstallOnboardedBFFsQueryQuery",
+      "client_doc_id": "1136976705595356827111827267"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "AlgoTuneLikeMediaMutation",
+      "client_doc_id": "21746926473205147777021245214"
+    },
+    {
+      "operation": "AlgoTuneUnlikeMediaMutation",
+      "client_doc_id": "3574082502548843898211981621"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "BcnInboxUQPPDeltas",
+      "old_client_doc_id": "11962387122036586887340049564",
+      "new_client_doc_id": "11962387129143133667289962832",
+      "changes": {
+        "client_doc_id": {
+          "old": "11962387122036586887340049564",
+          "new": "11962387129143133667289962832"
+        },
+        "operation_text_hash": {
+          "old": "2036586887340049564",
+          "new": "9143133667289962832"
+        }
+      }
+    },
+    {
+      "operation": "BcnSlideSearchNullStateQuery",
+      "old_client_doc_id": "12576931575101748074684506686",
+      "new_client_doc_id": "12576931574409645162704381017",
+      "changes": {
+        "client_doc_id": {
+          "old": "12576931575101748074684506686",
+          "new": "12576931574409645162704381017"
+        },
+        "operation_text_hash": {
+          "old": "5101748074684506686",
+          "new": "4409645162704381017"
+        }
+      }
+    },
+    {
+      "operation": "BcnSlideSearchQueryStateQuery",
+      "old_client_doc_id": "160045497415615692563091339957",
+      "new_client_doc_id": "16004549741486975048807688532",
+      "changes": {
+        "client_doc_id": {
+          "old": "160045497415615692563091339957",
+          "new": "16004549741486975048807688532"
+        },
+        "operation_text_hash": {
+          "old": "15615692563091339957",
+          "new": "1486975048807688532"
+        }
+      }
+    },
+    {
+      "operation": "FetchMetaAiModes",
+      "old_client_doc_id": "339928201111734294013337775272",
+      "new_client_doc_id": "339928201118158941186764718542",
+      "changes": {
+        "client_doc_id": {
+          "old": "339928201111734294013337775272",
+          "new": "339928201118158941186764718542"
+        },
+        "operation_text_hash": {
+          "old": "11734294013337775272",
+          "new": "18158941186764718542"
+        }
+      }
+    },
+    {
+      "operation": "FriendMapTrendingLocationsRequest",
+      "old_client_doc_id": "20528511467494246270134540534",
+      "new_client_doc_id": "205285114610471141041619183692",
+      "changes": {
+        "client_doc_id": {
+          "old": "20528511467494246270134540534",
+          "new": "205285114610471141041619183692"
+        },
+        "operation_text_hash": {
+          "old": "7494246270134540534",
+          "new": "10471141041619183692"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineVideoGenerationStatusQuery",
+      "old_client_doc_id": "17171977907659764891951545210",
+      "new_client_doc_id": "17171977901028420679866022752",
+      "changes": {
+        "client_doc_id": {
+          "old": "17171977907659764891951545210",
+          "new": "17171977901028420679866022752"
+        },
+        "operation_text_hash": {
+          "old": "7659764891951545210",
+          "new": "1028420679866022752"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineVideoProjectMutation",
+      "old_client_doc_id": "17612702126373459286745331559",
+      "new_client_doc_id": "17612702127762963391642144634",
+      "changes": {
+        "client_doc_id": {
+          "old": "17612702126373459286745331559",
+          "new": "17612702127762963391642144634"
+        },
+        "operation_text_hash": {
+          "old": "6373459286745331559",
+          "new": "7762963391642144634"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineVideoSceneMutation",
+      "old_client_doc_id": "71170836817739430174676915560",
+      "new_client_doc_id": "7117083682237902409138795177",
+      "changes": {
+        "client_doc_id": {
+          "old": "71170836817739430174676915560",
+          "new": "7117083682237902409138795177"
+        },
+        "operation_text_hash": {
+          "old": "17739430174676915560",
+          "new": "2237902409138795177"
+        }
+      }
+    },
+    {
+      "operation": "IGEBFetchBackupInternalQuery",
+      "old_client_doc_id": "198436049613315585571001789060",
+      "new_client_doc_id": "19843604962380684118119611365",
+      "changes": {
+        "client_doc_id": {
+          "old": "198436049613315585571001789060",
+          "new": "19843604962380684118119611365"
+        },
+        "operation_text_hash": {
+          "old": "13315585571001789060",
+          "new": "2380684118119611365"
+        }
+      }
+    },
+    {
+      "operation": "UnifiedConversationStartersQuery",
+      "old_client_doc_id": "369323879513636877380656421581",
+      "new_client_doc_id": "3693238795393873456316585732",
+      "changes": {
+        "client_doc_id": {
+          "old": "369323879513636877380656421581",
+          "new": "3693238795393873456316585732"
+        },
+        "operation_text_hash": {
+          "old": "13636877380656421581",
+          "new": "393873456316585732"
+        }
+      }
+    }
+  ]
+}

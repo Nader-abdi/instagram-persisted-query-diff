@@ -1,0 +1,26 @@
+{
+  "comparison_index": 451,
+  "comparison": {
+    "from_folder": "Instagram_34000023_alpha",
+    "to_folder": "Instagram_34000043_alpha",
+    "from_version_code": 374001968,
+    "to_version_code": 374003628,
+    "from_version_name": "340.0.0.0.23",
+    "to_version_name": "340.0.0.0.43"
+  },
+  "summary": {
+    "old_total": 755,
+    "new_total": 756,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "MetaAIIntentCardNuxImpresionQuery",
+      "client_doc_id": "1201750237636064492822849757"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

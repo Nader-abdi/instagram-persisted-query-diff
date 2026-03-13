@@ -1,0 +1,52 @@
+{
+  "comparison_index": 1239,
+  "comparison": {
+    "from_folder": "Instagram_40000044_alpha",
+    "to_folder": "Instagram_40000050_alpha",
+    "from_version_code": 380602316,
+    "to_version_code": 380602606,
+    "from_version_name": "400.0.0.0.44",
+    "to_version_name": "400.0.0.0.50"
+  },
+  "summary": {
+    "old_total": 1293,
+    "new_total": 1293,
+    "added": 0,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "BcnInboxUQPPDeltas",
+      "old_client_doc_id": "119623871214029530722088189516",
+      "new_client_doc_id": "119623871213894806637993671903",
+      "changes": {
+        "client_doc_id": {
+          "old": "119623871214029530722088189516",
+          "new": "119623871213894806637993671903"
+        },
+        "operation_text_hash": {
+          "old": "14029530722088189516",
+          "new": "13894806637993671903"
+        }
+      }
+    },
+    {
+      "operation": "GetNoteCtasRequest",
+      "old_client_doc_id": "133325765013150805164771402867",
+      "new_client_doc_id": "13332576505791712873481511951",
+      "changes": {
+        "client_doc_id": {
+          "old": "133325765013150805164771402867",
+          "new": "13332576505791712873481511951"
+        },
+        "operation_text_hash": {
+          "old": "13150805164771402867",
+          "new": "5791712873481511951"
+        }
+      }
+    }
+  ]
+}

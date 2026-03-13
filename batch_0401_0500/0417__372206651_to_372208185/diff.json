@@ -1,0 +1,26 @@
+{
+  "comparison_index": 417,
+  "comparison": {
+    "from_folder": "Instagram_32200088_alpha",
+    "to_folder": "Instagram_322001095_beta",
+    "from_version_code": 372206651,
+    "to_version_code": 372208185,
+    "from_version_name": "322.0.0.0.88",
+    "to_version_name": "322.0.0.10.95"
+  },
+  "summary": {
+    "old_total": 235,
+    "new_total": 236,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "IGSharingGenAISuggestedPromptsQuery",
+      "client_doc_id": "944077716764031299301497044"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

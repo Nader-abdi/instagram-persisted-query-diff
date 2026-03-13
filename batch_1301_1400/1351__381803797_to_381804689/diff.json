@@ -1,0 +1,72 @@
+{
+  "comparison_index": 1351,
+  "comparison": {
+    "from_folder": "Instagram_41200073_alpha",
+    "to_folder": "Instagram_41200387_beta",
+    "from_version_code": 381803797,
+    "to_version_code": 381804689,
+    "from_version_name": "412.0.0.0.73",
+    "to_version_name": "412.0.0.3.87"
+  },
+  "summary": {
+    "old_total": 1424,
+    "new_total": 1425,
+    "added": 1,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [
+    {
+      "operation": "UpsertUserTranslationsCreationSettings",
+      "client_doc_id": "354664442013001259477979738756"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "BcnInboxUQPPDeltas",
+      "old_client_doc_id": "119623871215848786403789619389",
+      "new_client_doc_id": "119623871218028308259952376114",
+      "changes": {
+        "client_doc_id": {
+          "old": "119623871215848786403789619389",
+          "new": "119623871218028308259952376114"
+        },
+        "operation_text_hash": {
+          "old": "15848786403789619389",
+          "new": "18028308259952376114"
+        }
+      }
+    },
+    {
+      "operation": "GetSurroundingMessages",
+      "old_client_doc_id": "421795788317775359903426734811",
+      "new_client_doc_id": "421795788317719456475778003643",
+      "changes": {
+        "client_doc_id": {
+          "old": "421795788317775359903426734811",
+          "new": "421795788317719456475778003643"
+        },
+        "operation_text_hash": {
+          "old": "17775359903426734811",
+          "new": "17719456475778003643"
+        }
+      }
+    },
+    {
+      "operation": "QPIGDevToolV2ClearCounters",
+      "old_client_doc_id": "164112884813635536133176714587",
+      "new_client_doc_id": "164112884812435831864656261781",
+      "changes": {
+        "client_doc_id": {
+          "old": "164112884813635536133176714587",
+          "new": "164112884812435831864656261781"
+        },
+        "operation_text_hash": {
+          "old": "13635536133176714587",
+          "new": "12435831864656261781"
+        }
+      }
+    }
+  ]
+}

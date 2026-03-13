@@ -1,0 +1,72 @@
+{
+  "comparison_index": 1155,
+  "comparison": {
+    "from_folder": "Instagram_390004381",
+    "to_folder": "Instagram_3910005_alpha",
+    "from_version_code": 379606325,
+    "to_version_code": 379700286,
+    "from_version_name": "390.0.0.43.81",
+    "to_version_name": "391.0.0.0.5"
+  },
+  "summary": {
+    "old_total": 1226,
+    "new_total": 1227,
+    "added": 1,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [
+    {
+      "operation": "FetchMetaAiModes",
+      "client_doc_id": "33992820111274548235454502558"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "BcnInboxUQPPDeltas",
+      "old_client_doc_id": "119623871211528596205253741023",
+      "new_client_doc_id": "119623871278063215919638713",
+      "changes": {
+        "client_doc_id": {
+          "old": "119623871211528596205253741023",
+          "new": "119623871278063215919638713"
+        },
+        "operation_text_hash": {
+          "old": "11528596205253741023",
+          "new": "78063215919638713"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "56030350816592641008667000156",
+      "new_client_doc_id": "5603035081004513768055597735",
+      "changes": {
+        "client_doc_id": {
+          "old": "56030350816592641008667000156",
+          "new": "5603035081004513768055597735"
+        },
+        "operation_text_hash": {
+          "old": "16592641008667000156",
+          "new": "1004513768055597735"
+        }
+      }
+    },
+    {
+      "operation": "TopSerpQuery",
+      "old_client_doc_id": "4185316819380128595930651389",
+      "new_client_doc_id": "41853168194947222720218274773",
+      "changes": {
+        "client_doc_id": {
+          "old": "4185316819380128595930651389",
+          "new": "41853168194947222720218274773"
+        },
+        "operation_text_hash": {
+          "old": "380128595930651389",
+          "new": "4947222720218274773"
+        }
+      }
+    }
+  ]
+}

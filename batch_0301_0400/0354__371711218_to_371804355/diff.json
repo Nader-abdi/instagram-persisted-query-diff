@@ -1,0 +1,30 @@
+{
+  "comparison_index": 354,
+  "comparison": {
+    "from_folder": "Instagram_3170034109",
+    "to_folder": "Instagram_31800058_alpha",
+    "from_version_code": 371711218,
+    "to_version_code": 371804355,
+    "from_version_name": "317.0.0.34.109",
+    "to_version_name": "318.0.0.0.58"
+  },
+  "summary": {
+    "old_total": 228,
+    "new_total": 230,
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "SaveCutoutStickerMutation",
+      "client_doc_id": "160408649916427471524998478777"
+    },
+    {
+      "operation": "UnsaveCutoutStickerMutation",
+      "client_doc_id": "416128527111637501506397583520"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

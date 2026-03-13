@@ -1,0 +1,35 @@
+{
+  "comparison_index": 1309,
+  "comparison": {
+    "from_folder": "Instagram_40900073_alpha",
+    "to_folder": "Instagram_40900086_alpha",
+    "from_version_code": 381504531,
+    "to_version_code": 381505213,
+    "from_version_name": "409.0.0.0.73",
+    "to_version_name": "409.0.0.0.86"
+  },
+  "summary": {
+    "old_total": 1409,
+    "new_total": 1410,
+    "added": 2,
+    "removed": 1,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "IGQuicksilverTeenGuardianNotifSendMutation",
+      "client_doc_id": "215855760118054925075138675291"
+    },
+    {
+      "operation": "IGStoriesArchiveBulkDeleteMutation",
+      "client_doc_id": "158322699417835261544197777556"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "IGTeenBioEducationQPQuery",
+      "client_doc_id": "18996200903976799190152544814"
+    }
+  ],
+  "changed": []
+}

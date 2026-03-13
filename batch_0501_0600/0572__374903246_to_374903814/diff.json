@@ -1,0 +1,87 @@
+{
+  "comparison_index": 572,
+  "comparison": {
+    "from_folder": "Instagram_34900039_alpha",
+    "to_folder": "Instagram_34900045_alpha",
+    "from_version_code": 374903246,
+    "to_version_code": 374903814,
+    "from_version_name": "349.0.0.0.39",
+    "to_version_name": "349.0.0.0.45"
+  },
+  "summary": {
+    "old_total": 828,
+    "new_total": 829,
+    "added": 1,
+    "removed": 0,
+    "changed": 4
+  },
+  "added": [
+    {
+      "operation": "GenAIImagineRegenerateMutation",
+      "client_doc_id": "398001500414050507365440510390"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "GenAIEditAnimateMutation",
+      "old_client_doc_id": "31976369789353857590054416169",
+      "new_client_doc_id": "31976369786375623186029194746",
+      "changes": {
+        "client_doc_id": {
+          "old": "31976369789353857590054416169",
+          "new": "31976369786375623186029194746"
+        },
+        "operation_text_hash": {
+          "old": "9353857590054416169",
+          "new": "6375623186029194746"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineEditMutation",
+      "old_client_doc_id": "336715552315630951288137387072",
+      "new_client_doc_id": "33671555231709160081025931580",
+      "changes": {
+        "client_doc_id": {
+          "old": "336715552315630951288137387072",
+          "new": "33671555231709160081025931580"
+        },
+        "operation_text_hash": {
+          "old": "15630951288137387072",
+          "new": "1709160081025931580"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineGenerateFlashMutation",
+      "old_client_doc_id": "271744227615491160821707237772",
+      "new_client_doc_id": "27174422762649664289727321053",
+      "changes": {
+        "client_doc_id": {
+          "old": "271744227615491160821707237772",
+          "new": "27174422762649664289727321053"
+        },
+        "operation_text_hash": {
+          "old": "15491160821707237772",
+          "new": "2649664289727321053"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineGenerateMutation",
+      "old_client_doc_id": "27413400814143899182769731614",
+      "new_client_doc_id": "2741340085070177206144680337",
+      "changes": {
+        "client_doc_id": {
+          "old": "27413400814143899182769731614",
+          "new": "2741340085070177206144680337"
+        },
+        "operation_text_hash": {
+          "old": "14143899182769731614",
+          "new": "5070177206144680337"
+        }
+      }
+    }
+  ]
+}

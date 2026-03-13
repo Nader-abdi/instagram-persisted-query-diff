@@ -1,0 +1,52 @@
+{
+  "comparison_index": 532,
+  "comparison": {
+    "from_folder": "Instagram_346008104_beta",
+    "to_folder": "Instagram_3460031104_beta",
+    "from_version_code": 374609484,
+    "to_version_code": 374611427,
+    "from_version_name": "346.0.0.8.104",
+    "to_version_name": "346.0.0.31.104"
+  },
+  "summary": {
+    "old_total": 815,
+    "new_total": 815,
+    "added": 0,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "NUXConfirmContactPointMutation",
+      "old_client_doc_id": "201789510315644383194074544512",
+      "new_client_doc_id": "201789510316576527991974724736",
+      "changes": {
+        "client_doc_id": {
+          "old": "201789510315644383194074544512",
+          "new": "201789510316576527991974724736"
+        },
+        "operation_text_hash": {
+          "old": "15644383194074544512",
+          "new": "16576527991974724736"
+        }
+      }
+    },
+    {
+      "operation": "NUXUpdateContactPointMutation",
+      "old_client_doc_id": "20096218289101784110492837842",
+      "new_client_doc_id": "20096218286682600242462050644",
+      "changes": {
+        "client_doc_id": {
+          "old": "20096218289101784110492837842",
+          "new": "20096218286682600242462050644"
+        },
+        "operation_text_hash": {
+          "old": "9101784110492837842",
+          "new": "6682600242462050644"
+        }
+      }
+    }
+  ]
+}

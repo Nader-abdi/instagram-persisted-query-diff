@@ -1,0 +1,37 @@
+{
+  "comparison_index": 1153,
+  "comparison": {
+    "from_folder": "Instagram_390003981_beta",
+    "to_folder": "Instagram_390004281_beta",
+    "from_version_code": 379606153,
+    "to_version_code": 379606282,
+    "from_version_name": "390.0.0.39.81",
+    "to_version_name": "390.0.0.42.81"
+  },
+  "summary": {
+    "old_total": 1226,
+    "new_total": 1226,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "5603035081004513768055597735",
+      "new_client_doc_id": "56030350816592641008667000156",
+      "changes": {
+        "client_doc_id": {
+          "old": "5603035081004513768055597735",
+          "new": "56030350816592641008667000156"
+        },
+        "operation_text_hash": {
+          "old": "1004513768055597735",
+          "new": "16592641008667000156"
+        }
+      }
+    }
+  ]
+}

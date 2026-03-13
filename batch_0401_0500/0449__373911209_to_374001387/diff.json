@@ -1,0 +1,54 @@
+{
+  "comparison_index": 449,
+  "comparison": {
+    "from_folder": "Instagram_3390030105",
+    "to_folder": "Instagram_34000016_alpha",
+    "from_version_code": 373911209,
+    "to_version_code": 374001387,
+    "from_version_name": "339.0.0.30.105",
+    "to_version_name": "340.0.0.0.16"
+  },
+  "summary": {
+    "old_total": 759,
+    "new_total": 755,
+    "added": 0,
+    "removed": 4,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [
+    {
+      "operation": "IGPandoCanonicalNamingLiteralObjectArguments",
+      "client_doc_id": "56539319514127042422660796448"
+    },
+    {
+      "operation": "TestObjectDefaultArgumentsQuery",
+      "client_doc_id": "41697253787338912131325256804"
+    },
+    {
+      "operation": "TestObjectInlineArgumentsQuery",
+      "client_doc_id": "147042701015620519086742397469"
+    },
+    {
+      "operation": "TestObjectQueryBuilderArgumentsQuery",
+      "client_doc_id": "11120903296315422597433071756"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "GenAIImagineGenerateMutation",
+      "old_client_doc_id": "2741340087723561427798483298",
+      "new_client_doc_id": "27413400812059704024289468028",
+      "changes": {
+        "client_doc_id": {
+          "old": "2741340087723561427798483298",
+          "new": "27413400812059704024289468028"
+        },
+        "operation_text_hash": {
+          "old": "7723561427798483298",
+          "new": "12059704024289468028"
+        }
+      }
+    }
+  ]
+}

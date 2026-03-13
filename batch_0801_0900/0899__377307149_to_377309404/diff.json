@@ -1,0 +1,151 @@
+{
+  "comparison_index": 899,
+  "comparison": {
+    "from_folder": "Instagram_36900072_alpha",
+    "to_folder": "Instagram_36900095_alpha",
+    "from_version_code": 377307149,
+    "to_version_code": 377309404,
+    "from_version_name": "369.0.0.0.72",
+    "to_version_name": "369.0.0.0.95"
+  },
+  "summary": {
+    "old_total": 991,
+    "new_total": 993,
+    "added": 2,
+    "removed": 0,
+    "changed": 8
+  },
+  "added": [
+    {
+      "operation": "CreateManyV2",
+      "client_doc_id": "29507544729540529044057033232"
+    },
+    {
+      "operation": "EBFetchVirtualDeviceInfoForDeviceAdditionV2Query",
+      "client_doc_id": "762860449855119397511358911"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "GenAIImagineSuggestionsQuery",
+      "old_client_doc_id": "7859683612610241825083620512",
+      "new_client_doc_id": "7859683615844636889012650650",
+      "changes": {
+        "client_doc_id": {
+          "old": "7859683612610241825083620512",
+          "new": "7859683615844636889012650650"
+        },
+        "operation_text_hash": {
+          "old": "2610241825083620512",
+          "new": "5844636889012650650"
+        }
+      }
+    },
+    {
+      "operation": "IGFBPayExperienceEnabled",
+      "old_client_doc_id": "240684622211532875661147227896",
+      "new_client_doc_id": "24068462225577542355155880287",
+      "changes": {
+        "client_doc_id": {
+          "old": "240684622211532875661147227896",
+          "new": "24068462225577542355155880287"
+        },
+        "operation_text_hash": {
+          "old": "11532875661147227896",
+          "new": "5577542355155880287"
+        }
+      }
+    },
+    {
+      "operation": "IGPaymentsAccountDisabledRiskQuery",
+      "old_client_doc_id": "293261980915577513265166787881",
+      "new_client_doc_id": "293261980916249411417825841377",
+      "changes": {
+        "client_doc_id": {
+          "old": "293261980915577513265166787881",
+          "new": "293261980916249411417825841377"
+        },
+        "operation_text_hash": {
+          "old": "15577513265166787881",
+          "new": "16249411417825841377"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineByUsernameQuery",
+      "old_client_doc_id": "15052394589627898658581867140",
+      "new_client_doc_id": "150523945812133173062438780269",
+      "changes": {
+        "client_doc_id": {
+          "old": "15052394589627898658581867140",
+          "new": "150523945812133173062438780269"
+        },
+        "operation_text_hash": {
+          "old": "9627898658581867140",
+          "new": "12133173062438780269"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "56030350814139130612160741831",
+      "new_client_doc_id": "56030350811349640449013033303",
+      "changes": {
+        "client_doc_id": {
+          "old": "56030350814139130612160741831",
+          "new": "56030350811349640449013033303"
+        },
+        "operation_text_hash": {
+          "old": "14139130612160741831",
+          "new": "11349640449013033303"
+        }
+      }
+    },
+    {
+      "operation": "IgDonationsEligibilityQuery",
+      "old_client_doc_id": "38105901703417865730649530534",
+      "new_client_doc_id": "381059017016882840439484221808",
+      "changes": {
+        "client_doc_id": {
+          "old": "38105901703417865730649530534",
+          "new": "381059017016882840439484221808"
+        },
+        "operation_text_hash": {
+          "old": "3417865730649530534",
+          "new": "16882840439484221808"
+        }
+      }
+    },
+    {
+      "operation": "IgFbPayPaymentMethodsQuery",
+      "old_client_doc_id": "21233008585253235806243583426",
+      "new_client_doc_id": "21233008583153655196902679163",
+      "changes": {
+        "client_doc_id": {
+          "old": "21233008585253235806243583426",
+          "new": "21233008583153655196902679163"
+        },
+        "operation_text_hash": {
+          "old": "5253235806243583426",
+          "new": "3153655196902679163"
+        }
+      }
+    },
+    {
+      "operation": "StarterPacksNuxWithGraphImportQuery",
+      "old_client_doc_id": "31692445975390710931222776557",
+      "new_client_doc_id": "31692445974732473731429053466",
+      "changes": {
+        "client_doc_id": {
+          "old": "31692445975390710931222776557",
+          "new": "31692445974732473731429053466"
+        },
+        "operation_text_hash": {
+          "old": "5390710931222776557",
+          "new": "4732473731429053466"
+        }
+      }
+    }
+  ]
+}

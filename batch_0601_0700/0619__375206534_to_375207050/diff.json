@@ -1,0 +1,46 @@
+{
+  "comparison_index": 619,
+  "comparison": {
+    "from_folder": "Instagram_35200085_alpha",
+    "to_folder": "Instagram_35200091_alpha",
+    "from_version_code": 375206534,
+    "to_version_code": 375207050,
+    "from_version_name": "352.0.0.0.85",
+    "to_version_name": "352.0.0.0.91"
+  },
+  "summary": {
+    "old_total": 860,
+    "new_total": 862,
+    "added": 2,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "ApproveFollowRequest",
+      "client_doc_id": "356404437015504912388165306042"
+    },
+    {
+      "operation": "IgnoreFollowRequest",
+      "client_doc_id": "19565066314248364650249597363"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "GenAIImagineGenerateSuggestionsQuery",
+      "old_client_doc_id": "29481621144022856157426010247",
+      "new_client_doc_id": "2948162114908708388263099469",
+      "changes": {
+        "client_doc_id": {
+          "old": "29481621144022856157426010247",
+          "new": "2948162114908708388263099469"
+        },
+        "operation_text_hash": {
+          "old": "4022856157426010247",
+          "new": "908708388263099469"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "comparison_index": 486,
+  "comparison": {
+    "from_folder": "Instagram_34300045_alpha",
+    "to_folder": "Instagram_34300058_alpha",
+    "from_version_code": 374303730,
+    "to_version_code": 374304791,
+    "from_version_name": "343.0.0.0.45",
+    "to_version_name": "343.0.0.0.58"
+  },
+  "summary": {
+    "old_total": 779,
+    "new_total": 780,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "IGEmojiPongSetHighscoreMutation",
+      "client_doc_id": "18998664042265087021213978403"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

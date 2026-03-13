@@ -1,0 +1,37 @@
+{
+  "comparison_index": 389,
+  "comparison": {
+    "from_folder": "Instagram_32000077_alpha",
+    "to_folder": "Instagram_32000087_alpha",
+    "from_version_code": 372005936,
+    "to_version_code": 372006686,
+    "from_version_name": "320.0.0.0.77",
+    "to_version_name": "320.0.0.0.87"
+  },
+  "summary": {
+    "old_total": 232,
+    "new_total": 232,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "ExpressoTemplatePackAndUserInfoQuery",
+      "old_client_doc_id": "18795032147259444736881562073",
+      "new_client_doc_id": "18795032142995276620232137002",
+      "changes": {
+        "client_doc_id": {
+          "old": "18795032147259444736881562073",
+          "new": "18795032142995276620232137002"
+        },
+        "operation_text_hash": {
+          "old": "7259444736881562073",
+          "new": "2995276620232137002"
+        }
+      }
+    }
+  ]
+}

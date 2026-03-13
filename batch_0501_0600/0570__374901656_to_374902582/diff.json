@@ -1,0 +1,82 @@
+{
+  "comparison_index": 570,
+  "comparison": {
+    "from_folder": "Instagram_34900019_alpha",
+    "to_folder": "Instagram_34900031_alpha",
+    "from_version_code": 374901656,
+    "to_version_code": 374902582,
+    "from_version_name": "349.0.0.0.19",
+    "to_version_name": "349.0.0.0.31"
+  },
+  "summary": {
+    "old_total": 828,
+    "new_total": 828,
+    "added": 0,
+    "removed": 0,
+    "changed": 4
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "AlgoTuneHideMediaMutation",
+      "old_client_doc_id": "222070032717124839801616900776",
+      "new_client_doc_id": "22207003278560820458912043350",
+      "changes": {
+        "client_doc_id": {
+          "old": "222070032717124839801616900776",
+          "new": "22207003278560820458912043350"
+        },
+        "operation_text_hash": {
+          "old": "17124839801616900776",
+          "new": "8560820458912043350"
+        }
+      }
+    },
+    {
+      "operation": "AlgoTuneUnhideMediaMutation",
+      "old_client_doc_id": "16517999268139010567468884643",
+      "new_client_doc_id": "16517999266612429851080407488",
+      "changes": {
+        "client_doc_id": {
+          "old": "16517999268139010567468884643",
+          "new": "16517999266612429851080407488"
+        },
+        "operation_text_hash": {
+          "old": "8139010567468884643",
+          "new": "6612429851080407488"
+        }
+      }
+    },
+    {
+      "operation": "FollowersList",
+      "old_client_doc_id": "28479704791492827239717517917",
+      "new_client_doc_id": "28479704798158798272104229748",
+      "changes": {
+        "client_doc_id": {
+          "old": "28479704791492827239717517917",
+          "new": "28479704798158798272104229748"
+        },
+        "operation_text_hash": {
+          "old": "1492827239717517917",
+          "new": "8158798272104229748"
+        }
+      }
+    },
+    {
+      "operation": "FollowingList",
+      "old_client_doc_id": "16104639284251677615978450666",
+      "new_client_doc_id": "16104639288734220544360869595",
+      "changes": {
+        "client_doc_id": {
+          "old": "16104639284251677615978450666",
+          "new": "16104639288734220544360869595"
+        },
+        "operation_text_hash": {
+          "old": "4251677615978450666",
+          "new": "8734220544360869595"
+        }
+      }
+    }
+  ]
+}

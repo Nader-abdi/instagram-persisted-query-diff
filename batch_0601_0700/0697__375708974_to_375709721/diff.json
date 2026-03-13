@@ -1,0 +1,67 @@
+{
+  "comparison_index": 697,
+  "comparison": {
+    "from_folder": "Instagram_357008100_beta",
+    "to_folder": "Instagram_3570017100_beta",
+    "from_version_code": 375708974,
+    "to_version_code": 375709721,
+    "from_version_name": "357.0.0.8.100",
+    "to_version_name": "357.0.0.17.100"
+  },
+  "summary": {
+    "old_total": 908,
+    "new_total": 908,
+    "added": 0,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "ClipsProfileQuery",
+      "old_client_doc_id": "20904923162982742545647296888",
+      "new_client_doc_id": "209049231615899097703451827471",
+      "changes": {
+        "client_doc_id": {
+          "old": "20904923162982742545647296888",
+          "new": "209049231615899097703451827471"
+        },
+        "operation_text_hash": {
+          "old": "2982742545647296888",
+          "new": "15899097703451827471"
+        }
+      }
+    },
+    {
+      "operation": "SchoolChannelsDirectory",
+      "old_client_doc_id": "31321681942820756418206338402",
+      "new_client_doc_id": "3132168194464839372898718995",
+      "changes": {
+        "client_doc_id": {
+          "old": "31321681942820756418206338402",
+          "new": "3132168194464839372898718995"
+        },
+        "operation_text_hash": {
+          "old": "2820756418206338402",
+          "new": "464839372898718995"
+        }
+      }
+    },
+    {
+      "operation": "SearchDiscoveryConnectionQuery",
+      "old_client_doc_id": "1232259161224474506768356283",
+      "new_client_doc_id": "123225916112419493471600857023",
+      "changes": {
+        "client_doc_id": {
+          "old": "1232259161224474506768356283",
+          "new": "123225916112419493471600857023"
+        },
+        "operation_text_hash": {
+          "old": "224474506768356283",
+          "new": "12419493471600857023"
+        }
+      }
+    }
+  ]
+}

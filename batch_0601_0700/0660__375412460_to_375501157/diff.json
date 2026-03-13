@@ -1,0 +1,87 @@
+{
+  "comparison_index": 660,
+  "comparison": {
+    "from_folder": "Instagram_3542047100",
+    "to_folder": "Instagram_35500013_alpha",
+    "from_version_code": 375412460,
+    "to_version_code": 375501157,
+    "from_version_name": "354.2.0.47.100",
+    "to_version_name": "355.0.0.0.13"
+  },
+  "summary": {
+    "old_total": 880,
+    "new_total": 881,
+    "added": 1,
+    "removed": 0,
+    "changed": 4
+  },
+  "added": [
+    {
+      "operation": "IGDirectChannelEducationGoalMetrics",
+      "client_doc_id": "37560072634720376379886033124"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "ClipsProfileQuery",
+      "old_client_doc_id": "209049231617346558279910672644",
+      "new_client_doc_id": "209049231610178265359772185865",
+      "changes": {
+        "client_doc_id": {
+          "old": "209049231617346558279910672644",
+          "new": "209049231610178265359772185865"
+        },
+        "operation_text_hash": {
+          "old": "17346558279910672644",
+          "new": "10178265359772185865"
+        }
+      }
+    },
+    {
+      "operation": "IGBoostPlacementWebviewPreviewInfoQuery",
+      "old_client_doc_id": "8142896826641299565503588845",
+      "new_client_doc_id": "81428968217800511564909780182",
+      "changes": {
+        "client_doc_id": {
+          "old": "8142896826641299565503588845",
+          "new": "81428968217800511564909780182"
+        },
+        "operation_text_hash": {
+          "old": "6641299565503588845",
+          "new": "17800511564909780182"
+        }
+      }
+    },
+    {
+      "operation": "IGDirectChannelCreatorEducationUpdateGoalMutation",
+      "old_client_doc_id": "16053803933473883290824556083",
+      "new_client_doc_id": "16053803934521377506055209543",
+      "changes": {
+        "client_doc_id": {
+          "old": "16053803933473883290824556083",
+          "new": "16053803934521377506055209543"
+        },
+        "operation_text_hash": {
+          "old": "3473883290824556083",
+          "new": "4521377506055209543"
+        }
+      }
+    },
+    {
+      "operation": "StoryTemplateDiscoverySurfaceSectionMediaQuery",
+      "old_client_doc_id": "22428625245516886278518559922",
+      "new_client_doc_id": "22428625245138273185981828756",
+      "changes": {
+        "client_doc_id": {
+          "old": "22428625245516886278518559922",
+          "new": "22428625245138273185981828756"
+        },
+        "operation_text_hash": {
+          "old": "5516886278518559922",
+          "new": "5138273185981828756"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "comparison_index": 28,
+  "comparison": {
+    "from_folder": "Instagram_22700090_alpha",
+    "to_folder": "Instagram_22700097_alpha",
+    "from_version_code": 323702322,
+    "to_version_code": 323702554,
+    "from_version_name": "227.0.0.0.90",
+    "to_version_name": "227.0.0.0.97"
+  },
+  "summary": {
+    "old_total": 124,
+    "new_total": 124,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "InstagramARAdsContextQuery",
+      "old_client_doc_id": "25667611067586415993010505615",
+      "new_client_doc_id": "25667611064236600859234910409",
+      "changes": {
+        "client_doc_id": {
+          "old": "25667611067586415993010505615",
+          "new": "25667611064236600859234910409"
+        },
+        "operation_text_hash": {
+          "old": "7586415993010505615",
+          "new": "4236600859234910409"
+        }
+      }
+    }
+  ]
+}

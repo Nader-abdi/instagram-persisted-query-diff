@@ -1,0 +1,26 @@
+{
+  "comparison_index": 422,
+  "comparison": {
+    "from_folder": "Instagram_3230005_alpha",
+    "to_folder": "Instagram_32300013_alpha",
+    "from_version_code": 372300386,
+    "to_version_code": 372300980,
+    "from_version_name": "323.0.0.0.5",
+    "to_version_name": "323.0.0.0.13"
+  },
+  "summary": {
+    "old_total": 236,
+    "new_total": 237,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "DeleteFriendsStoryMutation",
+      "client_doc_id": "2934028614432071359365987775"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

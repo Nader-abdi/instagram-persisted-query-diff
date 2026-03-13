@@ -1,0 +1,70 @@
+{
+  "comparison_index": 822,
+  "comparison": {
+    "from_folder": "Instagram_36300057_alpha",
+    "to_folder": "Instagram_36300063_alpha",
+    "from_version_code": 376700095,
+    "to_version_code": 376700599,
+    "from_version_name": "363.0.0.0.57",
+    "to_version_name": "363.0.0.0.63"
+  },
+  "summary": {
+    "old_total": 955,
+    "new_total": 947,
+    "added": 0,
+    "removed": 8,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [
+    {
+      "operation": "DeleteOpalMutation",
+      "client_doc_id": "25836274825372802736307136109"
+    },
+    {
+      "operation": "GetOpalQuery",
+      "client_doc_id": "162048677612874525241011358888"
+    },
+    {
+      "operation": "GetOpalSearchAudienceQuery",
+      "client_doc_id": "34363569515221982008134477104"
+    },
+    {
+      "operation": "GetOpalSelectedAudienceQuery",
+      "client_doc_id": "17011214929920707955360041532"
+    },
+    {
+      "operation": "GetOpalSuggestedAudienceQuery",
+      "client_doc_id": "21966333242518331872924355472"
+    },
+    {
+      "operation": "RemoveEveryoneMutation",
+      "client_doc_id": "322798714318421655491002512926"
+    },
+    {
+      "operation": "UpdateOpalAudienceMutation",
+      "client_doc_id": "291429751613448742887636736353"
+    },
+    {
+      "operation": "UpdateOpalMutation",
+      "client_doc_id": "272642610415483842273138131643"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "DirectCallLogForWearablesQuery",
+      "old_client_doc_id": "334775694513939882433504368802",
+      "new_client_doc_id": "334775694513614803643346872116",
+      "changes": {
+        "client_doc_id": {
+          "old": "334775694513939882433504368802",
+          "new": "334775694513614803643346872116"
+        },
+        "operation_text_hash": {
+          "old": "13939882433504368802",
+          "new": "13614803643346872116"
+        }
+      }
+    }
+  ]
+}

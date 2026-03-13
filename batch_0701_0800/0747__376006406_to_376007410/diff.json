@@ -1,0 +1,38 @@
+{
+  "comparison_index": 747,
+  "comparison": {
+    "from_folder": "Instagram_36000075_alpha",
+    "to_folder": "Instagram_36000086_alpha",
+    "from_version_code": 376006406,
+    "to_version_code": 376007410,
+    "from_version_name": "360.0.0.0.75",
+    "to_version_name": "360.0.0.0.86"
+  },
+  "summary": {
+    "old_total": 942,
+    "new_total": 946,
+    "added": 4,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "FbBidirectionalLink",
+      "client_doc_id": "28521340934611637384596691669"
+    },
+    {
+      "operation": "IGDirectUpdateThreadImageMutation",
+      "client_doc_id": "55765673510153180461904921541"
+    },
+    {
+      "operation": "MetaGalleryAlbumInfoQuery",
+      "client_doc_id": "415449836218242381383981002196"
+    },
+    {
+      "operation": "MetaGalleryMediaQuery",
+      "client_doc_id": "80663717314092851498897564595"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

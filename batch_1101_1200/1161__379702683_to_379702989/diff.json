@@ -1,0 +1,37 @@
+{
+  "comparison_index": 1161,
+  "comparison": {
+    "from_folder": "Instagram_39100052_alpha",
+    "to_folder": "Instagram_39100058_alpha",
+    "from_version_code": 379702683,
+    "to_version_code": 379702989,
+    "from_version_name": "391.0.0.0.52",
+    "to_version_name": "391.0.0.0.58"
+  },
+  "summary": {
+    "old_total": 1229,
+    "new_total": 1229,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "SchoolsUserDirectory",
+      "old_client_doc_id": "19299163992176300057076914888",
+      "new_client_doc_id": "19299163999232184772515554617",
+      "changes": {
+        "client_doc_id": {
+          "old": "19299163992176300057076914888",
+          "new": "19299163999232184772515554617"
+        },
+        "operation_text_hash": {
+          "old": "2176300057076914888",
+          "new": "9232184772515554617"
+        }
+      }
+    }
+  ]
+}

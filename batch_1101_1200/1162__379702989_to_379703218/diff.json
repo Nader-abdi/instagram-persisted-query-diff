@@ -1,0 +1,46 @@
+{
+  "comparison_index": 1162,
+  "comparison": {
+    "from_folder": "Instagram_39100058_alpha",
+    "to_folder": "Instagram_39100063_alpha",
+    "from_version_code": 379702989,
+    "to_version_code": 379703218,
+    "from_version_name": "391.0.0.0.58",
+    "to_version_name": "391.0.0.0.63"
+  },
+  "summary": {
+    "old_total": 1229,
+    "new_total": 1231,
+    "added": 2,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "IGBoostAudienceEditDefaultAudience",
+      "client_doc_id": "75024916915581725045999556790"
+    },
+    {
+      "operation": "IGGenAIModifyCuratedPresetsQuery",
+      "client_doc_id": "225391781717050160663201787439"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "AiStudioFetchAiQuery",
+      "old_client_doc_id": "14398701095617126042995900485",
+      "new_client_doc_id": "143987010912577610994299001347",
+      "changes": {
+        "client_doc_id": {
+          "old": "14398701095617126042995900485",
+          "new": "143987010912577610994299001347"
+        },
+        "operation_text_hash": {
+          "old": "5617126042995900485",
+          "new": "12577610994299001347"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "comparison_index": 600,
+  "comparison": {
+    "from_folder": "Instagram_35100031_alpha",
+    "to_folder": "Instagram_35100055_alpha",
+    "from_version_code": 375101919,
+    "to_version_code": 375103911,
+    "from_version_name": "351.0.0.0.31",
+    "to_version_name": "351.0.0.0.55"
+  },
+  "summary": {
+    "old_total": 845,
+    "new_total": 846,
+    "added": 1,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [
+    {
+      "operation": "IGAvatarDeleteMutation",
+      "client_doc_id": "36395039931600094141345654894"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "AiStudioFetchHomeSectionsV2",
+      "old_client_doc_id": "33107665521233649259803949527",
+      "new_client_doc_id": "331076655210435707577516601898",
+      "changes": {
+        "client_doc_id": {
+          "old": "33107665521233649259803949527",
+          "new": "331076655210435707577516601898"
+        },
+        "operation_text_hash": {
+          "old": "1233649259803949527",
+          "new": "10435707577516601898"
+        }
+      }
+    },
+    {
+      "operation": "AiStudioFetchHomeSectionsV2_At_Pando_Connection_Pagination_XFBGENAIPersonaLayout_union_sections_query",
+      "old_client_doc_id": "13860351813749315298037595627",
+      "new_client_doc_id": "138603518110446384330355998657",
+      "changes": {
+        "client_doc_id": {
+          "old": "13860351813749315298037595627",
+          "new": "138603518110446384330355998657"
+        },
+        "operation_text_hash": {
+          "old": "3749315298037595627",
+          "new": "10446384330355998657"
+        }
+      }
+    }
+  ]
+}

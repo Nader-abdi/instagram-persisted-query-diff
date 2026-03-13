@@ -1,0 +1,46 @@
+{
+  "comparison_index": 741,
+  "comparison": {
+    "from_folder": "Instagram_36000011_alpha",
+    "to_folder": "Instagram_36000014_alpha",
+    "from_version_code": 376000924,
+    "to_version_code": 376001171,
+    "from_version_name": "360.0.0.0.11",
+    "to_version_name": "360.0.0.0.14"
+  },
+  "summary": {
+    "old_total": 934,
+    "new_total": 936,
+    "added": 2,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "BcnMentionNullStateQuery",
+      "client_doc_id": "38318764815035001755026709820"
+    },
+    {
+      "operation": "GetMEmuStickerByID",
+      "client_doc_id": "87473094517423789406646502977"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGAiAgentQuery",
+      "old_client_doc_id": "44836345414356200819870998130",
+      "new_client_doc_id": "44836345410967785772496414056",
+      "changes": {
+        "client_doc_id": {
+          "old": "44836345414356200819870998130",
+          "new": "44836345410967785772496414056"
+        },
+        "operation_text_hash": {
+          "old": "14356200819870998130",
+          "new": "10967785772496414056"
+        }
+      }
+    }
+  ]
+}

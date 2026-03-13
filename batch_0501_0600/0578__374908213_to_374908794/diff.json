@@ -1,0 +1,91 @@
+{
+  "comparison_index": 578,
+  "comparison": {
+    "from_folder": "Instagram_349000102_alpha",
+    "to_folder": "Instagram_349000109_alpha",
+    "from_version_code": 374908213,
+    "to_version_code": 374908794,
+    "from_version_name": "349.0.0.0.102",
+    "to_version_name": "349.0.0.0.109"
+  },
+  "summary": {
+    "old_total": 832,
+    "new_total": 834,
+    "added": 2,
+    "removed": 0,
+    "changed": 4
+  },
+  "added": [
+    {
+      "operation": "IGProfileUnshareAllHighlightsFromMainGridQuery",
+      "client_doc_id": "42035716712494488836129472043"
+    },
+    {
+      "operation": "IGRealtimeRegionHintQuery",
+      "client_doc_id": "52232106018313849661757113193"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "BlendQuery",
+      "old_client_doc_id": "91953089610293416040979062807",
+      "new_client_doc_id": "9195308961748590444912509520",
+      "changes": {
+        "client_doc_id": {
+          "old": "91953089610293416040979062807",
+          "new": "9195308961748590444912509520"
+        },
+        "operation_text_hash": {
+          "old": "10293416040979062807",
+          "new": "1748590444912509520"
+        }
+      }
+    },
+    {
+      "operation": "FanClubInfo",
+      "old_client_doc_id": "25835954602433172695830556812",
+      "new_client_doc_id": "258359546010094966789083021616",
+      "changes": {
+        "client_doc_id": {
+          "old": "25835954602433172695830556812",
+          "new": "258359546010094966789083021616"
+        },
+        "operation_text_hash": {
+          "old": "2433172695830556812",
+          "new": "10094966789083021616"
+        }
+      }
+    },
+    {
+      "operation": "FetchMetaPlaceQuery",
+      "old_client_doc_id": "1377666485156170433414816776",
+      "new_client_doc_id": "1377666484861516040517998317",
+      "changes": {
+        "client_doc_id": {
+          "old": "1377666485156170433414816776",
+          "new": "1377666484861516040517998317"
+        },
+        "operation_text_hash": {
+          "old": "5156170433414816776",
+          "new": "4861516040517998317"
+        }
+      }
+    },
+    {
+      "operation": "UpdateBlendMembership",
+      "old_client_doc_id": "14008062926096942070162794923",
+      "new_client_doc_id": "140080629216946187962947483344",
+      "changes": {
+        "client_doc_id": {
+          "old": "14008062926096942070162794923",
+          "new": "140080629216946187962947483344"
+        },
+        "operation_text_hash": {
+          "old": "6096942070162794923",
+          "new": "16946187962947483344"
+        }
+      }
+    }
+  ]
+}

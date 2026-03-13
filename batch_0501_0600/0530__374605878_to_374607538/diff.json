@@ -1,0 +1,173 @@
+{
+  "comparison_index": 530,
+  "comparison": {
+    "from_folder": "Instagram_34600077_alpha",
+    "to_folder": "Instagram_34600097_alpha",
+    "from_version_code": 374605878,
+    "to_version_code": 374607538,
+    "from_version_name": "346.0.0.0.77",
+    "to_version_name": "346.0.0.0.97"
+  },
+  "summary": {
+    "old_total": 812,
+    "new_total": 814,
+    "added": 2,
+    "removed": 0,
+    "changed": 10
+  },
+  "added": [
+    {
+      "operation": "AddMEmuProfilePhotos",
+      "client_doc_id": "79300515013308312856548551617"
+    },
+    {
+      "operation": "DeleteMEmuProfilePhotos",
+      "client_doc_id": "37118485412460057327798762227"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "DeadCodeFunctionMutation",
+      "old_client_doc_id": "10599998571135684561371932097",
+      "new_client_doc_id": "1059999857838123073504253451",
+      "changes": {
+        "client_doc_id": {
+          "old": "10599998571135684561371932097",
+          "new": "1059999857838123073504253451"
+        },
+        "operation_text_hash": {
+          "old": "1135684561371932097",
+          "new": "838123073504253451"
+        }
+      }
+    },
+    {
+      "operation": "FBPayComponentDataQuery",
+      "old_client_doc_id": "119185734510461456096911122024",
+      "new_client_doc_id": "1191857345661883747780902723",
+      "changes": {
+        "client_doc_id": {
+          "old": "119185734510461456096911122024",
+          "new": "1191857345661883747780902723"
+        },
+        "operation_text_hash": {
+          "old": "10461456096911122024",
+          "new": "661883747780902723"
+        }
+      }
+    },
+    {
+      "operation": "FetchMemuProfile",
+      "old_client_doc_id": "21901277811163216367183671018",
+      "new_client_doc_id": "219012778115520540201234249878",
+      "changes": {
+        "client_doc_id": {
+          "old": "21901277811163216367183671018",
+          "new": "219012778115520540201234249878"
+        },
+        "operation_text_hash": {
+          "old": "1163216367183671018",
+          "new": "15520540201234249878"
+        }
+      }
+    },
+    {
+      "operation": "IGDGetThreadsSharedLinksQuery",
+      "old_client_doc_id": "197251243111826103697549952413",
+      "new_client_doc_id": "19725124319022020071268915132",
+      "changes": {
+        "client_doc_id": {
+          "old": "197251243111826103697549952413",
+          "new": "19725124319022020071268915132"
+        },
+        "operation_text_hash": {
+          "old": "11826103697549952413",
+          "new": "9022020071268915132"
+        }
+      }
+    },
+    {
+      "operation": "IGDirectDismissMessageSuggestionMutation",
+      "old_client_doc_id": "1199359772059814083309860618",
+      "new_client_doc_id": "1199359774697966720001621840",
+      "changes": {
+        "client_doc_id": {
+          "old": "1199359772059814083309860618",
+          "new": "1199359774697966720001621840"
+        },
+        "operation_text_hash": {
+          "old": "2059814083309860618",
+          "new": "4697966720001621840"
+        }
+      }
+    },
+    {
+      "operation": "LogInboxTrayItemImpression",
+      "old_client_doc_id": "3840972249390616266144998032",
+      "new_client_doc_id": "3840972249390616266144998032",
+      "changes": {
+        "schema": {
+          "old": "instagram",
+          "new": "distillery"
+        }
+      }
+    },
+    {
+      "operation": "RemindMeSetReminderMutation",
+      "old_client_doc_id": "60252983613856882647420013798",
+      "new_client_doc_id": "6025298363486312202023421472",
+      "changes": {
+        "client_doc_id": {
+          "old": "60252983613856882647420013798",
+          "new": "6025298363486312202023421472"
+        },
+        "operation_text_hash": {
+          "old": "13856882647420013798",
+          "new": "3486312202023421472"
+        }
+      }
+    },
+    {
+      "operation": "RemindMeUnsetReminderMutation",
+      "old_client_doc_id": "264305182715958305636782591881",
+      "new_client_doc_id": "26430518275532991904069475515",
+      "changes": {
+        "client_doc_id": {
+          "old": "264305182715958305636782591881",
+          "new": "26430518275532991904069475515"
+        },
+        "operation_text_hash": {
+          "old": "15958305636782591881",
+          "new": "5532991904069475515"
+        }
+      }
+    },
+    {
+      "operation": "ScreenTimeSyncMutation",
+      "old_client_doc_id": "2316865293613796183016554819",
+      "new_client_doc_id": "2316865296551755231113078449",
+      "changes": {
+        "client_doc_id": {
+          "old": "2316865293613796183016554819",
+          "new": "2316865296551755231113078449"
+        },
+        "operation_text_hash": {
+          "old": "3613796183016554819",
+          "new": "6551755231113078449"
+        }
+      }
+    },
+    {
+      "operation": "UpdateInboxTrayLastSeenTimestamp",
+      "old_client_doc_id": "410485054915517259784380066045",
+      "new_client_doc_id": "410485054915517259784380066045",
+      "changes": {
+        "schema": {
+          "old": "instagram",
+          "new": "distillery"
+        }
+      }
+    }
+  ]
+}

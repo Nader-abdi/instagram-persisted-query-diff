@@ -1,0 +1,76 @@
+{
+  "comparison_index": 916,
+  "comparison": {
+    "from_folder": "Instagram_370104396",
+    "to_folder": "Instagram_37100031_alpha",
+    "from_version_code": 377414010,
+    "to_version_code": 377503302,
+    "from_version_name": "370.1.0.43.96",
+    "to_version_name": "371.0.0.0.31"
+  },
+  "summary": {
+    "old_total": 1004,
+    "new_total": 1006,
+    "added": 2,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [
+    {
+      "operation": "IGProfileReorderProfileGridQuery",
+      "client_doc_id": "9274113398495586227818931225"
+    },
+    {
+      "operation": "InterruptThread",
+      "client_doc_id": "27511020468395753271694223995"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "GetCreatorInspirationHubQuery",
+      "old_client_doc_id": "35931761501316865858467650008",
+      "new_client_doc_id": "35931761505553259071395561139",
+      "changes": {
+        "client_doc_id": {
+          "old": "35931761501316865858467650008",
+          "new": "35931761505553259071395561139"
+        },
+        "operation_text_hash": {
+          "old": "1316865858467650008",
+          "new": "5553259071395561139"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineByUsernameQuery",
+      "old_client_doc_id": "150523945813081556846481441173",
+      "new_client_doc_id": "15052394589675201256371106675",
+      "changes": {
+        "client_doc_id": {
+          "old": "150523945813081556846481441173",
+          "new": "15052394589675201256371106675"
+        },
+        "operation_text_hash": {
+          "old": "13081556846481441173",
+          "new": "9675201256371106675"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "5603035081330344500574885840",
+      "new_client_doc_id": "56030350813351169864152078219",
+      "changes": {
+        "client_doc_id": {
+          "old": "5603035081330344500574885840",
+          "new": "56030350813351169864152078219"
+        },
+        "operation_text_hash": {
+          "old": "1330344500574885840",
+          "new": "13351169864152078219"
+        }
+      }
+    }
+  ]
+}

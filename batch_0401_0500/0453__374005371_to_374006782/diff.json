@@ -1,0 +1,34 @@
+{
+  "comparison_index": 453,
+  "comparison": {
+    "from_folder": "Instagram_34000064_alpha",
+    "to_folder": "Instagram_34000081_alpha",
+    "from_version_code": 374005371,
+    "to_version_code": 374006782,
+    "from_version_name": "340.0.0.0.64",
+    "to_version_name": "340.0.0.0.81"
+  },
+  "summary": {
+    "old_total": 756,
+    "new_total": 759,
+    "added": 3,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "IGCreatorAISelectAccountMutation",
+      "client_doc_id": "36884289679305522716323161849"
+    },
+    {
+      "operation": "IGCreatorAISelectedAccounts",
+      "client_doc_id": "13938599568317473753350938564"
+    },
+    {
+      "operation": "IGCreatorAISetAudienceMutation",
+      "client_doc_id": "18811559291880387361652311955"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

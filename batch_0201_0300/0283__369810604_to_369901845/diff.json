@@ -1,0 +1,52 @@
+{
+  "comparison_index": 283,
+  "comparison": {
+    "from_folder": "Instagram_2980031110",
+    "to_folder": "Instagram_29900024_alpha",
+    "from_version_code": 369810604,
+    "to_version_code": 369901845,
+    "from_version_name": "298.0.0.31.110",
+    "to_version_name": "299.0.0.0.24"
+  },
+  "summary": {
+    "old_total": 194,
+    "new_total": 194,
+    "added": 0,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGAvatarCoinFlipOptions",
+      "old_client_doc_id": "10175427091730039679013843912",
+      "new_client_doc_id": "1017542709749312801273620229",
+      "changes": {
+        "client_doc_id": {
+          "old": "10175427091730039679013843912",
+          "new": "1017542709749312801273620229"
+        },
+        "operation_text_hash": {
+          "old": "1730039679013843912",
+          "new": "749312801273620229"
+        }
+      }
+    },
+    {
+      "operation": "IGVideoLoggingSessionDebugging",
+      "old_client_doc_id": "92786010217777427065070751671",
+      "new_client_doc_id": "9278601022253922823543453094",
+      "changes": {
+        "client_doc_id": {
+          "old": "92786010217777427065070751671",
+          "new": "9278601022253922823543453094"
+        },
+        "operation_text_hash": {
+          "old": "17777427065070751671",
+          "new": "2253922823543453094"
+        }
+      }
+    }
+  ]
+}

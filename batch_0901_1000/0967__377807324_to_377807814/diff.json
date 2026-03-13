@@ -1,0 +1,67 @@
+{
+  "comparison_index": 967,
+  "comparison": {
+    "from_folder": "Instagram_37400066_alpha",
+    "to_folder": "Instagram_37400467_beta",
+    "from_version_code": 377807324,
+    "to_version_code": 377807814,
+    "from_version_name": "374.0.0.0.66",
+    "to_version_name": "374.0.0.4.67"
+  },
+  "summary": {
+    "old_total": 1049,
+    "new_total": 1049,
+    "added": 0,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGStoryAYMidcardQuery",
+      "old_client_doc_id": "415986220218418920342784970208",
+      "new_client_doc_id": "41598622026571670069889689710",
+      "changes": {
+        "client_doc_id": {
+          "old": "415986220218418920342784970208",
+          "new": "41598622026571670069889689710"
+        },
+        "operation_text_hash": {
+          "old": "18418920342784970208",
+          "new": "6571670069889689710"
+        }
+      }
+    },
+    {
+      "operation": "MetaHCMQuery",
+      "old_client_doc_id": "166916289716408659933145047184",
+      "new_client_doc_id": "166916289717947493319809422080",
+      "changes": {
+        "client_doc_id": {
+          "old": "166916289716408659933145047184",
+          "new": "166916289717947493319809422080"
+        },
+        "operation_text_hash": {
+          "old": "16408659933145047184",
+          "new": "17947493319809422080"
+        }
+      }
+    },
+    {
+      "operation": "ProfileUpdateProfileTags",
+      "old_client_doc_id": "25916655719224807080501001002",
+      "new_client_doc_id": "25916655718212209917404195340",
+      "changes": {
+        "client_doc_id": {
+          "old": "25916655719224807080501001002",
+          "new": "25916655718212209917404195340"
+        },
+        "operation_text_hash": {
+          "old": "9224807080501001002",
+          "new": "8212209917404195340"
+        }
+      }
+    }
+  ]
+}

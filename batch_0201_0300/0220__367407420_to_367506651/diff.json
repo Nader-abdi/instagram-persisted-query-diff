@@ -1,0 +1,37 @@
+{
+  "comparison_index": 220,
+  "comparison": {
+    "from_folder": "Instagram_274002690",
+    "to_folder": "Instagram_27500998_beta",
+    "from_version_code": 367407420,
+    "to_version_code": 367506651,
+    "from_version_name": "274.0.0.26.90",
+    "to_version_name": "275.0.0.9.98"
+  },
+  "summary": {
+    "old_total": 175,
+    "new_total": 175,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGPrivacyFlowTriggerQuery",
+      "old_client_doc_id": "39230041845752779424904735309",
+      "new_client_doc_id": "39230041847181017581041222100",
+      "changes": {
+        "client_doc_id": {
+          "old": "39230041845752779424904735309",
+          "new": "39230041847181017581041222100"
+        },
+        "operation_text_hash": {
+          "old": "5752779424904735309",
+          "new": "7181017581041222100"
+        }
+      }
+    }
+  ]
+}

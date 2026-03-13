@@ -1,0 +1,47 @@
+{
+  "comparison_index": 164,
+  "comparison": {
+    "from_folder": "Instagram_256000101_alpha",
+    "to_folder": "Instagram_256001105_beta",
+    "from_version_code": 365603547,
+    "to_version_code": 365603807,
+    "from_version_name": "256.0.0.0.101",
+    "to_version_name": "256.0.0.1.105"
+  },
+  "summary": {
+    "old_total": 162,
+    "new_total": 162,
+    "added": 1,
+    "removed": 1,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "IGAREffectSaveMutation",
+      "client_doc_id": "1358744657127921966446772297"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "IGSaveAREffectMutationCall",
+      "client_doc_id": "15326833761034121174456072832"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "IGIABAutofillSettings",
+      "old_client_doc_id": "353325959713248871153651606605",
+      "new_client_doc_id": "35332595974135254882670534656",
+      "changes": {
+        "client_doc_id": {
+          "old": "353325959713248871153651606605",
+          "new": "35332595974135254882670534656"
+        },
+        "operation_text_hash": {
+          "old": "13248871153651606605",
+          "new": "4135254882670534656"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "comparison_index": 471,
+  "comparison": {
+    "from_folder": "Instagram_34200023_alpha",
+    "to_folder": "Instagram_34200040_alpha",
+    "from_version_code": 374201836,
+    "to_version_code": 374203247,
+    "from_version_name": "342.0.0.0.23",
+    "to_version_name": "342.0.0.0.40"
+  },
+  "summary": {
+    "old_total": 770,
+    "new_total": 772,
+    "added": 2,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [
+    {
+      "operation": "FanClubSetFanOnboardingEntryPoint",
+      "client_doc_id": "149908870380079830516010766"
+    },
+    {
+      "operation": "MemoriesPogQuery",
+      "client_doc_id": "416056305618231762385283013480"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGDChannelDirectory",
+      "old_client_doc_id": "11450908096183681135373964897",
+      "new_client_doc_id": "114509080917872671818639724526",
+      "changes": {
+        "client_doc_id": {
+          "old": "11450908096183681135373964897",
+          "new": "114509080917872671818639724526"
+        },
+        "operation_text_hash": {
+          "old": "6183681135373964897",
+          "new": "17872671818639724526"
+        }
+      }
+    },
+    {
+      "operation": "ReelsTrayQuery",
+      "old_client_doc_id": "257592481010642775004975047458",
+      "new_client_doc_id": "25759248103380840635637930087",
+      "changes": {
+        "client_doc_id": {
+          "old": "257592481010642775004975047458",
+          "new": "25759248103380840635637930087"
+        },
+        "operation_text_hash": {
+          "old": "10642775004975047458",
+          "new": "3380840635637930087"
+        }
+      }
+    }
+  ]
+}

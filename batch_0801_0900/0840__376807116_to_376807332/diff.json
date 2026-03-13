@@ -1,0 +1,89 @@
+{
+  "comparison_index": 840,
+  "comparison": {
+    "from_folder": "Instagram_36400084_alpha",
+    "to_folder": "Instagram_36400186_beta",
+    "from_version_code": 376807116,
+    "to_version_code": 376807332,
+    "from_version_name": "364.0.0.0.84",
+    "to_version_name": "364.0.0.1.86"
+  },
+  "summary": {
+    "old_total": 953,
+    "new_total": 950,
+    "added": 1,
+    "removed": 4,
+    "changed": 3
+  },
+  "added": [
+    {
+      "operation": "IGDForwardBroadcastChannelMessageMutation",
+      "client_doc_id": "419887711412017070704060093663"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "OpenCarouselDismissPendingMediaProfileBannerMutation",
+      "client_doc_id": "784324835090925927114488645"
+    },
+    {
+      "operation": "PreviewAIResponsesQuery",
+      "client_doc_id": "306658999813059248859813367452"
+    },
+    {
+      "operation": "PreviewAIResponsesSubscription",
+      "client_doc_id": "384902469815280763548109563571"
+    },
+    {
+      "operation": "SetRepliesTabVisibilityMutation",
+      "client_doc_id": "25641417783014247965437706093"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "KirbyTopicsAndTemplatesPaginationQuery",
+      "old_client_doc_id": "243742811617189952891278618667",
+      "new_client_doc_id": "243742811616300629080035188496",
+      "changes": {
+        "client_doc_id": {
+          "old": "243742811617189952891278618667",
+          "new": "243742811616300629080035188496"
+        },
+        "operation_text_hash": {
+          "old": "17189952891278618667",
+          "new": "16300629080035188496"
+        }
+      }
+    },
+    {
+      "operation": "KirbyTopicsAndTemplatesPaginationQuery_At_Pando_Connection_Pagination_Viewer_creation_templates",
+      "old_client_doc_id": "230801710184326456546033505",
+      "new_client_doc_id": "2308017105802922593540111298",
+      "changes": {
+        "client_doc_id": {
+          "old": "230801710184326456546033505",
+          "new": "2308017105802922593540111298"
+        },
+        "operation_text_hash": {
+          "old": "184326456546033505",
+          "new": "5802922593540111298"
+        }
+      }
+    },
+    {
+      "operation": "KirbyTopicsAndTemplatesQuery",
+      "old_client_doc_id": "13516109935104110490489847111",
+      "new_client_doc_id": "135161099310316635510683754915",
+      "changes": {
+        "client_doc_id": {
+          "old": "13516109935104110490489847111",
+          "new": "135161099310316635510683754915"
+        },
+        "operation_text_hash": {
+          "old": "5104110490489847111",
+          "new": "10316635510683754915"
+        }
+      }
+    }
+  ]
+}

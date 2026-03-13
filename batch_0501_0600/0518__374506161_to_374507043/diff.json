@@ -1,0 +1,114 @@
+{
+  "comparison_index": 518,
+  "comparison": {
+    "from_folder": "Instagram_34500081_alpha",
+    "to_folder": "Instagram_34500092_alpha",
+    "from_version_code": 374506161,
+    "to_version_code": 374507043,
+    "from_version_name": "345.0.0.0.81",
+    "to_version_name": "345.0.0.0.92"
+  },
+  "summary": {
+    "old_total": 799,
+    "new_total": 803,
+    "added": 4,
+    "removed": 0,
+    "changed": 5
+  },
+  "added": [
+    {
+      "operation": "GetPotatoContainersForUser",
+      "client_doc_id": "116283577816476432883078838731"
+    },
+    {
+      "operation": "NMEIGBrandedThreadsConfigInfoQuery",
+      "client_doc_id": "112147929910699464525588556656"
+    },
+    {
+      "operation": "NMEIGBrandedThreadsConfigMutation",
+      "client_doc_id": "7674711721361797117428599508"
+    },
+    {
+      "operation": "SetTranslateToPreference",
+      "client_doc_id": "1632350185794564959488105458"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "CreatorInspirationSignalsPlaygroundSignalDetailsQuery",
+      "old_client_doc_id": "125122301816715160980355485214",
+      "new_client_doc_id": "12512230183008140419245951846",
+      "changes": {
+        "client_doc_id": {
+          "old": "125122301816715160980355485214",
+          "new": "12512230183008140419245951846"
+        },
+        "operation_text_hash": {
+          "old": "16715160980355485214",
+          "new": "3008140419245951846"
+        }
+      }
+    },
+    {
+      "operation": "IGDirectMessagingSearchMetaAISnippetQueryQuery",
+      "old_client_doc_id": "207061484512143010499055693536",
+      "new_client_doc_id": "207061484515725799039482282974",
+      "changes": {
+        "client_doc_id": {
+          "old": "207061484512143010499055693536",
+          "new": "207061484515725799039482282974"
+        },
+        "operation_text_hash": {
+          "old": "12143010499055693536",
+          "new": "15725799039482282974"
+        }
+      }
+    },
+    {
+      "operation": "IGIABBloksFooterQuery",
+      "old_client_doc_id": "41002938992660837657715753893",
+      "new_client_doc_id": "410029389914540592030021706624",
+      "changes": {
+        "client_doc_id": {
+          "old": "41002938992660837657715753893",
+          "new": "410029389914540592030021706624"
+        },
+        "operation_text_hash": {
+          "old": "2660837657715753893",
+          "new": "14540592030021706624"
+        }
+      }
+    },
+    {
+      "operation": "IGIABExpandableFooterQuery",
+      "old_client_doc_id": "30153174129321051407680079404",
+      "new_client_doc_id": "301531741216040086584585679397",
+      "changes": {
+        "client_doc_id": {
+          "old": "30153174129321051407680079404",
+          "new": "301531741216040086584585679397"
+        },
+        "operation_text_hash": {
+          "old": "9321051407680079404",
+          "new": "16040086584585679397"
+        }
+      }
+    },
+    {
+      "operation": "MetaAIWriteWithAIGenerateSuggestionMutation",
+      "old_client_doc_id": "1392301762272138181563327675",
+      "new_client_doc_id": "13923017614396160397087755654",
+      "changes": {
+        "client_doc_id": {
+          "old": "1392301762272138181563327675",
+          "new": "13923017614396160397087755654"
+        },
+        "operation_text_hash": {
+          "old": "2272138181563327675",
+          "new": "14396160397087755654"
+        }
+      }
+    }
+  ]
+}

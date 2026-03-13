@@ -1,0 +1,37 @@
+{
+  "comparison_index": 793,
+  "comparison": {
+    "from_folder": "Instagram_36200095_alpha",
+    "to_folder": "Instagram_362000105_alpha",
+    "from_version_code": 376207990,
+    "to_version_code": 376208746,
+    "from_version_name": "362.0.0.0.95",
+    "to_version_name": "362.0.0.0.105"
+  },
+  "summary": {
+    "old_total": 956,
+    "new_total": 956,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FitnessStickerFetchQuery",
+      "old_client_doc_id": "38438198692442268705094282076",
+      "new_client_doc_id": "384381986918154194624161714373",
+      "changes": {
+        "client_doc_id": {
+          "old": "38438198692442268705094282076",
+          "new": "384381986918154194624161714373"
+        },
+        "operation_text_hash": {
+          "old": "2442268705094282076",
+          "new": "18154194624161714373"
+        }
+      }
+    }
+  ]
+}

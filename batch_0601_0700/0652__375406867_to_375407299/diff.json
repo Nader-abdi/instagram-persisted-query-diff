@@ -1,0 +1,121 @@
+{
+  "comparison_index": 652,
+  "comparison": {
+    "from_folder": "Instagram_35400083_alpha",
+    "to_folder": "Instagram_35400095_alpha",
+    "from_version_code": 375406867,
+    "to_version_code": 375407299,
+    "from_version_name": "354.0.0.0.83",
+    "to_version_name": "354.0.0.0.95"
+  },
+  "summary": {
+    "old_total": 875,
+    "new_total": 877,
+    "added": 2,
+    "removed": 0,
+    "changed": 6
+  },
+  "added": [
+    {
+      "operation": "IGIABAutofillContactSoftKeyboardBloksRootQuery",
+      "client_doc_id": "147898860014586466757214127171"
+    },
+    {
+      "operation": "KirbyQuickCreateAiAvatarMutation",
+      "client_doc_id": "1689449163684667352160729001"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "AiStudioCancelAiReview",
+      "old_client_doc_id": "1324309068738516279724655202",
+      "new_client_doc_id": "13243090686558980041106280122",
+      "changes": {
+        "client_doc_id": {
+          "old": "1324309068738516279724655202",
+          "new": "13243090686558980041106280122"
+        },
+        "operation_text_hash": {
+          "old": "738516279724655202",
+          "new": "6558980041106280122"
+        }
+      }
+    },
+    {
+      "operation": "GetPotatoContainersForUser",
+      "old_client_doc_id": "116283577813392839542271935118",
+      "new_client_doc_id": "11628357789384209252050828737",
+      "changes": {
+        "client_doc_id": {
+          "old": "116283577813392839542271935118",
+          "new": "11628357789384209252050828737"
+        },
+        "operation_text_hash": {
+          "old": "13392839542271935118",
+          "new": "9384209252050828737"
+        }
+      }
+    },
+    {
+      "operation": "GetPotatoMediaForContainer",
+      "old_client_doc_id": "19037811802923348108198725729",
+      "new_client_doc_id": "19037811804446528352535037533",
+      "changes": {
+        "client_doc_id": {
+          "old": "19037811802923348108198725729",
+          "new": "19037811804446528352535037533"
+        },
+        "operation_text_hash": {
+          "old": "2923348108198725729",
+          "new": "4446528352535037533"
+        }
+      }
+    },
+    {
+      "operation": "IGGraphQLBanyanQuery",
+      "old_client_doc_id": "178795045014366195618946196304",
+      "new_client_doc_id": "1787950450523774155358193682",
+      "changes": {
+        "client_doc_id": {
+          "old": "178795045014366195618946196304",
+          "new": "1787950450523774155358193682"
+        },
+        "operation_text_hash": {
+          "old": "14366195618946196304",
+          "new": "523774155358193682"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineByUsernameQuery",
+      "old_client_doc_id": "15052394581183812128918893798",
+      "new_client_doc_id": "15052394586472516568680501738",
+      "changes": {
+        "client_doc_id": {
+          "old": "15052394581183812128918893798",
+          "new": "15052394586472516568680501738"
+        },
+        "operation_text_hash": {
+          "old": "1183812128918893798",
+          "new": "6472516568680501738"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "56030350813791287784713400901",
+      "new_client_doc_id": "56030350817145344510683933646",
+      "changes": {
+        "client_doc_id": {
+          "old": "56030350813791287784713400901",
+          "new": "56030350817145344510683933646"
+        },
+        "operation_text_hash": {
+          "old": "13791287784713400901",
+          "new": "17145344510683933646"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1046 @@
+{
+  "comparison_index": 1385,
+  "comparison": {
+    "from_folder": "Instagram_41900016_alpha",
+    "to_folder": "Instagram_419001571_beta",
+    "from_version_code": 382501186,
+    "to_version_code": 382506131,
+    "from_version_name": "419.0.0.0.16",
+    "to_version_name": "419.0.0.15.71"
+  },
+  "summary": {
+    "old_total": 1521,
+    "new_total": 1525,
+    "added": 21,
+    "removed": 17,
+    "changed": 58
+  },
+  "added": [
+    {
+      "operation": "EddyInterruptSubAgentMutation",
+      "client_doc_id": "75743863313510305046377639778"
+    },
+    {
+      "operation": "EddyOILAssetDeleteMutation",
+      "client_doc_id": "205547665414259987556918322436"
+    },
+    {
+      "operation": "FaceswapGrantOrRevokeLikenessPermissionMutation",
+      "client_doc_id": "37077822883200328842898796560"
+    },
+    {
+      "operation": "FetchMediaRelatedTopicsQuery",
+      "client_doc_id": "3146177009264122927125366476"
+    },
+    {
+      "operation": "FetchSharedTyaInterestsQuery",
+      "client_doc_id": "5731448806050054201575300180"
+    },
+    {
+      "operation": "GetPronounOptions",
+      "client_doc_id": "73451036213691347225812563473"
+    },
+    {
+      "operation": "IGDirectFetchKaiPersona",
+      "client_doc_id": "4608693093594691487798655319"
+    },
+    {
+      "operation": "IGDirectRankedRecipientsQuery",
+      "client_doc_id": "26779398117406499430373686550"
+    },
+    {
+      "operation": "IGShopLabPdpInfoQuery",
+      "client_doc_id": "19785015038598999532702710704"
+    },
+    {
+      "operation": "IGStorySuggestedUsersMidcardQuery",
+      "client_doc_id": "117287604412682786955358196724"
+    },
+    {
+      "operation": "IGWatchAndMiniPDPQuery",
+      "client_doc_id": "356309440812713212439798327724"
+    },
+    {
+      "operation": "LocationSheetPlaceDetailsQuery",
+      "client_doc_id": "17292742774646946281737752550"
+    },
+    {
+      "operation": "MarkReelsViewedMutationMutation",
+      "client_doc_id": "8256589792561368672845305913"
+    },
+    {
+      "operation": "MediaSubtitleInfoQuery",
+      "client_doc_id": "37541836449637511127926469946"
+    },
+    {
+      "operation": "NMEEntryPointContentQuery",
+      "client_doc_id": "35513216284730634655664032778"
+    },
+    {
+      "operation": "PFRClientServerSyncMutation",
+      "client_doc_id": "27765433210467129442130233737"
+    },
+    {
+      "operation": "RecommendAccountsSearch",
+      "client_doc_id": "2986462493548590668125326618"
+    },
+    {
+      "operation": "ShortDramaPurchaseOptionsQuery",
+      "client_doc_id": "16204330738545648186558704742"
+    },
+    {
+      "operation": "StoriesSpotlightMutation",
+      "client_doc_id": "208562591315952799584085055766"
+    },
+    {
+      "operation": "UpdateProjectLastVisitedTimeMutation",
+      "client_doc_id": "24172260585857872732123099869"
+    },
+    {
+      "operation": "XavSocialProofOnboardedBFFsQuery",
+      "client_doc_id": "29733733184643313575763155830"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "EbFetchPinReminders",
+      "client_doc_id": "37081321716244456307139773708"
+    },
+    {
+      "operation": "EbPinReminderClearContinuousImpressionCount",
+      "client_doc_id": "1638381529223956019031202800"
+    },
+    {
+      "operation": "EbPinReminderCreateOrUpdateReminder",
+      "client_doc_id": "318911164214602073632179391888"
+    },
+    {
+      "operation": "EbPinReminderDeleteAllReminders",
+      "client_doc_id": "37139213279595421874389665525"
+    },
+    {
+      "operation": "EbPinReminderIncrementContinuousImpressionCount",
+      "client_doc_id": "2034683122103747069241480100"
+    },
+    {
+      "operation": "EbPinReminderUpdateLastPinResetViaRemindersTimestamp",
+      "client_doc_id": "21014505551968693931976917167"
+    },
+    {
+      "operation": "EbPinReminderUpdateLastPinValidatedTimestamp",
+      "client_doc_id": "27214216372745483067878490743"
+    },
+    {
+      "operation": "EbPinReminderUpdateLatestImpressionTimestamp",
+      "client_doc_id": "225721890211740476419503630838"
+    },
+    {
+      "operation": "EbPinReminderUpdateRisk",
+      "client_doc_id": "215706634117499299140046394023"
+    },
+    {
+      "operation": "EotrFetchPinResetEBEligibleDevices",
+      "client_doc_id": "7161554064203782513428566619"
+    },
+    {
+      "operation": "EotrPinResetSendNotification",
+      "client_doc_id": "56299552818172739596023884928"
+    },
+    {
+      "operation": "VestaServerLoginBeginMutation",
+      "client_doc_id": "16111274419712325019870410219"
+    },
+    {
+      "operation": "VestaServerLoginFinishMutation",
+      "client_doc_id": "262854844414762505487737490833"
+    },
+    {
+      "operation": "VestaServerLoginInitQuery",
+      "client_doc_id": "81910098413612596372607576247"
+    },
+    {
+      "operation": "VestaServerRegisterBeginMutation",
+      "client_doc_id": "82932985118066830261616549209"
+    },
+    {
+      "operation": "VestaServerRegisterFinishMutation",
+      "client_doc_id": "15164652816295479959460852680"
+    },
+    {
+      "operation": "VestaServerRegisterInitQuery",
+      "client_doc_id": "255243788010741735421390876325"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "BaselFetchTextStylesQuery",
+      "old_client_doc_id": "354575924917184610110225281407",
+      "new_client_doc_id": "354575924914714031680522262906",
+      "changes": {
+        "client_doc_id": {
+          "old": "354575924917184610110225281407",
+          "new": "354575924914714031680522262906"
+        },
+        "operation_text_hash": {
+          "old": "17184610110225281407",
+          "new": "14714031680522262906"
+        }
+      }
+    },
+    {
+      "operation": "BaselFetchUnifiedSavedItemsQuery",
+      "old_client_doc_id": "1770803219510831158600628314",
+      "new_client_doc_id": "17708032199566807309827626725",
+      "changes": {
+        "client_doc_id": {
+          "old": "1770803219510831158600628314",
+          "new": "17708032199566807309827626725"
+        },
+        "operation_text_hash": {
+          "old": "510831158600628314",
+          "new": "9566807309827626725"
+        }
+      }
+    },
+    {
+      "operation": "BcnAddMembersNullStateQuery",
+      "old_client_doc_id": "86748425626475807891620194",
+      "new_client_doc_id": "867484256412832207053504478",
+      "changes": {
+        "client_doc_id": {
+          "old": "86748425626475807891620194",
+          "new": "867484256412832207053504478"
+        },
+        "operation_text_hash": {
+          "old": "626475807891620194",
+          "new": "6412832207053504478"
+        }
+      }
+    },
+    {
+      "operation": "BcnAddMembersSearchQuery",
+      "old_client_doc_id": "128424320113528341160750428060",
+      "new_client_doc_id": "128424320110201280169426229225",
+      "changes": {
+        "client_doc_id": {
+          "old": "128424320113528341160750428060",
+          "new": "128424320110201280169426229225"
+        },
+        "operation_text_hash": {
+          "old": "13528341160750428060",
+          "new": "10201280169426229225"
+        }
+      }
+    },
+    {
+      "operation": "BcnFilteredFolderSnapshotQuery",
+      "old_client_doc_id": "154840311110372518509432971751",
+      "new_client_doc_id": "15484031114144686164771822544",
+      "changes": {
+        "client_doc_id": {
+          "old": "154840311110372518509432971751",
+          "new": "15484031114144686164771822544"
+        },
+        "operation_text_hash": {
+          "old": "10372518509432971751",
+          "new": "4144686164771822544"
+        }
+      }
+    },
+    {
+      "operation": "BcnFolderSnapshotQuery",
+      "old_client_doc_id": "415277283713135443764211058658",
+      "new_client_doc_id": "415277283710402450209811410044",
+      "changes": {
+        "client_doc_id": {
+          "old": "415277283713135443764211058658",
+          "new": "415277283710402450209811410044"
+        },
+        "operation_text_hash": {
+          "old": "13135443764211058658",
+          "new": "10402450209811410044"
+        }
+      }
+    },
+    {
+      "operation": "BcnInboxMessagePointQuery",
+      "old_client_doc_id": "4971441315419654344595785121",
+      "new_client_doc_id": "4971441313345222691413780609",
+      "changes": {
+        "client_doc_id": {
+          "old": "4971441315419654344595785121",
+          "new": "4971441313345222691413780609"
+        },
+        "operation_text_hash": {
+          "old": "15419654344595785121",
+          "new": "13345222691413780609"
+        }
+      }
+    },
+    {
+      "operation": "BcnInboxMultiMessagesQuery",
+      "old_client_doc_id": "114139689712346316640457686476",
+      "new_client_doc_id": "11413968978693985714342990647",
+      "changes": {
+        "client_doc_id": {
+          "old": "114139689712346316640457686476",
+          "new": "11413968978693985714342990647"
+        },
+        "operation_text_hash": {
+          "old": "12346316640457686476",
+          "new": "8693985714342990647"
+        }
+      }
+    },
+    {
+      "operation": "BcnInboxSnapshotQuery",
+      "old_client_doc_id": "183758889614719783045138692892",
+      "new_client_doc_id": "1837588896735730104852372153",
+      "changes": {
+        "client_doc_id": {
+          "old": "183758889614719783045138692892",
+          "new": "1837588896735730104852372153"
+        },
+        "operation_text_hash": {
+          "old": "14719783045138692892",
+          "new": "735730104852372153"
+        }
+      }
+    },
+    {
+      "operation": "BcnInboxThreadSnapshotByParticipantsQuery",
+      "old_client_doc_id": "407740362510584910742774161071",
+      "new_client_doc_id": "407740362517276095253580580814",
+      "changes": {
+        "client_doc_id": {
+          "old": "407740362510584910742774161071",
+          "new": "407740362517276095253580580814"
+        },
+        "operation_text_hash": {
+          "old": "10584910742774161071",
+          "new": "17276095253580580814"
+        }
+      }
+    },
+    {
+      "operation": "BcnInboxThreadSnapshotQuery",
+      "old_client_doc_id": "174772335814018901001945327201",
+      "new_client_doc_id": "174772335813739847008560575579",
+      "changes": {
+        "client_doc_id": {
+          "old": "174772335814018901001945327201",
+          "new": "174772335813739847008560575579"
+        },
+        "operation_text_hash": {
+          "old": "14018901001945327201",
+          "new": "13739847008560575579"
+        }
+      }
+    },
+    {
+      "operation": "BcnInboxUQPPDeltas",
+      "old_client_doc_id": "119623871217967013507721333916",
+      "new_client_doc_id": "11962387128888130698223350964",
+      "changes": {
+        "client_doc_id": {
+          "old": "119623871217967013507721333916",
+          "new": "11962387128888130698223350964"
+        },
+        "operation_text_hash": {
+          "old": "17967013507721333916",
+          "new": "8888130698223350964"
+        }
+      }
+    },
+    {
+      "operation": "BcnSlideSearchMessageQuery",
+      "old_client_doc_id": "30466656722205128654178125754",
+      "new_client_doc_id": "304666567217774516724613877209",
+      "changes": {
+        "client_doc_id": {
+          "old": "30466656722205128654178125754",
+          "new": "304666567217774516724613877209"
+        },
+        "operation_text_hash": {
+          "old": "2205128654178125754",
+          "new": "17774516724613877209"
+        }
+      }
+    },
+    {
+      "operation": "BcnSlideSearchNullStateQuery",
+      "old_client_doc_id": "12576931576297867299844754310",
+      "new_client_doc_id": "12576931579363796441093052032",
+      "changes": {
+        "client_doc_id": {
+          "old": "12576931576297867299844754310",
+          "new": "12576931579363796441093052032"
+        },
+        "operation_text_hash": {
+          "old": "6297867299844754310",
+          "new": "9363796441093052032"
+        }
+      }
+    },
+    {
+      "operation": "BcnSlideSearchQueryStateQuery",
+      "old_client_doc_id": "1600454974622292088193336036",
+      "new_client_doc_id": "160045497413886389966625825138",
+      "changes": {
+        "client_doc_id": {
+          "old": "1600454974622292088193336036",
+          "new": "160045497413886389966625825138"
+        },
+        "operation_text_hash": {
+          "old": "622292088193336036",
+          "new": "13886389966625825138"
+        }
+      }
+    },
+    {
+      "operation": "BcnSlideUsersQuery",
+      "old_client_doc_id": "143696284418222744473776434566",
+      "new_client_doc_id": "143696284410719111963186030301",
+      "changes": {
+        "client_doc_id": {
+          "old": "143696284418222744473776434566",
+          "new": "143696284410719111963186030301"
+        },
+        "operation_text_hash": {
+          "old": "18222744473776434566",
+          "new": "10719111963186030301"
+        }
+      }
+    },
+    {
+      "operation": "ClipsLinkedMediaPlaylistQuery",
+      "old_client_doc_id": "42629175968882958111011014771",
+      "new_client_doc_id": "42629175965583901320450836322",
+      "changes": {
+        "client_doc_id": {
+          "old": "42629175968882958111011014771",
+          "new": "42629175965583901320450836322"
+        },
+        "operation_text_hash": {
+          "old": "8882958111011014771",
+          "new": "5583901320450836322"
+        }
+      }
+    },
+    {
+      "operation": "ClipsProfileQuery",
+      "old_client_doc_id": "20904923168790030711371045343",
+      "new_client_doc_id": "209049231613733454190662261356",
+      "changes": {
+        "client_doc_id": {
+          "old": "20904923168790030711371045343",
+          "new": "209049231613733454190662261356"
+        },
+        "operation_text_hash": {
+          "old": "8790030711371045343",
+          "new": "13733454190662261356"
+        }
+      }
+    },
+    {
+      "operation": "ClipsTimelyEventQuery",
+      "old_client_doc_id": "394509039016216689908014181043",
+      "new_client_doc_id": "39450903902302989948281961212",
+      "changes": {
+        "client_doc_id": {
+          "old": "394509039016216689908014181043",
+          "new": "39450903902302989948281961212"
+        },
+        "operation_text_hash": {
+          "old": "16216689908014181043",
+          "new": "2302989948281961212"
+        }
+      }
+    },
+    {
+      "operation": "CloakingSamplingQuery",
+      "old_client_doc_id": "391253309412590510554211126983",
+      "new_client_doc_id": "391253309415392652687623618111",
+      "changes": {
+        "client_doc_id": {
+          "old": "391253309412590510554211126983",
+          "new": "391253309415392652687623618111"
+        },
+        "operation_text_hash": {
+          "old": "12590510554211126983",
+          "new": "15392652687623618111"
+        }
+      }
+    },
+    {
+      "operation": "CreateTAChapterFromQueryMutationMutation",
+      "old_client_doc_id": "10771730042809568842077125336",
+      "new_client_doc_id": "10771730043719737987297267178",
+      "changes": {
+        "client_doc_id": {
+          "old": "10771730042809568842077125336",
+          "new": "10771730043719737987297267178"
+        },
+        "operation_text_hash": {
+          "old": "2809568842077125336",
+          "new": "3719737987297267178"
+        }
+      }
+    },
+    {
+      "operation": "EddyMessageCreateMutation",
+      "old_client_doc_id": "253744059611555735363624083922",
+      "new_client_doc_id": "25374405967390559050963833633",
+      "changes": {
+        "client_doc_id": {
+          "old": "253744059611555735363624083922",
+          "new": "25374405967390559050963833633"
+        },
+        "operation_text_hash": {
+          "old": "11555735363624083922",
+          "new": "7390559050963833633"
+        }
+      }
+    },
+    {
+      "operation": "EddyMessagesListQuery",
+      "old_client_doc_id": "31212052253623832518234423883",
+      "new_client_doc_id": "312120522516421169598518386141",
+      "changes": {
+        "client_doc_id": {
+          "old": "31212052253623832518234423883",
+          "new": "312120522516421169598518386141"
+        },
+        "operation_text_hash": {
+          "old": "3623832518234423883",
+          "new": "16421169598518386141"
+        }
+      }
+    },
+    {
+      "operation": "EddyMessagesSubscription",
+      "old_client_doc_id": "173100433410843183269218446840",
+      "new_client_doc_id": "17310043348391000466061495303",
+      "changes": {
+        "client_doc_id": {
+          "old": "173100433410843183269218446840",
+          "new": "17310043348391000466061495303"
+        },
+        "operation_text_hash": {
+          "old": "10843183269218446840",
+          "new": "8391000466061495303"
+        }
+      }
+    },
+    {
+      "operation": "ExploreProjectsQuery",
+      "old_client_doc_id": "2254655110700497816962161525",
+      "new_client_doc_id": "225465511016640390685733243900",
+      "changes": {
+        "client_doc_id": {
+          "old": "2254655110700497816962161525",
+          "new": "225465511016640390685733243900"
+        },
+        "operation_text_hash": {
+          "old": "700497816962161525",
+          "new": "16640390685733243900"
+        }
+      }
+    },
+    {
+      "operation": "FetchChapterReelsQuery",
+      "old_client_doc_id": "32017102925493764788112190651",
+      "new_client_doc_id": "32017102925287709733135881917",
+      "changes": {
+        "client_doc_id": {
+          "old": "32017102925493764788112190651",
+          "new": "32017102925287709733135881917"
+        },
+        "operation_text_hash": {
+          "old": "5493764788112190651",
+          "new": "5287709733135881917"
+        }
+      }
+    },
+    {
+      "operation": "FetchSharedActivitySectionQuery",
+      "old_client_doc_id": "242533398714134771915492150715",
+      "new_client_doc_id": "242533398717291587126201787055",
+      "changes": {
+        "client_doc_id": {
+          "old": "242533398714134771915492150715",
+          "new": "242533398717291587126201787055"
+        },
+        "operation_text_hash": {
+          "old": "14134771915492150715",
+          "new": "17291587126201787055"
+        }
+      }
+    },
+    {
+      "operation": "FetchTeenAccountV3ProjectQuery",
+      "old_client_doc_id": "19574011441547262876349481607",
+      "new_client_doc_id": "19574011444282204539719710740",
+      "changes": {
+        "client_doc_id": {
+          "old": "19574011441547262876349481607",
+          "new": "19574011444282204539719710740"
+        },
+        "operation_text_hash": {
+          "old": "1547262876349481607",
+          "new": "4282204539719710740"
+        }
+      }
+    },
+    {
+      "operation": "FetchUserRepostsQuery",
+      "old_client_doc_id": "39152963167222482101808308419",
+      "new_client_doc_id": "391529631611756094317491960023",
+      "changes": {
+        "client_doc_id": {
+          "old": "39152963167222482101808308419",
+          "new": "391529631611756094317491960023"
+        },
+        "operation_text_hash": {
+          "old": "7222482101808308419",
+          "new": "11756094317491960023"
+        }
+      }
+    },
+    {
+      "operation": "FriendlyCommentsLaneQuery",
+      "old_client_doc_id": "62636029517624356548027173867",
+      "new_client_doc_id": "62636029511678404658392779480",
+      "changes": {
+        "client_doc_id": {
+          "old": "62636029517624356548027173867",
+          "new": "62636029511678404658392779480"
+        },
+        "operation_text_hash": {
+          "old": "17624356548027173867",
+          "new": "11678404658392779480"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineInspirationCanvasAPI",
+      "old_client_doc_id": "300190767617602373783262389254",
+      "new_client_doc_id": "30019076766760499339962389517",
+      "changes": {
+        "client_doc_id": {
+          "old": "300190767617602373783262389254",
+          "new": "30019076766760499339962389517"
+        },
+        "operation_text_hash": {
+          "old": "17602373783262389254",
+          "new": "6760499339962389517"
+        }
+      }
+    },
+    {
+      "operation": "GetAsyncPublishUploadStatus",
+      "old_client_doc_id": "421203581618124238194916264327",
+      "new_client_doc_id": "421203581616170354570065376399",
+      "changes": {
+        "client_doc_id": {
+          "old": "421203581618124238194916264327",
+          "new": "421203581616170354570065376399"
+        },
+        "operation_text_hash": {
+          "old": "18124238194916264327",
+          "new": "16170354570065376399"
+        }
+      }
+    },
+    {
+      "operation": "GetSurroundingMessages",
+      "old_client_doc_id": "4217957883532121115267914621",
+      "new_client_doc_id": "421795788316123477230035491608",
+      "changes": {
+        "client_doc_id": {
+          "old": "4217957883532121115267914621",
+          "new": "421795788316123477230035491608"
+        },
+        "operation_text_hash": {
+          "old": "532121115267914621",
+          "new": "16123477230035491608"
+        }
+      }
+    },
+    {
+      "operation": "IGAsyncPublishUploadStatusLiveQuery",
+      "old_client_doc_id": "364027066913404667612372779588",
+      "new_client_doc_id": "364027066915665400711962682065",
+      "changes": {
+        "client_doc_id": {
+          "old": "364027066913404667612372779588",
+          "new": "364027066915665400711962682065"
+        },
+        "operation_text_hash": {
+          "old": "13404667612372779588",
+          "new": "15665400711962682065"
+        }
+      }
+    },
+    {
+      "operation": "IGProfilePreviewQuery",
+      "old_client_doc_id": "36529376546412512720321544896",
+      "new_client_doc_id": "365293765412560572146160782739",
+      "changes": {
+        "client_doc_id": {
+          "old": "36529376546412512720321544896",
+          "new": "365293765412560572146160782739"
+        },
+        "operation_text_hash": {
+          "old": "6412512720321544896",
+          "new": "12560572146160782739"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "56030350811085530632956947885",
+      "new_client_doc_id": "5603035083701468085143572996",
+      "changes": {
+        "client_doc_id": {
+          "old": "56030350811085530632956947885",
+          "new": "5603035083701468085143572996"
+        },
+        "operation_text_hash": {
+          "old": "11085530632956947885",
+          "new": "3701468085143572996"
+        }
+      }
+    },
+    {
+      "operation": "IGQuickSnapArchiveBadgingInfo",
+      "old_client_doc_id": "422687451610945112801684186345",
+      "new_client_doc_id": "42268745168401929277216524631",
+      "changes": {
+        "client_doc_id": {
+          "old": "422687451610945112801684186345",
+          "new": "42268745168401929277216524631"
+        },
+        "operation_text_hash": {
+          "old": "10945112801684186345",
+          "new": "8401929277216524631"
+        }
+      }
+    },
+    {
+      "operation": "IGQuickSnapGetHistoryPaginatedQuery",
+      "old_client_doc_id": "20252838083089767942706099304",
+      "new_client_doc_id": "20252838082930204294909145",
+      "changes": {
+        "client_doc_id": {
+          "old": "20252838083089767942706099304",
+          "new": "20252838082930204294909145"
+        },
+        "operation_text_hash": {
+          "old": "3089767942706099304",
+          "new": "2930204294909145"
+        }
+      }
+    },
+    {
+      "operation": "IGQuickSnapGetHistoryQuery",
+      "old_client_doc_id": "35042606845804750340221201337",
+      "new_client_doc_id": "35042606842237527591538504538",
+      "changes": {
+        "client_doc_id": {
+          "old": "35042606845804750340221201337",
+          "new": "35042606842237527591538504538"
+        },
+        "operation_text_hash": {
+          "old": "5804750340221201337",
+          "new": "2237527591538504538"
+        }
+      }
+    },
+    {
+      "operation": "IGQuickSnapGetQuickSnapsQuery",
+      "old_client_doc_id": "137791389010899306483029713387",
+      "new_client_doc_id": "13779138909587286749086490335",
+      "changes": {
+        "client_doc_id": {
+          "old": "137791389010899306483029713387",
+          "new": "13779138909587286749086490335"
+        },
+        "operation_text_hash": {
+          "old": "10899306483029713387",
+          "new": "9587286749086490335"
+        }
+      }
+    },
+    {
+      "operation": "IGQuickSnapItemsQuery",
+      "old_client_doc_id": "150785705214066119440427720809",
+      "new_client_doc_id": "150785705218126838921781670024",
+      "changes": {
+        "client_doc_id": {
+          "old": "150785705214066119440427720809",
+          "new": "150785705218126838921781670024"
+        },
+        "operation_text_hash": {
+          "old": "14066119440427720809",
+          "new": "18126838921781670024"
+        }
+      }
+    },
+    {
+      "operation": "IGQuickSnapUpdateSeenStateMutation",
+      "old_client_doc_id": "91547059611638607733235339811",
+      "new_client_doc_id": "9154705967119478366914748902",
+      "changes": {
+        "client_doc_id": {
+          "old": "91547059611638607733235339811",
+          "new": "9154705967119478366914748902"
+        },
+        "operation_text_hash": {
+          "old": "11638607733235339811",
+          "new": "7119478366914748902"
+        }
+      }
+    },
+    {
+      "operation": "ListFeedQuery",
+      "old_client_doc_id": "239050341910303781172370435727",
+      "new_client_doc_id": "23905034193931535029557218008",
+      "changes": {
+        "client_doc_id": {
+          "old": "239050341910303781172370435727",
+          "new": "23905034193931535029557218008"
+        },
+        "operation_text_hash": {
+          "old": "10303781172370435727",
+          "new": "3931535029557218008"
+        }
+      }
+    },
+    {
+      "operation": "MetaHCMQuery",
+      "old_client_doc_id": "166916289716367744093951504821",
+      "new_client_doc_id": "166916289716411818417935602920",
+      "changes": {
+        "client_doc_id": {
+          "old": "166916289716367744093951504821",
+          "new": "166916289716411818417935602920"
+        },
+        "operation_text_hash": {
+          "old": "16367744093951504821",
+          "new": "16411818417935602920"
+        }
+      }
+    },
+    {
+      "operation": "MetaHCMTopSerpQuery",
+      "old_client_doc_id": "5073039548531803557551333455",
+      "new_client_doc_id": "5073039544886525173360640282",
+      "changes": {
+        "client_doc_id": {
+          "old": "5073039548531803557551333455",
+          "new": "5073039544886525173360640282"
+        },
+        "operation_text_hash": {
+          "old": "8531803557551333455",
+          "new": "4886525173360640282"
+        }
+      }
+    },
+    {
+      "operation": "RefreshChapterMediaMutationMutation",
+      "old_client_doc_id": "28876359641577046531069562552",
+      "new_client_doc_id": "2887635964685315398171353364",
+      "changes": {
+        "client_doc_id": {
+          "old": "28876359641577046531069562552",
+          "new": "2887635964685315398171353364"
+        },
+        "operation_text_hash": {
+          "old": "1577046531069562552",
+          "new": "685315398171353364"
+        }
+      }
+    },
+    {
+      "operation": "ReplyApprovalsFetchHiddenPendingRepliesQuery",
+      "old_client_doc_id": "392464502611520162727622303507",
+      "new_client_doc_id": "392464502614260722411109430989",
+      "changes": {
+        "client_doc_id": {
+          "old": "392464502611520162727622303507",
+          "new": "392464502614260722411109430989"
+        },
+        "operation_text_hash": {
+          "old": "11520162727622303507",
+          "new": "14260722411109430989"
+        }
+      }
+    },
+    {
+      "operation": "ReplyApprovalsFetchPendingRepliesQuery",
+      "old_client_doc_id": "37231828627544535384266634811",
+      "new_client_doc_id": "372318286214040442530557092912",
+      "changes": {
+        "client_doc_id": {
+          "old": "37231828627544535384266634811",
+          "new": "372318286214040442530557092912"
+        },
+        "operation_text_hash": {
+          "old": "7544535384266634811",
+          "new": "14040442530557092912"
+        }
+      }
+    },
+    {
+      "operation": "SerpBatchPrefetchQuery",
+      "old_client_doc_id": "179116796918195245797515907176",
+      "new_client_doc_id": "17911679695402479335078747636",
+      "changes": {
+        "client_doc_id": {
+          "old": "179116796918195245797515907176",
+          "new": "17911679695402479335078747636"
+        },
+        "operation_text_hash": {
+          "old": "18195245797515907176",
+          "new": "5402479335078747636"
+        }
+      }
+    },
+    {
+      "operation": "ServerDraftsQuery",
+      "old_client_doc_id": "3991146756421608016772850277",
+      "new_client_doc_id": "39911467567277085253600882552",
+      "changes": {
+        "client_doc_id": {
+          "old": "3991146756421608016772850277",
+          "new": "39911467567277085253600882552"
+        },
+        "operation_text_hash": {
+          "old": "421608016772850277",
+          "new": "7277085253600882552"
+        }
+      }
+    },
+    {
+      "operation": "SetUserSubtitleDisplayPref",
+      "old_client_doc_id": "25797551049591473202458027829",
+      "new_client_doc_id": "257975510415530017616971253406",
+      "changes": {
+        "client_doc_id": {
+          "old": "25797551049591473202458027829",
+          "new": "257975510415530017616971253406"
+        },
+        "operation_text_hash": {
+          "old": "9591473202458027829",
+          "new": "15530017616971253406"
+        }
+      }
+    },
+    {
+      "operation": "ShortDramaLanePaginationQuery",
+      "old_client_doc_id": "591900789980222789941437533",
+      "new_client_doc_id": "5919007897790002141834893242",
+      "changes": {
+        "client_doc_id": {
+          "old": "591900789980222789941437533",
+          "new": "5919007897790002141834893242"
+        },
+        "operation_text_hash": {
+          "old": "980222789941437533",
+          "new": "7790002141834893242"
+        }
+      }
+    },
+    {
+      "operation": "ShortDramaProfilePlaylistsQuery",
+      "old_client_doc_id": "29043253662552240020007609451",
+      "new_client_doc_id": "290432536615599976886790583651",
+      "changes": {
+        "client_doc_id": {
+          "old": "29043253662552240020007609451",
+          "new": "290432536615599976886790583651"
+        },
+        "operation_text_hash": {
+          "old": "2552240020007609451",
+          "new": "15599976886790583651"
+        }
+      }
+    },
+    {
+      "operation": "SlideMessagingCommunityTagThreadsQuery",
+      "old_client_doc_id": "174699302216117603334765147379",
+      "new_client_doc_id": "174699302215698066249985781831",
+      "changes": {
+        "client_doc_id": {
+          "old": "174699302216117603334765147379",
+          "new": "174699302215698066249985781831"
+        },
+        "operation_text_hash": {
+          "old": "16117603334765147379",
+          "new": "15698066249985781831"
+        }
+      }
+    },
+    {
+      "operation": "TopSerpQuery",
+      "old_client_doc_id": "41853168193620964804504864964",
+      "new_client_doc_id": "41853168192428042359839747512",
+      "changes": {
+        "client_doc_id": {
+          "old": "41853168193620964804504864964",
+          "new": "41853168192428042359839747512"
+        },
+        "operation_text_hash": {
+          "old": "3620964804504864964",
+          "new": "2428042359839747512"
+        }
+      }
+    },
+    {
+      "operation": "TopSerpQuery_At_Pando_Connection_Pagination_Query_pando_connection_query",
+      "old_client_doc_id": "331501677713827987724066850534",
+      "new_client_doc_id": "33150167779647845091303415645",
+      "changes": {
+        "client_doc_id": {
+          "old": "331501677713827987724066850534",
+          "new": "33150167779647845091303415645"
+        },
+        "operation_text_hash": {
+          "old": "13827987724066850534",
+          "new": "9647845091303415645"
+        }
+      }
+    },
+    {
+      "operation": "UnifiedConversationStartersQuery",
+      "old_client_doc_id": "36932387959781810488077956275",
+      "new_client_doc_id": "36932387957815118966421583889",
+      "changes": {
+        "client_doc_id": {
+          "old": "36932387959781810488077956275",
+          "new": "36932387957815118966421583889"
+        },
+        "operation_text_hash": {
+          "old": "9781810488077956275",
+          "new": "7815118966421583889"
+        }
+      }
+    },
+    {
+      "operation": "XIGIGGenAIBaselHooksGeneration",
+      "old_client_doc_id": "4593247678043365570937378209",
+      "new_client_doc_id": "45932476711366331460994356967",
+      "changes": {
+        "client_doc_id": {
+          "old": "4593247678043365570937378209",
+          "new": "45932476711366331460994356967"
+        },
+        "operation_text_hash": {
+          "old": "8043365570937378209",
+          "new": "11366331460994356967"
+        }
+      }
+    }
+  ]
+}

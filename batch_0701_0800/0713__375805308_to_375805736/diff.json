@@ -1,0 +1,34 @@
+{
+  "comparison_index": 713,
+  "comparison": {
+    "from_folder": "Instagram_35800069_alpha",
+    "to_folder": "Instagram_35800075_alpha",
+    "from_version_code": 375805308,
+    "to_version_code": 375805736,
+    "from_version_name": "358.0.0.0.69",
+    "to_version_name": "358.0.0.0.75"
+  },
+  "summary": {
+    "old_total": 924,
+    "new_total": 927,
+    "added": 3,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "AiAgentParodyStatusSubscription",
+      "client_doc_id": "28177170851287395974327276667"
+    },
+    {
+      "operation": "IGAiAgentQuery",
+      "client_doc_id": "44836345414356200819870998130"
+    },
+    {
+      "operation": "IGDAiAgentParodyMutation",
+      "client_doc_id": "3696421020339756466343052714"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

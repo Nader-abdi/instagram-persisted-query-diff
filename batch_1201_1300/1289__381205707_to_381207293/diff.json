@@ -1,0 +1,26 @@
+{
+  "comparison_index": 1289,
+  "comparison": {
+    "from_folder": "Instagram_4060020159_beta",
+    "to_folder": "Instagram_4060045159_beta",
+    "from_version_code": 381205707,
+    "to_version_code": 381207293,
+    "from_version_name": "406.0.0.20.159",
+    "to_version_name": "406.0.0.45.159"
+  },
+  "summary": {
+    "old_total": 1377,
+    "new_total": 1378,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "MetaAIHCMCacheResponseHitMutation",
+      "client_doc_id": "4675403724214252928022830929"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

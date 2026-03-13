@@ -1,0 +1,76 @@
+{
+  "comparison_index": 443,
+  "comparison": {
+    "from_folder": "Instagram_33900054_alpha",
+    "to_folder": "Instagram_33900073_alpha",
+    "from_version_code": 373904326,
+    "to_version_code": 373905953,
+    "from_version_name": "339.0.0.0.54",
+    "to_version_name": "339.0.0.0.73"
+  },
+  "summary": {
+    "old_total": 752,
+    "new_total": 754,
+    "added": 2,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [
+    {
+      "operation": "IGRefreshAvatarStickersDataMutation",
+      "client_doc_id": "254225073415698811126337696202"
+    },
+    {
+      "operation": "MetaAIWriteWithAISuggestionsStreamMutation",
+      "client_doc_id": "23395803672140601509690636013"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "AiAgentsGetSubscriptions",
+      "old_client_doc_id": "40627784984402479463236871157",
+      "new_client_doc_id": "406277849815961596232077628853",
+      "changes": {
+        "client_doc_id": {
+          "old": "40627784984402479463236871157",
+          "new": "406277849815961596232077628853"
+        },
+        "operation_text_hash": {
+          "old": "4402479463236871157",
+          "new": "15961596232077628853"
+        }
+      }
+    },
+    {
+      "operation": "CreateMEmuProfile",
+      "old_client_doc_id": "194131542117343958860137346485",
+      "new_client_doc_id": "194131542112552291095511885442",
+      "changes": {
+        "client_doc_id": {
+          "old": "194131542117343958860137346485",
+          "new": "194131542112552291095511885442"
+        },
+        "operation_text_hash": {
+          "old": "17343958860137346485",
+          "new": "12552291095511885442"
+        }
+      }
+    },
+    {
+      "operation": "SettingsAPIGetScreenDependencies",
+      "old_client_doc_id": "1343613775592582422330653369",
+      "new_client_doc_id": "13436137714823344114841111487",
+      "changes": {
+        "client_doc_id": {
+          "old": "1343613775592582422330653369",
+          "new": "13436137714823344114841111487"
+        },
+        "operation_text_hash": {
+          "old": "5592582422330653369",
+          "new": "14823344114841111487"
+        }
+      }
+    }
+  ]
+}

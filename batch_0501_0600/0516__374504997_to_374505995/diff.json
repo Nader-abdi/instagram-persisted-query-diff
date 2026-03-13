@@ -1,0 +1,118 @@
+{
+  "comparison_index": 516,
+  "comparison": {
+    "from_folder": "Instagram_34500064_alpha",
+    "to_folder": "Instagram_34500079_alpha",
+    "from_version_code": 374504997,
+    "to_version_code": 374505995,
+    "from_version_name": "345.0.0.0.64",
+    "to_version_name": "345.0.0.0.79"
+  },
+  "summary": {
+    "old_total": 794,
+    "new_total": 799,
+    "added": 5,
+    "removed": 0,
+    "changed": 5
+  },
+  "added": [
+    {
+      "operation": "HorizonWorldPagesMediaQuery",
+      "client_doc_id": "280656840815315783951032494042"
+    },
+    {
+      "operation": "KirbyCompleteQuickCreationV2Mutation",
+      "client_doc_id": "77295251167665380326780742"
+    },
+    {
+      "operation": "MetaAIVoiceIGUserSettingFetchQuery",
+      "client_doc_id": "13071504727913137276442258609"
+    },
+    {
+      "operation": "MetaAIVoiceIGUserSettingsUpdateOrCreateMutation",
+      "client_doc_id": "340003697116611216595966042213"
+    },
+    {
+      "operation": "SetTranslateFromPreference",
+      "client_doc_id": "340525746713354926739685024958"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FxIgLinkageCacheQuery",
+      "old_client_doc_id": "11674382498877486206474159000",
+      "new_client_doc_id": "11674382495679744485820947859",
+      "changes": {
+        "client_doc_id": {
+          "old": "11674382498877486206474159000",
+          "new": "11674382495679744485820947859"
+        },
+        "operation_text_hash": {
+          "old": "8877486206474159000",
+          "new": "5679744485820947859"
+        }
+      }
+    },
+    {
+      "operation": "FxIgXavSwitcherBadgingDataQuery",
+      "old_client_doc_id": "83794259217680094030764295588",
+      "new_client_doc_id": "837942592311945072579156505",
+      "changes": {
+        "client_doc_id": {
+          "old": "83794259217680094030764295588",
+          "new": "837942592311945072579156505"
+        },
+        "operation_text_hash": {
+          "old": "17680094030764295588",
+          "new": "311945072579156505"
+        }
+      }
+    },
+    {
+      "operation": "IGCreatorActivationTrialTipQuery",
+      "old_client_doc_id": "16298571272667057341230344054",
+      "new_client_doc_id": "16298571279184338756077440779",
+      "changes": {
+        "client_doc_id": {
+          "old": "16298571272667057341230344054",
+          "new": "16298571279184338756077440779"
+        },
+        "operation_text_hash": {
+          "old": "2667057341230344054",
+          "new": "9184338756077440779"
+        }
+      }
+    },
+    {
+      "operation": "MetaHCMQuery",
+      "old_client_doc_id": "16691628977677093283118607800",
+      "new_client_doc_id": "16691628971535445131947635883",
+      "changes": {
+        "client_doc_id": {
+          "old": "16691628977677093283118607800",
+          "new": "16691628971535445131947635883"
+        },
+        "operation_text_hash": {
+          "old": "7677093283118607800",
+          "new": "1535445131947635883"
+        }
+      }
+    },
+    {
+      "operation": "QuickPromotionSurfaceQueryV3",
+      "old_client_doc_id": "40925026817658846764492369720",
+      "new_client_doc_id": "4092502681606606001171913359",
+      "changes": {
+        "client_doc_id": {
+          "old": "40925026817658846764492369720",
+          "new": "4092502681606606001171913359"
+        },
+        "operation_text_hash": {
+          "old": "17658846764492369720",
+          "new": "1606606001171913359"
+        }
+      }
+    }
+  ]
+}

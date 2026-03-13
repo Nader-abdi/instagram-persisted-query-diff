@@ -1,0 +1,76 @@
+{
+  "comparison_index": 959,
+  "comparison": {
+    "from_folder": "Instagram_373004667",
+    "to_folder": "Instagram_3740005_alpha",
+    "from_version_code": 377711172,
+    "to_version_code": 377800500,
+    "from_version_name": "373.0.0.46.67",
+    "to_version_name": "374.0.0.0.5"
+  },
+  "summary": {
+    "old_total": 1038,
+    "new_total": 1040,
+    "added": 2,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [
+    {
+      "operation": "IGDirectGetThreadAndPaginatedMessageListQuery",
+      "client_doc_id": "41571454084065406924209647615"
+    },
+    {
+      "operation": "MetaAITaskSingleQuery",
+      "client_doc_id": "23901704009428669392227701700"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "MetaAIThreadTaskPrefilledContentQuery",
+      "old_client_doc_id": "26350644222465601570883616194",
+      "new_client_doc_id": "263506442217581468889400986272",
+      "changes": {
+        "client_doc_id": {
+          "old": "26350644222465601570883616194",
+          "new": "263506442217581468889400986272"
+        },
+        "operation_text_hash": {
+          "old": "2465601570883616194",
+          "new": "17581468889400986272"
+        }
+      }
+    },
+    {
+      "operation": "MetaAIVoiceIGUserSettingFetchQuery",
+      "old_client_doc_id": "13071504725617135886443410758",
+      "new_client_doc_id": "13071504722804691222645484367",
+      "changes": {
+        "client_doc_id": {
+          "old": "13071504725617135886443410758",
+          "new": "13071504722804691222645484367"
+        },
+        "operation_text_hash": {
+          "old": "5617135886443410758",
+          "new": "2804691222645484367"
+        }
+      }
+    },
+    {
+      "operation": "MetaAIVoiceIGUserSettingsUpdateOrCreateMutation",
+      "old_client_doc_id": "340003697113188540500649328942",
+      "new_client_doc_id": "340003697110482945922399496239",
+      "changes": {
+        "client_doc_id": {
+          "old": "340003697113188540500649328942",
+          "new": "340003697110482945922399496239"
+        },
+        "operation_text_hash": {
+          "old": "13188540500649328942",
+          "new": "10482945922399496239"
+        }
+      }
+    }
+  ]
+}

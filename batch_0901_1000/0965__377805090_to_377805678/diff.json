@@ -1,0 +1,130 @@
+{
+  "comparison_index": 965,
+  "comparison": {
+    "from_folder": "Instagram_37400048_alpha",
+    "to_folder": "Instagram_37400054_alpha",
+    "from_version_code": 377805090,
+    "to_version_code": 377805678,
+    "from_version_name": "374.0.0.0.48",
+    "to_version_name": "374.0.0.0.54"
+  },
+  "summary": {
+    "old_total": 1043,
+    "new_total": 1045,
+    "added": 3,
+    "removed": 1,
+    "changed": 6
+  },
+  "added": [
+    {
+      "operation": "AICharacterSubmitDraftFeedbackMutation",
+      "client_doc_id": "197000331213250985220673790245"
+    },
+    {
+      "operation": "CreateOrUpdateThreadWithBlendInvite",
+      "client_doc_id": "232070728616043820111329421571"
+    },
+    {
+      "operation": "IGChannelsLinkedCommunityChatsQuery",
+      "client_doc_id": "3710120945584325504370847106"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "IGDGameUserDetails",
+      "client_doc_id": "305239155115409734845063737107"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "ClipsProfileQuery",
+      "old_client_doc_id": "20904923167701689175639553955",
+      "new_client_doc_id": "209049231613521181338432654349",
+      "changes": {
+        "client_doc_id": {
+          "old": "20904923167701689175639553955",
+          "new": "209049231613521181338432654349"
+        },
+        "operation_text_hash": {
+          "old": "7701689175639553955",
+          "new": "13521181338432654349"
+        }
+      }
+    },
+    {
+      "operation": "FanClubInsights",
+      "old_client_doc_id": "147178694613285570268811793384",
+      "new_client_doc_id": "14717869467080764979157233311",
+      "changes": {
+        "client_doc_id": {
+          "old": "147178694613285570268811793384",
+          "new": "14717869467080764979157233311"
+        },
+        "operation_text_hash": {
+          "old": "13285570268811793384",
+          "new": "7080764979157233311"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineByUsernameQuery",
+      "old_client_doc_id": "15052394585407094517900632359",
+      "new_client_doc_id": "15052394587712970196797872340",
+      "changes": {
+        "client_doc_id": {
+          "old": "15052394585407094517900632359",
+          "new": "15052394587712970196797872340"
+        },
+        "operation_text_hash": {
+          "old": "5407094517900632359",
+          "new": "7712970196797872340"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "5603035085075225078045565364",
+      "new_client_doc_id": "56030350818302751871761449120",
+      "changes": {
+        "client_doc_id": {
+          "old": "5603035085075225078045565364",
+          "new": "56030350818302751871761449120"
+        },
+        "operation_text_hash": {
+          "old": "5075225078045565364",
+          "new": "18302751871761449120"
+        }
+      }
+    },
+    {
+      "operation": "MetaHCMQuery",
+      "old_client_doc_id": "166916289711464879205536576140",
+      "new_client_doc_id": "166916289716408659933145047184",
+      "changes": {
+        "client_doc_id": {
+          "old": "166916289711464879205536576140",
+          "new": "166916289716408659933145047184"
+        },
+        "operation_text_hash": {
+          "old": "11464879205536576140",
+          "new": "16408659933145047184"
+        }
+      }
+    },
+    {
+      "operation": "SearchDiscoveryConnectionQuery",
+      "old_client_doc_id": "12322591618341266979516539992",
+      "new_client_doc_id": "12322591611162567293902279842",
+      "changes": {
+        "client_doc_id": {
+          "old": "12322591618341266979516539992",
+          "new": "12322591611162567293902279842"
+        },
+        "operation_text_hash": {
+          "old": "8341266979516539992",
+          "new": "1162567293902279842"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "comparison_index": 1285,
+  "comparison": {
+    "from_folder": "Instagram_40600096_alpha",
+    "to_folder": "Instagram_406000133_alpha",
+    "from_version_code": 381200967,
+    "to_version_code": 381202901,
+    "from_version_name": "406.0.0.0.96",
+    "to_version_name": "406.0.0.0.133"
+  },
+  "summary": {
+    "old_total": 1367,
+    "new_total": 1368,
+    "added": 4,
+    "removed": 3,
+    "changed": 3
+  },
+  "added": [
+    {
+      "operation": "QPIGDevToolV2",
+      "client_doc_id": "279551968911224471810254764169"
+    },
+    {
+      "operation": "XFBARClassBenchmarkCountQuery",
+      "client_doc_id": "38435321774406300250782818209"
+    },
+    {
+      "operation": "XFBLeadGenConditionsUserInteractionMutation",
+      "client_doc_id": "235331565614196088895675908279"
+    },
+    {
+      "operation": "XFBLeadGenDeepLinkUserInfoCreateMutation",
+      "client_doc_id": "365477571011818429632815738092"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "ARClassBenchmarkCountQuery",
+      "client_doc_id": "118763816013899380903249729535"
+    },
+    {
+      "operation": "LeadGenConditionsUserInteractionMutation",
+      "client_doc_id": "13892330461036621864292372299"
+    },
+    {
+      "operation": "LeadGenDeepLinkUserInfoCreateMutation",
+      "client_doc_id": "36657301756201728765593705865"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "FriendMapPlacesDetailsQuery",
+      "old_client_doc_id": "66208680013764986477717119559",
+      "new_client_doc_id": "6620868005708832701146933098",
+      "changes": {
+        "client_doc_id": {
+          "old": "66208680013764986477717119559",
+          "new": "6620868005708832701146933098"
+        },
+        "operation_text_hash": {
+          "old": "13764986477717119559",
+          "new": "5708832701146933098"
+        }
+      }
+    },
+    {
+      "operation": "FriendsList",
+      "old_client_doc_id": "289279547310994324637290505703",
+      "new_client_doc_id": "289279547315514457362874099240",
+      "changes": {
+        "client_doc_id": {
+          "old": "289279547310994324637290505703",
+          "new": "289279547315514457362874099240"
+        },
+        "operation_text_hash": {
+          "old": "10994324637290505703",
+          "new": "15514457362874099240"
+        }
+      }
+    },
+    {
+      "operation": "VirtualTryOnQuery",
+      "old_client_doc_id": "183068368910976053303591135747",
+      "new_client_doc_id": "18306836893760322403477213111",
+      "changes": {
+        "client_doc_id": {
+          "old": "183068368910976053303591135747",
+          "new": "18306836893760322403477213111"
+        },
+        "operation_text_hash": {
+          "old": "10976053303591135747",
+          "new": "3760322403477213111"
+        }
+      }
+    }
+  ]
+}

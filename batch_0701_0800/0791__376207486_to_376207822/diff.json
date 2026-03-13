@@ -1,0 +1,34 @@
+{
+  "comparison_index": 791,
+  "comparison": {
+    "from_folder": "Instagram_36200089_alpha",
+    "to_folder": "Instagram_36200093_alpha",
+    "from_version_code": 376207486,
+    "to_version_code": 376207822,
+    "from_version_name": "362.0.0.0.89",
+    "to_version_name": "362.0.0.0.93"
+  },
+  "summary": {
+    "old_total": 959,
+    "new_total": 956,
+    "added": 0,
+    "removed": 3,
+    "changed": 0
+  },
+  "added": [],
+  "removed": [
+    {
+      "operation": "GetIsCreatorAgentSuggestedRepliesEnabledQuery",
+      "client_doc_id": "10226538939322363421518894482"
+    },
+    {
+      "operation": "IGDirectCreatorAgentSuggestedReplies",
+      "client_doc_id": "965131301779555613500734684"
+    },
+    {
+      "operation": "ToggleCreatorAgentSuggestedReplies",
+      "client_doc_id": "135412820312754658008928806859"
+    }
+  ],
+  "changed": []
+}

@@ -1,0 +1,42 @@
+{
+  "comparison_index": 218,
+  "comparison": {
+    "from_folder": "Instagram_27200055_alpha",
+    "to_folder": "Instagram_2730004_alpha",
+    "from_version_code": 367204342,
+    "to_version_code": 367300398,
+    "from_version_name": "272.0.0.0.55",
+    "to_version_name": "273.0.0.0.4"
+  },
+  "summary": {
+    "old_total": 177,
+    "new_total": 176,
+    "added": 0,
+    "removed": 1,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [
+    {
+      "operation": "FxIGAccountsCenterServiceQuery",
+      "client_doc_id": "25237730831253652013154488145"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "IGShopsLiteEligibilityQuery",
+      "old_client_doc_id": "627977812511212088684875710",
+      "new_client_doc_id": "627977813567273132557941698",
+      "changes": {
+        "client_doc_id": {
+          "old": "627977812511212088684875710",
+          "new": "627977813567273132557941698"
+        },
+        "operation_text_hash": {
+          "old": "2511212088684875710",
+          "new": "3567273132557941698"
+        }
+      }
+    }
+  ]
+}

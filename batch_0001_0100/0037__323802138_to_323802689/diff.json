@@ -1,0 +1,26 @@
+{
+  "comparison_index": 37,
+  "comparison": {
+    "from_folder": "Instagram_22800071_alpha",
+    "to_folder": "Instagram_22800088_alpha",
+    "from_version_code": 323802138,
+    "to_version_code": 323802689,
+    "from_version_name": "228.0.0.0.71",
+    "to_version_name": "228.0.0.0.88"
+  },
+  "summary": {
+    "old_total": 124,
+    "new_total": 125,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "Create",
+      "client_doc_id": "175206642114141578563900653800"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

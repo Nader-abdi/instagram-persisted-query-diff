@@ -1,0 +1,26 @@
+{
+  "comparison_index": 256,
+  "comparison": {
+    "from_folder": "Instagram_2780006_alpha",
+    "to_folder": "Instagram_27800020_alpha",
+    "from_version_code": 367800474,
+    "to_version_code": 367801370,
+    "from_version_name": "278.0.0.0.6",
+    "to_version_name": "278.0.0.0.20"
+  },
+  "summary": {
+    "old_total": 179,
+    "new_total": 178,
+    "added": 0,
+    "removed": 1,
+    "changed": 0
+  },
+  "added": [],
+  "removed": [
+    {
+      "operation": "FamilyDeviceIDAppScopedDeviceIDSyncMutation",
+      "client_doc_id": "455411352809009551099714876"
+    }
+  ],
+  "changed": []
+}

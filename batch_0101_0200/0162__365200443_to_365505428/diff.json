@@ -1,0 +1,131 @@
+{
+  "comparison_index": 162,
+  "comparison": {
+    "from_folder": "Instagram_25200013_alpha",
+    "to_folder": "Instagram_2551017102",
+    "from_version_code": 365200443,
+    "to_version_code": 365505428,
+    "from_version_name": "252.0.0.0.13",
+    "to_version_name": "255.1.0.17.102"
+  },
+  "summary": {
+    "old_total": 149,
+    "new_total": 161,
+    "added": 12,
+    "removed": 0,
+    "changed": 4
+  },
+  "added": [
+    {
+      "operation": "ARClassBenchmarkCountQuery",
+      "client_doc_id": "11876381609975212970445924495"
+    },
+    {
+      "operation": "ContentSchedulingDeleteMutation",
+      "client_doc_id": "427163489015638317715942066730"
+    },
+    {
+      "operation": "ContentSchedulingPublishMutation",
+      "client_doc_id": "38222074468028251967718750185"
+    },
+    {
+      "operation": "ContentSchedulingRescheduleMutation",
+      "client_doc_id": "249899819926545891768410957"
+    },
+    {
+      "operation": "IGIABLinkHistoryDeleteDataMutation",
+      "client_doc_id": "40361765476478296192769024687"
+    },
+    {
+      "operation": "IGRemoveAREffectMutation",
+      "client_doc_id": "429461455817988950252676506642"
+    },
+    {
+      "operation": "IGSaveAREffectMutationCall",
+      "client_doc_id": "153268337611924027861861778212"
+    },
+    {
+      "operation": "IGShopsLiteEligibilityQuery",
+      "client_doc_id": "6279778116509485616046767359"
+    },
+    {
+      "operation": "IGUnsaveAREffectMutationCall",
+      "client_doc_id": "382647936012893762654598559656"
+    },
+    {
+      "operation": "ReelsTogetherJoinInboxQuery",
+      "client_doc_id": "345271443417187638408869607999"
+    },
+    {
+      "operation": "TestGraphQLSubscription",
+      "client_doc_id": "909698055044060913166785176"
+    },
+    {
+      "operation": "TestGraphQLSubscriptionPublish",
+      "client_doc_id": "347796522813442060358803556112"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "HasAvatarQuery",
+      "old_client_doc_id": "17657533914330745830152168250",
+      "new_client_doc_id": "17657533914081383594400255583",
+      "changes": {
+        "client_doc_id": {
+          "old": "17657533914330745830152168250",
+          "new": "17657533914081383594400255583"
+        },
+        "operation_text_hash": {
+          "old": "4330745830152168250",
+          "new": "4081383594400255583"
+        }
+      }
+    },
+    {
+      "operation": "IGAREffectsForProfileQuery",
+      "old_client_doc_id": "13621563683018698302390967227",
+      "new_client_doc_id": "13621563683346209519345396184",
+      "changes": {
+        "client_doc_id": {
+          "old": "13621563683018698302390967227",
+          "new": "13621563683346209519345396184"
+        },
+        "operation_text_hash": {
+          "old": "3018698302390967227",
+          "new": "3346209519345396184"
+        }
+      }
+    },
+    {
+      "operation": "IGPayoutGetFinancialEntityError",
+      "old_client_doc_id": "42262642603981294724140495918",
+      "new_client_doc_id": "422626426011809871789506092601",
+      "changes": {
+        "client_doc_id": {
+          "old": "42262642603981294724140495918",
+          "new": "422626426011809871789506092601"
+        },
+        "operation_text_hash": {
+          "old": "3981294724140495918",
+          "new": "11809871789506092601"
+        }
+      }
+    },
+    {
+      "operation": "ListCallsQuery",
+      "old_client_doc_id": "171864746410923012274749586327",
+      "new_client_doc_id": "17186474646805831707206208228",
+      "changes": {
+        "client_doc_id": {
+          "old": "171864746410923012274749586327",
+          "new": "17186474646805831707206208228"
+        },
+        "operation_text_hash": {
+          "old": "10923012274749586327",
+          "new": "6805831707206208228"
+        }
+      }
+    }
+  ]
+}

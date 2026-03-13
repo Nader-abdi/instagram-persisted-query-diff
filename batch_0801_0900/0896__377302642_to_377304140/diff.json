@@ -1,0 +1,78 @@
+{
+  "comparison_index": 896,
+  "comparison": {
+    "from_folder": "Instagram_36900026_alpha",
+    "to_folder": "Instagram_36900042_alpha",
+    "from_version_code": 377302642,
+    "to_version_code": 377304140,
+    "from_version_name": "369.0.0.0.26",
+    "to_version_name": "369.0.0.0.42"
+  },
+  "summary": {
+    "old_total": 987,
+    "new_total": 991,
+    "added": 5,
+    "removed": 1,
+    "changed": 2
+  },
+  "added": [
+    {
+      "operation": "BulkFollow",
+      "client_doc_id": "24479559425069782742398165626"
+    },
+    {
+      "operation": "BulkUnfollow",
+      "client_doc_id": "330358805614264566290858343681"
+    },
+    {
+      "operation": "IGAiGroupActivityMutation",
+      "client_doc_id": "28609950322743152462065211001"
+    },
+    {
+      "operation": "IGDirectAddQuickSnapToCollectionMutation",
+      "client_doc_id": "16389200573847050607778521741"
+    },
+    {
+      "operation": "IGGraphQLOnDeviceActionIDMutation",
+      "client_doc_id": "177885812214131535044482132578"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "CreateManyV2",
+      "client_doc_id": "295075447213447084263464845644"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "IGProfileTimelineByUsernameQuery",
+      "old_client_doc_id": "15052394588225400889454944125",
+      "new_client_doc_id": "15052394589627898658581867140",
+      "changes": {
+        "client_doc_id": {
+          "old": "15052394588225400889454944125",
+          "new": "15052394589627898658581867140"
+        },
+        "operation_text_hash": {
+          "old": "8225400889454944125",
+          "new": "9627898658581867140"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "5603035085811035823568742540",
+      "new_client_doc_id": "56030350814139130612160741831",
+      "changes": {
+        "client_doc_id": {
+          "old": "5603035085811035823568742540",
+          "new": "56030350814139130612160741831"
+        },
+        "operation_text_hash": {
+          "old": "5811035823568742540",
+          "new": "14139130612160741831"
+        }
+      }
+    }
+  ]
+}

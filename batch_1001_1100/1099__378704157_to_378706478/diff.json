@@ -1,0 +1,67 @@
+{
+  "comparison_index": 1099,
+  "comparison": {
+    "from_folder": "Instagram_38300378_beta",
+    "to_folder": "Instagram_383104878",
+    "from_version_code": 378704157,
+    "to_version_code": 378706478,
+    "from_version_name": "383.0.0.3.78",
+    "to_version_name": "383.1.0.48.78"
+  },
+  "summary": {
+    "old_total": 1202,
+    "new_total": 1202,
+    "added": 0,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "CreateInboxTrayItemRequest",
+      "old_client_doc_id": "35104002916123225673678963669",
+      "new_client_doc_id": "35104002917384084502981931713",
+      "changes": {
+        "client_doc_id": {
+          "old": "35104002916123225673678963669",
+          "new": "35104002917384084502981931713"
+        },
+        "operation_text_hash": {
+          "old": "16123225673678963669",
+          "new": "17384084502981931713"
+        }
+      }
+    },
+    {
+      "operation": "InboxTrayRequest",
+      "old_client_doc_id": "26838444191046034737581357928",
+      "new_client_doc_id": "26838444196707376192155627142",
+      "changes": {
+        "client_doc_id": {
+          "old": "26838444191046034737581357928",
+          "new": "26838444196707376192155627142"
+        },
+        "operation_text_hash": {
+          "old": "1046034737581357928",
+          "new": "6707376192155627142"
+        }
+      }
+    },
+    {
+      "operation": "InboxTrayRequestForUserQuery",
+      "old_client_doc_id": "203563907223222015673908723",
+      "new_client_doc_id": "203563907691447954117968253",
+      "changes": {
+        "client_doc_id": {
+          "old": "203563907223222015673908723",
+          "new": "203563907691447954117968253"
+        },
+        "operation_text_hash": {
+          "old": "223222015673908723",
+          "new": "691447954117968253"
+        }
+      }
+    }
+  ]
+}

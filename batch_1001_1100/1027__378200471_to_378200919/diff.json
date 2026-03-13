@@ -1,0 +1,205 @@
+{
+  "comparison_index": 1027,
+  "comparison": {
+    "from_folder": "Instagram_3780004_alpha",
+    "to_folder": "Instagram_3780008_alpha",
+    "from_version_code": 378200471,
+    "to_version_code": 378200919,
+    "from_version_name": "378.0.0.0.4",
+    "to_version_name": "378.0.0.0.8"
+  },
+  "summary": {
+    "old_total": 1111,
+    "new_total": 1113,
+    "added": 3,
+    "removed": 1,
+    "changed": 11
+  },
+  "added": [
+    {
+      "operation": "AutofillFetchContactDataMultipleEntriesQuery",
+      "client_doc_id": "183118870916769779885738465711"
+    },
+    {
+      "operation": "GetFriendMapEntrypointInfoQuery",
+      "client_doc_id": "13720703514122330384701112130"
+    },
+    {
+      "operation": "IGDirectStickerQuery",
+      "client_doc_id": "167411597015358029214685569319"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "UnlockPresencesMutation",
+      "client_doc_id": "22274393586237422928869464199"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "BCNInboxMessagePointQuery",
+      "old_client_doc_id": "3346477817638449215557133106",
+      "new_client_doc_id": "33464778179884164729422552550",
+      "changes": {
+        "client_doc_id": {
+          "old": "3346477817638449215557133106",
+          "new": "33464778179884164729422552550"
+        },
+        "operation_text_hash": {
+          "old": "638449215557133106",
+          "new": "9884164729422552550"
+        }
+      }
+    },
+    {
+      "operation": "BCNInboxSnapshotQuery",
+      "old_client_doc_id": "151435615617936063689841065127",
+      "new_client_doc_id": "15143561561543772023545136450",
+      "changes": {
+        "client_doc_id": {
+          "old": "151435615617936063689841065127",
+          "new": "15143561561543772023545136450"
+        },
+        "operation_text_hash": {
+          "old": "17936063689841065127",
+          "new": "1543772023545136450"
+        }
+      }
+    },
+    {
+      "operation": "BCNInboxThreadSnapshotQuery",
+      "old_client_doc_id": "173920685410203232656772708672",
+      "new_client_doc_id": "1739206854152952201759094296",
+      "changes": {
+        "client_doc_id": {
+          "old": "173920685410203232656772708672",
+          "new": "1739206854152952201759094296"
+        },
+        "operation_text_hash": {
+          "old": "10203232656772708672",
+          "new": "152952201759094296"
+        }
+      }
+    },
+    {
+      "operation": "EBFetchVirtualDeviceInfoForDeviceAdditionQuery",
+      "old_client_doc_id": "25617665709695605013705725376",
+      "new_client_doc_id": "256176657016536403530933489353",
+      "changes": {
+        "client_doc_id": {
+          "old": "25617665709695605013705725376",
+          "new": "256176657016536403530933489353"
+        },
+        "operation_text_hash": {
+          "old": "9695605013705725376",
+          "new": "16536403530933489353"
+        }
+      }
+    },
+    {
+      "operation": "EBFetchVirtualDeviceInfoForDeviceAdditionV2Query",
+      "old_client_doc_id": "762860449855119397511358911",
+      "new_client_doc_id": "762860442583296017033061493",
+      "changes": {
+        "client_doc_id": {
+          "old": "762860449855119397511358911",
+          "new": "762860442583296017033061493"
+        },
+        "operation_text_hash": {
+          "old": "9855119397511358911",
+          "new": "2583296017033061493"
+        }
+      }
+    },
+    {
+      "operation": "GetAllPresencePoints",
+      "old_client_doc_id": "8283516481948801216259356903",
+      "new_client_doc_id": "8283516488034707126011839814",
+      "changes": {
+        "client_doc_id": {
+          "old": "8283516481948801216259356903",
+          "new": "8283516488034707126011839814"
+        },
+        "operation_text_hash": {
+          "old": "1948801216259356903",
+          "new": "8034707126011839814"
+        }
+      }
+    },
+    {
+      "operation": "GetFriendMapSettingsQuery",
+      "old_client_doc_id": "24531820627022983767003404447",
+      "new_client_doc_id": "24531820622692262094325515183",
+      "changes": {
+        "client_doc_id": {
+          "old": "24531820627022983767003404447",
+          "new": "24531820622692262094325515183"
+        },
+        "operation_text_hash": {
+          "old": "7022983767003404447",
+          "new": "2692262094325515183"
+        }
+      }
+    },
+    {
+      "operation": "GetFriendMapStoriesMidcardInfoQuery",
+      "old_client_doc_id": "363420966611607677564757877837",
+      "new_client_doc_id": "3634209666462995836722039651",
+      "changes": {
+        "client_doc_id": {
+          "old": "363420966611607677564757877837",
+          "new": "3634209666462995836722039651"
+        },
+        "operation_text_hash": {
+          "old": "11607677564757877837",
+          "new": "462995836722039651"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineByUsernameQuery",
+      "old_client_doc_id": "150523945814959631579265871406",
+      "new_client_doc_id": "15052394586887407035956853300",
+      "changes": {
+        "client_doc_id": {
+          "old": "150523945814959631579265871406",
+          "new": "15052394586887407035956853300"
+        },
+        "operation_text_hash": {
+          "old": "14959631579265871406",
+          "new": "6887407035956853300"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "56030350813736749579458778500",
+      "new_client_doc_id": "56030350817169933463804812004",
+      "changes": {
+        "client_doc_id": {
+          "old": "56030350813736749579458778500",
+          "new": "56030350817169933463804812004"
+        },
+        "operation_text_hash": {
+          "old": "13736749579458778500",
+          "new": "17169933463804812004"
+        }
+      }
+    },
+    {
+      "operation": "UpdateFriendMapSettingsMutation",
+      "old_client_doc_id": "211996820812614546869548566444",
+      "new_client_doc_id": "21199682085997243724140120062",
+      "changes": {
+        "client_doc_id": {
+          "old": "211996820812614546869548566444",
+          "new": "21199682085997243724140120062"
+        },
+        "operation_text_hash": {
+          "old": "12614546869548566444",
+          "new": "5997243724140120062"
+        }
+      }
+    }
+  ]
+}

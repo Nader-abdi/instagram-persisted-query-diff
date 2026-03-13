@@ -1,0 +1,134 @@
+{
+  "comparison_index": 895,
+  "comparison": {
+    "from_folder": "Instagram_3690003_alpha",
+    "to_folder": "Instagram_36900026_alpha",
+    "from_version_code": 377300388,
+    "to_version_code": 377302642,
+    "from_version_name": "369.0.0.0.3",
+    "to_version_name": "369.0.0.0.26"
+  },
+  "summary": {
+    "old_total": 984,
+    "new_total": 987,
+    "added": 4,
+    "removed": 1,
+    "changed": 6
+  },
+  "added": [
+    {
+      "operation": "AiStudioDeleteMemoryMutation",
+      "client_doc_id": "2781333901605704638563913683"
+    },
+    {
+      "operation": "AiStudioGetMemoryQuery",
+      "client_doc_id": "318405818914692424683570127385"
+    },
+    {
+      "operation": "FetchUserRepostsQuery",
+      "client_doc_id": "391529631616042886321024109090"
+    },
+    {
+      "operation": "UnmuteMediaRepostUser",
+      "client_doc_id": "10341362782925071412010827555"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "FetchUserRepostTimelineQuery",
+      "client_doc_id": "37146957172106783852792606898"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "GenAIEditAnimateMutation",
+      "old_client_doc_id": "319763697814579268668114217672",
+      "new_client_doc_id": "31976369781082966216136912483",
+      "changes": {
+        "client_doc_id": {
+          "old": "319763697814579268668114217672",
+          "new": "31976369781082966216136912483"
+        },
+        "operation_text_hash": {
+          "old": "14579268668114217672",
+          "new": "1082966216136912483"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineEditMutation",
+      "old_client_doc_id": "336715552312114643305258236518",
+      "new_client_doc_id": "33671555231450241865523322647",
+      "changes": {
+        "client_doc_id": {
+          "old": "336715552312114643305258236518",
+          "new": "33671555231450241865523322647"
+        },
+        "operation_text_hash": {
+          "old": "12114643305258236518",
+          "new": "1450241865523322647"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineGenerateFlashMutation",
+      "old_client_doc_id": "271744227616069135731960162081",
+      "new_client_doc_id": "2717442276848556108005167328",
+      "changes": {
+        "client_doc_id": {
+          "old": "271744227616069135731960162081",
+          "new": "2717442276848556108005167328"
+        },
+        "operation_text_hash": {
+          "old": "16069135731960162081",
+          "new": "848556108005167328"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineRegenerateMutation",
+      "old_client_doc_id": "398001500417391748857201078290",
+      "new_client_doc_id": "39800150043273143970567271735",
+      "changes": {
+        "client_doc_id": {
+          "old": "398001500417391748857201078290",
+          "new": "39800150043273143970567271735"
+        },
+        "operation_text_hash": {
+          "old": "17391748857201078290",
+          "new": "3273143970567271735"
+        }
+      }
+    },
+    {
+      "operation": "GetUserSharingInfo",
+      "old_client_doc_id": "174324489012053413492405019727",
+      "new_client_doc_id": "17432448904844553886361563986",
+      "changes": {
+        "client_doc_id": {
+          "old": "174324489012053413492405019727",
+          "new": "17432448904844553886361563986"
+        },
+        "operation_text_hash": {
+          "old": "12053413492405019727",
+          "new": "4844553886361563986"
+        }
+      }
+    },
+    {
+      "operation": "MuteMediaRepostUser",
+      "old_client_doc_id": "41445395234908189834440976010",
+      "new_client_doc_id": "41445395235383898264851058833",
+      "changes": {
+        "client_doc_id": {
+          "old": "41445395234908189834440976010",
+          "new": "41445395235383898264851058833"
+        },
+        "operation_text_hash": {
+          "old": "4908189834440976010",
+          "new": "5383898264851058833"
+        }
+      }
+    }
+  ]
+}

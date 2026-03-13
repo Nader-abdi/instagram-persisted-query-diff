@@ -1,0 +1,136 @@
+{
+  "comparison_index": 1319,
+  "comparison": {
+    "from_folder": "Instagram_41000051_alpha",
+    "to_folder": "Instagram_41000062_alpha",
+    "from_version_code": 381602705,
+    "to_version_code": 381603277,
+    "from_version_name": "410.0.0.0.51",
+    "to_version_name": "410.0.0.0.62"
+  },
+  "summary": {
+    "old_total": 1416,
+    "new_total": 1418,
+    "added": 2,
+    "removed": 0,
+    "changed": 7
+  },
+  "added": [
+    {
+      "operation": "OfflineLikeMutation",
+      "client_doc_id": "33567334014438223640500849"
+    },
+    {
+      "operation": "OfflineUnlikeMutation",
+      "client_doc_id": "23556659212030222486015800290"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGDUpdateThreadVisibility",
+      "old_client_doc_id": "213855108713051393725529071649",
+      "new_client_doc_id": "21385510871335405535024642408",
+      "changes": {
+        "client_doc_id": {
+          "old": "213855108713051393725529071649",
+          "new": "21385510871335405535024642408"
+        },
+        "operation_text_hash": {
+          "old": "13051393725529071649",
+          "new": "1335405535024642408"
+        }
+      }
+    },
+    {
+      "operation": "IGDirectUQPPDeltas",
+      "old_client_doc_id": "40751159432685252583792098316",
+      "new_client_doc_id": "40751159432386081860822461306",
+      "changes": {
+        "client_doc_id": {
+          "old": "40751159432685252583792098316",
+          "new": "40751159432386081860822461306"
+        },
+        "operation_text_hash": {
+          "old": "2685252583792098316",
+          "new": "2386081860822461306"
+        }
+      }
+    },
+    {
+      "operation": "IGStoriesArchiveBulkDeleteMutation",
+      "old_client_doc_id": "158322699417835261544197777556",
+      "new_client_doc_id": "15832269942760446974352910022",
+      "changes": {
+        "client_doc_id": {
+          "old": "158322699417835261544197777556",
+          "new": "15832269942760446974352910022"
+        },
+        "operation_text_hash": {
+          "old": "17835261544197777556",
+          "new": "2760446974352910022"
+        }
+      }
+    },
+    {
+      "operation": "ListFeedQuery",
+      "old_client_doc_id": "23905034195510423162766306007",
+      "new_client_doc_id": "2390503419806245735605778811",
+      "changes": {
+        "client_doc_id": {
+          "old": "23905034195510423162766306007",
+          "new": "2390503419806245735605778811"
+        },
+        "operation_text_hash": {
+          "old": "5510423162766306007",
+          "new": "806245735605778811"
+        }
+      }
+    },
+    {
+      "operation": "ReplyApprovalsFetchHiddenPendingRepliesQuery",
+      "old_client_doc_id": "392464502615512723643052181800",
+      "new_client_doc_id": "392464502616146324050713368896",
+      "changes": {
+        "client_doc_id": {
+          "old": "392464502615512723643052181800",
+          "new": "392464502616146324050713368896"
+        },
+        "operation_text_hash": {
+          "old": "15512723643052181800",
+          "new": "16146324050713368896"
+        }
+      }
+    },
+    {
+      "operation": "ReplyApprovalsFetchPendingRepliesQuery",
+      "old_client_doc_id": "37231828629957277953911124166",
+      "new_client_doc_id": "372318286212352031871940534792",
+      "changes": {
+        "client_doc_id": {
+          "old": "37231828629957277953911124166",
+          "new": "372318286212352031871940534792"
+        },
+        "operation_text_hash": {
+          "old": "9957277953911124166",
+          "new": "12352031871940534792"
+        }
+      }
+    },
+    {
+      "operation": "SerpBatchPrefetchQuery",
+      "old_client_doc_id": "179116796912381384780413645947",
+      "new_client_doc_id": "179116796918268574810742138325",
+      "changes": {
+        "client_doc_id": {
+          "old": "179116796912381384780413645947",
+          "new": "179116796918268574810742138325"
+        },
+        "operation_text_hash": {
+          "old": "12381384780413645947",
+          "new": "18268574810742138325"
+        }
+      }
+    }
+  ]
+}

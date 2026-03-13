@@ -1,0 +1,72 @@
+{
+  "comparison_index": 780,
+  "comparison": {
+    "from_folder": "Instagram_3620002_alpha",
+    "to_folder": "Instagram_3620008_alpha",
+    "from_version_code": 376200178,
+    "to_version_code": 376200682,
+    "from_version_name": "362.0.0.0.2",
+    "to_version_name": "362.0.0.0.8"
+  },
+  "summary": {
+    "old_total": 958,
+    "new_total": 959,
+    "added": 1,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [
+    {
+      "operation": "IGDirectChannelEducationSkipGoalMetric",
+      "client_doc_id": "230620814616167071290984975423"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "ClipsProfileQuery",
+      "old_client_doc_id": "209049231612394678103389782419",
+      "new_client_doc_id": "209049231610289307187644069679",
+      "changes": {
+        "client_doc_id": {
+          "old": "209049231612394678103389782419",
+          "new": "209049231610289307187644069679"
+        },
+        "operation_text_hash": {
+          "old": "12394678103389782419",
+          "new": "10289307187644069679"
+        }
+      }
+    },
+    {
+      "operation": "IGDirectChannelCreatorEducationGoalQuery",
+      "old_client_doc_id": "2779897612071726938549721679",
+      "new_client_doc_id": "27798976117432855044020904045",
+      "changes": {
+        "client_doc_id": {
+          "old": "2779897612071726938549721679",
+          "new": "27798976117432855044020904045"
+        },
+        "operation_text_hash": {
+          "old": "2071726938549721679",
+          "new": "17432855044020904045"
+        }
+      }
+    },
+    {
+      "operation": "MetaAiContentDeepDiveQuery",
+      "old_client_doc_id": "11896868412372991917608589229",
+      "new_client_doc_id": "1189686844951765104211421649",
+      "changes": {
+        "client_doc_id": {
+          "old": "11896868412372991917608589229",
+          "new": "1189686844951765104211421649"
+        },
+        "operation_text_hash": {
+          "old": "12372991917608589229",
+          "new": "4951765104211421649"
+        }
+      }
+    }
+  ]
+}

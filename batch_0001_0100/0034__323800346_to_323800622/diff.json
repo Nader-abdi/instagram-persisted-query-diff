@@ -1,0 +1,37 @@
+{
+  "comparison_index": 34,
+  "comparison": {
+    "from_folder": "Instagram_22800011_alpha",
+    "to_folder": "Instagram_22800020_alpha",
+    "from_version_code": 323800346,
+    "to_version_code": 323800622,
+    "from_version_name": "228.0.0.0.11",
+    "to_version_name": "228.0.0.0.20"
+  },
+  "summary": {
+    "old_total": 124,
+    "new_total": 124,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FetchFanClubFromUser",
+      "old_client_doc_id": "10302603908845170669573828981",
+      "new_client_doc_id": "103026039010029492652614084394",
+      "changes": {
+        "client_doc_id": {
+          "old": "10302603908845170669573828981",
+          "new": "103026039010029492652614084394"
+        },
+        "operation_text_hash": {
+          "old": "8845170669573828981",
+          "new": "10029492652614084394"
+        }
+      }
+    }
+  ]
+}

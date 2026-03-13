@@ -1,0 +1,42 @@
+{
+  "comparison_index": 1096,
+  "comparison": {
+    "from_folder": "Instagram_38300047_alpha",
+    "to_folder": "Instagram_38300061_alpha",
+    "from_version_code": 378702428,
+    "to_version_code": 378703142,
+    "from_version_name": "383.0.0.0.47",
+    "to_version_name": "383.0.0.0.61"
+  },
+  "summary": {
+    "old_total": 1198,
+    "new_total": 1199,
+    "added": 1,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "IGWriteRecentlySelectedAudioMutation",
+      "client_doc_id": "408608955918004081931623810659"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "BcnContactPointQuery",
+      "old_client_doc_id": "257679736911102723761463569925",
+      "new_client_doc_id": "25767973698199152609005446573",
+      "changes": {
+        "client_doc_id": {
+          "old": "257679736911102723761463569925",
+          "new": "25767973698199152609005446573"
+        },
+        "operation_text_hash": {
+          "old": "11102723761463569925",
+          "new": "8199152609005446573"
+        }
+      }
+    }
+  ]
+}

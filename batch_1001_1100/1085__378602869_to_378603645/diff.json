@@ -1,0 +1,96 @@
+{
+  "comparison_index": 1085,
+  "comparison": {
+    "from_folder": "Instagram_38200059_alpha",
+    "to_folder": "Instagram_38200075_alpha",
+    "from_version_code": 378602869,
+    "to_version_code": 378603645,
+    "from_version_name": "382.0.0.0.59",
+    "to_version_name": "382.0.0.0.75"
+  },
+  "summary": {
+    "old_total": 1189,
+    "new_total": 1190,
+    "added": 2,
+    "removed": 1,
+    "changed": 4
+  },
+  "added": [
+    {
+      "operation": "AutofillDeleteContactDataMultipleEntriesMutation",
+      "client_doc_id": "258582770716787983390255238318"
+    },
+    {
+      "operation": "IGAvatarCoinFlipOptionsQuery",
+      "client_doc_id": "55220510315516773256120964503"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "IGAvatarCoinFlipOptions",
+      "client_doc_id": "1017542709749312801273620229"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "BcnInboxUQPPDeltas",
+      "old_client_doc_id": "1196238712899439038852966352",
+      "new_client_doc_id": "11962387123551601267323860078",
+      "changes": {
+        "client_doc_id": {
+          "old": "1196238712899439038852966352",
+          "new": "11962387123551601267323860078"
+        },
+        "operation_text_hash": {
+          "old": "899439038852966352",
+          "new": "3551601267323860078"
+        }
+      }
+    },
+    {
+      "operation": "HasAvatarQuery",
+      "old_client_doc_id": "176575339113814643398381488942",
+      "new_client_doc_id": "17657533917403276932176071414",
+      "changes": {
+        "client_doc_id": {
+          "old": "176575339113814643398381488942",
+          "new": "17657533917403276932176071414"
+        },
+        "operation_text_hash": {
+          "old": "13814643398381488942",
+          "new": "7403276932176071414"
+        }
+      }
+    },
+    {
+      "operation": "OAuthAccountLinkingGetLoginURLQuery",
+      "old_client_doc_id": "301508945979864103549556911",
+      "new_client_doc_id": "3015089459518024050378386196",
+      "changes": {
+        "client_doc_id": {
+          "old": "301508945979864103549556911",
+          "new": "3015089459518024050378386196"
+        },
+        "operation_text_hash": {
+          "old": "79864103549556911",
+          "new": "518024050378386196"
+        }
+      }
+    },
+    {
+      "operation": "SchoolsUserDirectory",
+      "old_client_doc_id": "192991639910290048561986591619",
+      "new_client_doc_id": "19299163992176300057076914888",
+      "changes": {
+        "client_doc_id": {
+          "old": "192991639910290048561986591619",
+          "new": "19299163992176300057076914888"
+        },
+        "operation_text_hash": {
+          "old": "10290048561986591619",
+          "new": "2176300057076914888"
+        }
+      }
+    }
+  ]
+}

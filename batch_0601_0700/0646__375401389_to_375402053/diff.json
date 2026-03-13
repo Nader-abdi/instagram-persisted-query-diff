@@ -1,0 +1,26 @@
+{
+  "comparison_index": 646,
+  "comparison": {
+    "from_folder": "Instagram_35400017_alpha",
+    "to_folder": "Instagram_35400025_alpha",
+    "from_version_code": 375401389,
+    "to_version_code": 375402053,
+    "from_version_name": "354.0.0.0.17",
+    "to_version_name": "354.0.0.0.25"
+  },
+  "summary": {
+    "old_total": 876,
+    "new_total": 877,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "TextAppUserQuery",
+      "client_doc_id": "421624467512702412140884820998"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

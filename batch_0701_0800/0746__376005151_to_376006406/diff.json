@@ -1,0 +1,96 @@
+{
+  "comparison_index": 746,
+  "comparison": {
+    "from_folder": "Instagram_36000060_alpha",
+    "to_folder": "Instagram_36000075_alpha",
+    "from_version_code": 376005151,
+    "to_version_code": 376006406,
+    "from_version_name": "360.0.0.0.60",
+    "to_version_name": "360.0.0.0.75"
+  },
+  "summary": {
+    "old_total": 935,
+    "new_total": 942,
+    "added": 7,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [
+    {
+      "operation": "FanClubInfo_At_Pando_Connection_Pagination_XIGFanClub_exclusive_media_content",
+      "client_doc_id": "31444893111106451332440891285"
+    },
+    {
+      "operation": "IGImaginedForYouSetGenerationSeenMutation",
+      "client_doc_id": "22155708769934897869129178233"
+    },
+    {
+      "operation": "OxygenChannelOptIn",
+      "client_doc_id": "245693864414140521948548458575"
+    },
+    {
+      "operation": "OxygenChannelOptOut",
+      "client_doc_id": "26708047454828271184763418536"
+    },
+    {
+      "operation": "OxygenChannelStatus",
+      "client_doc_id": "81084218717101252035328260705"
+    },
+    {
+      "operation": "RemoveObsoleteLocationSharingRequestsMutation",
+      "client_doc_id": "24919244476498522642558114342"
+    },
+    {
+      "operation": "XCXPIGStoryUnifiedFeedbackQuery",
+      "client_doc_id": "856563652354694956110863786"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FanClubInfo",
+      "old_client_doc_id": "258359546016567649662494003650",
+      "new_client_doc_id": "25835954604494671748539517300",
+      "changes": {
+        "client_doc_id": {
+          "old": "258359546016567649662494003650",
+          "new": "25835954604494671748539517300"
+        },
+        "operation_text_hash": {
+          "old": "16567649662494003650",
+          "new": "4494671748539517300"
+        }
+      }
+    },
+    {
+      "operation": "FollowersList",
+      "old_client_doc_id": "28479704796103327967497072914",
+      "new_client_doc_id": "28479704798344003308647327139",
+      "changes": {
+        "client_doc_id": {
+          "old": "28479704796103327967497072914",
+          "new": "28479704798344003308647327139"
+        },
+        "operation_text_hash": {
+          "old": "6103327967497072914",
+          "new": "8344003308647327139"
+        }
+      }
+    },
+    {
+      "operation": "FollowingList",
+      "old_client_doc_id": "161046392817801076217582096345",
+      "new_client_doc_id": "16104639289023609826830352479",
+      "changes": {
+        "client_doc_id": {
+          "old": "161046392817801076217582096345",
+          "new": "16104639289023609826830352479"
+        },
+        "operation_text_hash": {
+          "old": "17801076217582096345",
+          "new": "9023609826830352479"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "comparison_index": 543,
+  "comparison": {
+    "from_folder": "Instagram_34700042_alpha",
+    "to_folder": "Instagram_34700056_alpha",
+    "from_version_code": 374703213,
+    "to_version_code": 374704375,
+    "from_version_name": "347.0.0.0.42",
+    "to_version_name": "347.0.0.0.56"
+  },
+  "summary": {
+    "old_total": 815,
+    "new_total": 815,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IgZeroEasyDogfoodingStart",
+      "old_client_doc_id": "187638711011607342911486730995",
+      "new_client_doc_id": "18763871104308738622164486190",
+      "changes": {
+        "client_doc_id": {
+          "old": "187638711011607342911486730995",
+          "new": "18763871104308738622164486190"
+        },
+        "operation_text_hash": {
+          "old": "11607342911486730995",
+          "new": "4308738622164486190"
+        },
+        "schema": {
+          "old": "distillery",
+          "new": "instagram"
+        }
+      }
+    }
+  ]
+}

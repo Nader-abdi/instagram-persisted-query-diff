@@ -1,0 +1,37 @@
+{
+  "comparison_index": 444,
+  "comparison": {
+    "from_folder": "Instagram_33900073_alpha",
+    "to_folder": "Instagram_33900080_alpha",
+    "from_version_code": 373905953,
+    "to_version_code": 373906535,
+    "from_version_name": "339.0.0.0.73",
+    "to_version_name": "339.0.0.0.80"
+  },
+  "summary": {
+    "old_total": 754,
+    "new_total": 754,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGProfileShareHighlightsToMainGridQuery",
+      "old_client_doc_id": "192194529316642570477375026021",
+      "new_client_doc_id": "192194529318304279879088564100",
+      "changes": {
+        "client_doc_id": {
+          "old": "192194529316642570477375026021",
+          "new": "192194529318304279879088564100"
+        },
+        "operation_text_hash": {
+          "old": "16642570477375026021",
+          "new": "18304279879088564100"
+        }
+      }
+    }
+  ]
+}

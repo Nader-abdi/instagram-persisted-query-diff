@@ -1,0 +1,37 @@
+{
+  "comparison_index": 779,
+  "comparison": {
+    "from_folder": "Instagram_361004688",
+    "to_folder": "Instagram_3620002_alpha",
+    "from_version_code": 376111580,
+    "to_version_code": 376200178,
+    "from_version_name": "361.0.0.46.88",
+    "to_version_name": "362.0.0.0.2"
+  },
+  "summary": {
+    "old_total": 958,
+    "new_total": 958,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGDirectChannelCreatorEducationGoalQuery",
+      "old_client_doc_id": "27798976117432855044020904045",
+      "new_client_doc_id": "2779897612071726938549721679",
+      "changes": {
+        "client_doc_id": {
+          "old": "27798976117432855044020904045",
+          "new": "2779897612071726938549721679"
+        },
+        "operation_text_hash": {
+          "old": "17432855044020904045",
+          "new": "2071726938549721679"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "comparison_index": 783,
+  "comparison": {
+    "from_folder": "Instagram_36200026_alpha",
+    "to_folder": "Instagram_36200043_alpha",
+    "from_version_code": 376202194,
+    "to_version_code": 376203622,
+    "from_version_name": "362.0.0.0.26",
+    "to_version_name": "362.0.0.0.43"
+  },
+  "summary": {
+    "old_total": 960,
+    "new_total": 960,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FBProductCrossTaggingEligibility",
+      "old_client_doc_id": "376511747517739715580447376033",
+      "new_client_doc_id": "376511747510196751199425088606",
+      "changes": {
+        "client_doc_id": {
+          "old": "376511747517739715580447376033",
+          "new": "376511747510196751199425088606"
+        },
+        "operation_text_hash": {
+          "old": "17739715580447376033",
+          "new": "10196751199425088606"
+        }
+      }
+    }
+  ]
+}

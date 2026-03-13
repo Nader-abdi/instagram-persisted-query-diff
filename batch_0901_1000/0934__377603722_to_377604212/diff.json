@@ -1,0 +1,57 @@
+{
+  "comparison_index": 934,
+  "comparison": {
+    "from_folder": "Instagram_37200035_alpha",
+    "to_folder": "Instagram_37200039_alpha",
+    "from_version_code": 377603722,
+    "to_version_code": 377604212,
+    "from_version_name": "372.0.0.0.35",
+    "to_version_name": "372.0.0.0.39"
+  },
+  "summary": {
+    "old_total": 1014,
+    "new_total": 1015,
+    "added": 1,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [
+    {
+      "operation": "IGDirectMarkSeenForQuickSnapMutation",
+      "client_doc_id": "218503072210575904919254523385"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGDirectDeleteQuickSnapFromCollectionMutationQuery",
+      "old_client_doc_id": "3677036992743132225507660268",
+      "new_client_doc_id": "367703699217068623770715666884",
+      "changes": {
+        "client_doc_id": {
+          "old": "3677036992743132225507660268",
+          "new": "367703699217068623770715666884"
+        },
+        "operation_text_hash": {
+          "old": "743132225507660268",
+          "new": "17068623770715666884"
+        }
+      }
+    },
+    {
+      "operation": "IGDirectQuickSnapGetHistoryQuery",
+      "old_client_doc_id": "230854838614667743131836885807",
+      "new_client_doc_id": "2308548386174653813313167362",
+      "changes": {
+        "client_doc_id": {
+          "old": "230854838614667743131836885807",
+          "new": "2308548386174653813313167362"
+        },
+        "operation_text_hash": {
+          "old": "14667743131836885807",
+          "new": "174653813313167362"
+        }
+      }
+    }
+  ]
+}

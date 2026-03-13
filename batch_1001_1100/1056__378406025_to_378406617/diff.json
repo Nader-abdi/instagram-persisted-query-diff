@@ -1,0 +1,67 @@
+{
+  "comparison_index": 1056,
+  "comparison": {
+    "from_folder": "Instagram_38000053_alpha",
+    "to_folder": "Instagram_38000059_alpha",
+    "from_version_code": 378406025,
+    "to_version_code": 378406617,
+    "from_version_name": "380.0.0.0.53",
+    "to_version_name": "380.0.0.0.59"
+  },
+  "summary": {
+    "old_total": 1162,
+    "new_total": 1162,
+    "added": 0,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "ClipsProfileQuery",
+      "old_client_doc_id": "209049231611734986678381471886",
+      "new_client_doc_id": "209049231618027071038628938943",
+      "changes": {
+        "client_doc_id": {
+          "old": "209049231611734986678381471886",
+          "new": "209049231618027071038628938943"
+        },
+        "operation_text_hash": {
+          "old": "11734986678381471886",
+          "new": "18027071038628938943"
+        }
+      }
+    },
+    {
+      "operation": "FetchUserRepostsQuery",
+      "old_client_doc_id": "391529631617275253694888011360",
+      "new_client_doc_id": "391529631613048732481818185038",
+      "changes": {
+        "client_doc_id": {
+          "old": "391529631617275253694888011360",
+          "new": "391529631613048732481818185038"
+        },
+        "operation_text_hash": {
+          "old": "17275253694888011360",
+          "new": "13048732481818185038"
+        }
+      }
+    },
+    {
+      "operation": "MetaHCMQuery",
+      "old_client_doc_id": "166916289714741706359359829797",
+      "new_client_doc_id": "16691628972543977718339052830",
+      "changes": {
+        "client_doc_id": {
+          "old": "166916289714741706359359829797",
+          "new": "16691628972543977718339052830"
+        },
+        "operation_text_hash": {
+          "old": "14741706359359829797",
+          "new": "2543977718339052830"
+        }
+      }
+    }
+  ]
+}

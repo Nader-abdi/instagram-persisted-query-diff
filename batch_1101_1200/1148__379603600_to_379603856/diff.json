@@ -1,0 +1,67 @@
+{
+  "comparison_index": 1148,
+  "comparison": {
+    "from_folder": "Instagram_39000070_alpha",
+    "to_folder": "Instagram_39000075_alpha",
+    "from_version_code": 379603600,
+    "to_version_code": 379603856,
+    "from_version_name": "390.0.0.0.70",
+    "to_version_name": "390.0.0.0.75"
+  },
+  "summary": {
+    "old_total": 1225,
+    "new_total": 1225,
+    "added": 0,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "MetaAIThreadTaskPrefilledContentE2EEQuery",
+      "old_client_doc_id": "13803228271304143965745499001",
+      "new_client_doc_id": "13803228276371102156220890",
+      "changes": {
+        "client_doc_id": {
+          "old": "13803228271304143965745499001",
+          "new": "13803228276371102156220890"
+        },
+        "operation_text_hash": {
+          "old": "1304143965745499001",
+          "new": "6371102156220890"
+        }
+      }
+    },
+    {
+      "operation": "MetaAIThreadTaskPrefilledContentQuery",
+      "old_client_doc_id": "2635064422688894995112242874",
+      "new_client_doc_id": "263506442214860344845120430115",
+      "changes": {
+        "client_doc_id": {
+          "old": "2635064422688894995112242874",
+          "new": "263506442214860344845120430115"
+        },
+        "operation_text_hash": {
+          "old": "688894995112242874",
+          "new": "14860344845120430115"
+        }
+      }
+    },
+    {
+      "operation": "TopSerpQuery",
+      "old_client_doc_id": "418531681911669946553777576336",
+      "new_client_doc_id": "418531681912731910537781324072",
+      "changes": {
+        "client_doc_id": {
+          "old": "418531681911669946553777576336",
+          "new": "418531681912731910537781324072"
+        },
+        "operation_text_hash": {
+          "old": "11669946553777576336",
+          "new": "12731910537781324072"
+        }
+      }
+    }
+  ]
+}

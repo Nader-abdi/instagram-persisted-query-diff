@@ -1,0 +1,152 @@
+{
+  "comparison_index": 771,
+  "comparison": {
+    "from_folder": "Instagram_36100069_alpha",
+    "to_folder": "Instagram_36100076_alpha",
+    "from_version_code": 376106177,
+    "to_version_code": 376106766,
+    "from_version_name": "361.0.0.0.69",
+    "to_version_name": "361.0.0.0.76"
+  },
+  "summary": {
+    "old_total": 953,
+    "new_total": 953,
+    "added": 1,
+    "removed": 1,
+    "changed": 8
+  },
+  "added": [
+    {
+      "operation": "GenAIEditSuggestions",
+      "client_doc_id": "314863492115066787616336613282"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "PokesSubscription",
+      "client_doc_id": "2710254677578627477199811436"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "AcceptCollabNoteInvite",
+      "old_client_doc_id": "34314260510579397229695498067",
+      "new_client_doc_id": "3431426053244309545916005709",
+      "changes": {
+        "client_doc_id": {
+          "old": "34314260510579397229695498067",
+          "new": "3431426053244309545916005709"
+        },
+        "operation_text_hash": {
+          "old": "10579397229695498067",
+          "new": "3244309545916005709"
+        }
+      }
+    },
+    {
+      "operation": "ClipsProfileQuery",
+      "old_client_doc_id": "209049231616433058206683348725",
+      "new_client_doc_id": "209049231612394678103389782419",
+      "changes": {
+        "client_doc_id": {
+          "old": "209049231616433058206683348725",
+          "new": "209049231612394678103389782419"
+        },
+        "operation_text_hash": {
+          "old": "16433058206683348725",
+          "new": "12394678103389782419"
+        }
+      }
+    },
+    {
+      "operation": "CreateInboxTrayItemRequest",
+      "old_client_doc_id": "35104002910349257578447892265",
+      "new_client_doc_id": "3510400299951610199199089856",
+      "changes": {
+        "client_doc_id": {
+          "old": "35104002910349257578447892265",
+          "new": "3510400299951610199199089856"
+        },
+        "operation_text_hash": {
+          "old": "10349257578447892265",
+          "new": "9951610199199089856"
+        }
+      }
+    },
+    {
+      "operation": "DeclineCollabNoteInvite",
+      "old_client_doc_id": "1392838296217401078568158467",
+      "new_client_doc_id": "1392838297255624229359486960",
+      "changes": {
+        "client_doc_id": {
+          "old": "1392838296217401078568158467",
+          "new": "1392838297255624229359486960"
+        },
+        "operation_text_hash": {
+          "old": "6217401078568158467",
+          "new": "7255624229359486960"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineGenerateMutation",
+      "old_client_doc_id": "27413400817272893175196200788",
+      "new_client_doc_id": "274134008939337773210994907",
+      "changes": {
+        "client_doc_id": {
+          "old": "27413400817272893175196200788",
+          "new": "274134008939337773210994907"
+        },
+        "operation_text_hash": {
+          "old": "17272893175196200788",
+          "new": "939337773210994907"
+        }
+      }
+    },
+    {
+      "operation": "InboxTrayRequest",
+      "old_client_doc_id": "268384441913256355983537027735",
+      "new_client_doc_id": "26838444197128787375880280425",
+      "changes": {
+        "client_doc_id": {
+          "old": "268384441913256355983537027735",
+          "new": "26838444197128787375880280425"
+        },
+        "operation_text_hash": {
+          "old": "13256355983537027735",
+          "new": "7128787375880280425"
+        }
+      }
+    },
+    {
+      "operation": "InboxTrayRequestForUserQuery",
+      "old_client_doc_id": "20356390711276325827992158042",
+      "new_client_doc_id": "2035639076042015234490020607",
+      "changes": {
+        "client_doc_id": {
+          "old": "20356390711276325827992158042",
+          "new": "2035639076042015234490020607"
+        },
+        "operation_text_hash": {
+          "old": "11276325827992158042",
+          "new": "6042015234490020607"
+        }
+      }
+    },
+    {
+      "operation": "LeaveCollabNoteRequest",
+      "old_client_doc_id": "150689462115685061278825513290",
+      "new_client_doc_id": "150689462114296582680430786774",
+      "changes": {
+        "client_doc_id": {
+          "old": "150689462115685061278825513290",
+          "new": "150689462114296582680430786774"
+        },
+        "operation_text_hash": {
+          "old": "15685061278825513290",
+          "new": "14296582680430786774"
+        }
+      }
+    }
+  ]
+}

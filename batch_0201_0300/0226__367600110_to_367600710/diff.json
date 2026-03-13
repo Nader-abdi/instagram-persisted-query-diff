@@ -1,0 +1,72 @@
+{
+  "comparison_index": 226,
+  "comparison": {
+    "from_folder": "Instagram_2760001_alpha",
+    "to_folder": "Instagram_27600010_alpha",
+    "from_version_code": 367600110,
+    "to_version_code": 367600710,
+    "from_version_name": "276.0.0.0.1",
+    "to_version_name": "276.0.0.0.10"
+  },
+  "summary": {
+    "old_total": 175,
+    "new_total": 176,
+    "added": 1,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [
+    {
+      "operation": "IGProAFTooltipChannelQuery",
+      "client_doc_id": "316488051815466941185083423644"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "CommonAREffectSearchQuery",
+      "old_client_doc_id": "30900724352164990567688982338",
+      "new_client_doc_id": "30900724359249804047407352836",
+      "changes": {
+        "client_doc_id": {
+          "old": "30900724352164990567688982338",
+          "new": "30900724359249804047407352836"
+        },
+        "operation_text_hash": {
+          "old": "2164990567688982338",
+          "new": "9249804047407352836"
+        }
+      }
+    },
+    {
+      "operation": "IGAREffectCollectionQuery",
+      "old_client_doc_id": "22419679287823587703190188691",
+      "new_client_doc_id": "224196792812893421028891604428",
+      "changes": {
+        "client_doc_id": {
+          "old": "22419679287823587703190188691",
+          "new": "224196792812893421028891604428"
+        },
+        "operation_text_hash": {
+          "old": "7823587703190188691",
+          "new": "12893421028891604428"
+        }
+      }
+    },
+    {
+      "operation": "IGAREffectsByIdQuery",
+      "old_client_doc_id": "22130083722183534489837979981",
+      "new_client_doc_id": "2213008372290277251393460686",
+      "changes": {
+        "client_doc_id": {
+          "old": "22130083722183534489837979981",
+          "new": "2213008372290277251393460686"
+        },
+        "operation_text_hash": {
+          "old": "2183534489837979981",
+          "new": "290277251393460686"
+        }
+      }
+    }
+  ]
+}

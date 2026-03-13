@@ -1,0 +1,42 @@
+{
+  "comparison_index": 1284,
+  "comparison": {
+    "from_folder": "Instagram_40600090_alpha",
+    "to_folder": "Instagram_40600096_alpha",
+    "from_version_code": 381200655,
+    "to_version_code": 381200967,
+    "from_version_name": "406.0.0.0.90",
+    "to_version_name": "406.0.0.0.96"
+  },
+  "summary": {
+    "old_total": 1366,
+    "new_total": 1367,
+    "added": 1,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "FriendMapPlacesDetailsQuery",
+      "client_doc_id": "66208680013764986477717119559"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FriendMapFriendsVisitedPlacesQuery",
+      "old_client_doc_id": "12142263416030224108196077273",
+      "new_client_doc_id": "121422634116677297738355138888",
+      "changes": {
+        "client_doc_id": {
+          "old": "12142263416030224108196077273",
+          "new": "121422634116677297738355138888"
+        },
+        "operation_text_hash": {
+          "old": "6030224108196077273",
+          "new": "16677297738355138888"
+        }
+      }
+    }
+  ]
+}

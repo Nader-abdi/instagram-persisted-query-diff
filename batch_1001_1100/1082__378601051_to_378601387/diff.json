@@ -1,0 +1,26 @@
+{
+  "comparison_index": 1082,
+  "comparison": {
+    "from_folder": "Instagram_38200021_alpha",
+    "to_folder": "Instagram_38200028_alpha",
+    "from_version_code": 378601051,
+    "to_version_code": 378601387,
+    "from_version_name": "382.0.0.0.21",
+    "to_version_name": "382.0.0.0.28"
+  },
+  "summary": {
+    "old_total": 1186,
+    "new_total": 1187,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "IGGenAIFontsRootCall",
+      "client_doc_id": "1435756828466521567340838112"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

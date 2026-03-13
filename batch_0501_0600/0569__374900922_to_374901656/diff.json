@@ -1,0 +1,30 @@
+{
+  "comparison_index": 569,
+  "comparison": {
+    "from_folder": "Instagram_34900011_alpha",
+    "to_folder": "Instagram_34900019_alpha",
+    "from_version_code": 374900922,
+    "to_version_code": 374901656,
+    "from_version_name": "349.0.0.0.11",
+    "to_version_name": "349.0.0.0.19"
+  },
+  "summary": {
+    "old_total": 826,
+    "new_total": 828,
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "CreatorAIEmbodimentTooltipContent",
+      "client_doc_id": "13364370659134083694552480387"
+    },
+    {
+      "operation": "IGDScheduledMessageMutation",
+      "client_doc_id": "13463129372201419274189815909"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

@@ -1,0 +1,50 @@
+{
+  "comparison_index": 262,
+  "comparison": {
+    "from_folder": "Instagram_278000104_alpha",
+    "to_folder": "Instagram_278000113_alpha",
+    "from_version_code": 367806940,
+    "to_version_code": 367807540,
+    "from_version_name": "278.0.0.0.104",
+    "to_version_name": "278.0.0.0.113"
+  },
+  "summary": {
+    "old_total": 178,
+    "new_total": 171,
+    "added": 0,
+    "removed": 7,
+    "changed": 0
+  },
+  "added": [],
+  "removed": [
+    {
+      "operation": "ArStickersSavedObjectQuery",
+      "client_doc_id": "334794336715200172385300014062"
+    },
+    {
+      "operation": "IGARStickersMetadataQuery",
+      "client_doc_id": "176052155510366168602987703217"
+    },
+    {
+      "operation": "IGDeleteMutation",
+      "client_doc_id": "89587581011003722411621746484"
+    },
+    {
+      "operation": "IGPostMutation",
+      "client_doc_id": "1511303021966924213532385849"
+    },
+    {
+      "operation": "IGSaveMutation",
+      "client_doc_id": "14742649763845855035525532559"
+    },
+    {
+      "operation": "InstagramARVirtualObjectQuery",
+      "client_doc_id": "3142309781228600655779577462"
+    },
+    {
+      "operation": "InstagramARVirtualObjectsSearchFiltersQuery",
+      "client_doc_id": "192670691210446249049633392834"
+    }
+  ],
+  "changed": []
+}

@@ -1,0 +1,21 @@
+{
+  "comparison_index": 136,
+  "comparison": {
+    "from_folder": "Instagram_2500002_alpha",
+    "to_folder": "Instagram_2500009_alpha",
+    "from_version_code": 365000083,
+    "to_version_code": 365000315,
+    "from_version_name": "250.0.0.0.2",
+    "to_version_name": "250.0.0.0.9"
+  },
+  "summary": {
+    "old_total": 148,
+    "new_total": 148,
+    "added": 0,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [],
+  "removed": [],
+  "changed": []
+}

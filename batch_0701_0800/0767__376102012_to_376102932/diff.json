@@ -1,0 +1,57 @@
+{
+  "comparison_index": 767,
+  "comparison": {
+    "from_folder": "Instagram_36100023_alpha",
+    "to_folder": "Instagram_36100033_alpha",
+    "from_version_code": 376102012,
+    "to_version_code": 376102932,
+    "from_version_name": "361.0.0.0.23",
+    "to_version_name": "361.0.0.0.33"
+  },
+  "summary": {
+    "old_total": 951,
+    "new_total": 952,
+    "added": 1,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [
+    {
+      "operation": "IGPermissionsMessagingControlsLiveQuery",
+      "client_doc_id": "13863627983534120300699899823"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "EmojiKeywordsQuery",
+      "old_client_doc_id": "6645358924830106003704983708",
+      "new_client_doc_id": "6645358928715329736628321995",
+      "changes": {
+        "client_doc_id": {
+          "old": "6645358924830106003704983708",
+          "new": "6645358928715329736628321995"
+        },
+        "operation_text_hash": {
+          "old": "4830106003704983708",
+          "new": "8715329736628321995"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineSuggestionsQuery",
+      "old_client_doc_id": "78596836114651270321189243744",
+      "new_client_doc_id": "78596836117164778251647437033",
+      "changes": {
+        "client_doc_id": {
+          "old": "78596836114651270321189243744",
+          "new": "78596836117164778251647437033"
+        },
+        "operation_text_hash": {
+          "old": "14651270321189243744",
+          "new": "17164778251647437033"
+        }
+      }
+    }
+  ]
+}

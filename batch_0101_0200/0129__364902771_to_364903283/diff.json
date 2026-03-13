@@ -1,0 +1,37 @@
+{
+  "comparison_index": 129,
+  "comparison": {
+    "from_folder": "Instagram_24900085_alpha",
+    "to_folder": "Instagram_249000101_alpha",
+    "from_version_code": 364902771,
+    "to_version_code": 364903283,
+    "from_version_name": "249.0.0.0.85",
+    "to_version_name": "249.0.0.0.101"
+  },
+  "summary": {
+    "old_total": 147,
+    "new_total": 147,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "AYMTFetchChannelTipQuery",
+      "old_client_doc_id": "375842925012058353191259702155",
+      "new_client_doc_id": "375842925014359525246734960312",
+      "changes": {
+        "client_doc_id": {
+          "old": "375842925012058353191259702155",
+          "new": "375842925014359525246734960312"
+        },
+        "operation_text_hash": {
+          "old": "12058353191259702155",
+          "new": "14359525246734960312"
+        }
+      }
+    }
+  ]
+}

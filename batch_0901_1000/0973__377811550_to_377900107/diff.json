@@ -1,0 +1,52 @@
+{
+  "comparison_index": 973,
+  "comparison": {
+    "from_folder": "Instagram_374004067_beta",
+    "to_folder": "Instagram_3750001_alpha",
+    "from_version_code": 377811550,
+    "to_version_code": 377900107,
+    "from_version_name": "374.0.0.40.67",
+    "to_version_name": "375.0.0.0.1"
+  },
+  "summary": {
+    "old_total": 1049,
+    "new_total": 1049,
+    "added": 0,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGIABAutofillSettings",
+      "old_client_doc_id": "353325959714940540714579288837",
+      "new_client_doc_id": "353325959716761742280435015544",
+      "changes": {
+        "client_doc_id": {
+          "old": "353325959714940540714579288837",
+          "new": "353325959716761742280435015544"
+        },
+        "operation_text_hash": {
+          "old": "14940540714579288837",
+          "new": "16761742280435015544"
+        }
+      }
+    },
+    {
+      "operation": "IGIABAutofillUpdateSettingsMutation",
+      "old_client_doc_id": "173087259810593097167872907014",
+      "new_client_doc_id": "173087259818351114525878012795",
+      "changes": {
+        "client_doc_id": {
+          "old": "173087259810593097167872907014",
+          "new": "173087259818351114525878012795"
+        },
+        "operation_text_hash": {
+          "old": "10593097167872907014",
+          "new": "18351114525878012795"
+        }
+      }
+    }
+  ]
+}

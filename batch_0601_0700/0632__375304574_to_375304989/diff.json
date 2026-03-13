@@ -1,0 +1,26 @@
+{
+  "comparison_index": 632,
+  "comparison": {
+    "from_folder": "Instagram_35300057_alpha",
+    "to_folder": "Instagram_35300062_alpha",
+    "from_version_code": 375304574,
+    "to_version_code": 375304989,
+    "from_version_name": "353.0.0.0.57",
+    "to_version_name": "353.0.0.0.62"
+  },
+  "summary": {
+    "old_total": 867,
+    "new_total": 868,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "ExpressoTemplatePackRenderingMetadata",
+      "client_doc_id": "36046855877739614361818159699"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

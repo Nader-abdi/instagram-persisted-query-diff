@@ -1,0 +1,260 @@
+{
+  "comparison_index": 705,
+  "comparison": {
+    "from_folder": "Instagram_35800011_alpha",
+    "to_folder": "Instagram_35800019_alpha",
+    "from_version_code": 375800992,
+    "to_version_code": 375801656,
+    "from_version_name": "358.0.0.0.11",
+    "to_version_name": "358.0.0.0.19"
+  },
+  "summary": {
+    "old_total": 916,
+    "new_total": 919,
+    "added": 3,
+    "removed": 0,
+    "changed": 15
+  },
+  "added": [
+    {
+      "operation": "GenAIEditBackdropSuggestions",
+      "client_doc_id": "244245374310147177775132553015"
+    },
+    {
+      "operation": "GenAIEditImageBackdropMutation",
+      "client_doc_id": "234236211810709656534963802706"
+    },
+    {
+      "operation": "IGKirbyVoiceSampleAudioUrlQuery",
+      "client_doc_id": "39673274273682286316611407250"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "AiStudioAddPersonaKnowledgeMutation",
+      "old_client_doc_id": "409151311018417559019132432241",
+      "new_client_doc_id": "409151311018308972658354499293",
+      "changes": {
+        "client_doc_id": {
+          "old": "409151311018417559019132432241",
+          "new": "409151311018308972658354499293"
+        },
+        "operation_text_hash": {
+          "old": "18417559019132432241",
+          "new": "18308972658354499293"
+        }
+      }
+    },
+    {
+      "operation": "AiStudioCancelAiReview",
+      "old_client_doc_id": "132430906817763136354247602192",
+      "new_client_doc_id": "13243090686764236620273116811",
+      "changes": {
+        "client_doc_id": {
+          "old": "132430906817763136354247602192",
+          "new": "13243090686764236620273116811"
+        },
+        "operation_text_hash": {
+          "old": "17763136354247602192",
+          "new": "6764236620273116811"
+        }
+      }
+    },
+    {
+      "operation": "AiStudioFetchAiQuery",
+      "old_client_doc_id": "143987010910206192666354407656",
+      "new_client_doc_id": "143987010910699793863864141396",
+      "changes": {
+        "client_doc_id": {
+          "old": "143987010910206192666354407656",
+          "new": "143987010910699793863864141396"
+        },
+        "operation_text_hash": {
+          "old": "10206192666354407656",
+          "new": "10699793863864141396"
+        }
+      }
+    },
+    {
+      "operation": "AiStudioQuickCreateAiMutation",
+      "old_client_doc_id": "14363966054765421692090980046",
+      "new_client_doc_id": "14363966053299446786402176224",
+      "changes": {
+        "client_doc_id": {
+          "old": "14363966054765421692090980046",
+          "new": "14363966053299446786402176224"
+        },
+        "operation_text_hash": {
+          "old": "4765421692090980046",
+          "new": "3299446786402176224"
+        }
+      }
+    },
+    {
+      "operation": "AiStudioQuickCreateAiWithTemplateMutation",
+      "old_client_doc_id": "302015702414783408794574966313",
+      "new_client_doc_id": "30201570244696535022346457969",
+      "changes": {
+        "client_doc_id": {
+          "old": "302015702414783408794574966313",
+          "new": "30201570244696535022346457969"
+        },
+        "operation_text_hash": {
+          "old": "14783408794574966313",
+          "new": "4696535022346457969"
+        }
+      }
+    },
+    {
+      "operation": "AiStudioSavePersonaMutation",
+      "old_client_doc_id": "43821683411368104810252639082",
+      "new_client_doc_id": "43821683416914361865876052343",
+      "changes": {
+        "client_doc_id": {
+          "old": "43821683411368104810252639082",
+          "new": "43821683416914361865876052343"
+        },
+        "operation_text_hash": {
+          "old": "11368104810252639082",
+          "new": "16914361865876052343"
+        }
+      }
+    },
+    {
+      "operation": "AiStudioUpdateAiMutation",
+      "old_client_doc_id": "91896110810555082847932154030",
+      "new_client_doc_id": "91896110812548558350613719216",
+      "changes": {
+        "client_doc_id": {
+          "old": "91896110810555082847932154030",
+          "new": "91896110812548558350613719216"
+        },
+        "operation_text_hash": {
+          "old": "10555082847932154030",
+          "new": "12548558350613719216"
+        }
+      }
+    },
+    {
+      "operation": "AiStudioUpdateAiProfilePictureMutation",
+      "old_client_doc_id": "37106632967257132642020234150",
+      "new_client_doc_id": "371066329615912541586592239678",
+      "changes": {
+        "client_doc_id": {
+          "old": "37106632967257132642020234150",
+          "new": "371066329615912541586592239678"
+        },
+        "operation_text_hash": {
+          "old": "7257132642020234150",
+          "new": "15912541586592239678"
+        }
+      }
+    },
+    {
+      "operation": "AiStudioUpdateProvidedAttributesOnlyMutation",
+      "old_client_doc_id": "234193104413946566394259715583",
+      "new_client_doc_id": "234193104411159371847266740659",
+      "changes": {
+        "client_doc_id": {
+          "old": "234193104413946566394259715583",
+          "new": "234193104411159371847266740659"
+        },
+        "operation_text_hash": {
+          "old": "13946566394259715583",
+          "new": "11159371847266740659"
+        }
+      }
+    },
+    {
+      "operation": "KirbyAiCreationImageGenerationSubscription",
+      "old_client_doc_id": "78787166616837981368214048081",
+      "new_client_doc_id": "78787166614680273479442213563",
+      "changes": {
+        "client_doc_id": {
+          "old": "78787166616837981368214048081",
+          "new": "78787166614680273479442213563"
+        },
+        "operation_text_hash": {
+          "old": "16837981368214048081",
+          "new": "14680273479442213563"
+        }
+      }
+    },
+    {
+      "operation": "KirbyQuickCreateAiAvatarMutation",
+      "old_client_doc_id": "16894491611644102545526898674",
+      "new_client_doc_id": "16894491617969329040312096042",
+      "changes": {
+        "client_doc_id": {
+          "old": "16894491611644102545526898674",
+          "new": "16894491617969329040312096042"
+        },
+        "operation_text_hash": {
+          "old": "11644102545526898674",
+          "new": "17969329040312096042"
+        }
+      }
+    },
+    {
+      "operation": "KirbyQuickCreateAiMutation",
+      "old_client_doc_id": "370836228317590957639016817195",
+      "new_client_doc_id": "37083622837510941668276643708",
+      "changes": {
+        "client_doc_id": {
+          "old": "370836228317590957639016817195",
+          "new": "37083622837510941668276643708"
+        },
+        "operation_text_hash": {
+          "old": "17590957639016817195",
+          "new": "7510941668276643708"
+        }
+      }
+    },
+    {
+      "operation": "KirbyQuickCreateAiWithQuizAnswersMutation",
+      "old_client_doc_id": "180764713312570114257569822193",
+      "new_client_doc_id": "180764713310596740106333442495",
+      "changes": {
+        "client_doc_id": {
+          "old": "180764713312570114257569822193",
+          "new": "180764713310596740106333442495"
+        },
+        "operation_text_hash": {
+          "old": "12570114257569822193",
+          "new": "10596740106333442495"
+        }
+      }
+    },
+    {
+      "operation": "KirbyVoiceByCategoryQuery",
+      "old_client_doc_id": "194478406318045178098645018311",
+      "new_client_doc_id": "19447840633046319291081278853",
+      "changes": {
+        "client_doc_id": {
+          "old": "194478406318045178098645018311",
+          "new": "19447840633046319291081278853"
+        },
+        "operation_text_hash": {
+          "old": "18045178098645018311",
+          "new": "3046319291081278853"
+        }
+      }
+    },
+    {
+      "operation": "VoiceSelectOptionsQuery",
+      "old_client_doc_id": "15128713002519577132377126054",
+      "new_client_doc_id": "15128713009535941517210349575",
+      "changes": {
+        "client_doc_id": {
+          "old": "15128713002519577132377126054",
+          "new": "15128713009535941517210349575"
+        },
+        "operation_text_hash": {
+          "old": "2519577132377126054",
+          "new": "9535941517210349575"
+        }
+      }
+    }
+  ]
+}

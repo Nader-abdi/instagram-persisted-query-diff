@@ -1,0 +1,72 @@
+{
+  "comparison_index": 561,
+  "comparison": {
+    "from_folder": "Instagram_34800088_alpha",
+    "to_folder": "Instagram_34800099_alpha",
+    "from_version_code": 374807300,
+    "to_version_code": 374808145,
+    "from_version_name": "348.0.0.0.88",
+    "to_version_name": "348.0.0.0.99"
+  },
+  "summary": {
+    "old_total": 822,
+    "new_total": 823,
+    "added": 1,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [
+    {
+      "operation": "IGDirectGetThreadItemsV2",
+      "client_doc_id": "57791061814976582231155088315"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "AddMEmuProfilePhotos",
+      "old_client_doc_id": "79300515013308312856548551617",
+      "new_client_doc_id": "7930051502143329718146271591",
+      "changes": {
+        "client_doc_id": {
+          "old": "79300515013308312856548551617",
+          "new": "7930051502143329718146271591"
+        },
+        "operation_text_hash": {
+          "old": "13308312856548551617",
+          "new": "2143329718146271591"
+        }
+      }
+    },
+    {
+      "operation": "CreateMEmuProfile",
+      "old_client_doc_id": "194131542117498028490045140701",
+      "new_client_doc_id": "194131542114968092067053932682",
+      "changes": {
+        "client_doc_id": {
+          "old": "194131542117498028490045140701",
+          "new": "194131542114968092067053932682"
+        },
+        "operation_text_hash": {
+          "old": "17498028490045140701",
+          "new": "14968092067053932682"
+        }
+      }
+    },
+    {
+      "operation": "IGStickerPack",
+      "old_client_doc_id": "372958806215479382395654544228",
+      "new_client_doc_id": "372958806213559685156382181016",
+      "changes": {
+        "client_doc_id": {
+          "old": "372958806215479382395654544228",
+          "new": "372958806213559685156382181016"
+        },
+        "operation_text_hash": {
+          "old": "15479382395654544228",
+          "new": "13559685156382181016"
+        }
+      }
+    }
+  ]
+}

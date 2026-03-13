@@ -1,0 +1,97 @@
+{
+  "comparison_index": 1283,
+  "comparison": {
+    "from_folder": "Instagram_405105777",
+    "to_folder": "Instagram_40600090_alpha",
+    "from_version_code": 381107403,
+    "to_version_code": 381200655,
+    "from_version_name": "405.1.0.57.77",
+    "to_version_name": "406.0.0.0.90"
+  },
+  "summary": {
+    "old_total": 1371,
+    "new_total": 1366,
+    "added": 1,
+    "removed": 6,
+    "changed": 3
+  },
+  "added": [
+    {
+      "operation": "XIGIGGenAIBaselTitleGeneration",
+      "client_doc_id": "23837290311475030826262260720"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "IGAREffectsForProfileQuery",
+      "client_doc_id": "13621563686426125399711003897"
+    },
+    {
+      "operation": "IGDirectSafetyInterventionsUserLevelAsPollingQuery",
+      "client_doc_id": "13367160911586734907757313380"
+    },
+    {
+      "operation": "IGFxImSyncResourcesMutation",
+      "client_doc_id": "42733489452604888036625440298"
+    },
+    {
+      "operation": "IGGetPayoutMethdodWithLinkedProductsQuery",
+      "client_doc_id": "50177843311400914429631839318"
+    },
+    {
+      "operation": "IGPayoutEditFinancialEntityMutation",
+      "client_doc_id": "6598123417484915921374406155"
+    },
+    {
+      "operation": "IGPayoutGetFinancialEntityByAdmin",
+      "client_doc_id": "20627862729929021297101718556"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "IGDirectSafetyInterventionsUserLevelAsLiveQuery",
+      "old_client_doc_id": "30654913724948763660857402613",
+      "new_client_doc_id": "306549137215644791560101682012",
+      "changes": {
+        "client_doc_id": {
+          "old": "30654913724948763660857402613",
+          "new": "306549137215644791560101682012"
+        },
+        "operation_text_hash": {
+          "old": "4948763660857402613",
+          "new": "15644791560101682012"
+        }
+      }
+    },
+    {
+      "operation": "IGProactiveWarningBannerQuery",
+      "old_client_doc_id": "37944519217525569735036409260",
+      "new_client_doc_id": "379445192114997846025690383695",
+      "changes": {
+        "client_doc_id": {
+          "old": "37944519217525569735036409260",
+          "new": "379445192114997846025690383695"
+        },
+        "operation_text_hash": {
+          "old": "7525569735036409260",
+          "new": "14997846025690383695"
+        }
+      }
+    },
+    {
+      "operation": "IgPaymentsSettingsInfoQuery",
+      "old_client_doc_id": "25893658025938994798387451295",
+      "new_client_doc_id": "258936580215492898445985617953",
+      "changes": {
+        "client_doc_id": {
+          "old": "25893658025938994798387451295",
+          "new": "258936580215492898445985617953"
+        },
+        "operation_text_hash": {
+          "old": "5938994798387451295",
+          "new": "15492898445985617953"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "comparison_index": 786,
+  "comparison": {
+    "from_folder": "Instagram_36200057_alpha",
+    "to_folder": "Instagram_36200063_alpha",
+    "from_version_code": 376204798,
+    "to_version_code": 376205302,
+    "from_version_name": "362.0.0.0.57",
+    "to_version_name": "362.0.0.0.63"
+  },
+  "summary": {
+    "old_total": 961,
+    "new_total": 962,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "LeadGenDeepLinkVerifyPhoneOTPMutation",
+      "client_doc_id": "354662585917291722196889434895"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

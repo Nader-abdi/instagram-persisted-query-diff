@@ -1,0 +1,82 @@
+{
+  "comparison_index": 724,
+  "comparison": {
+    "from_folder": "Instagram_35900011_alpha",
+    "to_folder": "Instagram_35900013_alpha",
+    "from_version_code": 375900891,
+    "to_version_code": 375901057,
+    "from_version_name": "359.0.0.0.11",
+    "to_version_name": "359.0.0.0.13"
+  },
+  "summary": {
+    "old_total": 929,
+    "new_total": 929,
+    "added": 0,
+    "removed": 0,
+    "changed": 4
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FriendMapMediaQuery",
+      "old_client_doc_id": "172915047716461099157138147032",
+      "new_client_doc_id": "172915047716218643568283682052",
+      "changes": {
+        "client_doc_id": {
+          "old": "172915047716461099157138147032",
+          "new": "172915047716218643568283682052"
+        },
+        "operation_text_hash": {
+          "old": "16461099157138147032",
+          "new": "16218643568283682052"
+        }
+      }
+    },
+    {
+      "operation": "GetAllPresencePoints",
+      "old_client_doc_id": "82835164811640511514555528861",
+      "new_client_doc_id": "8283516484981236415750846118",
+      "changes": {
+        "client_doc_id": {
+          "old": "82835164811640511514555528861",
+          "new": "8283516484981236415750846118"
+        },
+        "operation_text_hash": {
+          "old": "11640511514555528861",
+          "new": "4981236415750846118"
+        }
+      }
+    },
+    {
+      "operation": "GetFriendMapSettingsQuery",
+      "old_client_doc_id": "245318206213356168517463564284",
+      "new_client_doc_id": "245318206212570767168191062229",
+      "changes": {
+        "client_doc_id": {
+          "old": "245318206213356168517463564284",
+          "new": "245318206212570767168191062229"
+        },
+        "operation_text_hash": {
+          "old": "13356168517463564284",
+          "new": "12570767168191062229"
+        }
+      }
+    },
+    {
+      "operation": "UpdateFriendMapSettingsMutation",
+      "old_client_doc_id": "211996820811977745004028791244",
+      "new_client_doc_id": "211996820811579214568319471004",
+      "changes": {
+        "client_doc_id": {
+          "old": "211996820811977745004028791244",
+          "new": "211996820811579214568319471004"
+        },
+        "operation_text_hash": {
+          "old": "11977745004028791244",
+          "new": "11579214568319471004"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "comparison_index": 708,
+  "comparison": {
+    "from_folder": "Instagram_35800028_alpha",
+    "to_folder": "Instagram_35800041_alpha",
+    "from_version_code": 375802404,
+    "to_version_code": 375803412,
+    "from_version_name": "358.0.0.0.28",
+    "to_version_name": "358.0.0.0.41"
+  },
+  "summary": {
+    "old_total": 919,
+    "new_total": 921,
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "IGDirectChannelEducationMarkGoalComplete",
+      "client_doc_id": "169389779910018893724906790454"
+    },
+    {
+      "operation": "KirbyRemixAiMutation",
+      "client_doc_id": "29484527988790720478832061974"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

@@ -1,0 +1,97 @@
+{
+  "comparison_index": 1053,
+  "comparison": {
+    "from_folder": "Instagram_38000013_alpha",
+    "to_folder": "Instagram_38000029_alpha",
+    "from_version_code": 378401530,
+    "to_version_code": 378403257,
+    "from_version_name": "380.0.0.0.13",
+    "to_version_name": "380.0.0.0.29"
+  },
+  "summary": {
+    "old_total": 1162,
+    "new_total": 1162,
+    "added": 0,
+    "removed": 0,
+    "changed": 5
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "BcnMarkThreadReadMutation",
+      "old_client_doc_id": "174144678517280039253896163898",
+      "new_client_doc_id": "1741446785154925017155831305",
+      "changes": {
+        "client_doc_id": {
+          "old": "174144678517280039253896163898",
+          "new": "1741446785154925017155831305"
+        },
+        "operation_text_hash": {
+          "old": "17280039253896163898",
+          "new": "154925017155831305"
+        }
+      }
+    },
+    {
+      "operation": "GetOnboardingNuxEligibility",
+      "old_client_doc_id": "222791017215896159003559603708",
+      "new_client_doc_id": "22279101724480924165578129591",
+      "changes": {
+        "client_doc_id": {
+          "old": "222791017215896159003559603708",
+          "new": "22279101724480924165578129591"
+        },
+        "operation_text_hash": {
+          "old": "15896159003559603708",
+          "new": "4480924165578129591"
+        }
+      }
+    },
+    {
+      "operation": "IGDirectGetThreadQuery",
+      "old_client_doc_id": "281690989916577089231746955516",
+      "new_client_doc_id": "28169098992049037858672184588",
+      "changes": {
+        "client_doc_id": {
+          "old": "281690989916577089231746955516",
+          "new": "28169098992049037858672184588"
+        },
+        "operation_text_hash": {
+          "old": "16577089231746955516",
+          "new": "2049037858672184588"
+        }
+      }
+    },
+    {
+      "operation": "LeadGenDeepLinkSendPhoneOTPMutation",
+      "old_client_doc_id": "188352575713736987401293319202",
+      "new_client_doc_id": "188352575710450357846504203981",
+      "changes": {
+        "client_doc_id": {
+          "old": "188352575713736987401293319202",
+          "new": "188352575710450357846504203981"
+        },
+        "operation_text_hash": {
+          "old": "13736987401293319202",
+          "new": "10450357846504203981"
+        }
+      }
+    },
+    {
+      "operation": "LeadGenDeepLinkVerifyPhoneOTPMutation",
+      "old_client_doc_id": "354662585916953384078380005632",
+      "new_client_doc_id": "3546625859168148865812126304",
+      "changes": {
+        "client_doc_id": {
+          "old": "354662585916953384078380005632",
+          "new": "3546625859168148865812126304"
+        },
+        "operation_text_hash": {
+          "old": "16953384078380005632",
+          "new": "168148865812126304"
+        }
+      }
+    }
+  ]
+}

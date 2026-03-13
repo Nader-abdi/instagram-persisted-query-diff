@@ -1,0 +1,62 @@
+{
+  "comparison_index": 703,
+  "comparison": {
+    "from_folder": "Instagram_3571052100",
+    "to_folder": "Instagram_3580004_alpha",
+    "from_version_code": 375712788,
+    "to_version_code": 375800341,
+    "from_version_name": "357.1.0.52.100",
+    "to_version_name": "358.0.0.0.4"
+  },
+  "summary": {
+    "old_total": 910,
+    "new_total": 916,
+    "added": 6,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "GetBooleanSetting",
+      "client_doc_id": "7936382705710168548525128025"
+    },
+    {
+      "operation": "GetIGSSHScrollRanking",
+      "client_doc_id": "11342870905464288316915698943"
+    },
+    {
+      "operation": "GetStringSetting",
+      "client_doc_id": "11742704996282976167996215415"
+    },
+    {
+      "operation": "LogIGSSHscrollRankingExposure",
+      "client_doc_id": "66638483814607391502761762124"
+    },
+    {
+      "operation": "SetBooleanSetting",
+      "client_doc_id": "33823799133777852416041795435"
+    },
+    {
+      "operation": "SetStringSetting",
+      "client_doc_id": "106414857514295992423579533152"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "ClipsProfileQuery",
+      "old_client_doc_id": "209049231615899097703451827471",
+      "new_client_doc_id": "20904923162982742545647296888",
+      "changes": {
+        "client_doc_id": {
+          "old": "209049231615899097703451827471",
+          "new": "20904923162982742545647296888"
+        },
+        "operation_text_hash": {
+          "old": "15899097703451827471",
+          "new": "2982742545647296888"
+        }
+      }
+    }
+  ]
+}

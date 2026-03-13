@@ -1,0 +1,26 @@
+{
+  "comparison_index": 200,
+  "comparison": {
+    "from_folder": "Instagram_2580026100",
+    "to_folder": "Instagram_25900010_alpha",
+    "from_version_code": 365805460,
+    "to_version_code": 365900373,
+    "from_version_name": "258.0.0.26.100",
+    "to_version_name": "259.0.0.0.10"
+  },
+  "summary": {
+    "old_total": 163,
+    "new_total": 164,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "IGProactiveWarningEpdBannerQuery",
+      "client_doc_id": "3583560912788051748772404283"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

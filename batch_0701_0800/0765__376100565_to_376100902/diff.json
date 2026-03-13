@@ -1,0 +1,58 @@
+{
+  "comparison_index": 765,
+  "comparison": {
+    "from_folder": "Instagram_3610006_alpha",
+    "to_folder": "Instagram_36100010_alpha",
+    "from_version_code": 376100565,
+    "to_version_code": 376100902,
+    "from_version_name": "361.0.0.0.6",
+    "to_version_name": "361.0.0.0.10"
+  },
+  "summary": {
+    "old_total": 959,
+    "new_total": 950,
+    "added": 0,
+    "removed": 9,
+    "changed": 0
+  },
+  "added": [],
+  "removed": [
+    {
+      "operation": "FBPayMerchantServicesEarningsDetailsQuery",
+      "client_doc_id": "21316566594269666113848420060"
+    },
+    {
+      "operation": "FBPayMerchantServicesEarningsQuery",
+      "client_doc_id": "175009691610673235933648783948"
+    },
+    {
+      "operation": "FBPayMerchantServicesPayoutsQuery",
+      "client_doc_id": "22723573248142925480540907036"
+    },
+    {
+      "operation": "HomeRootQuery",
+      "client_doc_id": "10226739529433230281160448188"
+    },
+    {
+      "operation": "OverviewQuery",
+      "client_doc_id": "101484892211198319699972575272"
+    },
+    {
+      "operation": "PayoutRecordDetailsViewQuery",
+      "client_doc_id": "5264740377959703137027576400"
+    },
+    {
+      "operation": "PayoutReleaseDetailsViewQuery",
+      "client_doc_id": "32134290107730576571821580078"
+    },
+    {
+      "operation": "PayoutSettingsQuery",
+      "client_doc_id": "258536640218164344704355035479"
+    },
+    {
+      "operation": "PayoutTransactionQuery",
+      "client_doc_id": "9156067742718433148982306995"
+    }
+  ],
+  "changed": []
+}

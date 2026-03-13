@@ -1,0 +1,52 @@
+{
+  "comparison_index": 898,
+  "comparison": {
+    "from_folder": "Instagram_36900062_alpha",
+    "to_folder": "Instagram_36900072_alpha",
+    "from_version_code": 377306100,
+    "to_version_code": 377307149,
+    "from_version_name": "369.0.0.0.62",
+    "to_version_name": "369.0.0.0.72"
+  },
+  "summary": {
+    "old_total": 991,
+    "new_total": 991,
+    "added": 0,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FetchHighlightsInMainGridChainingQuery",
+      "old_client_doc_id": "346428064714752226619008972441",
+      "new_client_doc_id": "346428064714912760003248798944",
+      "changes": {
+        "client_doc_id": {
+          "old": "346428064714752226619008972441",
+          "new": "346428064714912760003248798944"
+        },
+        "operation_text_hash": {
+          "old": "14752226619008972441",
+          "new": "14912760003248798944"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineCanvasAPI",
+      "old_client_doc_id": "18902327398688370603323831595",
+      "new_client_doc_id": "18902327394682323588387563121",
+      "changes": {
+        "client_doc_id": {
+          "old": "18902327398688370603323831595",
+          "new": "18902327394682323588387563121"
+        },
+        "operation_text_hash": {
+          "old": "8688370603323831595",
+          "new": "4682323588387563121"
+        }
+      }
+    }
+  ]
+}

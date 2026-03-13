@@ -1,0 +1,132 @@
+{
+  "comparison_index": 740,
+  "comparison": {
+    "from_folder": "Instagram_3600001_alpha",
+    "to_folder": "Instagram_36000011_alpha",
+    "from_version_code": 376000092,
+    "to_version_code": 376000924,
+    "from_version_name": "360.0.0.0.1",
+    "to_version_name": "360.0.0.0.11"
+  },
+  "summary": {
+    "old_total": 933,
+    "new_total": 934,
+    "added": 1,
+    "removed": 0,
+    "changed": 7
+  },
+  "added": [
+    {
+      "operation": "GenAIImagineGenerateStreamUMutation",
+      "client_doc_id": "344786373816699694312845068025"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "AmazonBwpAccessToken",
+      "old_client_doc_id": "39187560002414074177771783284",
+      "new_client_doc_id": "391875600013052975227356336569",
+      "changes": {
+        "client_doc_id": {
+          "old": "39187560002414074177771783284",
+          "new": "391875600013052975227356336569"
+        },
+        "operation_text_hash": {
+          "old": "2414074177771783284",
+          "new": "13052975227356336569"
+        }
+      }
+    },
+    {
+      "operation": "AmazonBwpRefreshAccessToken",
+      "old_client_doc_id": "6564859264660190903779188873",
+      "new_client_doc_id": "65648592610221354067141897446",
+      "changes": {
+        "client_doc_id": {
+          "old": "6564859264660190903779188873",
+          "new": "65648592610221354067141897446"
+        },
+        "operation_text_hash": {
+          "old": "4660190903779188873",
+          "new": "10221354067141897446"
+        }
+      }
+    },
+    {
+      "operation": "ClipsProfileQuery",
+      "old_client_doc_id": "20904923161540100481610988417",
+      "new_client_doc_id": "20904923168321100862452313996",
+      "changes": {
+        "client_doc_id": {
+          "old": "20904923161540100481610988417",
+          "new": "20904923168321100862452313996"
+        },
+        "operation_text_hash": {
+          "old": "1540100481610988417",
+          "new": "8321100862452313996"
+        }
+      }
+    },
+    {
+      "operation": "FriendMapStoryHighlightMediaQuery",
+      "old_client_doc_id": "291986149911969680372759943176",
+      "new_client_doc_id": "291986149913094728660454381899",
+      "changes": {
+        "client_doc_id": {
+          "old": "291986149911969680372759943176",
+          "new": "291986149913094728660454381899"
+        },
+        "operation_text_hash": {
+          "old": "11969680372759943176",
+          "new": "13094728660454381899"
+        }
+      }
+    },
+    {
+      "operation": "FriendMapStoryMediaQuery",
+      "old_client_doc_id": "99489720813709984088924493475",
+      "new_client_doc_id": "99489720811468308789799001108",
+      "changes": {
+        "client_doc_id": {
+          "old": "99489720813709984088924493475",
+          "new": "99489720811468308789799001108"
+        },
+        "operation_text_hash": {
+          "old": "13709984088924493475",
+          "new": "11468308789799001108"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineByUsernameQuery",
+      "old_client_doc_id": "15052394582396113774470956562",
+      "new_client_doc_id": "150523945813586974893464333627",
+      "changes": {
+        "client_doc_id": {
+          "old": "15052394582396113774470956562",
+          "new": "150523945813586974893464333627"
+        },
+        "operation_text_hash": {
+          "old": "2396113774470956562",
+          "new": "13586974893464333627"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "56030350811553358787409402245",
+      "new_client_doc_id": "56030350813758454893243008594",
+      "changes": {
+        "client_doc_id": {
+          "old": "56030350811553358787409402245",
+          "new": "56030350813758454893243008594"
+        },
+        "operation_text_hash": {
+          "old": "11553358787409402245",
+          "new": "13758454893243008594"
+        }
+      }
+    }
+  ]
+}

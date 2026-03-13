@@ -1,0 +1,132 @@
+{
+  "comparison_index": 766,
+  "comparison": {
+    "from_folder": "Instagram_36100010_alpha",
+    "to_folder": "Instagram_36100023_alpha",
+    "from_version_code": 376100902,
+    "to_version_code": 376102012,
+    "from_version_name": "361.0.0.0.10",
+    "to_version_name": "361.0.0.0.23"
+  },
+  "summary": {
+    "old_total": 950,
+    "new_total": 951,
+    "added": 1,
+    "removed": 0,
+    "changed": 7
+  },
+  "added": [
+    {
+      "operation": "FriendMapFeedMediaQuery",
+      "client_doc_id": "1596872157884574379452148488"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "EmojiKeywordsQuery",
+      "old_client_doc_id": "6645358928715329736628321995",
+      "new_client_doc_id": "6645358924830106003704983708",
+      "changes": {
+        "client_doc_id": {
+          "old": "6645358928715329736628321995",
+          "new": "6645358924830106003704983708"
+        },
+        "operation_text_hash": {
+          "old": "8715329736628321995",
+          "new": "4830106003704983708"
+        }
+      }
+    },
+    {
+      "operation": "FxIgXavSwitcherBadgingDataQuery",
+      "old_client_doc_id": "8379425928709297224665923603",
+      "new_client_doc_id": "8379425927564746140132328201",
+      "changes": {
+        "client_doc_id": {
+          "old": "8379425928709297224665923603",
+          "new": "8379425927564746140132328201"
+        },
+        "operation_text_hash": {
+          "old": "8709297224665923603",
+          "new": "7564746140132328201"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineByUsernameQuery",
+      "old_client_doc_id": "150523945817686843558999243336",
+      "new_client_doc_id": "150523945813891410691429403269",
+      "changes": {
+        "client_doc_id": {
+          "old": "150523945817686843558999243336",
+          "new": "150523945813891410691429403269"
+        },
+        "operation_text_hash": {
+          "old": "17686843558999243336",
+          "new": "13891410691429403269"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "5603035089073397326223820857",
+      "new_client_doc_id": "5603035082373999748010793117",
+      "changes": {
+        "client_doc_id": {
+          "old": "5603035089073397326223820857",
+          "new": "5603035082373999748010793117"
+        },
+        "operation_text_hash": {
+          "old": "9073397326223820857",
+          "new": "2373999748010793117"
+        }
+      }
+    },
+    {
+      "operation": "StoryTemplateDiscoverySurfaceSectionMediaQuery",
+      "old_client_doc_id": "224286252411276236348811684418",
+      "new_client_doc_id": "224286252413557957189265893008",
+      "changes": {
+        "client_doc_id": {
+          "old": "224286252411276236348811684418",
+          "new": "224286252413557957189265893008"
+        },
+        "operation_text_hash": {
+          "old": "11276236348811684418",
+          "new": "13557957189265893008"
+        }
+      }
+    },
+    {
+      "operation": "VestaServerLoginBeginMutation",
+      "old_client_doc_id": "161112744116732134748964933460",
+      "new_client_doc_id": "16111274415501455605293146877",
+      "changes": {
+        "client_doc_id": {
+          "old": "161112744116732134748964933460",
+          "new": "16111274415501455605293146877"
+        },
+        "operation_text_hash": {
+          "old": "16732134748964933460",
+          "new": "5501455605293146877"
+        }
+      }
+    },
+    {
+      "operation": "VestaServerRegisterBeginMutation",
+      "old_client_doc_id": "8293298514271074901042059007",
+      "new_client_doc_id": "8293298514422152925304622205",
+      "changes": {
+        "client_doc_id": {
+          "old": "8293298514271074901042059007",
+          "new": "8293298514422152925304622205"
+        },
+        "operation_text_hash": {
+          "old": "4271074901042059007",
+          "new": "4422152925304622205"
+        }
+      }
+    }
+  ]
+}

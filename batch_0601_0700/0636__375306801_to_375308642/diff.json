@@ -1,0 +1,222 @@
+{
+  "comparison_index": 636,
+  "comparison": {
+    "from_folder": "Instagram_35300083_alpha",
+    "to_folder": "Instagram_353001490_beta",
+    "from_version_code": 375306801,
+    "to_version_code": 375308642,
+    "from_version_name": "353.0.0.0.83",
+    "to_version_name": "353.0.0.14.90"
+  },
+  "summary": {
+    "old_total": 873,
+    "new_total": 874,
+    "added": 1,
+    "removed": 0,
+    "changed": 13
+  },
+  "added": [
+    {
+      "operation": "VoiceSelectOptionsQuery",
+      "client_doc_id": "15128713005981468195814320718"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "AiAgentContinueChattingQuery",
+      "old_client_doc_id": "32039673405360235336264885855",
+      "new_client_doc_id": "32039673401066492047983987184",
+      "changes": {
+        "client_doc_id": {
+          "old": "32039673405360235336264885855",
+          "new": "32039673401066492047983987184"
+        },
+        "operation_text_hash": {
+          "old": "5360235336264885855",
+          "new": "1066492047983987184"
+        }
+      }
+    },
+    {
+      "operation": "AiAgentContinueChattingQuery_At_Pando_Connection_Pagination_Query_xfb_fetch_continue_chatting_section_personas",
+      "old_client_doc_id": "34994724218854932036988500510",
+      "new_client_doc_id": "349947242113882680014289374634",
+      "changes": {
+        "client_doc_id": {
+          "old": "34994724218854932036988500510",
+          "new": "349947242113882680014289374634"
+        },
+        "operation_text_hash": {
+          "old": "8854932036988500510",
+          "new": "13882680014289374634"
+        }
+      }
+    },
+    {
+      "operation": "AiAgentListFilterQuery",
+      "old_client_doc_id": "246535552514785747088579947637",
+      "new_client_doc_id": "246535552516143085491477027504",
+      "changes": {
+        "client_doc_id": {
+          "old": "246535552514785747088579947637",
+          "new": "246535552516143085491477027504"
+        },
+        "operation_text_hash": {
+          "old": "14785747088579947637",
+          "new": "16143085491477027504"
+        }
+      }
+    },
+    {
+      "operation": "AiAgentListFilterQuery_At_Pando_Connection_Pagination_Query_xfb_fetch_genai_personas_by_section",
+      "old_client_doc_id": "5031011393265421639760575692",
+      "new_client_doc_id": "503101139252252558631492216",
+      "changes": {
+        "client_doc_id": {
+          "old": "5031011393265421639760575692",
+          "new": "503101139252252558631492216"
+        },
+        "operation_text_hash": {
+          "old": "3265421639760575692",
+          "new": "252252558631492216"
+        }
+      }
+    },
+    {
+      "operation": "AiSearchQuery",
+      "old_client_doc_id": "158232792414498952449317059261",
+      "new_client_doc_id": "15823279245483538479737014444",
+      "changes": {
+        "client_doc_id": {
+          "old": "158232792414498952449317059261",
+          "new": "15823279245483538479737014444"
+        },
+        "operation_text_hash": {
+          "old": "14498952449317059261",
+          "new": "5483538479737014444"
+        }
+      }
+    },
+    {
+      "operation": "AiStudioFetchAiQuery",
+      "old_client_doc_id": "14398701096337347023066170946",
+      "new_client_doc_id": "143987010913112602122803488864",
+      "changes": {
+        "client_doc_id": {
+          "old": "14398701096337347023066170946",
+          "new": "143987010913112602122803488864"
+        },
+        "operation_text_hash": {
+          "old": "6337347023066170946",
+          "new": "13112602122803488864"
+        }
+      }
+    },
+    {
+      "operation": "AiStudioFetchHomeSections",
+      "old_client_doc_id": "6260917551019944108278981040",
+      "new_client_doc_id": "6260917556257169086459852780",
+      "changes": {
+        "client_doc_id": {
+          "old": "6260917551019944108278981040",
+          "new": "6260917556257169086459852780"
+        },
+        "operation_text_hash": {
+          "old": "1019944108278981040",
+          "new": "6257169086459852780"
+        }
+      }
+    },
+    {
+      "operation": "AiStudioFetchHomeSectionsV2",
+      "old_client_doc_id": "33107665529184299521821113510",
+      "new_client_doc_id": "33107665523145060813717039060",
+      "changes": {
+        "client_doc_id": {
+          "old": "33107665529184299521821113510",
+          "new": "33107665523145060813717039060"
+        },
+        "operation_text_hash": {
+          "old": "9184299521821113510",
+          "new": "3145060813717039060"
+        }
+      }
+    },
+    {
+      "operation": "AiStudioFetchHomeSectionsV2_At_Pando_Connection_Pagination_XFBGENAIPersonaLayout_union_sections_query",
+      "old_client_doc_id": "13860351815780186339570617193",
+      "new_client_doc_id": "138603518113567070164055365299",
+      "changes": {
+        "client_doc_id": {
+          "old": "13860351815780186339570617193",
+          "new": "138603518113567070164055365299"
+        },
+        "operation_text_hash": {
+          "old": "5780186339570617193",
+          "new": "13567070164055365299"
+        }
+      }
+    },
+    {
+      "operation": "AiStudioFetchHomeSections_At_Pando_Connection_Pagination_XFBGENAIPersonaLayout_sections_query",
+      "old_client_doc_id": "184332557014580871464348960570",
+      "new_client_doc_id": "18433255701319545034909988248",
+      "changes": {
+        "client_doc_id": {
+          "old": "184332557014580871464348960570",
+          "new": "18433255701319545034909988248"
+        },
+        "operation_text_hash": {
+          "old": "14580871464348960570",
+          "new": "1319545034909988248"
+        }
+      }
+    },
+    {
+      "operation": "ClipsProfileQuery",
+      "old_client_doc_id": "20904923161631594041799658879",
+      "new_client_doc_id": "209049231617346558279910672644",
+      "changes": {
+        "client_doc_id": {
+          "old": "20904923161631594041799658879",
+          "new": "209049231617346558279910672644"
+        },
+        "operation_text_hash": {
+          "old": "1631594041799658879",
+          "new": "17346558279910672644"
+        }
+      }
+    },
+    {
+      "operation": "IGEBFetchBackupInternalQuery",
+      "old_client_doc_id": "198436049612826763568228308216",
+      "new_client_doc_id": "198436049610935594305970114945",
+      "changes": {
+        "client_doc_id": {
+          "old": "198436049612826763568228308216",
+          "new": "198436049610935594305970114945"
+        },
+        "operation_text_hash": {
+          "old": "12826763568228308216",
+          "new": "10935594305970114945"
+        }
+      }
+    },
+    {
+      "operation": "SchoolsUserDirectory",
+      "old_client_doc_id": "19299163991918727471088153061",
+      "new_client_doc_id": "19299163994082092781275927183",
+      "changes": {
+        "client_doc_id": {
+          "old": "19299163991918727471088153061",
+          "new": "19299163994082092781275927183"
+        },
+        "operation_text_hash": {
+          "old": "1918727471088153061",
+          "new": "4082092781275927183"
+        }
+      }
+    }
+  ]
+}

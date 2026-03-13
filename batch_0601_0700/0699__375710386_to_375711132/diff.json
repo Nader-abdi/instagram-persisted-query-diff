@@ -1,0 +1,30 @@
+{
+  "comparison_index": 699,
+  "comparison": {
+    "from_folder": "Instagram_3570024100_beta",
+    "to_folder": "Instagram_3570033100_beta",
+    "from_version_code": 375710386,
+    "to_version_code": 375711132,
+    "from_version_name": "357.0.0.24.100",
+    "to_version_name": "357.0.0.33.100"
+  },
+  "summary": {
+    "old_total": 908,
+    "new_total": 910,
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "GetAIStudioHomeNUXConsentState",
+      "client_doc_id": "85680631218314395831201203491"
+    },
+    {
+      "operation": "UpdateAIStudioHomeNUXConsentState",
+      "client_doc_id": "12700944053051688165762412729"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

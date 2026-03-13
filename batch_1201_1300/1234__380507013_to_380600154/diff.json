@@ -1,0 +1,62 @@
+{
+  "comparison_index": 1234,
+  "comparison": {
+    "from_folder": "Instagram_399005185",
+    "to_folder": "Instagram_4000003_alpha",
+    "from_version_code": 380507013,
+    "to_version_code": 380600154,
+    "from_version_name": "399.0.0.51.85",
+    "to_version_name": "400.0.0.0.3"
+  },
+  "summary": {
+    "old_total": 1290,
+    "new_total": 1290,
+    "added": 1,
+    "removed": 1,
+    "changed": 2
+  },
+  "added": [
+    {
+      "operation": "VirtualTryOnQuery",
+      "client_doc_id": "183068368918170477273491518290"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "ScheduleDraftReminderMutation",
+      "client_doc_id": "23857223559548916600607638450"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "ProductLinkVerificationMutation",
+      "old_client_doc_id": "163005389910971715120513053716",
+      "new_client_doc_id": "16300538999608495541339664102",
+      "changes": {
+        "client_doc_id": {
+          "old": "163005389910971715120513053716",
+          "new": "16300538999608495541339664102"
+        },
+        "operation_text_hash": {
+          "old": "10971715120513053716",
+          "new": "9608495541339664102"
+        }
+      }
+    },
+    {
+      "operation": "ServerDraftsQuery",
+      "old_client_doc_id": "39911467569841188984257350093",
+      "new_client_doc_id": "399114675612726021074130708223",
+      "changes": {
+        "client_doc_id": {
+          "old": "39911467569841188984257350093",
+          "new": "399114675612726021074130708223"
+        },
+        "operation_text_hash": {
+          "old": "9841188984257350093",
+          "new": "12726021074130708223"
+        }
+      }
+    }
+  ]
+}

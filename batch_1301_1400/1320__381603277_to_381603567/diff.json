@@ -1,0 +1,132 @@
+{
+  "comparison_index": 1320,
+  "comparison": {
+    "from_folder": "Instagram_41000062_alpha",
+    "to_folder": "Instagram_41000067_alpha",
+    "from_version_code": 381603277,
+    "to_version_code": 381603567,
+    "from_version_name": "410.0.0.0.62",
+    "to_version_name": "410.0.0.0.67"
+  },
+  "summary": {
+    "old_total": 1418,
+    "new_total": 1419,
+    "added": 1,
+    "removed": 0,
+    "changed": 7
+  },
+  "added": [
+    {
+      "operation": "DismissVoiceTranslationUpsell",
+      "client_doc_id": "27666521238272456436616569495"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FriendMapPlacesDetailsQuery",
+      "old_client_doc_id": "6620868009524636437311216074",
+      "new_client_doc_id": "6620868006395786320380512572",
+      "changes": {
+        "client_doc_id": {
+          "old": "6620868009524636437311216074",
+          "new": "6620868006395786320380512572"
+        },
+        "operation_text_hash": {
+          "old": "9524636437311216074",
+          "new": "6395786320380512572"
+        }
+      }
+    },
+    {
+      "operation": "FxIgConnectedServicesInfoQuery",
+      "old_client_doc_id": "21631519912307520254602270839",
+      "new_client_doc_id": "21631519911413744205623093060",
+      "changes": {
+        "client_doc_id": {
+          "old": "21631519912307520254602270839",
+          "new": "21631519911413744205623093060"
+        },
+        "operation_text_hash": {
+          "old": "12307520254602270839",
+          "new": "11413744205623093060"
+        }
+      }
+    },
+    {
+      "operation": "IGDirectSafetyInterventionsUserLevelAsLiveQuery",
+      "old_client_doc_id": "306549137217054432551591121423",
+      "new_client_doc_id": "306549137211678415517211100714",
+      "changes": {
+        "client_doc_id": {
+          "old": "306549137217054432551591121423",
+          "new": "306549137211678415517211100714"
+        },
+        "operation_text_hash": {
+          "old": "17054432551591121423",
+          "new": "11678415517211100714"
+        }
+      }
+    },
+    {
+      "operation": "IGDirectSecureConsentFrameworkSettingsLiveQuery",
+      "old_client_doc_id": "41748915948691779002266873445",
+      "new_client_doc_id": "41748915944609021109781009205",
+      "changes": {
+        "client_doc_id": {
+          "old": "41748915948691779002266873445",
+          "new": "41748915944609021109781009205"
+        },
+        "operation_text_hash": {
+          "old": "8691779002266873445",
+          "new": "4609021109781009205"
+        }
+      }
+    },
+    {
+      "operation": "IGSharedAccountsLiveQuery",
+      "old_client_doc_id": "207018113710861309431824913222",
+      "new_client_doc_id": "2070181137880791248448534998",
+      "changes": {
+        "client_doc_id": {
+          "old": "207018113710861309431824913222",
+          "new": "2070181137880791248448534998"
+        },
+        "operation_text_hash": {
+          "old": "10861309431824913222",
+          "new": "880791248448534998"
+        }
+      }
+    },
+    {
+      "operation": "QPIGDevToolV2Check",
+      "old_client_doc_id": "259016803113197611483635905652",
+      "new_client_doc_id": "25901680311424144587843365386",
+      "changes": {
+        "client_doc_id": {
+          "old": "259016803113197611483635905652",
+          "new": "25901680311424144587843365386"
+        },
+        "operation_text_hash": {
+          "old": "13197611483635905652",
+          "new": "1424144587843365386"
+        }
+      }
+    },
+    {
+      "operation": "QuickPromotionSurfaceQueryV3",
+      "old_client_doc_id": "40925026816650620058271299856",
+      "new_client_doc_id": "4092502689518908338761866118",
+      "changes": {
+        "client_doc_id": {
+          "old": "40925026816650620058271299856",
+          "new": "4092502689518908338761866118"
+        },
+        "operation_text_hash": {
+          "old": "16650620058271299856",
+          "new": "9518908338761866118"
+        }
+      }
+    }
+  ]
+}

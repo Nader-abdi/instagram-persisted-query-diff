@@ -1,0 +1,95 @@
+{
+  "comparison_index": 525,
+  "comparison": {
+    "from_folder": "Instagram_345004895",
+    "to_folder": "Instagram_3460009_alpha",
+    "from_version_code": 374511745,
+    "to_version_code": 374600756,
+    "from_version_name": "345.0.0.48.95",
+    "to_version_name": "346.0.0.0.9"
+  },
+  "summary": {
+    "old_total": 804,
+    "new_total": 807,
+    "added": 3,
+    "removed": 0,
+    "changed": 4
+  },
+  "added": [
+    {
+      "operation": "CreateCustomFolderMutation",
+      "client_doc_id": "31040512533263525737610744620"
+    },
+    {
+      "operation": "DeleteCustomFolderMutation",
+      "client_doc_id": "582674289846684101790058408"
+    },
+    {
+      "operation": "IGStickerPacks",
+      "client_doc_id": "238649299614968439048989833613"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "MetaHCMQuery",
+      "old_client_doc_id": "16691628971535445131947635883",
+      "new_client_doc_id": "16691628978293733410348888627",
+      "changes": {
+        "client_doc_id": {
+          "old": "16691628971535445131947635883",
+          "new": "16691628978293733410348888627"
+        },
+        "operation_text_hash": {
+          "old": "1535445131947635883",
+          "new": "8293733410348888627"
+        }
+      }
+    },
+    {
+      "operation": "PendingFollows",
+      "old_client_doc_id": "3313842938397192084830327817",
+      "new_client_doc_id": "3313842936963120580453199760",
+      "changes": {
+        "client_doc_id": {
+          "old": "3313842938397192084830327817",
+          "new": "3313842936963120580453199760"
+        },
+        "operation_text_hash": {
+          "old": "8397192084830327817",
+          "new": "6963120580453199760"
+        }
+      }
+    },
+    {
+      "operation": "PendingFollows_At_Pando_Connection_Pagination_Query_users",
+      "old_client_doc_id": "184793339916816920697277171026",
+      "new_client_doc_id": "184793339913512920069464850576",
+      "changes": {
+        "client_doc_id": {
+          "old": "184793339916816920697277171026",
+          "new": "184793339913512920069464850576"
+        },
+        "operation_text_hash": {
+          "old": "16816920697277171026",
+          "new": "13512920069464850576"
+        }
+      }
+    },
+    {
+      "operation": "QuickPromotionSurfaceQueryV3",
+      "old_client_doc_id": "4092502681606606001171913359",
+      "new_client_doc_id": "4092502689167099619152345120",
+      "changes": {
+        "client_doc_id": {
+          "old": "4092502681606606001171913359",
+          "new": "4092502689167099619152345120"
+        },
+        "operation_text_hash": {
+          "old": "1606606001171913359",
+          "new": "9167099619152345120"
+        }
+      }
+    }
+  ]
+}

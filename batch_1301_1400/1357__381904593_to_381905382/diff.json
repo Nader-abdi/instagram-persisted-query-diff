@@ -1,0 +1,37 @@
+{
+  "comparison_index": 1357,
+  "comparison": {
+    "from_folder": "Instagram_41300484_beta",
+    "to_folder": "Instagram_413001984_beta",
+    "from_version_code": 381904593,
+    "to_version_code": 381905382,
+    "from_version_name": "413.0.0.4.84",
+    "to_version_name": "413.0.0.19.84"
+  },
+  "summary": {
+    "old_total": 1431,
+    "new_total": 1431,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FxIgLinkageCacheQuery",
+      "old_client_doc_id": "11674382496393211866227358965",
+      "new_client_doc_id": "11674382496287058119180619150",
+      "changes": {
+        "client_doc_id": {
+          "old": "11674382496393211866227358965",
+          "new": "11674382496287058119180619150"
+        },
+        "operation_text_hash": {
+          "old": "6393211866227358965",
+          "new": "6287058119180619150"
+        }
+      }
+    }
+  ]
+}

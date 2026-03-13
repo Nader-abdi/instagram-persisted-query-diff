@@ -1,0 +1,67 @@
+{
+  "comparison_index": 1389,
+  "comparison": {
+    "from_folder": "Instagram_420001674_beta",
+    "to_folder": "Instagram_420004874_beta",
+    "from_version_code": 382606458,
+    "to_version_code": 382608663,
+    "from_version_name": "420.0.0.16.74",
+    "to_version_name": "420.0.0.48.74"
+  },
+  "summary": {
+    "old_total": 1536,
+    "new_total": 1536,
+    "added": 0,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGProfilePreviewQuery",
+      "old_client_doc_id": "365293765417715113657862482426",
+      "new_client_doc_id": "36529376545346301697118159273",
+      "changes": {
+        "client_doc_id": {
+          "old": "365293765417715113657862482426",
+          "new": "36529376545346301697118159273"
+        },
+        "operation_text_hash": {
+          "old": "17715113657862482426",
+          "new": "5346301697118159273"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "5603035082795612417549187012",
+      "new_client_doc_id": "5603035081190192501794585314",
+      "changes": {
+        "client_doc_id": {
+          "old": "5603035082795612417549187012",
+          "new": "5603035081190192501794585314"
+        },
+        "operation_text_hash": {
+          "old": "2795612417549187012",
+          "new": "1190192501794585314"
+        }
+      }
+    },
+    {
+      "operation": "UpdateBlendMembership",
+      "old_client_doc_id": "140080629210787711483200113631",
+      "new_client_doc_id": "14008062921648092271263425103",
+      "changes": {
+        "client_doc_id": {
+          "old": "140080629210787711483200113631",
+          "new": "14008062921648092271263425103"
+        },
+        "operation_text_hash": {
+          "old": "10787711483200113631",
+          "new": "1648092271263425103"
+        }
+      }
+    }
+  ]
+}

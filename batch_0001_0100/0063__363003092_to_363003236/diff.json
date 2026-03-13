@@ -1,0 +1,147 @@
+{
+  "comparison_index": 63,
+  "comparison": {
+    "from_folder": "Instagram_23000094_alpha",
+    "to_folder": "Instagram_23000076_alpha",
+    "from_version_code": 363003092,
+    "to_version_code": 363003236,
+    "from_version_name": "230.0.0.0.94",
+    "to_version_name": "230.0.0.0.76"
+  },
+  "summary": {
+    "old_total": 128,
+    "new_total": 127,
+    "added": 0,
+    "removed": 1,
+    "changed": 8
+  },
+  "added": [],
+  "removed": [
+    {
+      "operation": "InstagramAREffectMetadataQuery",
+      "client_doc_id": "6930256055146768023818004529"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "DiverseOwnedBusiness",
+      "old_client_doc_id": "532063203674975177929099139",
+      "new_client_doc_id": "5320632032788133999654726530",
+      "changes": {
+        "client_doc_id": {
+          "old": "532063203674975177929099139",
+          "new": "5320632032788133999654726530"
+        },
+        "operation_text_hash": {
+          "old": "674975177929099139",
+          "new": "2788133999654726530"
+        }
+      }
+    },
+    {
+      "operation": "DiverseOwnedBusinessDelete",
+      "old_client_doc_id": "27397928682600667212115524974",
+      "new_client_doc_id": "273979286810681661025535647175",
+      "changes": {
+        "client_doc_id": {
+          "old": "27397928682600667212115524974",
+          "new": "273979286810681661025535647175"
+        },
+        "operation_text_hash": {
+          "old": "2600667212115524974",
+          "new": "10681661025535647175"
+        }
+      }
+    },
+    {
+      "operation": "DiverseOwnedBusinessMutate",
+      "old_client_doc_id": "420584190017430003463281962176",
+      "new_client_doc_id": "42058419001989614827679457699",
+      "changes": {
+        "client_doc_id": {
+          "old": "420584190017430003463281962176",
+          "new": "42058419001989614827679457699"
+        },
+        "operation_text_hash": {
+          "old": "17430003463281962176",
+          "new": "1989614827679457699"
+        }
+      }
+    },
+    {
+      "operation": "FanClubBlockMember",
+      "old_client_doc_id": "68003707110767566272170850238",
+      "new_client_doc_id": "68003707117555903689069008879",
+      "changes": {
+        "client_doc_id": {
+          "old": "68003707110767566272170850238",
+          "new": "68003707117555903689069008879"
+        },
+        "operation_text_hash": {
+          "old": "10767566272170850238",
+          "new": "17555903689069008879"
+        }
+      }
+    },
+    {
+      "operation": "FanClubUnBlockMember",
+      "old_client_doc_id": "35926236109067463794515179775",
+      "new_client_doc_id": "3592623610568841548156168993",
+      "changes": {
+        "client_doc_id": {
+          "old": "35926236109067463794515179775",
+          "new": "3592623610568841548156168993"
+        },
+        "operation_text_hash": {
+          "old": "9067463794515179775",
+          "new": "568841548156168993"
+        }
+      }
+    },
+    {
+      "operation": "FetchFanClubFromUser",
+      "old_client_doc_id": "103026039015291734985416633980",
+      "new_client_doc_id": "103026039010029492652614084394",
+      "changes": {
+        "client_doc_id": {
+          "old": "103026039015291734985416633980",
+          "new": "103026039010029492652614084394"
+        },
+        "operation_text_hash": {
+          "old": "15291734985416633980",
+          "new": "10029492652614084394"
+        }
+      }
+    },
+    {
+      "operation": "FetchFanClubInfoForCreator",
+      "old_client_doc_id": "373764597417893213946904422678",
+      "new_client_doc_id": "373764597411153434356295819464",
+      "changes": {
+        "client_doc_id": {
+          "old": "373764597417893213946904422678",
+          "new": "373764597411153434356295819464"
+        },
+        "operation_text_hash": {
+          "old": "17893213946904422678",
+          "new": "11153434356295819464"
+        }
+      }
+    },
+    {
+      "operation": "FetchFanClubMembershipsFromUser",
+      "old_client_doc_id": "45418817611950959296257017027",
+      "new_client_doc_id": "4541881767157095050673986719",
+      "changes": {
+        "client_doc_id": {
+          "old": "45418817611950959296257017027",
+          "new": "4541881767157095050673986719"
+        },
+        "operation_text_hash": {
+          "old": "11950959296257017027",
+          "new": "7157095050673986719"
+        }
+      }
+    }
+  ]
+}

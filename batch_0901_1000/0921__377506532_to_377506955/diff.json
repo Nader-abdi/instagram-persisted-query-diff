@@ -1,0 +1,37 @@
+{
+  "comparison_index": 921,
+  "comparison": {
+    "from_folder": "Instagram_37100063_alpha",
+    "to_folder": "Instagram_37100068_alpha",
+    "from_version_code": 377506532,
+    "to_version_code": 377506955,
+    "from_version_name": "371.0.0.0.63",
+    "to_version_name": "371.0.0.0.68"
+  },
+  "summary": {
+    "old_total": 1004,
+    "new_total": 1004,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "GetListOfProjects",
+      "old_client_doc_id": "29849611908148857730118855412",
+      "new_client_doc_id": "298496119013770317159263630355",
+      "changes": {
+        "client_doc_id": {
+          "old": "29849611908148857730118855412",
+          "new": "298496119013770317159263630355"
+        },
+        "operation_text_hash": {
+          "old": "8148857730118855412",
+          "new": "13770317159263630355"
+        }
+      }
+    }
+  ]
+}

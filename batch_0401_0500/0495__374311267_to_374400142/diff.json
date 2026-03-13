@@ -1,0 +1,37 @@
+{
+  "comparison_index": 495,
+  "comparison": {
+    "from_folder": "Instagram_3430033101",
+    "to_folder": "Instagram_3440001_alpha",
+    "from_version_code": 374311267,
+    "to_version_code": 374400142,
+    "from_version_name": "343.0.0.33.101",
+    "to_version_name": "344.0.0.0.1"
+  },
+  "summary": {
+    "old_total": 784,
+    "new_total": 784,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGDogfoodingAssistantSessionQuery",
+      "old_client_doc_id": "348159233711892025831485209091",
+      "new_client_doc_id": "348159233718413267257334452380",
+      "changes": {
+        "client_doc_id": {
+          "old": "348159233711892025831485209091",
+          "new": "348159233718413267257334452380"
+        },
+        "operation_text_hash": {
+          "old": "11892025831485209091",
+          "new": "18413267257334452380"
+        }
+      }
+    }
+  ]
+}

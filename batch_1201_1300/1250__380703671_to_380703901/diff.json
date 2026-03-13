@@ -1,0 +1,26 @@
+{
+  "comparison_index": 1250,
+  "comparison": {
+    "from_folder": "Instagram_40100070_alpha",
+    "to_folder": "Instagram_40100075_alpha",
+    "from_version_code": 380703671,
+    "to_version_code": 380703901,
+    "from_version_name": "401.0.0.0.70",
+    "to_version_name": "401.0.0.0.75"
+  },
+  "summary": {
+    "old_total": 1311,
+    "new_total": 1312,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "FriendlyCommentsLaneQuery",
+      "client_doc_id": "6263602959194341400969734454"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

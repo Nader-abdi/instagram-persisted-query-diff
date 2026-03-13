@@ -1,0 +1,67 @@
+{
+  "comparison_index": 539,
+  "comparison": {
+    "from_folder": "Instagram_3470008_alpha",
+    "to_folder": "Instagram_34700019_alpha",
+    "from_version_code": 374700675,
+    "to_version_code": 374701387,
+    "from_version_name": "347.0.0.0.8",
+    "to_version_name": "347.0.0.0.19"
+  },
+  "summary": {
+    "old_total": 815,
+    "new_total": 815,
+    "added": 0,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGBugReportSubmitMutation",
+      "old_client_doc_id": "293839176013550553288378882913",
+      "new_client_doc_id": "293839176012696561756568920965",
+      "changes": {
+        "client_doc_id": {
+          "old": "293839176013550553288378882913",
+          "new": "293839176012696561756568920965"
+        },
+        "operation_text_hash": {
+          "old": "13550553288378882913",
+          "new": "12696561756568920965"
+        }
+      }
+    },
+    {
+      "operation": "NUXConfirmContactPointMutation",
+      "old_client_doc_id": "201789510315644383194074544512",
+      "new_client_doc_id": "201789510316576527991974724736",
+      "changes": {
+        "client_doc_id": {
+          "old": "201789510315644383194074544512",
+          "new": "201789510316576527991974724736"
+        },
+        "operation_text_hash": {
+          "old": "15644383194074544512",
+          "new": "16576527991974724736"
+        }
+      }
+    },
+    {
+      "operation": "NUXUpdateContactPointMutation",
+      "old_client_doc_id": "20096218289101784110492837842",
+      "new_client_doc_id": "20096218286682600242462050644",
+      "changes": {
+        "client_doc_id": {
+          "old": "20096218289101784110492837842",
+          "new": "20096218286682600242462050644"
+        },
+        "operation_text_hash": {
+          "old": "9101784110492837842",
+          "new": "6682600242462050644"
+        }
+      }
+    }
+  ]
+}

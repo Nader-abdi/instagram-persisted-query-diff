@@ -1,0 +1,166 @@
+{
+  "comparison_index": 1302,
+  "comparison": {
+    "from_folder": "Instagram_40800011_alpha",
+    "to_folder": "Instagram_40800045_alpha",
+    "from_version_code": 381400683,
+    "to_version_code": 381402791,
+    "from_version_name": "408.0.0.0.11",
+    "to_version_name": "408.0.0.0.45"
+  },
+  "summary": {
+    "old_total": 1387,
+    "new_total": 1389,
+    "added": 2,
+    "removed": 0,
+    "changed": 9
+  },
+  "added": [
+    {
+      "operation": "DeleteFriendMapVisitMutation",
+      "client_doc_id": "150664203514940690329251207467"
+    },
+    {
+      "operation": "QPIGDevToolV2ClearCounters",
+      "client_doc_id": "164112884813635536133176714587"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "BcnSlideSearchQueryStateQuery",
+      "old_client_doc_id": "160045497414873269481779123234",
+      "new_client_doc_id": "16004549745885065657893581700",
+      "changes": {
+        "client_doc_id": {
+          "old": "160045497414873269481779123234",
+          "new": "16004549745885065657893581700"
+        },
+        "operation_text_hash": {
+          "old": "14873269481779123234",
+          "new": "5885065657893581700"
+        }
+      }
+    },
+    {
+      "operation": "ClipsEditingToolsQuery",
+      "old_client_doc_id": "164284657014607939105487743469",
+      "new_client_doc_id": "16428465707510023884640913609",
+      "changes": {
+        "client_doc_id": {
+          "old": "164284657014607939105487743469",
+          "new": "16428465707510023884640913609"
+        },
+        "operation_text_hash": {
+          "old": "14607939105487743469",
+          "new": "7510023884640913609"
+        }
+      }
+    },
+    {
+      "operation": "ClipsMemeHubAssetQuery",
+      "old_client_doc_id": "872868184409888191196397339",
+      "new_client_doc_id": "87286818414113300584078396095",
+      "changes": {
+        "client_doc_id": {
+          "old": "872868184409888191196397339",
+          "new": "87286818414113300584078396095"
+        },
+        "operation_text_hash": {
+          "old": "409888191196397339",
+          "new": "14113300584078396095"
+        }
+      }
+    },
+    {
+      "operation": "ClipsProfileQuery",
+      "old_client_doc_id": "20904923164084759705655172037",
+      "new_client_doc_id": "2090492316959841841722428702",
+      "changes": {
+        "client_doc_id": {
+          "old": "20904923164084759705655172037",
+          "new": "2090492316959841841722428702"
+        },
+        "operation_text_hash": {
+          "old": "4084759705655172037",
+          "new": "959841841722428702"
+        }
+      }
+    },
+    {
+      "operation": "ClipsTimelyEventQuery",
+      "old_client_doc_id": "3945090390984410179653138449",
+      "new_client_doc_id": "394509039011284971164123555736",
+      "changes": {
+        "client_doc_id": {
+          "old": "3945090390984410179653138449",
+          "new": "394509039011284971164123555736"
+        },
+        "operation_text_hash": {
+          "old": "984410179653138449",
+          "new": "11284971164123555736"
+        }
+      }
+    },
+    {
+      "operation": "FriendMapPlacesDetailsQuery",
+      "old_client_doc_id": "6620868003473893857332289319",
+      "new_client_doc_id": "66208680015751597081584141362",
+      "changes": {
+        "client_doc_id": {
+          "old": "6620868003473893857332289319",
+          "new": "66208680015751597081584141362"
+        },
+        "operation_text_hash": {
+          "old": "3473893857332289319",
+          "new": "15751597081584141362"
+        }
+      }
+    },
+    {
+      "operation": "FriendlyCommentsLaneQuery",
+      "old_client_doc_id": "6263602952660292774440472602",
+      "new_client_doc_id": "62636029512199193361010569976",
+      "changes": {
+        "client_doc_id": {
+          "old": "6263602952660292774440472602",
+          "new": "62636029512199193361010569976"
+        },
+        "operation_text_hash": {
+          "old": "2660292774440472602",
+          "new": "12199193361010569976"
+        }
+      }
+    },
+    {
+      "operation": "GetClipsSpins",
+      "old_client_doc_id": "10664668989257030999164274144",
+      "new_client_doc_id": "106646689811294198140099059406",
+      "changes": {
+        "client_doc_id": {
+          "old": "10664668989257030999164274144",
+          "new": "106646689811294198140099059406"
+        },
+        "operation_text_hash": {
+          "old": "9257030999164274144",
+          "new": "11294198140099059406"
+        }
+      }
+    },
+    {
+      "operation": "SearchDiscoveryConnectionQuery",
+      "old_client_doc_id": "123225916112132783661874360617",
+      "new_client_doc_id": "123225916110661219635078714923",
+      "changes": {
+        "client_doc_id": {
+          "old": "123225916112132783661874360617",
+          "new": "123225916110661219635078714923"
+        },
+        "operation_text_hash": {
+          "old": "12132783661874360617",
+          "new": "10661219635078714923"
+        }
+      }
+    }
+  ]
+}

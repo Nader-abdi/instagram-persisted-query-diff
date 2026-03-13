@@ -1,0 +1,37 @@
+{
+  "comparison_index": 897,
+  "comparison": {
+    "from_folder": "Instagram_36900042_alpha",
+    "to_folder": "Instagram_36900062_alpha",
+    "from_version_code": 377304140,
+    "to_version_code": 377306100,
+    "from_version_name": "369.0.0.0.42",
+    "to_version_name": "369.0.0.0.62"
+  },
+  "summary": {
+    "old_total": 991,
+    "new_total": 991,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "ZeroHeadersPingParamsV2",
+      "old_client_doc_id": "191686786017663515243994971432",
+      "new_client_doc_id": "19168678605182084355530473950",
+      "changes": {
+        "client_doc_id": {
+          "old": "191686786017663515243994971432",
+          "new": "19168678605182084355530473950"
+        },
+        "operation_text_hash": {
+          "old": "17663515243994971432",
+          "new": "5182084355530473950"
+        }
+      }
+    }
+  ]
+}

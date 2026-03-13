@@ -1,0 +1,67 @@
+{
+  "comparison_index": 803,
+  "comparison": {
+    "from_folder": "Instagram_362000162_alpha",
+    "to_folder": "Instagram_362000174_alpha",
+    "from_version_code": 376213535,
+    "to_version_code": 376214543,
+    "from_version_name": "362.0.0.0.162",
+    "to_version_name": "362.0.0.0.174"
+  },
+  "summary": {
+    "old_total": 956,
+    "new_total": 956,
+    "added": 0,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGImaginedForYouSetGenerationSeenMutation",
+      "old_client_doc_id": "22155708769934897869129178233",
+      "new_client_doc_id": "221557087645292602586443193",
+      "changes": {
+        "client_doc_id": {
+          "old": "22155708769934897869129178233",
+          "new": "221557087645292602586443193"
+        },
+        "operation_text_hash": {
+          "old": "9934897869129178233",
+          "new": "45292602586443193"
+        }
+      }
+    },
+    {
+      "operation": "IGMEmuInFeedGetSessionMutation",
+      "old_client_doc_id": "23733176357391202391887099256",
+      "new_client_doc_id": "2373317635526426650624091371",
+      "changes": {
+        "client_doc_id": {
+          "old": "23733176357391202391887099256",
+          "new": "2373317635526426650624091371"
+        },
+        "operation_text_hash": {
+          "old": "7391202391887099256",
+          "new": "526426650624091371"
+        }
+      }
+    },
+    {
+      "operation": "UpdateMifuLastHideTime",
+      "old_client_doc_id": "40096893784648038139100604725",
+      "new_client_doc_id": "40096893782437839985578737445",
+      "changes": {
+        "client_doc_id": {
+          "old": "40096893784648038139100604725",
+          "new": "40096893782437839985578737445"
+        },
+        "operation_text_hash": {
+          "old": "4648038139100604725",
+          "new": "2437839985578737445"
+        }
+      }
+    }
+  ]
+}

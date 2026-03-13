@@ -1,0 +1,47 @@
+{
+  "comparison_index": 727,
+  "comparison": {
+    "from_folder": "Instagram_35900022_alpha",
+    "to_folder": "Instagram_35900024_alpha",
+    "from_version_code": 375901802,
+    "to_version_code": 375901968,
+    "from_version_name": "359.0.0.0.22",
+    "to_version_name": "359.0.0.0.24"
+  },
+  "summary": {
+    "old_total": 929,
+    "new_total": 929,
+    "added": 1,
+    "removed": 1,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "InboundEmailMutation",
+      "client_doc_id": "38034225553728735056725675759"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "ReelsTrayQuery",
+      "client_doc_id": "257592481016998919108061173770"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "StartValidationMutation",
+      "old_client_doc_id": "32238487202536877402954411293",
+      "new_client_doc_id": "32238487204767307087287039817",
+      "changes": {
+        "client_doc_id": {
+          "old": "32238487202536877402954411293",
+          "new": "32238487204767307087287039817"
+        },
+        "operation_text_hash": {
+          "old": "2536877402954411293",
+          "new": "4767307087287039817"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "comparison_index": 1098,
+  "comparison": {
+    "from_folder": "Instagram_38300076_alpha",
+    "to_folder": "Instagram_38300378_beta",
+    "from_version_code": 378703907,
+    "to_version_code": 378704157,
+    "from_version_name": "383.0.0.0.76",
+    "to_version_name": "383.0.0.3.78"
+  },
+  "summary": {
+    "old_total": 1200,
+    "new_total": 1202,
+    "added": 2,
+    "removed": 0,
+    "changed": 7
+  },
+  "added": [
+    {
+      "operation": "GenAIImagineGenerateFromImageMutation",
+      "client_doc_id": "44692317514076146055205643584"
+    },
+    {
+      "operation": "IGKirbyFetchCreationProgressSteps",
+      "client_doc_id": "216466769114051001757000080841"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "GenAIEditAnimateMutation",
+      "old_client_doc_id": "31976369782419544820933649671",
+      "new_client_doc_id": "319763697815835573247807059460",
+      "changes": {
+        "client_doc_id": {
+          "old": "31976369782419544820933649671",
+          "new": "319763697815835573247807059460"
+        },
+        "operation_text_hash": {
+          "old": "2419544820933649671",
+          "new": "15835573247807059460"
+        }
+      }
+    },
+    {
+      "operation": "GenAIEditImageBackdropMutation",
+      "old_client_doc_id": "23423621183856860827382466843",
+      "new_client_doc_id": "23423621181221897455242419692",
+      "changes": {
+        "client_doc_id": {
+          "old": "23423621183856860827382466843",
+          "new": "23423621181221897455242419692"
+        },
+        "operation_text_hash": {
+          "old": "3856860827382466843",
+          "new": "1221897455242419692"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineEditMutation",
+      "old_client_doc_id": "33671555231404565386803990049",
+      "new_client_doc_id": "33671555234396486509523081008",
+      "changes": {
+        "client_doc_id": {
+          "old": "33671555231404565386803990049",
+          "new": "33671555234396486509523081008"
+        },
+        "operation_text_hash": {
+          "old": "1404565386803990049",
+          "new": "4396486509523081008"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineGenerateFlashMutation",
+      "old_client_doc_id": "27174422763342848825635753095",
+      "new_client_doc_id": "271744227611986374586477219984",
+      "changes": {
+        "client_doc_id": {
+          "old": "27174422763342848825635753095",
+          "new": "271744227611986374586477219984"
+        },
+        "operation_text_hash": {
+          "old": "3342848825635753095",
+          "new": "11986374586477219984"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineGenerateMutation",
+      "old_client_doc_id": "2741340084156791261226732600",
+      "new_client_doc_id": "274134008239599000108993712",
+      "changes": {
+        "client_doc_id": {
+          "old": "2741340084156791261226732600",
+          "new": "274134008239599000108993712"
+        },
+        "operation_text_hash": {
+          "old": "4156791261226732600",
+          "new": "239599000108993712"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineGenerateStreamingMutation",
+      "old_client_doc_id": "33638188077422393248175695256",
+      "new_client_doc_id": "33638188076447026812951482655",
+      "changes": {
+        "client_doc_id": {
+          "old": "33638188077422393248175695256",
+          "new": "33638188076447026812951482655"
+        },
+        "operation_text_hash": {
+          "old": "7422393248175695256",
+          "new": "6447026812951482655"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineRegenerateMutation",
+      "old_client_doc_id": "3980015004247921694116302460",
+      "new_client_doc_id": "39800150046512481486783432848",
+      "changes": {
+        "client_doc_id": {
+          "old": "3980015004247921694116302460",
+          "new": "39800150046512481486783432848"
+        },
+        "operation_text_hash": {
+          "old": "247921694116302460",
+          "new": "6512481486783432848"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "comparison_index": 1026,
+  "comparison": {
+    "from_folder": "Instagram_377104863",
+    "to_folder": "Instagram_3780004_alpha",
+    "from_version_code": 378112937,
+    "to_version_code": 378200471,
+    "from_version_name": "377.1.0.48.63",
+    "to_version_name": "378.0.0.0.4"
+  },
+  "summary": {
+    "old_total": 1111,
+    "new_total": 1111,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "ClipsProfileQuery",
+      "old_client_doc_id": "20904923169147775217903514280",
+      "new_client_doc_id": "2090492316865733296218746396",
+      "changes": {
+        "client_doc_id": {
+          "old": "20904923169147775217903514280",
+          "new": "2090492316865733296218746396"
+        },
+        "operation_text_hash": {
+          "old": "9147775217903514280",
+          "new": "865733296218746396"
+        }
+      }
+    }
+  ]
+}

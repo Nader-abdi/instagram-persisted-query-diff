@@ -1,0 +1,67 @@
+{
+  "comparison_index": 59,
+  "comparison": {
+    "from_folder": "Instagram_23000029_alpha",
+    "to_folder": "Instagram_23000048_alpha",
+    "from_version_code": 363000952,
+    "to_version_code": 363001562,
+    "from_version_name": "230.0.0.0.29",
+    "to_version_name": "230.0.0.0.48"
+  },
+  "summary": {
+    "old_total": 127,
+    "new_total": 127,
+    "added": 0,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FetchCapabilityLatestAimVersionQuery",
+      "old_client_doc_id": "87421234813794017511519515008",
+      "new_client_doc_id": "87421234811295432439900824770",
+      "changes": {
+        "client_doc_id": {
+          "old": "87421234813794017511519515008",
+          "new": "87421234811295432439900824770"
+        },
+        "operation_text_hash": {
+          "old": "13794017511519515008",
+          "new": "11295432439900824770"
+        }
+      }
+    },
+    {
+      "operation": "NativeMLModelBatchedQuery",
+      "old_client_doc_id": "3776118458744570282668720886",
+      "new_client_doc_id": "37761184512870923262824429533",
+      "changes": {
+        "client_doc_id": {
+          "old": "3776118458744570282668720886",
+          "new": "37761184512870923262824429533"
+        },
+        "operation_text_hash": {
+          "old": "8744570282668720886",
+          "new": "12870923262824429533"
+        }
+      }
+    },
+    {
+      "operation": "NativeMLModelQuery",
+      "old_client_doc_id": "30741986496002407897494490590",
+      "new_client_doc_id": "307419864915455345660599442562",
+      "changes": {
+        "client_doc_id": {
+          "old": "30741986496002407897494490590",
+          "new": "307419864915455345660599442562"
+        },
+        "operation_text_hash": {
+          "old": "6002407897494490590",
+          "new": "15455345660599442562"
+        }
+      }
+    }
+  ]
+}

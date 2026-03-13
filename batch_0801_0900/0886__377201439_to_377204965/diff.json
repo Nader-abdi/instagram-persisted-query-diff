@@ -1,0 +1,80 @@
+{
+  "comparison_index": 886,
+  "comparison": {
+    "from_folder": "Instagram_36800017_alpha",
+    "to_folder": "Instagram_36800059_alpha",
+    "from_version_code": 377201439,
+    "to_version_code": 377204965,
+    "from_version_name": "368.0.0.0.17",
+    "to_version_name": "368.0.0.0.59"
+  },
+  "summary": {
+    "old_total": 971,
+    "new_total": 974,
+    "added": 3,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [
+    {
+      "operation": "FetchHighlightsInMainGridChainingQuery",
+      "client_doc_id": "346428064714752226619008972441"
+    },
+    {
+      "operation": "GenAIImagineSendMediaToChat",
+      "client_doc_id": "8993641199770756029927480870"
+    },
+    {
+      "operation": "IGAvatarUnlockableStickerQuestQuery",
+      "client_doc_id": "36329794871217846662276323022"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FetchUserRepostTimelineQuery",
+      "old_client_doc_id": "371469571714028297778392829493",
+      "new_client_doc_id": "371469571713583395088981398995",
+      "changes": {
+        "client_doc_id": {
+          "old": "371469571714028297778392829493",
+          "new": "371469571713583395088981398995"
+        },
+        "operation_text_hash": {
+          "old": "14028297778392829493",
+          "new": "13583395088981398995"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineByUsernameQuery",
+      "old_client_doc_id": "150523945816359307822974221948",
+      "new_client_doc_id": "15052394588225400889454944125",
+      "changes": {
+        "client_doc_id": {
+          "old": "150523945816359307822974221948",
+          "new": "15052394588225400889454944125"
+        },
+        "operation_text_hash": {
+          "old": "16359307822974221948",
+          "new": "8225400889454944125"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "56030350818362635147531348637",
+      "new_client_doc_id": "5603035085811035823568742540",
+      "changes": {
+        "client_doc_id": {
+          "old": "56030350818362635147531348637",
+          "new": "5603035085811035823568742540"
+        },
+        "operation_text_hash": {
+          "old": "18362635147531348637",
+          "new": "5811035823568742540"
+        }
+      }
+    }
+  ]
+}

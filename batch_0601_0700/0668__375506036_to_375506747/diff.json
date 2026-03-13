@@ -1,0 +1,136 @@
+{
+  "comparison_index": 668,
+  "comparison": {
+    "from_folder": "Instagram_35500072_alpha",
+    "to_folder": "Instagram_35500081_alpha",
+    "from_version_code": 375506036,
+    "to_version_code": 375506747,
+    "from_version_name": "355.0.0.0.72",
+    "to_version_name": "355.0.0.0.81"
+  },
+  "summary": {
+    "old_total": 882,
+    "new_total": 884,
+    "added": 2,
+    "removed": 0,
+    "changed": 7
+  },
+  "added": [
+    {
+      "operation": "MEmuPhotoPreview",
+      "client_doc_id": "30926988179038140248746872437"
+    },
+    {
+      "operation": "UserProfilePictureUrlQuery",
+      "client_doc_id": "97539177410732640338116040227"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGAdsProductInfoODLQuery",
+      "old_client_doc_id": "23037166244582363026213437294",
+      "new_client_doc_id": "230371662411961587533157329224",
+      "changes": {
+        "client_doc_id": {
+          "old": "23037166244582363026213437294",
+          "new": "230371662411961587533157329224"
+        },
+        "operation_text_hash": {
+          "old": "4582363026213437294",
+          "new": "11961587533157329224"
+        }
+      }
+    },
+    {
+      "operation": "IGCreatorAIGuidanceStepCompleteMutation",
+      "old_client_doc_id": "24662476659393560894186194089",
+      "new_client_doc_id": "246624766515303240008924952825",
+      "changes": {
+        "client_doc_id": {
+          "old": "24662476659393560894186194089",
+          "new": "246624766515303240008924952825"
+        },
+        "operation_text_hash": {
+          "old": "9393560894186194089",
+          "new": "15303240008924952825"
+        }
+      }
+    },
+    {
+      "operation": "IGCreatorAIGuidanceStepsQuery",
+      "old_client_doc_id": "36577390034544973007427508629",
+      "new_client_doc_id": "36577390034913149448437538530",
+      "changes": {
+        "client_doc_id": {
+          "old": "36577390034544973007427508629",
+          "new": "36577390034913149448437538530"
+        },
+        "operation_text_hash": {
+          "old": "4544973007427508629",
+          "new": "4913149448437538530"
+        }
+      }
+    },
+    {
+      "operation": "IGProductRecommenderContentQuery",
+      "old_client_doc_id": "17474333247262435177270046943",
+      "new_client_doc_id": "17474333245481951775192791756",
+      "changes": {
+        "client_doc_id": {
+          "old": "17474333247262435177270046943",
+          "new": "17474333245481951775192791756"
+        },
+        "operation_text_hash": {
+          "old": "7262435177270046943",
+          "new": "5481951775192791756"
+        }
+      }
+    },
+    {
+      "operation": "RemindMeSetReminderMutation",
+      "old_client_doc_id": "6025298363486312202023421472",
+      "new_client_doc_id": "6025298366479667937452887636",
+      "changes": {
+        "client_doc_id": {
+          "old": "6025298363486312202023421472",
+          "new": "6025298366479667937452887636"
+        },
+        "operation_text_hash": {
+          "old": "3486312202023421472",
+          "new": "6479667937452887636"
+        }
+      }
+    },
+    {
+      "operation": "RemindMeUnsetReminderMutation",
+      "old_client_doc_id": "26430518275532991904069475515",
+      "new_client_doc_id": "26430518271581331907718653917",
+      "changes": {
+        "client_doc_id": {
+          "old": "26430518275532991904069475515",
+          "new": "26430518271581331907718653917"
+        },
+        "operation_text_hash": {
+          "old": "5532991904069475515",
+          "new": "1581331907718653917"
+        }
+      }
+    },
+    {
+      "operation": "ZeroCampaignAPI",
+      "old_client_doc_id": "376760233615539269977112397927",
+      "new_client_doc_id": "37676023364780202738883698885",
+      "changes": {
+        "client_doc_id": {
+          "old": "376760233615539269977112397927",
+          "new": "37676023364780202738883698885"
+        },
+        "operation_text_hash": {
+          "old": "15539269977112397927",
+          "new": "4780202738883698885"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "comparison_index": 1011,
+  "comparison": {
+    "from_folder": "Instagram_37700020_alpha",
+    "to_folder": "Instagram_37700024_alpha",
+    "from_version_code": 378102170,
+    "to_version_code": 378102618,
+    "from_version_name": "377.0.0.0.20",
+    "to_version_name": "377.0.0.0.24"
+  },
+  "summary": {
+    "old_total": 1097,
+    "new_total": 1092,
+    "added": 0,
+    "removed": 5,
+    "changed": 0
+  },
+  "added": [],
+  "removed": [
+    {
+      "operation": "AutofillDeleteContactDataMutation",
+      "client_doc_id": "252908852910872122244061623378"
+    },
+    {
+      "operation": "AutofillFetchContactDataQuery",
+      "client_doc_id": "366653094710190247633861211580"
+    },
+    {
+      "operation": "AutofillFetchSettingsQuery",
+      "client_doc_id": "14238411613300737138652358065"
+    },
+    {
+      "operation": "AutofillSaveContactDataMutation",
+      "client_doc_id": "38209951822886196591054336676"
+    },
+    {
+      "operation": "AutofillUpdateNegativeInteractionCountMutation",
+      "client_doc_id": "76551043516413242232856974128"
+    }
+  ],
+  "changed": []
+}

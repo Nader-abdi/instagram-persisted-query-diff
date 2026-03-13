@@ -1,0 +1,106 @@
+{
+  "comparison_index": 547,
+  "comparison": {
+    "from_folder": "Instagram_34700085_alpha",
+    "to_folder": "Instagram_34700094_alpha",
+    "from_version_code": 374705952,
+    "to_version_code": 374706699,
+    "from_version_name": "347.0.0.0.85",
+    "to_version_name": "347.0.0.0.94"
+  },
+  "summary": {
+    "old_total": 814,
+    "new_total": 816,
+    "added": 2,
+    "removed": 0,
+    "changed": 5
+  },
+  "added": [
+    {
+      "operation": "DisableAutoConfirmReciprocalFollowRequests",
+      "client_doc_id": "508854402738824097011399653"
+    },
+    {
+      "operation": "EnableAutoConfirmReciprocalFollowRequests",
+      "client_doc_id": "21274623316041008087038579130"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "GenAIImagineGenerateSuggestionsQuery",
+      "old_client_doc_id": "294816211414614515278038511192",
+      "new_client_doc_id": "29481621143903656470999283166",
+      "changes": {
+        "client_doc_id": {
+          "old": "294816211414614515278038511192",
+          "new": "29481621143903656470999283166"
+        },
+        "operation_text_hash": {
+          "old": "14614515278038511192",
+          "new": "3903656470999283166"
+        }
+      }
+    },
+    {
+      "operation": "GetAllPresencePoints",
+      "old_client_doc_id": "8283516481618779341906023307",
+      "new_client_doc_id": "8283516486297982193337199460",
+      "changes": {
+        "client_doc_id": {
+          "old": "8283516481618779341906023307",
+          "new": "8283516486297982193337199460"
+        },
+        "operation_text_hash": {
+          "old": "1618779341906023307",
+          "new": "6297982193337199460"
+        }
+      }
+    },
+    {
+      "operation": "GetFriendMapSettingsQuery",
+      "old_client_doc_id": "24531820625534150198967124087",
+      "new_client_doc_id": "245318206217435858158626232339",
+      "changes": {
+        "client_doc_id": {
+          "old": "24531820625534150198967124087",
+          "new": "245318206217435858158626232339"
+        },
+        "operation_text_hash": {
+          "old": "5534150198967124087",
+          "new": "17435858158626232339"
+        }
+      }
+    },
+    {
+      "operation": "QuickPromotionSurfaceQueryV3",
+      "old_client_doc_id": "4092502683650987583344298516",
+      "new_client_doc_id": "40925026813264941576852646439",
+      "changes": {
+        "client_doc_id": {
+          "old": "4092502683650987583344298516",
+          "new": "40925026813264941576852646439"
+        },
+        "operation_text_hash": {
+          "old": "3650987583344298516",
+          "new": "13264941576852646439"
+        }
+      }
+    },
+    {
+      "operation": "UpdateFriendMapSettingsMutation",
+      "old_client_doc_id": "21199682089895357308930946755",
+      "new_client_doc_id": "211996820815660684269222864532",
+      "changes": {
+        "client_doc_id": {
+          "old": "21199682089895357308930946755",
+          "new": "211996820815660684269222864532"
+        },
+        "operation_text_hash": {
+          "old": "9895357308930946755",
+          "new": "15660684269222864532"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "comparison_index": 992,
+  "comparison": {
+    "from_folder": "Instagram_37600014_alpha",
+    "to_folder": "Instagram_37600016_alpha",
+    "from_version_code": 378001772,
+    "to_version_code": 378002250,
+    "from_version_name": "376.0.0.0.14",
+    "to_version_name": "376.0.0.0.16"
+  },
+  "summary": {
+    "old_total": 1076,
+    "new_total": 1077,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "GenAINMEMovieGenQuota",
+      "client_doc_id": "211165022714140084056978141681"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

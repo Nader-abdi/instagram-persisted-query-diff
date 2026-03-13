@@ -1,0 +1,82 @@
+{
+  "comparison_index": 633,
+  "comparison": {
+    "from_folder": "Instagram_35300062_alpha",
+    "to_folder": "Instagram_35300073_alpha",
+    "from_version_code": 375304989,
+    "to_version_code": 375305902,
+    "from_version_name": "353.0.0.0.62",
+    "to_version_name": "353.0.0.0.73"
+  },
+  "summary": {
+    "old_total": 868,
+    "new_total": 868,
+    "added": 0,
+    "removed": 0,
+    "changed": 4
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "ClipsProfileQuery",
+      "old_client_doc_id": "2090492316112943164845223588",
+      "new_client_doc_id": "20904923161631594041799658879",
+      "changes": {
+        "client_doc_id": {
+          "old": "2090492316112943164845223588",
+          "new": "20904923161631594041799658879"
+        },
+        "operation_text_hash": {
+          "old": "112943164845223588",
+          "new": "1631594041799658879"
+        }
+      }
+    },
+    {
+      "operation": "IGCreatorActivationTrialTipQuery",
+      "old_client_doc_id": "16298571279184338756077440779",
+      "new_client_doc_id": "162985712718221679060373813034",
+      "changes": {
+        "client_doc_id": {
+          "old": "16298571279184338756077440779",
+          "new": "162985712718221679060373813034"
+        },
+        "operation_text_hash": {
+          "old": "9184338756077440779",
+          "new": "18221679060373813034"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineByUsernameQuery",
+      "old_client_doc_id": "15052394589450525911433131526",
+      "new_client_doc_id": "15052394581183812128918893798",
+      "changes": {
+        "client_doc_id": {
+          "old": "15052394589450525911433131526",
+          "new": "15052394581183812128918893798"
+        },
+        "operation_text_hash": {
+          "old": "9450525911433131526",
+          "new": "1183812128918893798"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "560303508736194821301991262",
+      "new_client_doc_id": "56030350813791287784713400901",
+      "changes": {
+        "client_doc_id": {
+          "old": "560303508736194821301991262",
+          "new": "56030350813791287784713400901"
+        },
+        "operation_text_hash": {
+          "old": "736194821301991262",
+          "new": "13791287784713400901"
+        }
+      }
+    }
+  ]
+}

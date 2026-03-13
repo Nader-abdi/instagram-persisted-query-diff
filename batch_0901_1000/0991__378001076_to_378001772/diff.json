@@ -1,0 +1,34 @@
+{
+  "comparison_index": 991,
+  "comparison": {
+    "from_folder": "Instagram_3760008_alpha",
+    "to_folder": "Instagram_37600014_alpha",
+    "from_version_code": 378001076,
+    "to_version_code": 378001772,
+    "from_version_name": "376.0.0.0.8",
+    "to_version_name": "376.0.0.0.14"
+  },
+  "summary": {
+    "old_total": 1073,
+    "new_total": 1076,
+    "added": 3,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "IGDirectGetCommunityChatParticipantRequestsQuery",
+      "client_doc_id": "7535735318927536115678861335"
+    },
+    {
+      "operation": "IGDirectThreadDetailsMemberListUnbanUserMutation",
+      "client_doc_id": "239303131713200128145254102932"
+    },
+    {
+      "operation": "UnifiedConversationStartersQuery",
+      "client_doc_id": "369323879510775651127486661006"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

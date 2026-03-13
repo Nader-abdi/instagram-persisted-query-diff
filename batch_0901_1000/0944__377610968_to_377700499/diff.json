@@ -1,0 +1,30 @@
+{
+  "comparison_index": 944,
+  "comparison": {
+    "from_folder": "Instagram_372004860",
+    "to_folder": "Instagram_3730005_alpha",
+    "from_version_code": 377610968,
+    "to_version_code": 377700499,
+    "from_version_name": "372.0.0.48.60",
+    "to_version_name": "373.0.0.0.5"
+  },
+  "summary": {
+    "old_total": 1023,
+    "new_total": 1025,
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "IGDirectGetThreadAndPaginatedMessageListQuery",
+      "client_doc_id": "41571454084065406924209647615"
+    },
+    {
+      "operation": "MetaAIThreadTaskPrefilledContentQuery",
+      "client_doc_id": "26350644222465601570883616194"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

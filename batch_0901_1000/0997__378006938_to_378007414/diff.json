@@ -1,0 +1,61 @@
+{
+  "comparison_index": 997,
+  "comparison": {
+    "from_folder": "Instagram_37600059_alpha",
+    "to_folder": "Instagram_37600064_alpha",
+    "from_version_code": 378006938,
+    "to_version_code": 378007414,
+    "from_version_name": "376.0.0.0.59",
+    "to_version_name": "376.0.0.0.64"
+  },
+  "summary": {
+    "old_total": 1086,
+    "new_total": 1088,
+    "added": 2,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [
+    {
+      "operation": "BcnContactPointQuery",
+      "client_doc_id": "25767973697171346783187934915"
+    },
+    {
+      "operation": "IGDirectGetLinkableThreadsQuery",
+      "client_doc_id": "6212826882519162699904571359"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "ClipsProfileQuery",
+      "old_client_doc_id": "20904923169905768439712283066",
+      "new_client_doc_id": "20904923163395921023942172748",
+      "changes": {
+        "client_doc_id": {
+          "old": "20904923169905768439712283066",
+          "new": "20904923163395921023942172748"
+        },
+        "operation_text_hash": {
+          "old": "9905768439712283066",
+          "new": "3395921023942172748"
+        }
+      }
+    },
+    {
+      "operation": "GetCreatorInspirationHubQuery",
+      "old_client_doc_id": "359317615014778639498919049180",
+      "new_client_doc_id": "35931761508909407249775471918",
+      "changes": {
+        "client_doc_id": {
+          "old": "359317615014778639498919049180",
+          "new": "35931761508909407249775471918"
+        },
+        "operation_text_hash": {
+          "old": "14778639498919049180",
+          "new": "8909407249775471918"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "comparison_index": 661,
+  "comparison": {
+    "from_folder": "Instagram_35500013_alpha",
+    "to_folder": "Instagram_35500021_alpha",
+    "from_version_code": 375501157,
+    "to_version_code": 375501821,
+    "from_version_name": "355.0.0.0.13",
+    "to_version_name": "355.0.0.0.21"
+  },
+  "summary": {
+    "old_total": 881,
+    "new_total": 880,
+    "added": 0,
+    "removed": 1,
+    "changed": 0
+  },
+  "added": [],
+  "removed": [
+    {
+      "operation": "HasMEmuProfile",
+      "client_doc_id": "264191486317226658225972056138"
+    }
+  ],
+  "changed": []
+}

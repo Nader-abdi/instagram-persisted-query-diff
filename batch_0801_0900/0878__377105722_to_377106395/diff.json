@@ -1,0 +1,47 @@
+{
+  "comparison_index": 878,
+  "comparison": {
+    "from_folder": "Instagram_36700070_alpha",
+    "to_folder": "Instagram_36700078_alpha",
+    "from_version_code": 377105722,
+    "to_version_code": 377106395,
+    "from_version_name": "367.0.0.0.70",
+    "to_version_name": "367.0.0.0.78"
+  },
+  "summary": {
+    "old_total": 973,
+    "new_total": 973,
+    "added": 1,
+    "removed": 1,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "UpdateMediaNoteRepostTextRequest",
+      "client_doc_id": "38658049711905141649818309935"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "SpotlightFetchPostsQuery",
+      "client_doc_id": "7321378802741815365958037089"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "InitiatePushabilityHealthcheck",
+      "old_client_doc_id": "75540869210922892567460308904",
+      "new_client_doc_id": "75540869212038410138348997695",
+      "changes": {
+        "client_doc_id": {
+          "old": "75540869210922892567460308904",
+          "new": "75540869212038410138348997695"
+        },
+        "operation_text_hash": {
+          "old": "10922892567460308904",
+          "new": "12038410138348997695"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "comparison_index": 1257,
+  "comparison": {
+    "from_folder": "Instagram_40200038_alpha",
+    "to_folder": "Instagram_40200047_alpha",
+    "from_version_code": 380801981,
+    "to_version_code": 380802465,
+    "from_version_name": "402.0.0.0.38",
+    "to_version_name": "402.0.0.0.47"
+  },
+  "summary": {
+    "old_total": 1318,
+    "new_total": 1318,
+    "added": 0,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FriendMapMediaIncrementalQuery",
+      "old_client_doc_id": "189602072416004043852190028153",
+      "new_client_doc_id": "189602072410262180201562128538",
+      "changes": {
+        "client_doc_id": {
+          "old": "189602072416004043852190028153",
+          "new": "189602072410262180201562128538"
+        },
+        "operation_text_hash": {
+          "old": "16004043852190028153",
+          "new": "10262180201562128538"
+        }
+      }
+    },
+    {
+      "operation": "FriendMapMediaQuery",
+      "old_client_doc_id": "17291504779747870752895648353",
+      "new_client_doc_id": "172915047712478300890875960658",
+      "changes": {
+        "client_doc_id": {
+          "old": "17291504779747870752895648353",
+          "new": "172915047712478300890875960658"
+        },
+        "operation_text_hash": {
+          "old": "9747870752895648353",
+          "new": "12478300890875960658"
+        }
+      }
+    },
+    {
+      "operation": "FriendMapTrendingLocationsRequest",
+      "old_client_doc_id": "20528511461051647415687289329",
+      "new_client_doc_id": "205285114612090667117117275319",
+      "changes": {
+        "client_doc_id": {
+          "old": "20528511461051647415687289329",
+          "new": "205285114612090667117117275319"
+        },
+        "operation_text_hash": {
+          "old": "1051647415687289329",
+          "new": "12090667117117275319"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "comparison_index": 1238,
+  "comparison": {
+    "from_folder": "Instagram_40000017_alpha",
+    "to_folder": "Instagram_40000044_alpha",
+    "from_version_code": 380600882,
+    "to_version_code": 380602316,
+    "from_version_name": "400.0.0.0.17",
+    "to_version_name": "400.0.0.0.44"
+  },
+  "summary": {
+    "old_total": 1292,
+    "new_total": 1293,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "CallAdsCallForwardingProxyNumberMutation",
+      "client_doc_id": "402850648816307343566242292742"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

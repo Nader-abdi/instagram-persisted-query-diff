@@ -1,0 +1,57 @@
+{
+  "comparison_index": 1147,
+  "comparison": {
+    "from_folder": "Instagram_39000064_alpha",
+    "to_folder": "Instagram_39000070_alpha",
+    "from_version_code": 379603295,
+    "to_version_code": 379603600,
+    "from_version_name": "390.0.0.0.64",
+    "to_version_name": "390.0.0.0.70"
+  },
+  "summary": {
+    "old_total": 1224,
+    "new_total": 1225,
+    "added": 1,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [
+    {
+      "operation": "GenAIImagineVideoFeedbackMutation",
+      "client_doc_id": "30017683299663436761071867432"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "BcnSlideReachabilityStatusQuery",
+      "old_client_doc_id": "17710897615907954465302256719",
+      "new_client_doc_id": "17710897616088979013487475952",
+      "changes": {
+        "client_doc_id": {
+          "old": "17710897615907954465302256719",
+          "new": "17710897616088979013487475952"
+        },
+        "operation_text_hash": {
+          "old": "15907954465302256719",
+          "new": "16088979013487475952"
+        }
+      }
+    },
+    {
+      "operation": "ImmersiveCreationUpdatePreviousFieldsAndFetchCompleteCreationInfo",
+      "old_client_doc_id": "105757010915905462153916067620",
+      "new_client_doc_id": "10575701096784117595482319035",
+      "changes": {
+        "client_doc_id": {
+          "old": "105757010915905462153916067620",
+          "new": "10575701096784117595482319035"
+        },
+        "operation_text_hash": {
+          "old": "15905462153916067620",
+          "new": "6784117595482319035"
+        }
+      }
+    }
+  ]
+}

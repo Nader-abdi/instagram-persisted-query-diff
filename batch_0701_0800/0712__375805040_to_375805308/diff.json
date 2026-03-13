@@ -1,0 +1,87 @@
+{
+  "comparison_index": 712,
+  "comparison": {
+    "from_folder": "Instagram_35800060_alpha",
+    "to_folder": "Instagram_35800069_alpha",
+    "from_version_code": 375805040,
+    "to_version_code": 375805308,
+    "from_version_name": "358.0.0.0.60",
+    "to_version_name": "358.0.0.0.69"
+  },
+  "summary": {
+    "old_total": 923,
+    "new_total": 924,
+    "added": 1,
+    "removed": 0,
+    "changed": 4
+  },
+  "added": [
+    {
+      "operation": "IGMEmuInFeedGetSessionMutation",
+      "client_doc_id": "23733176357391202391887099256"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "BulkUnfollowAccountsMutation",
+      "old_client_doc_id": "220134833713551556653426404475",
+      "new_client_doc_id": "22013483379259696856684249814",
+      "changes": {
+        "client_doc_id": {
+          "old": "220134833713551556653426404475",
+          "new": "22013483379259696856684249814"
+        },
+        "operation_text_hash": {
+          "old": "13551556653426404475",
+          "new": "9259696856684249814"
+        }
+      }
+    },
+    {
+      "operation": "CreatorAIAgentCreationProgressLiveQuery",
+      "old_client_doc_id": "6734354631852059086738346033",
+      "new_client_doc_id": "6734354637420421031219433209",
+      "changes": {
+        "client_doc_id": {
+          "old": "6734354631852059086738346033",
+          "new": "6734354637420421031219433209"
+        },
+        "operation_text_hash": {
+          "old": "1852059086738346033",
+          "new": "7420421031219433209"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineByUsernameQuery",
+      "old_client_doc_id": "15052394588775234261916133735",
+      "new_client_doc_id": "15052394588855392380430413630",
+      "changes": {
+        "client_doc_id": {
+          "old": "15052394588775234261916133735",
+          "new": "15052394588855392380430413630"
+        },
+        "operation_text_hash": {
+          "old": "8775234261916133735",
+          "new": "8855392380430413630"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "56030350816649480837670156180",
+      "new_client_doc_id": "56030350810894174317404967021",
+      "changes": {
+        "client_doc_id": {
+          "old": "56030350816649480837670156180",
+          "new": "56030350810894174317404967021"
+        },
+        "operation_text_hash": {
+          "old": "16649480837670156180",
+          "new": "10894174317404967021"
+        }
+      }
+    }
+  ]
+}

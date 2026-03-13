@@ -1,0 +1,26 @@
+{
+  "comparison_index": 496,
+  "comparison": {
+    "from_folder": "Instagram_3440001_alpha",
+    "to_folder": "Instagram_3440008_alpha",
+    "from_version_code": 374400142,
+    "to_version_code": 374400725,
+    "from_version_name": "344.0.0.0.1",
+    "to_version_name": "344.0.0.0.8"
+  },
+  "summary": {
+    "old_total": 784,
+    "new_total": 785,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "IGMIRContentProviderMutation",
+      "client_doc_id": "31043097308244624584232185830"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

@@ -1,0 +1,26 @@
+{
+  "comparison_index": 1210,
+  "comparison": {
+    "from_folder": "Instagram_395000156_alpha",
+    "to_folder": "Instagram_395000163_alpha",
+    "from_version_code": 380103826,
+    "to_version_code": 380104183,
+    "from_version_name": "395.0.0.0.156",
+    "to_version_name": "395.0.0.0.163"
+  },
+  "summary": {
+    "old_total": 1222,
+    "new_total": 1223,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "AiActivityRpgEntryQuery",
+      "client_doc_id": "377855180016184067554173843260"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

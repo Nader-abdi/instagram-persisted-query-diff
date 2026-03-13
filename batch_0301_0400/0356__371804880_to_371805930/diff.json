@@ -1,0 +1,26 @@
+{
+  "comparison_index": 356,
+  "comparison": {
+    "from_folder": "Instagram_31800065_alpha",
+    "to_folder": "Instagram_31800080_alpha",
+    "from_version_code": 371804880,
+    "to_version_code": 371805930,
+    "from_version_name": "318.0.0.0.65",
+    "to_version_name": "318.0.0.0.80"
+  },
+  "summary": {
+    "old_total": 230,
+    "new_total": 231,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "Sample3dPhoto",
+      "client_doc_id": "420101514617923900321495531820"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

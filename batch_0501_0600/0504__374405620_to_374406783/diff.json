@@ -1,0 +1,107 @@
+{
+  "comparison_index": 504,
+  "comparison": {
+    "from_folder": "Instagram_34400075_alpha",
+    "to_folder": "Instagram_34400089_alpha",
+    "from_version_code": 374405620,
+    "to_version_code": 374406783,
+    "from_version_name": "344.0.0.0.75",
+    "to_version_name": "344.0.0.0.89"
+  },
+  "summary": {
+    "old_total": 793,
+    "new_total": 799,
+    "added": 6,
+    "removed": 0,
+    "changed": 4
+  },
+  "added": [
+    {
+      "operation": "AddSharedWithSponsorToAdsBoostPostAccessTokenMutation",
+      "client_doc_id": "38161368093503846956001592641"
+    },
+    {
+      "operation": "DeleteLinkKeyword",
+      "client_doc_id": "1261184517369330290724058779"
+    },
+    {
+      "operation": "IGDDetectAndTranslateTextMessageQuery",
+      "client_doc_id": "3550385598055898370771520140"
+    },
+    {
+      "operation": "KirbyTopicsAndTemplatesPaginationQuery",
+      "client_doc_id": "24374281165163048943780665703"
+    },
+    {
+      "operation": "KirbyTopicsAndTemplatesPaginationQuery_At_Pando_Connection_Pagination_Viewer_creation_templates",
+      "client_doc_id": "2308017106196913115983862205"
+    },
+    {
+      "operation": "LinkKeywordListQuery",
+      "client_doc_id": "397024453410753810326956979774"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "CreateNewLinkKeyword",
+      "old_client_doc_id": "9327099327210473895064942237",
+      "new_client_doc_id": "932709932914540932896102097",
+      "changes": {
+        "client_doc_id": {
+          "old": "9327099327210473895064942237",
+          "new": "932709932914540932896102097"
+        },
+        "operation_text_hash": {
+          "old": "7210473895064942237",
+          "new": "914540932896102097"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineEditMutation",
+      "old_client_doc_id": "3367155523894233699601015452",
+      "new_client_doc_id": "3367155523485005589249980389",
+      "changes": {
+        "client_doc_id": {
+          "old": "3367155523894233699601015452",
+          "new": "3367155523485005589249980389"
+        },
+        "operation_text_hash": {
+          "old": "894233699601015452",
+          "new": "485005589249980389"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineGenerateMutation",
+      "old_client_doc_id": "27413400817861244530036840279",
+      "new_client_doc_id": "27413400811538908219886127252",
+      "changes": {
+        "client_doc_id": {
+          "old": "27413400817861244530036840279",
+          "new": "27413400811538908219886127252"
+        },
+        "operation_text_hash": {
+          "old": "17861244530036840279",
+          "new": "11538908219886127252"
+        }
+      }
+    },
+    {
+      "operation": "GetAllPresencePoints",
+      "old_client_doc_id": "82835164811239049646019921671",
+      "new_client_doc_id": "82835164816512923894540549467",
+      "changes": {
+        "client_doc_id": {
+          "old": "82835164811239049646019921671",
+          "new": "82835164816512923894540549467"
+        },
+        "operation_text_hash": {
+          "old": "11239049646019921671",
+          "new": "16512923894540549467"
+        }
+      }
+    }
+  ]
+}

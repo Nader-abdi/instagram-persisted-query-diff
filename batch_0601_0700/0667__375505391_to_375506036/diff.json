@@ -1,0 +1,46 @@
+{
+  "comparison_index": 667,
+  "comparison": {
+    "from_folder": "Instagram_35500064_alpha",
+    "to_folder": "Instagram_35500072_alpha",
+    "from_version_code": 375505391,
+    "to_version_code": 375506036,
+    "from_version_name": "355.0.0.0.64",
+    "to_version_name": "355.0.0.0.72"
+  },
+  "summary": {
+    "old_total": 880,
+    "new_total": 882,
+    "added": 2,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "LoopsSearchByTagQuery",
+      "client_doc_id": "32497974916381634808512691585"
+    },
+    {
+      "operation": "UserJoinedLoopsQuery",
+      "client_doc_id": "3811590197596103482091648988"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGIABAutofillSettings",
+      "old_client_doc_id": "35332595975621223544400271810",
+      "new_client_doc_id": "353325959714940540714579288837",
+      "changes": {
+        "client_doc_id": {
+          "old": "35332595975621223544400271810",
+          "new": "353325959714940540714579288837"
+        },
+        "operation_text_hash": {
+          "old": "5621223544400271810",
+          "new": "14940540714579288837"
+        }
+      }
+    }
+  ]
+}

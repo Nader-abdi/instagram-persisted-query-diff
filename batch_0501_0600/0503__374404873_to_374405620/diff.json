@@ -1,0 +1,118 @@
+{
+  "comparison_index": 503,
+  "comparison": {
+    "from_folder": "Instagram_34400061_alpha",
+    "to_folder": "Instagram_34400075_alpha",
+    "from_version_code": 374404873,
+    "to_version_code": 374405620,
+    "from_version_name": "344.0.0.0.61",
+    "to_version_name": "344.0.0.0.75"
+  },
+  "summary": {
+    "old_total": 788,
+    "new_total": 793,
+    "added": 5,
+    "removed": 0,
+    "changed": 5
+  },
+  "added": [
+    {
+      "operation": "CreateNewLinkKeyword",
+      "client_doc_id": "9327099327210473895064942237"
+    },
+    {
+      "operation": "DeadCodeFunctionMutation",
+      "client_doc_id": "10599998571135684561371932097"
+    },
+    {
+      "operation": "EditLinkKeyword",
+      "client_doc_id": "2593888102271343106189008859"
+    },
+    {
+      "operation": "ValidateKeyword",
+      "client_doc_id": "21427522010777477135970511307"
+    },
+    {
+      "operation": "ValidateLink",
+      "client_doc_id": "14738650915166469444828581394"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "AddCreditCardsToAutofillMutation",
+      "old_client_doc_id": "18843184713476176439669460241",
+      "new_client_doc_id": "18843184712014827726070297094",
+      "changes": {
+        "client_doc_id": {
+          "old": "18843184713476176439669460241",
+          "new": "18843184712014827726070297094"
+        },
+        "operation_text_hash": {
+          "old": "3476176439669460241",
+          "new": "2014827726070297094"
+        }
+      }
+    },
+    {
+      "operation": "FetchCXPNoticesQuery",
+      "old_client_doc_id": "174085091315083176086734263296",
+      "new_client_doc_id": "17408509133830753378327781444",
+      "changes": {
+        "client_doc_id": {
+          "old": "174085091315083176086734263296",
+          "new": "17408509133830753378327781444"
+        },
+        "operation_text_hash": {
+          "old": "15083176086734263296",
+          "new": "3830753378327781444"
+        }
+      }
+    },
+    {
+      "operation": "MetaHCMQuery",
+      "old_client_doc_id": "166916289715028993204360340408",
+      "new_client_doc_id": "166916289716569390221285624571",
+      "changes": {
+        "client_doc_id": {
+          "old": "166916289715028993204360340408",
+          "new": "166916289716569390221285624571"
+        },
+        "operation_text_hash": {
+          "old": "15028993204360340408",
+          "new": "16569390221285624571"
+        }
+      }
+    },
+    {
+      "operation": "PendingFollows",
+      "old_client_doc_id": "33138429311736516939862160800",
+      "new_client_doc_id": "3313842938397192084830327817",
+      "changes": {
+        "client_doc_id": {
+          "old": "33138429311736516939862160800",
+          "new": "3313842938397192084830327817"
+        },
+        "operation_text_hash": {
+          "old": "11736516939862160800",
+          "new": "8397192084830327817"
+        }
+      }
+    },
+    {
+      "operation": "PendingFollows_At_Pando_Connection_Pagination_Query_users",
+      "old_client_doc_id": "18479333998825739767132906723",
+      "new_client_doc_id": "184793339916816920697277171026",
+      "changes": {
+        "client_doc_id": {
+          "old": "18479333998825739767132906723",
+          "new": "184793339916816920697277171026"
+        },
+        "operation_text_hash": {
+          "old": "8825739767132906723",
+          "new": "16816920697277171026"
+        }
+      }
+    }
+  ]
+}

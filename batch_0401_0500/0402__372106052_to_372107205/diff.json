@@ -1,0 +1,46 @@
+{
+  "comparison_index": 402,
+  "comparison": {
+    "from_folder": "Instagram_32100079_alpha",
+    "to_folder": "Instagram_32100095_alpha",
+    "from_version_code": 372106052,
+    "to_version_code": 372107205,
+    "from_version_name": "321.0.0.0.79",
+    "to_version_name": "321.0.0.0.95"
+  },
+  "summary": {
+    "old_total": 232,
+    "new_total": 234,
+    "added": 2,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "RemoveUserSchool",
+      "client_doc_id": "340612037413321997295091233125"
+    },
+    {
+      "operation": "SchoolsUserDirectory",
+      "client_doc_id": "19299163998578001835097266441"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGDirectSearchMetaAINullStatePromptsQuery",
+      "old_client_doc_id": "45822762110631449626877268984",
+      "new_client_doc_id": "4582276216022267129234375151",
+      "changes": {
+        "client_doc_id": {
+          "old": "45822762110631449626877268984",
+          "new": "4582276216022267129234375151"
+        },
+        "operation_text_hash": {
+          "old": "10631449626877268984",
+          "new": "6022267129234375151"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "comparison_index": 214,
+  "comparison": {
+    "from_folder": "Instagram_26000039_alpha",
+    "to_folder": "Instagram_26000041_alpha",
+    "from_version_code": 366001269,
+    "to_version_code": 366001338,
+    "from_version_name": "260.0.0.0.39",
+    "to_version_name": "260.0.0.0.41"
+  },
+  "summary": {
+    "old_total": 164,
+    "new_total": 164,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FxIGMasterAccountQuery",
+      "old_client_doc_id": "23605951717370706237604619409",
+      "new_client_doc_id": "2360595176862111525507030448",
+      "changes": {
+        "client_doc_id": {
+          "old": "23605951717370706237604619409",
+          "new": "2360595176862111525507030448"
+        },
+        "operation_text_hash": {
+          "old": "17370706237604619409",
+          "new": "6862111525507030448"
+        }
+      }
+    }
+  ]
+}

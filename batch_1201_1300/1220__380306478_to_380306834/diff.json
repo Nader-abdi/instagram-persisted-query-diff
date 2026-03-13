@@ -1,0 +1,52 @@
+{
+  "comparison_index": 1220,
+  "comparison": {
+    "from_folder": "Instagram_397004681",
+    "to_folder": "Instagram_397105281",
+    "from_version_code": 380306478,
+    "to_version_code": 380306834,
+    "from_version_name": "397.0.0.46.81",
+    "to_version_name": "397.1.0.52.81"
+  },
+  "summary": {
+    "old_total": 1255,
+    "new_total": 1255,
+    "added": 0,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "TopSerpQuery",
+      "old_client_doc_id": "418531681913345162551731281132",
+      "new_client_doc_id": "418531681913749397117125058050",
+      "changes": {
+        "client_doc_id": {
+          "old": "418531681913345162551731281132",
+          "new": "418531681913749397117125058050"
+        },
+        "operation_text_hash": {
+          "old": "13345162551731281132",
+          "new": "13749397117125058050"
+        }
+      }
+    },
+    {
+      "operation": "TopSerpQuery_At_Pando_Connection_Pagination_Query_pando_connection_query",
+      "old_client_doc_id": "331501677718191860430440413305",
+      "new_client_doc_id": "33150167772309644147792491430",
+      "changes": {
+        "client_doc_id": {
+          "old": "331501677718191860430440413305",
+          "new": "33150167772309644147792491430"
+        },
+        "operation_text_hash": {
+          "old": "18191860430440413305",
+          "new": "2309644147792491430"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "comparison_index": 456,
+  "comparison": {
+    "from_folder": "Instagram_340000100_alpha",
+    "to_folder": "Instagram_340001109_beta",
+    "from_version_code": 374008110,
+    "to_version_code": 374008904,
+    "from_version_name": "340.0.0.0.100",
+    "to_version_name": "340.0.0.1.109"
+  },
+  "summary": {
+    "old_total": 759,
+    "new_total": 760,
+    "added": 1,
+    "removed": 0,
+    "changed": 7
+  },
+  "added": [
+    {
+      "operation": "IGFXGrowthLogExposureDeviceIdQEBoolParamMutation",
+      "client_doc_id": "59887682315187498310968469556"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "AiStudioFetchHomeSections",
+      "old_client_doc_id": "6260917553832528803320333443",
+      "new_client_doc_id": "6260917554753808241717375856",
+      "changes": {
+        "client_doc_id": {
+          "old": "6260917553832528803320333443",
+          "new": "6260917554753808241717375856"
+        },
+        "operation_text_hash": {
+          "old": "3832528803320333443",
+          "new": "4753808241717375856"
+        }
+      }
+    },
+    {
+      "operation": "AiStudioFetchHomeSections_At_Pando_Connection_Pagination_XFBGENAIPersonaLayout_sections_query",
+      "old_client_doc_id": "18433255706868540692669260638",
+      "new_client_doc_id": "18433255709499737581584458354",
+      "changes": {
+        "client_doc_id": {
+          "old": "18433255706868540692669260638",
+          "new": "18433255709499737581584458354"
+        },
+        "operation_text_hash": {
+          "old": "6868540692669260638",
+          "new": "9499737581584458354"
+        }
+      }
+    },
+    {
+      "operation": "GetAllPresencePoints",
+      "old_client_doc_id": "8283516489018019711246201960",
+      "new_client_doc_id": "82835164815642244122825227984",
+      "changes": {
+        "client_doc_id": {
+          "old": "8283516489018019711246201960",
+          "new": "82835164815642244122825227984"
+        },
+        "operation_text_hash": {
+          "old": "9018019711246201960",
+          "new": "15642244122825227984"
+        }
+      }
+    },
+    {
+      "operation": "GetFriendMapSettingsQuery",
+      "old_client_doc_id": "245318206217923807301646111713",
+      "new_client_doc_id": "24531820626566184985169050410",
+      "changes": {
+        "client_doc_id": {
+          "old": "245318206217923807301646111713",
+          "new": "24531820626566184985169050410"
+        },
+        "operation_text_hash": {
+          "old": "17923807301646111713",
+          "new": "6566184985169050410"
+        }
+      }
+    },
+    {
+      "operation": "IGCreatorsChallengesAdditionalChallengeInfoQuery",
+      "old_client_doc_id": "139501756215212245977757607952",
+      "new_client_doc_id": "13950175628537488072733817407",
+      "changes": {
+        "client_doc_id": {
+          "old": "139501756215212245977757607952",
+          "new": "13950175628537488072733817407"
+        },
+        "operation_text_hash": {
+          "old": "15212245977757607952",
+          "new": "8537488072733817407"
+        }
+      }
+    },
+    {
+      "operation": "SchoolSettings",
+      "old_client_doc_id": "357997136315252920371370798409",
+      "new_client_doc_id": "357997136310909150503567599221",
+      "changes": {
+        "client_doc_id": {
+          "old": "357997136315252920371370798409",
+          "new": "357997136310909150503567599221"
+        },
+        "operation_text_hash": {
+          "old": "15252920371370798409",
+          "new": "10909150503567599221"
+        }
+      }
+    },
+    {
+      "operation": "UpdateFriendMapSettingsMutation",
+      "old_client_doc_id": "211996820814475062754858853024",
+      "new_client_doc_id": "21199682089194758379053528535",
+      "changes": {
+        "client_doc_id": {
+          "old": "211996820814475062754858853024",
+          "new": "21199682089194758379053528535"
+        },
+        "operation_text_hash": {
+          "old": "14475062754858853024",
+          "new": "9194758379053528535"
+        }
+      }
+    }
+  ]
+}

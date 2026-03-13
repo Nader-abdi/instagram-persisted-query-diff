@@ -1,0 +1,26 @@
+{
+  "comparison_index": 482,
+  "comparison": {
+    "from_folder": "Instagram_3420033103",
+    "to_folder": "Instagram_3430005_alpha",
+    "from_version_code": 374211375,
+    "to_version_code": 374300410,
+    "from_version_name": "342.0.0.33.103",
+    "to_version_name": "343.0.0.0.5"
+  },
+  "summary": {
+    "old_total": 776,
+    "new_total": 777,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "NUXUpdateContactPointMutation",
+      "client_doc_id": "200962182810656582265026494292"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

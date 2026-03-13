@@ -1,0 +1,89 @@
+{
+  "comparison_index": 1066,
+  "comparison": {
+    "from_folder": "Instagram_3810006_alpha",
+    "to_folder": "Instagram_38100018_alpha",
+    "from_version_code": 378500677,
+    "to_version_code": 378501365,
+    "from_version_name": "381.0.0.0.6",
+    "to_version_name": "381.0.0.0.18"
+  },
+  "summary": {
+    "old_total": 1167,
+    "new_total": 1176,
+    "added": 9,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [
+    {
+      "operation": "ImmersiveCreationCompleteCreationMutation",
+      "client_doc_id": "264009986511417876130419297596"
+    },
+    {
+      "operation": "ImmersiveCreationConfigurationQuery",
+      "client_doc_id": "196173292714798413829318830196"
+    },
+    {
+      "operation": "ImmersiveCreationInitialSuggestionQuery",
+      "client_doc_id": "30110707372610383871339372394"
+    },
+    {
+      "operation": "ImmersiveCreationUpdatePreviousFieldsAndFetchAvatarInfo",
+      "client_doc_id": "332623294711325432082244016232"
+    },
+    {
+      "operation": "ImmersiveCreationUpdatePreviousFieldsAndFetchCompleteCreationInfo",
+      "client_doc_id": "10575701099944553494897324963"
+    },
+    {
+      "operation": "ImmersiveCreationUpdatePreviousFieldsAndFetchIntroSuggestions",
+      "client_doc_id": "29574697813154265620665446076"
+    },
+    {
+      "operation": "ImmersiveCreationUpdatePreviousFieldsAndFetchNameSuggestionsAndProfileImage",
+      "client_doc_id": "284643020317089179140399253556"
+    },
+    {
+      "operation": "ImmersiveCreationUpdatePreviousFieldsAndFetchVoiceInfo",
+      "client_doc_id": "108109009313840983347858571297"
+    },
+    {
+      "operation": "MovieGenCancelMutation",
+      "client_doc_id": "144404200310201191398888961768"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "BCNInboxUQPPDeltas",
+      "old_client_doc_id": "31914841644353458186957969172",
+      "new_client_doc_id": "31914841646353871897043726273",
+      "changes": {
+        "client_doc_id": {
+          "old": "31914841644353458186957969172",
+          "new": "31914841646353871897043726273"
+        },
+        "operation_text_hash": {
+          "old": "4353458186957969172",
+          "new": "6353871897043726273"
+        }
+      }
+    },
+    {
+      "operation": "MetaAiContentDeepDiveBatchQuery",
+      "old_client_doc_id": "10409473106685636029768686577",
+      "new_client_doc_id": "10409473105275946100172647476",
+      "changes": {
+        "client_doc_id": {
+          "old": "10409473106685636029768686577",
+          "new": "10409473105275946100172647476"
+        },
+        "operation_text_hash": {
+          "old": "6685636029768686577",
+          "new": "5275946100172647476"
+        }
+      }
+    }
+  ]
+}

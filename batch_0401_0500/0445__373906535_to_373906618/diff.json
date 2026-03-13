@@ -1,0 +1,26 @@
+{
+  "comparison_index": 445,
+  "comparison": {
+    "from_folder": "Instagram_33900080_alpha",
+    "to_folder": "Instagram_33900081_alpha",
+    "from_version_code": 373906535,
+    "to_version_code": 373906618,
+    "from_version_name": "339.0.0.0.80",
+    "to_version_name": "339.0.0.0.81"
+  },
+  "summary": {
+    "old_total": 754,
+    "new_total": 755,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "CancelSettingChangeRequestWithSettingId",
+      "client_doc_id": "16631416551415130605346757831"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

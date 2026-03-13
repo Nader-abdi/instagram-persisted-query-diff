@@ -1,0 +1,57 @@
+{
+  "comparison_index": 1215,
+  "comparison": {
+    "from_folder": "Instagram_396000180_alpha",
+    "to_folder": "Instagram_396000199_alpha",
+    "from_version_code": 380200749,
+    "to_version_code": 380201692,
+    "from_version_name": "396.0.0.0.180",
+    "to_version_name": "396.0.0.0.199"
+  },
+  "summary": {
+    "old_total": 1236,
+    "new_total": 1235,
+    "added": 0,
+    "removed": 1,
+    "changed": 2
+  },
+  "added": [],
+  "removed": [
+    {
+      "operation": "BumpMapViewsCounter",
+      "client_doc_id": "36459787687639194404666995694"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "FetchMetaAiModes",
+      "old_client_doc_id": "339928201110207452442510080993",
+      "new_client_doc_id": "339928201111734294013337775272",
+      "changes": {
+        "client_doc_id": {
+          "old": "339928201110207452442510080993",
+          "new": "339928201111734294013337775272"
+        },
+        "operation_text_hash": {
+          "old": "10207452442510080993",
+          "new": "11734294013337775272"
+        }
+      }
+    },
+    {
+      "operation": "IGAvatarUnlockableStickerQuestMutation",
+      "old_client_doc_id": "13940890323581197389734855383",
+      "new_client_doc_id": "1394089032107750861325518016",
+      "changes": {
+        "client_doc_id": {
+          "old": "13940890323581197389734855383",
+          "new": "1394089032107750861325518016"
+        },
+        "operation_text_hash": {
+          "old": "3581197389734855383",
+          "new": "107750861325518016"
+        }
+      }
+    }
+  ]
+}

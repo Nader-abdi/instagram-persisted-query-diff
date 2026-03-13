@@ -1,0 +1,136 @@
+{
+  "comparison_index": 1328,
+  "comparison": {
+    "from_folder": "Instagram_41100057_alpha",
+    "to_folder": "Instagram_41100073_alpha",
+    "from_version_code": 381703021,
+    "to_version_code": 381703853,
+    "from_version_name": "411.0.0.0.57",
+    "to_version_name": "411.0.0.0.73"
+  },
+  "summary": {
+    "old_total": 1423,
+    "new_total": 1425,
+    "added": 2,
+    "removed": 0,
+    "changed": 7
+  },
+  "added": [
+    {
+      "operation": "IGDogfoodingAssistantLaunchersByExperimentQuery",
+      "client_doc_id": "216142569515893225784463966519"
+    },
+    {
+      "operation": "IGStoriesInAppNotificationsSubscription",
+      "client_doc_id": "104058608216242427280112661266"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "BcnInboxThreadSnapshotQuery",
+      "old_client_doc_id": "17477233586373211627967046506",
+      "new_client_doc_id": "17477233584852461986228960281",
+      "changes": {
+        "client_doc_id": {
+          "old": "17477233586373211627967046506",
+          "new": "17477233584852461986228960281"
+        },
+        "operation_text_hash": {
+          "old": "6373211627967046506",
+          "new": "4852461986228960281"
+        }
+      }
+    },
+    {
+      "operation": "CreateInboxTrayItemRequest",
+      "old_client_doc_id": "3510400293918115528897393683",
+      "new_client_doc_id": "35104002915786349223025389195",
+      "changes": {
+        "client_doc_id": {
+          "old": "3510400293918115528897393683",
+          "new": "35104002915786349223025389195"
+        },
+        "operation_text_hash": {
+          "old": "3918115528897393683",
+          "new": "15786349223025389195"
+        }
+      }
+    },
+    {
+      "operation": "IGAsyncPublishUploadStatusLiveQuery",
+      "old_client_doc_id": "36402706699430182571091806750",
+      "new_client_doc_id": "36402706699646355362887362036",
+      "changes": {
+        "client_doc_id": {
+          "old": "36402706699430182571091806750",
+          "new": "36402706699646355362887362036"
+        },
+        "operation_text_hash": {
+          "old": "9430182571091806750",
+          "new": "9646355362887362036"
+        }
+      }
+    },
+    {
+      "operation": "IGPermissionsMessagingControlsLiveQuery",
+      "old_client_doc_id": "138636279814114520855030465490",
+      "new_client_doc_id": "138636279815463975427936398271",
+      "changes": {
+        "client_doc_id": {
+          "old": "138636279814114520855030465490",
+          "new": "138636279815463975427936398271"
+        },
+        "operation_text_hash": {
+          "old": "14114520855030465490",
+          "new": "15463975427936398271"
+        }
+      }
+    },
+    {
+      "operation": "InboxTrayPaginatedRequest",
+      "old_client_doc_id": "23506239113607795438245167416",
+      "new_client_doc_id": "235062391112354970169340608735",
+      "changes": {
+        "client_doc_id": {
+          "old": "23506239113607795438245167416",
+          "new": "235062391112354970169340608735"
+        },
+        "operation_text_hash": {
+          "old": "3607795438245167416",
+          "new": "12354970169340608735"
+        }
+      }
+    },
+    {
+      "operation": "InboxTrayRequest",
+      "old_client_doc_id": "26838444199390843952276950462",
+      "new_client_doc_id": "26838444197226622065585009266",
+      "changes": {
+        "client_doc_id": {
+          "old": "26838444199390843952276950462",
+          "new": "26838444197226622065585009266"
+        },
+        "operation_text_hash": {
+          "old": "9390843952276950462",
+          "new": "7226622065585009266"
+        }
+      }
+    },
+    {
+      "operation": "InboxTrayRequestForUserQuery",
+      "old_client_doc_id": "20356390717271143520971442214",
+      "new_client_doc_id": "20356390711495915090248779554",
+      "changes": {
+        "client_doc_id": {
+          "old": "20356390717271143520971442214",
+          "new": "20356390711495915090248779554"
+        },
+        "operation_text_hash": {
+          "old": "17271143520971442214",
+          "new": "11495915090248779554"
+        }
+      }
+    }
+  ]
+}

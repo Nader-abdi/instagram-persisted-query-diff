@@ -1,0 +1,42 @@
+{
+  "comparison_index": 734,
+  "comparison": {
+    "from_folder": "Instagram_359001689_beta",
+    "to_folder": "Instagram_359002289_beta",
+    "from_version_code": 375908725,
+    "to_version_code": 375909223,
+    "from_version_name": "359.0.0.16.89",
+    "to_version_name": "359.0.0.22.89"
+  },
+  "summary": {
+    "old_total": 932,
+    "new_total": 933,
+    "added": 1,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "BcnMentionNullStateQuery",
+      "client_doc_id": "38318764815035001755026709820"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGAiAgentQuery",
+      "old_client_doc_id": "44836345414356200819870998130",
+      "new_client_doc_id": "44836345410967785772496414056",
+      "changes": {
+        "client_doc_id": {
+          "old": "44836345414356200819870998130",
+          "new": "44836345410967785772496414056"
+        },
+        "operation_text_hash": {
+          "old": "14356200819870998130",
+          "new": "10967785772496414056"
+        }
+      }
+    }
+  ]
+}

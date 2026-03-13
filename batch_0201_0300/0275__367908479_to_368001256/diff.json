@@ -1,0 +1,82 @@
+{
+  "comparison_index": 275,
+  "comparison": {
+    "from_folder": "Instagram_2790018112_beta",
+    "to_folder": "Instagram_28000019_alpha",
+    "from_version_code": 367908479,
+    "to_version_code": 368001256,
+    "from_version_name": "279.0.0.18.112",
+    "to_version_name": "280.0.0.0.19"
+  },
+  "summary": {
+    "old_total": 170,
+    "new_total": 170,
+    "added": 0,
+    "removed": 0,
+    "changed": 4
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IgAppAttestationAndroidGooglePlayIntegrityChallengeCreate",
+      "old_client_doc_id": "3195137812639417875254288023",
+      "new_client_doc_id": "319513781217430302902370642511",
+      "changes": {
+        "client_doc_id": {
+          "old": "3195137812639417875254288023",
+          "new": "319513781217430302902370642511"
+        },
+        "operation_text_hash": {
+          "old": "639417875254288023",
+          "new": "17430302902370642511"
+        }
+      }
+    },
+    {
+      "operation": "IgAppAttestationAndroidGooglePlayIntegrityChallengeValidate",
+      "old_client_doc_id": "28229857102863617178371903606",
+      "new_client_doc_id": "282298571018138763594638168717",
+      "changes": {
+        "client_doc_id": {
+          "old": "28229857102863617178371903606",
+          "new": "282298571018138763594638168717"
+        },
+        "operation_text_hash": {
+          "old": "2863617178371903606",
+          "new": "18138763594638168717"
+        }
+      }
+    },
+    {
+      "operation": "IgAppAttestationAndroidKeystoreChallengeCreate",
+      "old_client_doc_id": "33048173769211733686190850921",
+      "new_client_doc_id": "33048173762330095945485926148",
+      "changes": {
+        "client_doc_id": {
+          "old": "33048173769211733686190850921",
+          "new": "33048173762330095945485926148"
+        },
+        "operation_text_hash": {
+          "old": "9211733686190850921",
+          "new": "2330095945485926148"
+        }
+      }
+    },
+    {
+      "operation": "IgAppAttestationAndroidKeystoreChallengeValidate",
+      "old_client_doc_id": "198428440313058002997016558564",
+      "new_client_doc_id": "198428440310579085534825089140",
+      "changes": {
+        "client_doc_id": {
+          "old": "198428440313058002997016558564",
+          "new": "198428440310579085534825089140"
+        },
+        "operation_text_hash": {
+          "old": "13058002997016558564",
+          "new": "10579085534825089140"
+        }
+      }
+    }
+  ]
+}

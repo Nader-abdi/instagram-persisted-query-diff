@@ -1,0 +1,55 @@
+{
+  "comparison_index": 787,
+  "comparison": {
+    "from_folder": "Instagram_36200063_alpha",
+    "to_folder": "Instagram_36200068_alpha",
+    "from_version_code": 376205302,
+    "to_version_code": 376205722,
+    "from_version_name": "362.0.0.0.63",
+    "to_version_name": "362.0.0.0.68"
+  },
+  "summary": {
+    "old_total": 962,
+    "new_total": 962,
+    "added": 2,
+    "removed": 2,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "CreatorAIAcceptCreatorTermsMutation",
+      "client_doc_id": "223943098511725121195112502255"
+    },
+    {
+      "operation": "CreatorAIViolatingBanner",
+      "client_doc_id": "34061074219264491133802936362"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "KirbyVoiceByCategoryQuery",
+      "client_doc_id": "194478406313062469296282911464"
+    },
+    {
+      "operation": "VoiceSelectOptionsQuery",
+      "client_doc_id": "15128713009535941517210349575"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "IGCreatorAIAutoReplyStatus",
+      "old_client_doc_id": "315600741815929022780066865028",
+      "new_client_doc_id": "315600741817261099864590503783",
+      "changes": {
+        "client_doc_id": {
+          "old": "315600741815929022780066865028",
+          "new": "315600741817261099864590503783"
+        },
+        "operation_text_hash": {
+          "old": "15929022780066865028",
+          "new": "17261099864590503783"
+        }
+      }
+    }
+  ]
+}

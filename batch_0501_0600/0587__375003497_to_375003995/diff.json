@@ -1,0 +1,26 @@
+{
+  "comparison_index": 587,
+  "comparison": {
+    "from_folder": "Instagram_35000039_alpha",
+    "to_folder": "Instagram_35000045_alpha",
+    "from_version_code": 375003497,
+    "to_version_code": 375003995,
+    "from_version_name": "350.0.0.0.39",
+    "to_version_name": "350.0.0.0.45"
+  },
+  "summary": {
+    "old_total": 833,
+    "new_total": 834,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "UGCGroupChatCuratedDiscoverSectionQuery",
+      "client_doc_id": "34680145329773861095973424633"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

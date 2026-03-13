@@ -1,0 +1,121 @@
+{
+  "comparison_index": 1307,
+  "comparison": {
+    "from_folder": "Instagram_408005178",
+    "to_folder": "Instagram_4090000_alpha",
+    "from_version_code": 381407998,
+    "to_version_code": 381500001,
+    "from_version_name": "408.0.0.51.78",
+    "to_version_name": "409.0.0.0.0"
+  },
+  "summary": {
+    "old_total": 1404,
+    "new_total": 1402,
+    "added": 0,
+    "removed": 2,
+    "changed": 6
+  },
+  "added": [],
+  "removed": [
+    {
+      "operation": "TextFeedGetBasketballGamesByIDQuery",
+      "client_doc_id": "185658407317595669919854806639"
+    },
+    {
+      "operation": "TextFeedSearchRecentBasketballGamesQuery",
+      "client_doc_id": "204064573712212795982134987734"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "ClipsProfileQuery",
+      "old_client_doc_id": "209049231612216535267540152294",
+      "new_client_doc_id": "209049231613275527526686969995",
+      "changes": {
+        "client_doc_id": {
+          "old": "209049231612216535267540152294",
+          "new": "209049231613275527526686969995"
+        },
+        "operation_text_hash": {
+          "old": "12216535267540152294",
+          "new": "13275527526686969995"
+        }
+      }
+    },
+    {
+      "operation": "ClipsTimelyEventQuery",
+      "old_client_doc_id": "394509039010062905184250295014",
+      "new_client_doc_id": "3945090390334038060388556170",
+      "changes": {
+        "client_doc_id": {
+          "old": "394509039010062905184250295014",
+          "new": "3945090390334038060388556170"
+        },
+        "operation_text_hash": {
+          "old": "10062905184250295014",
+          "new": "334038060388556170"
+        }
+      }
+    },
+    {
+      "operation": "FriendlyCommentsLaneQuery",
+      "old_client_doc_id": "6263602956028685928525549393",
+      "new_client_doc_id": "62636029511775627047932319472",
+      "changes": {
+        "client_doc_id": {
+          "old": "6263602956028685928525549393",
+          "new": "62636029511775627047932319472"
+        },
+        "operation_text_hash": {
+          "old": "6028685928525549393",
+          "new": "11775627047932319472"
+        }
+      }
+    },
+    {
+      "operation": "IGProfilePreviewQuery",
+      "old_client_doc_id": "365293765413824831452925135669",
+      "new_client_doc_id": "36529376547450463746832423458",
+      "changes": {
+        "client_doc_id": {
+          "old": "365293765413824831452925135669",
+          "new": "36529376547450463746832423458"
+        },
+        "operation_text_hash": {
+          "old": "13824831452925135669",
+          "new": "7450463746832423458"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "5603035084213969980073246965",
+      "new_client_doc_id": "5603035087191339880635326510",
+      "changes": {
+        "client_doc_id": {
+          "old": "5603035084213969980073246965",
+          "new": "5603035087191339880635326510"
+        },
+        "operation_text_hash": {
+          "old": "4213969980073246965",
+          "new": "7191339880635326510"
+        }
+      }
+    },
+    {
+      "operation": "UserLinkedMediaSelectionFeed",
+      "old_client_doc_id": "46281703000714722591610643",
+      "new_client_doc_id": "46281701926314983898805236",
+      "changes": {
+        "client_doc_id": {
+          "old": "46281703000714722591610643",
+          "new": "46281701926314983898805236"
+        },
+        "operation_text_hash": {
+          "old": "3000714722591610643",
+          "new": "1926314983898805236"
+        }
+      }
+    }
+  ]
+}

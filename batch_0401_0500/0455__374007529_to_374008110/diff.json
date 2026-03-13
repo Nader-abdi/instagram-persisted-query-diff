@@ -1,0 +1,51 @@
+{
+  "comparison_index": 455,
+  "comparison": {
+    "from_folder": "Instagram_34000090_alpha",
+    "to_folder": "Instagram_340000100_alpha",
+    "from_version_code": 374007529,
+    "to_version_code": 374008110,
+    "from_version_name": "340.0.0.0.90",
+    "to_version_name": "340.0.0.0.100"
+  },
+  "summary": {
+    "old_total": 760,
+    "new_total": 759,
+    "added": 1,
+    "removed": 2,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "IGDSearchOrderedNullstateSectionConfigQuery",
+      "client_doc_id": "24164859249230538510828068911"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "IGDirectFeatureLimitLiveQuery",
+      "client_doc_id": "393861896813311617169922525859"
+    },
+    {
+      "operation": "IGDirectFeatureLimitQuery",
+      "client_doc_id": "37224504294525337559513037944"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "StoryTemplateDiscoverySurfaceSectionMediaQuery",
+      "old_client_doc_id": "224286252415869537496333755891",
+      "new_client_doc_id": "22428625249833826143153429047",
+      "changes": {
+        "client_doc_id": {
+          "old": "224286252415869537496333755891",
+          "new": "22428625249833826143153429047"
+        },
+        "operation_text_hash": {
+          "old": "15869537496333755891",
+          "new": "9833826143153429047"
+        }
+      }
+    }
+  ]
+}

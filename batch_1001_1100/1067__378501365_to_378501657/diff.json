@@ -1,0 +1,82 @@
+{
+  "comparison_index": 1067,
+  "comparison": {
+    "from_folder": "Instagram_38100018_alpha",
+    "to_folder": "Instagram_38100024_alpha",
+    "from_version_code": 378501365,
+    "to_version_code": 378501657,
+    "from_version_name": "381.0.0.0.18",
+    "to_version_name": "381.0.0.0.24"
+  },
+  "summary": {
+    "old_total": 1176,
+    "new_total": 1176,
+    "added": 0,
+    "removed": 0,
+    "changed": 4
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "BaselGenAIInspirationalPromptQuery",
+      "old_client_doc_id": "407725084217350019108727654827",
+      "new_client_doc_id": "407725084210282589745459669370",
+      "changes": {
+        "client_doc_id": {
+          "old": "407725084217350019108727654827",
+          "new": "407725084210282589745459669370"
+        },
+        "operation_text_hash": {
+          "old": "17350019108727654827",
+          "new": "10282589745459669370"
+        }
+      }
+    },
+    {
+      "operation": "ImmersiveCreationUpdatePreviousFieldsAndFetchAvatarInfo",
+      "old_client_doc_id": "332623294711325432082244016232",
+      "new_client_doc_id": "332623294713267582691739893294",
+      "changes": {
+        "client_doc_id": {
+          "old": "332623294711325432082244016232",
+          "new": "332623294713267582691739893294"
+        },
+        "operation_text_hash": {
+          "old": "11325432082244016232",
+          "new": "13267582691739893294"
+        }
+      }
+    },
+    {
+      "operation": "ImmersiveCreationUpdatePreviousFieldsAndFetchNameSuggestionsAndProfileImage",
+      "old_client_doc_id": "284643020317089179140399253556",
+      "new_client_doc_id": "284643020313742789446051807993",
+      "changes": {
+        "client_doc_id": {
+          "old": "284643020317089179140399253556",
+          "new": "284643020313742789446051807993"
+        },
+        "operation_text_hash": {
+          "old": "17089179140399253556",
+          "new": "13742789446051807993"
+        }
+      }
+    },
+    {
+      "operation": "TranslationsUserQuery",
+      "old_client_doc_id": "15610536958222548672985388724",
+      "new_client_doc_id": "156105369510912731632419643917",
+      "changes": {
+        "client_doc_id": {
+          "old": "15610536958222548672985388724",
+          "new": "156105369510912731632419643917"
+        },
+        "operation_text_hash": {
+          "old": "8222548672985388724",
+          "new": "10912731632419643917"
+        }
+      }
+    }
+  ]
+}

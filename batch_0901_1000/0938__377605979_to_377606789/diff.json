@@ -1,0 +1,111 @@
+{
+  "comparison_index": 938,
+  "comparison": {
+    "from_folder": "Instagram_37200057_alpha",
+    "to_folder": "Instagram_37200560_beta",
+    "from_version_code": 377605979,
+    "to_version_code": 377606789,
+    "from_version_name": "372.0.0.0.57",
+    "to_version_name": "372.0.0.5.60"
+  },
+  "summary": {
+    "old_total": 1017,
+    "new_total": 1024,
+    "added": 7,
+    "removed": 0,
+    "changed": 4
+  },
+  "added": [
+    {
+      "operation": "IGAICommentsEligibility",
+      "client_doc_id": "19220797612502651524578625839"
+    },
+    {
+      "operation": "IGDirectGetThreadAndPaginatedMessageListQuery",
+      "client_doc_id": "41571454084065406924209647615"
+    },
+    {
+      "operation": "IGFBCrossPostingDestinationLinkageTypeMutationMutation",
+      "client_doc_id": "186545834810635454361701517299"
+    },
+    {
+      "operation": "MetaAICreateTaskMutation",
+      "client_doc_id": "2668326019254395457434954391"
+    },
+    {
+      "operation": "MetaAIDeleteTaskMutation",
+      "client_doc_id": "12687341138036864036436870053"
+    },
+    {
+      "operation": "MetaAIGetAllTaskQuery",
+      "client_doc_id": "129509999110816036178670860593"
+    },
+    {
+      "operation": "TextPostRepliesQuery",
+      "client_doc_id": "398373976511610775904720366760"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "BlendSettingsQuery",
+      "old_client_doc_id": "66306027013209480686713735947",
+      "new_client_doc_id": "66306027014897007930377074362",
+      "changes": {
+        "client_doc_id": {
+          "old": "66306027013209480686713735947",
+          "new": "66306027014897007930377074362"
+        },
+        "operation_text_hash": {
+          "old": "13209480686713735947",
+          "new": "14897007930377074362"
+        }
+      }
+    },
+    {
+      "operation": "FetchUserRepostsQuery",
+      "old_client_doc_id": "391529631615470969069728954901",
+      "new_client_doc_id": "391529631613315864322383686664",
+      "changes": {
+        "client_doc_id": {
+          "old": "391529631615470969069728954901",
+          "new": "391529631613315864322383686664"
+        },
+        "operation_text_hash": {
+          "old": "15470969069728954901",
+          "new": "13315864322383686664"
+        }
+      }
+    },
+    {
+      "operation": "SuggestedFollowBundlesForNuxQuery",
+      "old_client_doc_id": "27268779593176092435711433728",
+      "new_client_doc_id": "27268779597608000439923257043",
+      "changes": {
+        "client_doc_id": {
+          "old": "27268779593176092435711433728",
+          "new": "27268779597608000439923257043"
+        },
+        "operation_text_hash": {
+          "old": "3176092435711433728",
+          "new": "7608000439923257043"
+        }
+      }
+    },
+    {
+      "operation": "XCXPIGStoryUnifiedFeedbackQuery",
+      "old_client_doc_id": "856563652354694956110863786",
+      "new_client_doc_id": "856563654272220812097062458",
+      "changes": {
+        "client_doc_id": {
+          "old": "856563652354694956110863786",
+          "new": "856563654272220812097062458"
+        },
+        "operation_text_hash": {
+          "old": "2354694956110863786",
+          "new": "4272220812097062458"
+        }
+      }
+    }
+  ]
+}

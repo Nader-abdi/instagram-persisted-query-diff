@@ -1,0 +1,47 @@
+{
+  "comparison_index": 1121,
+  "comparison": {
+    "from_folder": "Instagram_38800047_alpha",
+    "to_folder": "Instagram_38800055_alpha",
+    "from_version_code": 379401331,
+    "to_version_code": 379401739,
+    "from_version_name": "388.0.0.0.47",
+    "to_version_name": "388.0.0.0.55"
+  },
+  "summary": {
+    "old_total": 1239,
+    "new_total": 1239,
+    "added": 1,
+    "removed": 1,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "BaselAppInstallOnboardedBFFsQueryQuery",
+      "client_doc_id": "324948423117857152203380046327"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "IGDirectPinnedActivitiesHeaderInfoQuery",
+      "client_doc_id": "111973867011999897254490806932"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "5603035081145383228655760640",
+      "new_client_doc_id": "56030350816508682005542007",
+      "changes": {
+        "client_doc_id": {
+          "old": "5603035081145383228655760640",
+          "new": "56030350816508682005542007"
+        },
+        "operation_text_hash": {
+          "old": "1145383228655760640",
+          "new": "16508682005542007"
+        }
+      }
+    }
+  ]
+}

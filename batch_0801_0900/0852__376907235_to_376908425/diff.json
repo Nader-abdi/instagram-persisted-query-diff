@@ -1,0 +1,46 @@
+{
+  "comparison_index": 852,
+  "comparison": {
+    "from_folder": "Instagram_36500085_alpha",
+    "to_folder": "Instagram_36500594_beta",
+    "from_version_code": 376907235,
+    "to_version_code": 376908425,
+    "from_version_name": "365.0.0.0.85",
+    "to_version_name": "365.0.0.5.94"
+  },
+  "summary": {
+    "old_total": 951,
+    "new_total": 953,
+    "added": 2,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "GetResurrectedUserNUXEligibility",
+      "client_doc_id": "221788370610074300535770179165"
+    },
+    {
+      "operation": "IGUGCPersonaCreateAIProfileMutation",
+      "client_doc_id": "41763098611828887025716352611"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FetchCXPNoticesQuery",
+      "old_client_doc_id": "17408509131833897164956994495",
+      "new_client_doc_id": "17408509135925757460324045498",
+      "changes": {
+        "client_doc_id": {
+          "old": "17408509131833897164956994495",
+          "new": "17408509135925757460324045498"
+        },
+        "operation_text_hash": {
+          "old": "1833897164956994495",
+          "new": "5925757460324045498"
+        }
+      }
+    }
+  ]
+}

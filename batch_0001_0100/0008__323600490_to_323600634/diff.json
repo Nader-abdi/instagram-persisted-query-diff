@@ -1,0 +1,42 @@
+{
+  "comparison_index": 8,
+  "comparison": {
+    "from_folder": "Instagram_22600020_alpha",
+    "to_folder": "Instagram_22600026_alpha",
+    "from_version_code": 323600490,
+    "to_version_code": 323600634,
+    "from_version_name": "226.0.0.0.20",
+    "to_version_name": "226.0.0.0.26"
+  },
+  "summary": {
+    "old_total": 125,
+    "new_total": 126,
+    "added": 1,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "InstagramARVirtualObjectsSearchFiltersQuery",
+      "client_doc_id": "192670691213742134313196940526"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGProactiveWarningBannerQuery",
+      "old_client_doc_id": "37944519213897098399840359791",
+      "new_client_doc_id": "37944519216267640259595768029",
+      "changes": {
+        "client_doc_id": {
+          "old": "37944519213897098399840359791",
+          "new": "37944519216267640259595768029"
+        },
+        "operation_text_hash": {
+          "old": "3897098399840359791",
+          "new": "6267640259595768029"
+        }
+      }
+    }
+  ]
+}

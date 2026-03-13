@@ -1,0 +1,37 @@
+{
+  "comparison_index": 782,
+  "comparison": {
+    "from_folder": "Instagram_36200016_alpha",
+    "to_folder": "Instagram_36200026_alpha",
+    "from_version_code": 376201354,
+    "to_version_code": 376202194,
+    "from_version_name": "362.0.0.0.16",
+    "to_version_name": "362.0.0.0.26"
+  },
+  "summary": {
+    "old_total": 960,
+    "new_total": 960,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FriendMapReelMediaQuery",
+      "old_client_doc_id": "34555015415843290705145015674",
+      "new_client_doc_id": "345550154187797389654722686",
+      "changes": {
+        "client_doc_id": {
+          "old": "34555015415843290705145015674",
+          "new": "345550154187797389654722686"
+        },
+        "operation_text_hash": {
+          "old": "15843290705145015674",
+          "new": "187797389654722686"
+        }
+      }
+    }
+  ]
+}

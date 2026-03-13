@@ -1,0 +1,26 @@
+{
+  "comparison_index": 676,
+  "comparison": {
+    "from_folder": "Instagram_3551046103",
+    "to_folder": "Instagram_3560004_alpha",
+    "from_version_code": 375512618,
+    "to_version_code": 375600488,
+    "from_version_name": "355.1.0.46.103",
+    "to_version_name": "356.0.0.0.4"
+  },
+  "summary": {
+    "old_total": 889,
+    "new_total": 890,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "CreateUCDMutation",
+      "client_doc_id": "299541144014929310788308349512"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

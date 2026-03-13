@@ -1,0 +1,35 @@
+{
+  "comparison_index": 735,
+  "comparison": {
+    "from_folder": "Instagram_359002289_beta",
+    "to_folder": "Instagram_359003889_beta",
+    "from_version_code": 375909223,
+    "to_version_code": 375910565,
+    "from_version_name": "359.0.0.22.89",
+    "to_version_name": "359.0.0.38.89"
+  },
+  "summary": {
+    "old_total": 933,
+    "new_total": 934,
+    "added": 2,
+    "removed": 1,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "SpotlightLiveEventsQuery",
+      "client_doc_id": "26990961589670647068187318800"
+    },
+    {
+      "operation": "SuggestedSearchTopicsQuery",
+      "client_doc_id": "19823647399889482352375545354"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "BcnMentionNullStateQuery",
+      "client_doc_id": "38318764815035001755026709820"
+    }
+  ],
+  "changed": []
+}

@@ -1,0 +1,42 @@
+{
+  "comparison_index": 38,
+  "comparison": {
+    "from_folder": "Instagram_22800088_alpha",
+    "to_folder": "Instagram_228000100_alpha",
+    "from_version_code": 323802689,
+    "to_version_code": 362800035,
+    "from_version_name": "228.0.0.0.88",
+    "to_version_name": "228.0.0.0.100"
+  },
+  "summary": {
+    "old_total": 125,
+    "new_total": 126,
+    "added": 1,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "IGFxGenEligibleIgIgCrosspostingAccounts",
+      "client_doc_id": "41516692132230120899772579392"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IabAutofillOptOutQuery",
+      "old_client_doc_id": "11625239069897358474798767555",
+      "new_client_doc_id": "11625239061835474778045978301",
+      "changes": {
+        "client_doc_id": {
+          "old": "11625239069897358474798767555",
+          "new": "11625239061835474778045978301"
+        },
+        "operation_text_hash": {
+          "old": "9897358474798767555",
+          "new": "1835474778045978301"
+        }
+      }
+    }
+  ]
+}

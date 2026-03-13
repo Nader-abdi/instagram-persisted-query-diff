@@ -1,0 +1,66 @@
+{
+  "comparison_index": 441,
+  "comparison": {
+    "from_folder": "Instagram_33900020_alpha",
+    "to_folder": "Instagram_33900052_alpha",
+    "from_version_code": 373901555,
+    "to_version_code": 373904210,
+    "from_version_name": "339.0.0.0.20",
+    "to_version_name": "339.0.0.0.52"
+  },
+  "summary": {
+    "old_total": 751,
+    "new_total": 752,
+    "added": 2,
+    "removed": 1,
+    "changed": 2
+  },
+  "added": [
+    {
+      "operation": "IGDirectSafetyInterventionsUserLevelAsLiveQuery",
+      "client_doc_id": "30654913723470248677169734313"
+    },
+    {
+      "operation": "IGDirectSafetyInterventionsUserLevelAsPollingQuery",
+      "client_doc_id": "13367160915516793785759214939"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "IGDirectSafetyInterventionsUserLevelQuery",
+      "client_doc_id": "402048008617788327106984478009"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "GenAIImagineGenerateMutation",
+      "old_client_doc_id": "27413400818085792328728145966",
+      "new_client_doc_id": "2741340087723561427798483298",
+      "changes": {
+        "client_doc_id": {
+          "old": "27413400818085792328728145966",
+          "new": "2741340087723561427798483298"
+        },
+        "operation_text_hash": {
+          "old": "18085792328728145966",
+          "new": "7723561427798483298"
+        }
+      }
+    },
+    {
+      "operation": "IGProactiveWarningBannerQuery",
+      "old_client_doc_id": "379445192115867686319228774199",
+      "new_client_doc_id": "37944519212242099734283299121",
+      "changes": {
+        "client_doc_id": {
+          "old": "379445192115867686319228774199",
+          "new": "37944519212242099734283299121"
+        },
+        "operation_text_hash": {
+          "old": "15867686319228774199",
+          "new": "2242099734283299121"
+        }
+      }
+    }
+  ]
+}

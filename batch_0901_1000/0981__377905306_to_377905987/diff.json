@@ -1,0 +1,155 @@
+{
+  "comparison_index": 981,
+  "comparison": {
+    "from_folder": "Instagram_37500048_alpha",
+    "to_folder": "Instagram_37500054_alpha",
+    "from_version_code": 377905306,
+    "to_version_code": 377905987,
+    "from_version_name": "375.0.0.0.48",
+    "to_version_name": "375.0.0.0.54"
+  },
+  "summary": {
+    "old_total": 1057,
+    "new_total": 1060,
+    "added": 3,
+    "removed": 0,
+    "changed": 8
+  },
+  "added": [
+    {
+      "operation": "BaselGenAIInspirationalPromptQuery",
+      "client_doc_id": "40772508426635287638941957655"
+    },
+    {
+      "operation": "IGDirectGetThreadQuery",
+      "client_doc_id": "28169098996689273493519039089"
+    },
+    {
+      "operation": "IGDirectPinnedActivitiesHeaderInfoQuery",
+      "client_doc_id": "111973867011999897254490806932"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "AICharacterPublishFeedPostMutation",
+      "old_client_doc_id": "2116055693448862153298298668",
+      "new_client_doc_id": "2116055695647075619290863179",
+      "changes": {
+        "client_doc_id": {
+          "old": "2116055693448862153298298668",
+          "new": "2116055695647075619290863179"
+        },
+        "operation_text_hash": {
+          "old": "3448862153298298668",
+          "new": "5647075619290863179"
+        }
+      }
+    },
+    {
+      "operation": "IGIABAutofillSettings",
+      "old_client_doc_id": "353325959716761742280435015544",
+      "new_client_doc_id": "353325959716606342372911203285",
+      "changes": {
+        "client_doc_id": {
+          "old": "353325959716761742280435015544",
+          "new": "353325959716606342372911203285"
+        },
+        "operation_text_hash": {
+          "old": "16761742280435015544",
+          "new": "16606342372911203285"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineByUsernameQuery",
+      "old_client_doc_id": "150523945813655766073385522825",
+      "new_client_doc_id": "15052394587847039560430728256",
+      "changes": {
+        "client_doc_id": {
+          "old": "150523945813655766073385522825",
+          "new": "15052394587847039560430728256"
+        },
+        "operation_text_hash": {
+          "old": "13655766073385522825",
+          "new": "7847039560430728256"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "5603035089484465638502706113",
+      "new_client_doc_id": "5603035083073294263952689467",
+      "changes": {
+        "client_doc_id": {
+          "old": "5603035089484465638502706113",
+          "new": "5603035083073294263952689467"
+        },
+        "operation_text_hash": {
+          "old": "9484465638502706113",
+          "new": "3073294263952689467"
+        }
+      }
+    },
+    {
+      "operation": "ImagineVideoGen",
+      "old_client_doc_id": "148228338013109321429801668668",
+      "new_client_doc_id": "14822833803761807425010966199",
+      "changes": {
+        "client_doc_id": {
+          "old": "148228338013109321429801668668",
+          "new": "14822833803761807425010966199"
+        },
+        "operation_text_hash": {
+          "old": "13109321429801668668",
+          "new": "3761807425010966199"
+        }
+      }
+    },
+    {
+      "operation": "MetaHCMQuery",
+      "old_client_doc_id": "16691628972668379879624781777",
+      "new_client_doc_id": "166916289715357267635599771015",
+      "changes": {
+        "client_doc_id": {
+          "old": "16691628972668379879624781777",
+          "new": "166916289715357267635599771015"
+        },
+        "operation_text_hash": {
+          "old": "2668379879624781777",
+          "new": "15357267635599771015"
+        }
+      }
+    },
+    {
+      "operation": "MovieGenQuery",
+      "old_client_doc_id": "169028701916754811151944138761",
+      "new_client_doc_id": "169028701911297714152636807407",
+      "changes": {
+        "client_doc_id": {
+          "old": "169028701916754811151944138761",
+          "new": "169028701911297714152636807407"
+        },
+        "operation_text_hash": {
+          "old": "16754811151944138761",
+          "new": "11297714152636807407"
+        }
+      }
+    },
+    {
+      "operation": "UpdateLastActiveLocationMutation",
+      "old_client_doc_id": "3814087096041004335684584759",
+      "new_client_doc_id": "3814087091978432950326824078",
+      "changes": {
+        "client_doc_id": {
+          "old": "3814087096041004335684584759",
+          "new": "3814087091978432950326824078"
+        },
+        "operation_text_hash": {
+          "old": "6041004335684584759",
+          "new": "1978432950326824078"
+        }
+      }
+    }
+  ]
+}

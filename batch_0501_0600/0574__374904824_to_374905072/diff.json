@@ -1,0 +1,52 @@
+{
+  "comparison_index": 574,
+  "comparison": {
+    "from_folder": "Instagram_34900058_alpha",
+    "to_folder": "Instagram_34900061_alpha",
+    "from_version_code": 374904824,
+    "to_version_code": 374905072,
+    "from_version_name": "349.0.0.0.58",
+    "to_version_name": "349.0.0.0.61"
+  },
+  "summary": {
+    "old_total": 829,
+    "new_total": 829,
+    "added": 0,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGSavedStickersQuery",
+      "old_client_doc_id": "6366897602029668172801461542",
+      "new_client_doc_id": "6366897607015364975636526031",
+      "changes": {
+        "client_doc_id": {
+          "old": "6366897602029668172801461542",
+          "new": "6366897607015364975636526031"
+        },
+        "operation_text_hash": {
+          "old": "2029668172801461542",
+          "new": "7015364975636526031"
+        }
+      }
+    },
+    {
+      "operation": "IGStickerPacks",
+      "old_client_doc_id": "23864929963264974995997959713",
+      "new_client_doc_id": "23864929963841136116885838015",
+      "changes": {
+        "client_doc_id": {
+          "old": "23864929963264974995997959713",
+          "new": "23864929963841136116885838015"
+        },
+        "operation_text_hash": {
+          "old": "3264974995997959713",
+          "new": "3841136116885838015"
+        }
+      }
+    }
+  ]
+}

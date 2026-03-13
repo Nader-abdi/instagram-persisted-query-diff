@@ -1,0 +1,42 @@
+{
+  "comparison_index": 1189,
+  "comparison": {
+    "from_folder": "Instagram_39300067_alpha",
+    "to_folder": "Instagram_39300276_beta",
+    "from_version_code": 379903469,
+    "to_version_code": 379904148,
+    "from_version_name": "393.0.0.0.67",
+    "to_version_name": "393.0.0.2.76"
+  },
+  "summary": {
+    "old_total": 1252,
+    "new_total": 1253,
+    "added": 1,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "PuppetVideoServiceStatus",
+      "client_doc_id": "6442172112315135053667721340"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "PAYGraphQLLoginCookieMutation",
+      "old_client_doc_id": "27262433314888752140015952242",
+      "new_client_doc_id": "2726243337470389523900610723",
+      "changes": {
+        "client_doc_id": {
+          "old": "27262433314888752140015952242",
+          "new": "2726243337470389523900610723"
+        },
+        "operation_text_hash": {
+          "old": "14888752140015952242",
+          "new": "7470389523900610723"
+        }
+      }
+    }
+  ]
+}

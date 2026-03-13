@@ -1,0 +1,52 @@
+{
+  "comparison_index": 558,
+  "comparison": {
+    "from_folder": "Instagram_34800042_alpha",
+    "to_folder": "Instagram_34800059_alpha",
+    "from_version_code": 374803497,
+    "to_version_code": 374804908,
+    "from_version_name": "348.0.0.0.42",
+    "to_version_name": "348.0.0.0.59"
+  },
+  "summary": {
+    "old_total": 820,
+    "new_total": 820,
+    "added": 0,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "CreateMEmuProfile",
+      "old_client_doc_id": "194131542112552291095511885442",
+      "new_client_doc_id": "194131542117498028490045140701",
+      "changes": {
+        "client_doc_id": {
+          "old": "194131542112552291095511885442",
+          "new": "194131542117498028490045140701"
+        },
+        "operation_text_hash": {
+          "old": "12552291095511885442",
+          "new": "17498028490045140701"
+        }
+      }
+    },
+    {
+      "operation": "IGEBFetchBackupInternalQuery",
+      "old_client_doc_id": "198436049610642024514688314610",
+      "new_client_doc_id": "198436049612826763568228308216",
+      "changes": {
+        "client_doc_id": {
+          "old": "198436049610642024514688314610",
+          "new": "198436049612826763568228308216"
+        },
+        "operation_text_hash": {
+          "old": "10642024514688314610",
+          "new": "12826763568228308216"
+        }
+      }
+    }
+  ]
+}

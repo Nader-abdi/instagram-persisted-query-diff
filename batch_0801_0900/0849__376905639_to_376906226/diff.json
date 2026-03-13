@@ -1,0 +1,47 @@
+{
+  "comparison_index": 849,
+  "comparison": {
+    "from_folder": "Instagram_36500066_alpha",
+    "to_folder": "Instagram_36500073_alpha",
+    "from_version_code": 376905639,
+    "to_version_code": 376906226,
+    "from_version_name": "365.0.0.0.66",
+    "to_version_name": "365.0.0.0.73"
+  },
+  "summary": {
+    "old_total": 953,
+    "new_total": 951,
+    "added": 2,
+    "removed": 4,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "FriendMapMediaQuery",
+      "client_doc_id": "172915047716682801185910340820"
+    },
+    {
+      "operation": "GenBlobXApp",
+      "client_doc_id": "26657194597557402623483902219"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "FriendMapFeedMediaQuery",
+      "client_doc_id": "1596872157884574379452148488"
+    },
+    {
+      "operation": "FriendMapReelMediaQuery",
+      "client_doc_id": "345550154187797389654722686"
+    },
+    {
+      "operation": "FriendMapStoryHighlightMediaQuery",
+      "client_doc_id": "291986149913094728660454381899"
+    },
+    {
+      "operation": "FriendMapStoryMediaQuery",
+      "client_doc_id": "99489720811468308789799001108"
+    }
+  ],
+  "changed": []
+}

@@ -1,0 +1,52 @@
+{
+  "comparison_index": 1350,
+  "comparison": {
+    "from_folder": "Instagram_41200067_alpha",
+    "to_folder": "Instagram_41200073_alpha",
+    "from_version_code": 381803510,
+    "to_version_code": 381803797,
+    "from_version_name": "412.0.0.0.67",
+    "to_version_name": "412.0.0.0.73"
+  },
+  "summary": {
+    "old_total": 1424,
+    "new_total": 1424,
+    "added": 0,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "QPIGDevToolV2Check",
+      "old_client_doc_id": "25901680311424144587843365386",
+      "new_client_doc_id": "25901680315665221586981188699",
+      "changes": {
+        "client_doc_id": {
+          "old": "25901680311424144587843365386",
+          "new": "25901680315665221586981188699"
+        },
+        "operation_text_hash": {
+          "old": "1424144587843365386",
+          "new": "5665221586981188699"
+        }
+      }
+    },
+    {
+      "operation": "QuickPromotionSurfaceQueryV3",
+      "old_client_doc_id": "4092502689518908338761866118",
+      "new_client_doc_id": "4092502689229538120154430415",
+      "changes": {
+        "client_doc_id": {
+          "old": "4092502689518908338761866118",
+          "new": "4092502689229538120154430415"
+        },
+        "operation_text_hash": {
+          "old": "9518908338761866118",
+          "new": "9229538120154430415"
+        }
+      }
+    }
+  ]
+}

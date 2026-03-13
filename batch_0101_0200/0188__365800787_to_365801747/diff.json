@@ -1,0 +1,26 @@
+{
+  "comparison_index": 188,
+  "comparison": {
+    "from_folder": "Instagram_25800019_alpha",
+    "to_folder": "Instagram_25800045_alpha",
+    "from_version_code": 365800787,
+    "to_version_code": 365801747,
+    "from_version_name": "258.0.0.0.19",
+    "to_version_name": "258.0.0.0.45"
+  },
+  "summary": {
+    "old_total": 162,
+    "new_total": 163,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "IGBoostPlacementWebviewPreviewInfoQuery",
+      "client_doc_id": "81428968214569093265366388668"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

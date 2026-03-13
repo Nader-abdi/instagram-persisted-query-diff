@@ -1,0 +1,97 @@
+{
+  "comparison_index": 1236,
+  "comparison": {
+    "from_folder": "Instagram_40000010_alpha",
+    "to_folder": "Instagram_40000015_alpha",
+    "from_version_code": 380600522,
+    "to_version_code": 380600778,
+    "from_version_name": "400.0.0.0.10",
+    "to_version_name": "400.0.0.0.15"
+  },
+  "summary": {
+    "old_total": 1291,
+    "new_total": 1291,
+    "added": 0,
+    "removed": 0,
+    "changed": 5
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "ListFeedQuery",
+      "old_client_doc_id": "239050341917071929116009516280",
+      "new_client_doc_id": "239050341911743490970235347227",
+      "changes": {
+        "client_doc_id": {
+          "old": "239050341917071929116009516280",
+          "new": "239050341911743490970235347227"
+        },
+        "operation_text_hash": {
+          "old": "17071929116009516280",
+          "new": "11743490970235347227"
+        }
+      }
+    },
+    {
+      "operation": "ReplyApprovalsFetchPendingRepliesQuery",
+      "old_client_doc_id": "37231828623287729872812182345",
+      "new_client_doc_id": "372318286212777126221461507001",
+      "changes": {
+        "client_doc_id": {
+          "old": "37231828623287729872812182345",
+          "new": "372318286212777126221461507001"
+        },
+        "operation_text_hash": {
+          "old": "3287729872812182345",
+          "new": "12777126221461507001"
+        }
+      }
+    },
+    {
+      "operation": "SerpBatchPrefetchQuery",
+      "old_client_doc_id": "17911679698765578539316706233",
+      "new_client_doc_id": "179116796914162561885030380351",
+      "changes": {
+        "client_doc_id": {
+          "old": "17911679698765578539316706233",
+          "new": "179116796914162561885030380351"
+        },
+        "operation_text_hash": {
+          "old": "8765578539316706233",
+          "new": "14162561885030380351"
+        }
+      }
+    },
+    {
+      "operation": "WebLanguageClassificationQuery",
+      "old_client_doc_id": "39921440212671972832672377440",
+      "new_client_doc_id": "3992144024991461847597517239",
+      "changes": {
+        "client_doc_id": {
+          "old": "39921440212671972832672377440",
+          "new": "3992144024991461847597517239"
+        },
+        "operation_text_hash": {
+          "old": "12671972832672377440",
+          "new": "4991461847597517239"
+        }
+      }
+    },
+    {
+      "operation": "WebTranslationQuery",
+      "old_client_doc_id": "42136559455728361607077009330",
+      "new_client_doc_id": "42136559456230010998352984022",
+      "changes": {
+        "client_doc_id": {
+          "old": "42136559455728361607077009330",
+          "new": "42136559456230010998352984022"
+        },
+        "operation_text_hash": {
+          "old": "5728361607077009330",
+          "new": "6230010998352984022"
+        }
+      }
+    }
+  ]
+}

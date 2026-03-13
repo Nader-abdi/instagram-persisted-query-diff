@@ -1,0 +1,88 @@
+{
+  "comparison_index": 430,
+  "comparison": {
+    "from_folder": "Instagram_33800053_alpha",
+    "to_folder": "Instagram_33800065_alpha",
+    "from_version_code": 373803547,
+    "to_version_code": 373804294,
+    "from_version_name": "338.0.0.0.53",
+    "to_version_name": "338.0.0.0.65"
+  },
+  "summary": {
+    "old_total": 743,
+    "new_total": 748,
+    "added": 5,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [
+    {
+      "operation": "AlgoTuneHideMediaMutation",
+      "client_doc_id": "222070032717124839801616900776"
+    },
+    {
+      "operation": "AlgoTuneLikeMediaMutation",
+      "client_doc_id": "21746926473205147777021245214"
+    },
+    {
+      "operation": "AlgoTuneUnhideMediaMutation",
+      "client_doc_id": "16517999268139010567468884643"
+    },
+    {
+      "operation": "AlgoTuneUnlikeMediaMutation",
+      "client_doc_id": "3574082502548843898211981621"
+    },
+    {
+      "operation": "MetaAIFeedbackMutation",
+      "client_doc_id": "118814742312354837166060510723"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "GetAllPresencePoints",
+      "old_client_doc_id": "82835164815058763271406337022",
+      "new_client_doc_id": "8283516489018019711246201960",
+      "changes": {
+        "client_doc_id": {
+          "old": "82835164815058763271406337022",
+          "new": "8283516489018019711246201960"
+        },
+        "operation_text_hash": {
+          "old": "15058763271406337022",
+          "new": "9018019711246201960"
+        }
+      }
+    },
+    {
+      "operation": "IGSharingGenAISuggestedPromptsQuery",
+      "old_client_doc_id": "9440777112164467737051395406",
+      "new_client_doc_id": "944077713167899513094386390",
+      "changes": {
+        "client_doc_id": {
+          "old": "9440777112164467737051395406",
+          "new": "944077713167899513094386390"
+        },
+        "operation_text_hash": {
+          "old": "12164467737051395406",
+          "new": "3167899513094386390"
+        }
+      }
+    },
+    {
+      "operation": "InitiatePushabilityHealthcheck",
+      "old_client_doc_id": "75540869211236301041827667287",
+      "new_client_doc_id": "75540869210922892567460308904",
+      "changes": {
+        "client_doc_id": {
+          "old": "75540869211236301041827667287",
+          "new": "75540869210922892567460308904"
+        },
+        "operation_text_hash": {
+          "old": "11236301041827667287",
+          "new": "10922892567460308904"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "comparison_index": 109,
+  "comparison": {
+    "from_folder": "Instagram_247000105_alpha",
+    "to_folder": "Instagram_247004113_beta",
+    "from_version_code": 364703439,
+    "to_version_code": 364703923,
+    "from_version_name": "247.0.0.0.105",
+    "to_version_name": "247.0.0.4.113"
+  },
+  "summary": {
+    "old_total": 146,
+    "new_total": 147,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "FxSettingsPersonalDetailsShouldShowInAc",
+      "client_doc_id": "337831724510300572211800252644"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

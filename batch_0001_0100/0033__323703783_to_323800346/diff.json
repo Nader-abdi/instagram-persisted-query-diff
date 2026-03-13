@@ -1,0 +1,52 @@
+{
+  "comparison_index": 33,
+  "comparison": {
+    "from_folder": "Instagram_2270012117",
+    "to_folder": "Instagram_22800011_alpha",
+    "from_version_code": 323703783,
+    "to_version_code": 323800346,
+    "from_version_name": "227.0.0.12.117",
+    "to_version_name": "228.0.0.0.11"
+  },
+  "summary": {
+    "old_total": 124,
+    "new_total": 124,
+    "added": 0,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FetchFanClubFromUser",
+      "old_client_doc_id": "103026039010029492652614084394",
+      "new_client_doc_id": "10302603908845170669573828981",
+      "changes": {
+        "client_doc_id": {
+          "old": "103026039010029492652614084394",
+          "new": "10302603908845170669573828981"
+        },
+        "operation_text_hash": {
+          "old": "10029492652614084394",
+          "new": "8845170669573828981"
+        }
+      }
+    },
+    {
+      "operation": "IGFxIdentityManagementQuery",
+      "old_client_doc_id": "8498625704640523352355713382",
+      "new_client_doc_id": "8498625704276966613957883814",
+      "changes": {
+        "client_doc_id": {
+          "old": "8498625704640523352355713382",
+          "new": "8498625704276966613957883814"
+        },
+        "operation_text_hash": {
+          "old": "4640523352355713382",
+          "new": "4276966613957883814"
+        }
+      }
+    }
+  ]
+}

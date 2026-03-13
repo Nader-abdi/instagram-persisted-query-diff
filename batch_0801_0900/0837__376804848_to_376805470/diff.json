@@ -1,0 +1,72 @@
+{
+  "comparison_index": 837,
+  "comparison": {
+    "from_folder": "Instagram_36400057_alpha",
+    "to_folder": "Instagram_36400065_alpha",
+    "from_version_code": 376804848,
+    "to_version_code": 376805470,
+    "from_version_name": "364.0.0.0.57",
+    "to_version_name": "364.0.0.0.65"
+  },
+  "summary": {
+    "old_total": 950,
+    "new_total": 951,
+    "added": 1,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [
+    {
+      "operation": "InspirationalCampaignShuffledCampaignQuery",
+      "client_doc_id": "18775259371749553902527631079"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "ClipsMemeHubAssetQuery",
+      "old_client_doc_id": "87286818410048587589743211878",
+      "new_client_doc_id": "87286818416600997444285858871",
+      "changes": {
+        "client_doc_id": {
+          "old": "87286818410048587589743211878",
+          "new": "87286818416600997444285858871"
+        },
+        "operation_text_hash": {
+          "old": "10048587589743211878",
+          "new": "16600997444285858871"
+        }
+      }
+    },
+    {
+      "operation": "InstagramContactSyncForWearablesQuery",
+      "old_client_doc_id": "39047679514834573481398546660",
+      "new_client_doc_id": "390476795111695875016926815080",
+      "changes": {
+        "client_doc_id": {
+          "old": "39047679514834573481398546660",
+          "new": "390476795111695875016926815080"
+        },
+        "operation_text_hash": {
+          "old": "4834573481398546660",
+          "new": "11695875016926815080"
+        }
+      }
+    },
+    {
+      "operation": "NotificationFeedSuggestedUserQuery",
+      "old_client_doc_id": "53096220914919253741317612285",
+      "new_client_doc_id": "53096220916042330077703277340",
+      "changes": {
+        "client_doc_id": {
+          "old": "53096220914919253741317612285",
+          "new": "53096220916042330077703277340"
+        },
+        "operation_text_hash": {
+          "old": "14919253741317612285",
+          "new": "16042330077703277340"
+        }
+      }
+    }
+  ]
+}

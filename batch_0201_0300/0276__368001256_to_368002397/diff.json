@@ -1,0 +1,37 @@
+{
+  "comparison_index": 276,
+  "comparison": {
+    "from_folder": "Instagram_28000019_alpha",
+    "to_folder": "Instagram_28000038_alpha",
+    "from_version_code": 368001256,
+    "to_version_code": 368002397,
+    "from_version_name": "280.0.0.0.19",
+    "to_version_name": "280.0.0.0.38"
+  },
+  "summary": {
+    "old_total": 170,
+    "new_total": 170,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGDogfoodingAssistantDiscoveryQuery",
+      "old_client_doc_id": "17703506285159555425120867321",
+      "new_client_doc_id": "177035062815721179232940160211",
+      "changes": {
+        "client_doc_id": {
+          "old": "17703506285159555425120867321",
+          "new": "177035062815721179232940160211"
+        },
+        "operation_text_hash": {
+          "old": "5159555425120867321",
+          "new": "15721179232940160211"
+        }
+      }
+    }
+  ]
+}

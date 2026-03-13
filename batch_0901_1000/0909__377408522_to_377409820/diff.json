@@ -1,0 +1,126 @@
+{
+  "comparison_index": 909,
+  "comparison": {
+    "from_folder": "Instagram_37000086_alpha",
+    "to_folder": "Instagram_37000296_beta",
+    "from_version_code": 377408522,
+    "to_version_code": 377409820,
+    "from_version_name": "370.0.0.0.86",
+    "to_version_name": "370.0.0.2.96"
+  },
+  "summary": {
+    "old_total": 1003,
+    "new_total": 1004,
+    "added": 2,
+    "removed": 1,
+    "changed": 6
+  },
+  "added": [
+    {
+      "operation": "AckPushIrisCursorMutation",
+      "client_doc_id": "30943615667108863966578437222"
+    },
+    {
+      "operation": "IGPermissionsCancelInviteIfDelegateIneligible",
+      "client_doc_id": "8765657805974704801862455352"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "IGPermissionsInviteValidityQuery",
+      "client_doc_id": "5887993847731534008885865187"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "FBPayAddressQuery",
+      "old_client_doc_id": "14248386637138172828095777306",
+      "new_client_doc_id": "14248386639660740840055345907",
+      "changes": {
+        "client_doc_id": {
+          "old": "14248386637138172828095777306",
+          "new": "14248386639660740840055345907"
+        },
+        "operation_text_hash": {
+          "old": "7138172828095777306",
+          "new": "9660740840055345907"
+        }
+      }
+    },
+    {
+      "operation": "FetchGlobalDirectoryQuery",
+      "old_client_doc_id": "27174023258200701964494067080",
+      "new_client_doc_id": "271740232517801473895611681469",
+      "changes": {
+        "client_doc_id": {
+          "old": "27174023258200701964494067080",
+          "new": "271740232517801473895611681469"
+        },
+        "operation_text_hash": {
+          "old": "8200701964494067080",
+          "new": "17801473895611681469"
+        }
+      }
+    },
+    {
+      "operation": "IGFBPayShareableContactInfoQuery",
+      "old_client_doc_id": "85562696010223287045251699722",
+      "new_client_doc_id": "8556269606651250805663377265",
+      "changes": {
+        "client_doc_id": {
+          "old": "85562696010223287045251699722",
+          "new": "8556269606651250805663377265"
+        },
+        "operation_text_hash": {
+          "old": "10223287045251699722",
+          "new": "6651250805663377265"
+        }
+      }
+    },
+    {
+      "operation": "IGGenerateText2Stickers",
+      "old_client_doc_id": "272961684710291428871631105478",
+      "new_client_doc_id": "27296168476800406805207737236",
+      "changes": {
+        "client_doc_id": {
+          "old": "272961684710291428871631105478",
+          "new": "27296168476800406805207737236"
+        },
+        "operation_text_hash": {
+          "old": "10291428871631105478",
+          "new": "6800406805207737236"
+        }
+      }
+    },
+    {
+      "operation": "LeadGenDeepLinkSendPhoneOTPMutation",
+      "old_client_doc_id": "188352575712613016647556778586",
+      "new_client_doc_id": "188352575713736987401293319202",
+      "changes": {
+        "client_doc_id": {
+          "old": "188352575712613016647556778586",
+          "new": "188352575713736987401293319202"
+        },
+        "operation_text_hash": {
+          "old": "12613016647556778586",
+          "new": "13736987401293319202"
+        }
+      }
+    },
+    {
+      "operation": "LeadGenDeepLinkVerifyPhoneOTPMutation",
+      "old_client_doc_id": "354662585917291722196889434895",
+      "new_client_doc_id": "354662585916953384078380005632",
+      "changes": {
+        "client_doc_id": {
+          "old": "354662585917291722196889434895",
+          "new": "354662585916953384078380005632"
+        },
+        "operation_text_hash": {
+          "old": "17291722196889434895",
+          "new": "16953384078380005632"
+        }
+      }
+    }
+  ]
+}

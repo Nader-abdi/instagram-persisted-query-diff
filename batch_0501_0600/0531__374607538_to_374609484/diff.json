@@ -1,0 +1,147 @@
+{
+  "comparison_index": 531,
+  "comparison": {
+    "from_folder": "Instagram_34600097_alpha",
+    "to_folder": "Instagram_346008104_beta",
+    "from_version_code": 374607538,
+    "to_version_code": 374609484,
+    "from_version_name": "346.0.0.0.97",
+    "to_version_name": "346.0.0.8.104"
+  },
+  "summary": {
+    "old_total": 814,
+    "new_total": 815,
+    "added": 1,
+    "removed": 0,
+    "changed": 8
+  },
+  "added": [
+    {
+      "operation": "CreatorInspirationSignalsPlaygroundRecommendationsQuery",
+      "client_doc_id": "28010602132691157904374201477"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "CreatorInspirationSignalsPlaygroundSignalDetailsQuery",
+      "old_client_doc_id": "125122301811863795636100572584",
+      "new_client_doc_id": "125122301812318969886168176450",
+      "changes": {
+        "client_doc_id": {
+          "old": "125122301811863795636100572584",
+          "new": "125122301812318969886168176450"
+        },
+        "operation_text_hash": {
+          "old": "11863795636100572584",
+          "new": "12318969886168176450"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineGenerateMutation",
+      "old_client_doc_id": "2741340087147374987570883002",
+      "new_client_doc_id": "27413400818169861679870344255",
+      "changes": {
+        "client_doc_id": {
+          "old": "2741340087147374987570883002",
+          "new": "27413400818169861679870344255"
+        },
+        "operation_text_hash": {
+          "old": "7147374987570883002",
+          "new": "18169861679870344255"
+        }
+      }
+    },
+    {
+      "operation": "GetCreatorInspirationHubQuery",
+      "old_client_doc_id": "359317615014771029021848450610",
+      "new_client_doc_id": "35931761503923339622728342343",
+      "changes": {
+        "client_doc_id": {
+          "old": "359317615014771029021848450610",
+          "new": "35931761503923339622728342343"
+        },
+        "operation_text_hash": {
+          "old": "14771029021848450610",
+          "new": "3923339622728342343"
+        }
+      }
+    },
+    {
+      "operation": "IGDirectMessagingSearchMetaAISnippetQueryQuery",
+      "old_client_doc_id": "207061484515725799039482282974",
+      "new_client_doc_id": "20706148453397318095196495292",
+      "changes": {
+        "client_doc_id": {
+          "old": "207061484515725799039482282974",
+          "new": "20706148453397318095196495292"
+        },
+        "operation_text_hash": {
+          "old": "15725799039482282974",
+          "new": "3397318095196495292"
+        }
+      }
+    },
+    {
+      "operation": "InstagramContactSyncForWearablesQuery",
+      "old_client_doc_id": "390476795113527288748123682574",
+      "new_client_doc_id": "390476795116297836775545977199",
+      "changes": {
+        "client_doc_id": {
+          "old": "390476795113527288748123682574",
+          "new": "390476795116297836775545977199"
+        },
+        "operation_text_hash": {
+          "old": "13527288748123682574",
+          "new": "16297836775545977199"
+        }
+      }
+    },
+    {
+      "operation": "LogInboxTrayItemImpression",
+      "old_client_doc_id": "3840972249390616266144998032",
+      "new_client_doc_id": "38409722491662698085505716123",
+      "changes": {
+        "client_doc_id": {
+          "old": "3840972249390616266144998032",
+          "new": "38409722491662698085505716123"
+        },
+        "operation_text_hash": {
+          "old": "390616266144998032",
+          "new": "1662698085505716123"
+        }
+      }
+    },
+    {
+      "operation": "MetaHCMQuery",
+      "old_client_doc_id": "16691628978293733410348888627",
+      "new_client_doc_id": "166916289710730052969168410485",
+      "changes": {
+        "client_doc_id": {
+          "old": "16691628978293733410348888627",
+          "new": "166916289710730052969168410485"
+        },
+        "operation_text_hash": {
+          "old": "8293733410348888627",
+          "new": "10730052969168410485"
+        }
+      }
+    },
+    {
+      "operation": "UpdateInboxTrayLastSeenTimestamp",
+      "old_client_doc_id": "410485054915517259784380066045",
+      "new_client_doc_id": "41048505499858972910914091441",
+      "changes": {
+        "client_doc_id": {
+          "old": "410485054915517259784380066045",
+          "new": "41048505499858972910914091441"
+        },
+        "operation_text_hash": {
+          "old": "15517259784380066045",
+          "new": "9858972910914091441"
+        }
+      }
+    }
+  ]
+}

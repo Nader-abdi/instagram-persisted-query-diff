@@ -1,0 +1,26 @@
+{
+  "comparison_index": 1199,
+  "comparison": {
+    "from_folder": "Instagram_39400029_alpha",
+    "to_folder": "Instagram_39400047_alpha",
+    "from_version_code": 380001505,
+    "to_version_code": 380002398,
+    "from_version_name": "394.0.0.0.29",
+    "to_version_name": "394.0.0.0.47"
+  },
+  "summary": {
+    "old_total": 1222,
+    "new_total": 1223,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "GenAIImagineRestyleSectionsQuery",
+      "client_doc_id": "110239948212759517903176488760"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

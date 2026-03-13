@@ -1,0 +1,87 @@
+{
+  "comparison_index": 593,
+  "comparison": {
+    "from_folder": "Instagram_35000091_alpha",
+    "to_folder": "Instagram_35000293_beta",
+    "from_version_code": 375007730,
+    "to_version_code": 375008145,
+    "from_version_name": "350.0.0.0.91",
+    "to_version_name": "350.0.0.2.93"
+  },
+  "summary": {
+    "old_total": 840,
+    "new_total": 841,
+    "added": 1,
+    "removed": 0,
+    "changed": 4
+  },
+  "added": [
+    {
+      "operation": "GenAIImaginePromptSummarizationMutation",
+      "client_doc_id": "1789993584458834388515494463"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "GenAIImagineGenerateMutation",
+      "old_client_doc_id": "27413400810667527924864511367",
+      "new_client_doc_id": "27413400816412275191761480090",
+      "changes": {
+        "client_doc_id": {
+          "old": "27413400810667527924864511367",
+          "new": "27413400816412275191761480090"
+        },
+        "operation_text_hash": {
+          "old": "10667527924864511367",
+          "new": "16412275191761480090"
+        }
+      }
+    },
+    {
+      "operation": "IGDInboxPendingRequestsQuery",
+      "old_client_doc_id": "5818630037616711034773205458",
+      "new_client_doc_id": "5818630034574045384906469771",
+      "changes": {
+        "client_doc_id": {
+          "old": "5818630037616711034773205458",
+          "new": "5818630034574045384906469771"
+        },
+        "operation_text_hash": {
+          "old": "7616711034773205458",
+          "new": "4574045384906469771"
+        }
+      }
+    },
+    {
+      "operation": "PendingFollows",
+      "old_client_doc_id": "3313842936963120580453199760",
+      "new_client_doc_id": "33138429313469742221527189954",
+      "changes": {
+        "client_doc_id": {
+          "old": "3313842936963120580453199760",
+          "new": "33138429313469742221527189954"
+        },
+        "operation_text_hash": {
+          "old": "6963120580453199760",
+          "new": "13469742221527189954"
+        }
+      }
+    },
+    {
+      "operation": "PendingFollows_At_Pando_Connection_Pagination_Query_users",
+      "old_client_doc_id": "184793339913512920069464850576",
+      "new_client_doc_id": "18479333997443390032181709173",
+      "changes": {
+        "client_doc_id": {
+          "old": "184793339913512920069464850576",
+          "new": "18479333997443390032181709173"
+        },
+        "operation_text_hash": {
+          "old": "13512920069464850576",
+          "new": "7443390032181709173"
+        }
+      }
+    }
+  ]
+}

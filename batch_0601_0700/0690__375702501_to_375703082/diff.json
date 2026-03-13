@@ -1,0 +1,38 @@
+{
+  "comparison_index": 690,
+  "comparison": {
+    "from_folder": "Instagram_35700030_alpha",
+    "to_folder": "Instagram_35700038_alpha",
+    "from_version_code": 375702501,
+    "to_version_code": 375703082,
+    "from_version_name": "357.0.0.0.30",
+    "to_version_name": "357.0.0.0.38"
+  },
+  "summary": {
+    "old_total": 906,
+    "new_total": 902,
+    "added": 0,
+    "removed": 4,
+    "changed": 0
+  },
+  "added": [],
+  "removed": [
+    {
+      "operation": "ContentSchedulingDeleteGenPopLinkedMutation",
+      "client_doc_id": "8936071248892488516336654105"
+    },
+    {
+      "operation": "ContentSchedulingPublishGenPopLinkedMutation",
+      "client_doc_id": "13492123504156658705742197449"
+    },
+    {
+      "operation": "ContentSchedulingRescheduleGenPopLinkedMutation",
+      "client_doc_id": "2829460951769523882923343137"
+    },
+    {
+      "operation": "ContentSchedulingScheduledCountNumPerDayGenPopLinkedQuery",
+      "client_doc_id": "159929255612482072964377494877"
+    }
+  ],
+  "changed": []
+}

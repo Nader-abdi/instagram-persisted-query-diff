@@ -1,0 +1,26 @@
+{
+  "comparison_index": 358,
+  "comparison": {
+    "from_folder": "Instagram_31800088_alpha",
+    "to_folder": "Instagram_31800097_alpha",
+    "from_version_code": 371806578,
+    "to_version_code": 371807205,
+    "from_version_name": "318.0.0.0.88",
+    "to_version_name": "318.0.0.0.97"
+  },
+  "summary": {
+    "old_total": 231,
+    "new_total": 232,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "IGCreatorsChallengesAdditionalChallengeInfoQuery",
+      "client_doc_id": "1395017562472598299210529404"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

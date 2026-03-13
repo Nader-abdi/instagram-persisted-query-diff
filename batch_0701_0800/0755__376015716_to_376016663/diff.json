@@ -1,0 +1,26 @@
+{
+  "comparison_index": 755,
+  "comparison": {
+    "from_folder": "Instagram_360000184_alpha",
+    "to_folder": "Instagram_360001192_beta",
+    "from_version_code": 376015716,
+    "to_version_code": 376016663,
+    "from_version_name": "360.0.0.0.184",
+    "to_version_name": "360.0.0.1.192"
+  },
+  "summary": {
+    "old_total": 957,
+    "new_total": 958,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "IGPaginatedShareSheetQuery",
+      "client_doc_id": "344505991813579820772668382919"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

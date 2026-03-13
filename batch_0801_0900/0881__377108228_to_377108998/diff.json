@@ -1,0 +1,37 @@
+{
+  "comparison_index": 881,
+  "comparison": {
+    "from_folder": "Instagram_36700889_beta",
+    "to_folder": "Instagram_367001889_beta",
+    "from_version_code": 377108228,
+    "to_version_code": 377108998,
+    "from_version_name": "367.0.0.8.89",
+    "to_version_name": "367.0.0.18.89"
+  },
+  "summary": {
+    "old_total": 974,
+    "new_total": 974,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "UnfollowManyMutation",
+      "old_client_doc_id": "37143552413187300328258287328",
+      "new_client_doc_id": "37143552411540071947360829364",
+      "changes": {
+        "client_doc_id": {
+          "old": "37143552413187300328258287328",
+          "new": "37143552411540071947360829364"
+        },
+        "operation_text_hash": {
+          "old": "13187300328258287328",
+          "new": "11540071947360829364"
+        }
+      }
+    }
+  ]
+}

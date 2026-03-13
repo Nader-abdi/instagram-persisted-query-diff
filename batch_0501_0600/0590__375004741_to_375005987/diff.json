@@ -1,0 +1,100 @@
+{
+  "comparison_index": 590,
+  "comparison": {
+    "from_folder": "Instagram_35000054_alpha",
+    "to_folder": "Instagram_35000069_alpha",
+    "from_version_code": 375004741,
+    "to_version_code": 375005987,
+    "from_version_name": "350.0.0.0.54",
+    "to_version_name": "350.0.0.0.69"
+  },
+  "summary": {
+    "old_total": 835,
+    "new_total": 835,
+    "added": 2,
+    "removed": 2,
+    "changed": 4
+  },
+  "added": [
+    {
+      "operation": "GenerateThemeImages",
+      "client_doc_id": "301341372716001708845453341369"
+    },
+    {
+      "operation": "GenerateThemeMutation",
+      "client_doc_id": "4944167511435099964277467489"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "HorizonWorldPagesMediaQuery",
+      "client_doc_id": "280656840814983993252530176693"
+    },
+    {
+      "operation": "HorizonWorldPagesStoryQuery",
+      "client_doc_id": "24953050656840551932235447087"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "AiStudioFetchHomeSections_At_Pando_Connection_Pagination_XFBGENAIPersonaLayout_sections_query",
+      "old_client_doc_id": "184332557014127888825450915487",
+      "new_client_doc_id": "184332557017569218311405603826",
+      "changes": {
+        "client_doc_id": {
+          "old": "184332557014127888825450915487",
+          "new": "184332557017569218311405603826"
+        },
+        "operation_text_hash": {
+          "old": "14127888825450915487",
+          "new": "17569218311405603826"
+        }
+      }
+    },
+    {
+      "operation": "ClipsProfileQuery",
+      "old_client_doc_id": "20904923164934003779762725583",
+      "new_client_doc_id": "209049231610923716783284715045",
+      "changes": {
+        "client_doc_id": {
+          "old": "20904923164934003779762725583",
+          "new": "209049231610923716783284715045"
+        },
+        "operation_text_hash": {
+          "old": "4934003779762725583",
+          "new": "10923716783284715045"
+        }
+      }
+    },
+    {
+      "operation": "IGBugReportSubmitMutation",
+      "old_client_doc_id": "293839176012696561756568920965",
+      "new_client_doc_id": "293839176016903399297012798152",
+      "changes": {
+        "client_doc_id": {
+          "old": "293839176012696561756568920965",
+          "new": "293839176016903399297012798152"
+        },
+        "operation_text_hash": {
+          "old": "12696561756568920965",
+          "new": "16903399297012798152"
+        }
+      }
+    },
+    {
+      "operation": "IGDirectMessagingSearchMetaAISnippetQueryQuery",
+      "old_client_doc_id": "20706148453397318095196495292",
+      "new_client_doc_id": "2070614845641945841192390764",
+      "changes": {
+        "client_doc_id": {
+          "old": "20706148453397318095196495292",
+          "new": "2070614845641945841192390764"
+        },
+        "operation_text_hash": {
+          "old": "3397318095196495292",
+          "new": "641945841192390764"
+        }
+      }
+    }
+  ]
+}

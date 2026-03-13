@@ -1,0 +1,95 @@
+{
+  "comparison_index": 554,
+  "comparison": {
+    "from_folder": "Instagram_3473041103",
+    "to_folder": "Instagram_34800018_alpha",
+    "from_version_code": 374712205,
+    "to_version_code": 374801505,
+    "from_version_name": "347.3.0.41.103",
+    "to_version_name": "348.0.0.0.18"
+  },
+  "summary": {
+    "old_total": 818,
+    "new_total": 821,
+    "added": 3,
+    "removed": 0,
+    "changed": 4
+  },
+  "added": [
+    {
+      "operation": "ContentNotesClipsEntry",
+      "client_doc_id": "116950273617198389335545488522"
+    },
+    {
+      "operation": "IGDirectChallengesPromptSingleSubmissionQuery",
+      "client_doc_id": "237949431314588419149041135308"
+    },
+    {
+      "operation": "MetaAIPromptSheetPromptsQuery",
+      "client_doc_id": "108001316016517452273071186277"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "CreateCustomFolderMutation",
+      "old_client_doc_id": "31040512533263525737610744620",
+      "new_client_doc_id": "310405125311495786619424369679",
+      "changes": {
+        "client_doc_id": {
+          "old": "31040512533263525737610744620",
+          "new": "310405125311495786619424369679"
+        },
+        "operation_text_hash": {
+          "old": "3263525737610744620",
+          "new": "11495786619424369679"
+        }
+      }
+    },
+    {
+      "operation": "FxIgXavSwitcherBadgingDataQuery",
+      "old_client_doc_id": "837942592311945072579156505",
+      "new_client_doc_id": "8379425929558807743006474522",
+      "changes": {
+        "client_doc_id": {
+          "old": "837942592311945072579156505",
+          "new": "8379425929558807743006474522"
+        },
+        "operation_text_hash": {
+          "old": "311945072579156505",
+          "new": "9558807743006474522"
+        }
+      }
+    },
+    {
+      "operation": "GetCustomFolders",
+      "old_client_doc_id": "328209542912651704507296859707",
+      "new_client_doc_id": "32820954296019998430786294248",
+      "changes": {
+        "client_doc_id": {
+          "old": "328209542912651704507296859707",
+          "new": "32820954296019998430786294248"
+        },
+        "operation_text_hash": {
+          "old": "12651704507296859707",
+          "new": "6019998430786294248"
+        }
+      }
+    },
+    {
+      "operation": "IGSavedStickersQuery",
+      "old_client_doc_id": "636689760592628703882103927",
+      "new_client_doc_id": "6366897602029668172801461542",
+      "changes": {
+        "client_doc_id": {
+          "old": "636689760592628703882103927",
+          "new": "6366897602029668172801461542"
+        },
+        "operation_text_hash": {
+          "old": "592628703882103927",
+          "new": "2029668172801461542"
+        }
+      }
+    }
+  ]
+}

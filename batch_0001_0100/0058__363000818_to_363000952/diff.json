@@ -1,0 +1,37 @@
+{
+  "comparison_index": 58,
+  "comparison": {
+    "from_folder": "Instagram_23000025_alpha",
+    "to_folder": "Instagram_23000029_alpha",
+    "from_version_code": 363000818,
+    "to_version_code": 363000952,
+    "from_version_name": "230.0.0.0.25",
+    "to_version_name": "230.0.0.0.29"
+  },
+  "summary": {
+    "old_total": 127,
+    "new_total": 127,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "DiverseOwnedBusiness",
+      "old_client_doc_id": "53206320316810015288320702014",
+      "new_client_doc_id": "5320632032788133999654726530",
+      "changes": {
+        "client_doc_id": {
+          "old": "53206320316810015288320702014",
+          "new": "5320632032788133999654726530"
+        },
+        "operation_text_hash": {
+          "old": "16810015288320702014",
+          "new": "2788133999654726530"
+        }
+      }
+    }
+  ]
+}

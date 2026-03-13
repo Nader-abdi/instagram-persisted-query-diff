@@ -1,0 +1,37 @@
+{
+  "comparison_index": 571,
+  "comparison": {
+    "from_folder": "Instagram_34900031_alpha",
+    "to_folder": "Instagram_34900039_alpha",
+    "from_version_code": 374902582,
+    "to_version_code": 374903246,
+    "from_version_name": "349.0.0.0.31",
+    "to_version_name": "349.0.0.0.39"
+  },
+  "summary": {
+    "old_total": 828,
+    "new_total": 828,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "CreateMEmuProfile",
+      "old_client_doc_id": "19413154218408915486844840671",
+      "new_client_doc_id": "194131542114275814157655123792",
+      "changes": {
+        "client_doc_id": {
+          "old": "19413154218408915486844840671",
+          "new": "194131542114275814157655123792"
+        },
+        "operation_text_hash": {
+          "old": "8408915486844840671",
+          "new": "14275814157655123792"
+        }
+      }
+    }
+  ]
+}

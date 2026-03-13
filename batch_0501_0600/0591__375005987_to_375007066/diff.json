@@ -1,0 +1,91 @@
+{
+  "comparison_index": 591,
+  "comparison": {
+    "from_folder": "Instagram_35000069_alpha",
+    "to_folder": "Instagram_35000083_alpha",
+    "from_version_code": 375005987,
+    "to_version_code": 375007066,
+    "from_version_name": "350.0.0.0.69",
+    "to_version_name": "350.0.0.0.83"
+  },
+  "summary": {
+    "old_total": 835,
+    "new_total": 837,
+    "added": 2,
+    "removed": 0,
+    "changed": 4
+  },
+  "added": [
+    {
+      "operation": "ODRAssetsQueryQuery",
+      "client_doc_id": "73041731816831683983998342662"
+    },
+    {
+      "operation": "UpdateSchoolBadgeVisibility",
+      "client_doc_id": "34664320168704828911352712407"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FollowersList",
+      "old_client_doc_id": "28479704797981382276527875753",
+      "new_client_doc_id": "28479704797148835226143011613",
+      "changes": {
+        "client_doc_id": {
+          "old": "28479704797981382276527875753",
+          "new": "28479704797148835226143011613"
+        },
+        "operation_text_hash": {
+          "old": "7981382276527875753",
+          "new": "7148835226143011613"
+        }
+      }
+    },
+    {
+      "operation": "FollowingList",
+      "old_client_doc_id": "16104639283671106146912599053",
+      "new_client_doc_id": "161046392812034960803496431073",
+      "changes": {
+        "client_doc_id": {
+          "old": "16104639283671106146912599053",
+          "new": "161046392812034960803496431073"
+        },
+        "operation_text_hash": {
+          "old": "3671106146912599053",
+          "new": "12034960803496431073"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineGenerateMutation",
+      "old_client_doc_id": "274134008942153723982017205",
+      "new_client_doc_id": "27413400810667527924864511367",
+      "changes": {
+        "client_doc_id": {
+          "old": "274134008942153723982017205",
+          "new": "27413400810667527924864511367"
+        },
+        "operation_text_hash": {
+          "old": "942153723982017205",
+          "new": "10667527924864511367"
+        }
+      }
+    },
+    {
+      "operation": "GenerateThemeMutation",
+      "old_client_doc_id": "4944167511435099964277467489",
+      "new_client_doc_id": "4944167516145328935190376212",
+      "changes": {
+        "client_doc_id": {
+          "old": "4944167511435099964277467489",
+          "new": "4944167516145328935190376212"
+        },
+        "operation_text_hash": {
+          "old": "1435099964277467489",
+          "new": "6145328935190376212"
+        }
+      }
+    }
+  ]
+}

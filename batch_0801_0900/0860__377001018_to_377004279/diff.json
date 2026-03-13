@@ -1,0 +1,57 @@
+{
+  "comparison_index": 860,
+  "comparison": {
+    "from_folder": "Instagram_36600012_alpha",
+    "to_folder": "Instagram_36600050_alpha",
+    "from_version_code": 377001018,
+    "to_version_code": 377004279,
+    "from_version_name": "366.0.0.0.12",
+    "to_version_name": "366.0.0.0.50"
+  },
+  "summary": {
+    "old_total": 953,
+    "new_total": 954,
+    "added": 1,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [
+    {
+      "operation": "AICharacterContentManagementDraftsQuery",
+      "client_doc_id": "23974642646462332898746334281"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "GetAllPresencePoints",
+      "old_client_doc_id": "82835164815643809416999741230",
+      "new_client_doc_id": "8283516488559870652937105840",
+      "changes": {
+        "client_doc_id": {
+          "old": "82835164815643809416999741230",
+          "new": "8283516488559870652937105840"
+        },
+        "operation_text_hash": {
+          "old": "15643809416999741230",
+          "new": "8559870652937105840"
+        }
+      }
+    },
+    {
+      "operation": "IGCreatorActivationTrialTipQuery",
+      "old_client_doc_id": "162985712718221679060373813034",
+      "new_client_doc_id": "162985712710100170006529523924",
+      "changes": {
+        "client_doc_id": {
+          "old": "162985712718221679060373813034",
+          "new": "162985712710100170006529523924"
+        },
+        "operation_text_hash": {
+          "old": "18221679060373813034",
+          "new": "10100170006529523924"
+        }
+      }
+    }
+  ]
+}

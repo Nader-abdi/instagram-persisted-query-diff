@@ -1,0 +1,66 @@
+{
+  "comparison_index": 206,
+  "comparison": {
+    "from_folder": "Instagram_25900068_alpha",
+    "to_folder": "Instagram_25900094_alpha",
+    "from_version_code": 365902339,
+    "to_version_code": 365903253,
+    "from_version_name": "259.0.0.0.68",
+    "to_version_name": "259.0.0.0.94"
+  },
+  "summary": {
+    "old_total": 164,
+    "new_total": 163,
+    "added": 1,
+    "removed": 2,
+    "changed": 2
+  },
+  "added": [
+    {
+      "operation": "IGAREffectUnsaveMutation",
+      "client_doc_id": "18860731615088786559567939346"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "Create",
+      "client_doc_id": "1752066421649277667051912082"
+    },
+    {
+      "operation": "IGUnsaveAREffectMutationCall",
+      "client_doc_id": "38264793601453561561213073308"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "DiverseOwnedBusiness",
+      "old_client_doc_id": "5320632036398263587737489239",
+      "new_client_doc_id": "5320632034713250656378337360",
+      "changes": {
+        "client_doc_id": {
+          "old": "5320632036398263587737489239",
+          "new": "5320632034713250656378337360"
+        },
+        "operation_text_hash": {
+          "old": "6398263587737489239",
+          "new": "4713250656378337360"
+        }
+      }
+    },
+    {
+      "operation": "DiverseOwnedBusinessMutate",
+      "old_client_doc_id": "420584190017168875241630436333",
+      "new_client_doc_id": "42058419009732973125275968779",
+      "changes": {
+        "client_doc_id": {
+          "old": "420584190017168875241630436333",
+          "new": "42058419009732973125275968779"
+        },
+        "operation_text_hash": {
+          "old": "17168875241630436333",
+          "new": "9732973125275968779"
+        }
+      }
+    }
+  ]
+}

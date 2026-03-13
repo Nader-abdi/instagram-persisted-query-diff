@@ -1,0 +1,87 @@
+{
+  "comparison_index": 559,
+  "comparison": {
+    "from_folder": "Instagram_34800059_alpha",
+    "to_folder": "Instagram_34800084_alpha",
+    "from_version_code": 374804908,
+    "to_version_code": 374807032,
+    "from_version_name": "348.0.0.0.59",
+    "to_version_name": "348.0.0.0.84"
+  },
+  "summary": {
+    "old_total": 820,
+    "new_total": 821,
+    "added": 1,
+    "removed": 0,
+    "changed": 4
+  },
+  "added": [
+    {
+      "operation": "ZeitgeistPollQuery",
+      "client_doc_id": "34984771098856246207990540025"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "CreateInboxTrayItemRequest",
+      "old_client_doc_id": "3510400294668765477818020469",
+      "new_client_doc_id": "351040029274509459664356460",
+      "changes": {
+        "client_doc_id": {
+          "old": "3510400294668765477818020469",
+          "new": "351040029274509459664356460"
+        },
+        "operation_text_hash": {
+          "old": "4668765477818020469",
+          "new": "274509459664356460"
+        }
+      }
+    },
+    {
+      "operation": "IGStickerPacks",
+      "old_client_doc_id": "23864929961774084581684072597",
+      "new_client_doc_id": "238649299611034681916403440400",
+      "changes": {
+        "client_doc_id": {
+          "old": "23864929961774084581684072597",
+          "new": "238649299611034681916403440400"
+        },
+        "operation_text_hash": {
+          "old": "1774084581684072597",
+          "new": "11034681916403440400"
+        }
+      }
+    },
+    {
+      "operation": "InboxTrayRequest",
+      "old_client_doc_id": "268384441912047284032921620643",
+      "new_client_doc_id": "26838444193188960011457676798",
+      "changes": {
+        "client_doc_id": {
+          "old": "268384441912047284032921620643",
+          "new": "26838444193188960011457676798"
+        },
+        "operation_text_hash": {
+          "old": "12047284032921620643",
+          "new": "3188960011457676798"
+        }
+      }
+    },
+    {
+      "operation": "InboxTrayRequestForUserQuery",
+      "old_client_doc_id": "2035639074148236192049052267",
+      "new_client_doc_id": "20356390712646600965736117672",
+      "changes": {
+        "client_doc_id": {
+          "old": "2035639074148236192049052267",
+          "new": "20356390712646600965736117672"
+        },
+        "operation_text_hash": {
+          "old": "4148236192049052267",
+          "new": "12646600965736117672"
+        }
+      }
+    }
+  ]
+}

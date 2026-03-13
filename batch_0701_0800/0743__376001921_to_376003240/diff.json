@@ -1,0 +1,70 @@
+{
+  "comparison_index": 743,
+  "comparison": {
+    "from_folder": "Instagram_36000013_alpha",
+    "to_folder": "Instagram_36000037_alpha",
+    "from_version_code": 376001921,
+    "to_version_code": 376003240,
+    "from_version_name": "360.0.0.0.13",
+    "to_version_name": "360.0.0.0.37"
+  },
+  "summary": {
+    "old_total": 936,
+    "new_total": 936,
+    "added": 2,
+    "removed": 2,
+    "changed": 2
+  },
+  "added": [
+    {
+      "operation": "SpotlightLiveEventsQuery",
+      "client_doc_id": "26990961589670647068187318800"
+    },
+    {
+      "operation": "SuggestedSearchTopicsQuery",
+      "client_doc_id": "198236473916619434261032523089"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "BcnMentionNullStateQuery",
+      "client_doc_id": "38318764815035001755026709820"
+    },
+    {
+      "operation": "NifuDismissalEventMutation",
+      "client_doc_id": "72654823413198469839408821564"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "FxIgXavSwitcherBadgingDataQuery",
+      "old_client_doc_id": "8379425927691020032782333440",
+      "new_client_doc_id": "8379425928709297224665923603",
+      "changes": {
+        "client_doc_id": {
+          "old": "8379425927691020032782333440",
+          "new": "8379425928709297224665923603"
+        },
+        "operation_text_hash": {
+          "old": "7691020032782333440",
+          "new": "8709297224665923603"
+        }
+      }
+    },
+    {
+      "operation": "MetaGalleryAlbumMedia",
+      "old_client_doc_id": "34676424063503840937448514109",
+      "new_client_doc_id": "34676424069902704982036392414",
+      "changes": {
+        "client_doc_id": {
+          "old": "34676424063503840937448514109",
+          "new": "34676424069902704982036392414"
+        },
+        "operation_text_hash": {
+          "old": "3503840937448514109",
+          "new": "9902704982036392414"
+        }
+      }
+    }
+  ]
+}

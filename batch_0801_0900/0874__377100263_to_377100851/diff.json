@@ -1,0 +1,42 @@
+{
+  "comparison_index": 874,
+  "comparison": {
+    "from_folder": "Instagram_3670003_alpha",
+    "to_folder": "Instagram_36700010_alpha",
+    "from_version_code": 377100263,
+    "to_version_code": 377100851,
+    "from_version_name": "367.0.0.0.3",
+    "to_version_name": "367.0.0.0.10"
+  },
+  "summary": {
+    "old_total": 964,
+    "new_total": 969,
+    "added": 5,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "CreateDraftPost",
+      "client_doc_id": "28584595175354602096238913064"
+    },
+    {
+      "operation": "IGGenAIEditSuggestions",
+      "client_doc_id": "329115313915429313644983246166"
+    },
+    {
+      "operation": "IncreaseUKTeenOSABottomSheetViewCountMutation",
+      "client_doc_id": "5028018069815299406712017214"
+    },
+    {
+      "operation": "PAYGraphQLLoginCookieMutation",
+      "client_doc_id": "27262433314888752140015952242"
+    },
+    {
+      "operation": "UKTeenOSAConnectionInfoQuery",
+      "client_doc_id": "421493912313758817197668937724"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

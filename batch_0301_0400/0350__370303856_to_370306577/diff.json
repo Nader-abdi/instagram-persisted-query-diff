@@ -1,0 +1,37 @@
+{
+  "comparison_index": 350,
+  "comparison": {
+    "from_folder": "Instagram_30300064_alpha",
+    "to_folder": "Instagram_303000105_alpha",
+    "from_version_code": 370303856,
+    "to_version_code": 370306577,
+    "from_version_name": "303.0.0.0.64",
+    "to_version_name": "303.0.0.0.105"
+  },
+  "summary": {
+    "old_total": 197,
+    "new_total": 197,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IABAutofillData",
+      "old_client_doc_id": "5133098576778310536575666503",
+      "new_client_doc_id": "5133098578522855178806316904",
+      "changes": {
+        "client_doc_id": {
+          "old": "5133098576778310536575666503",
+          "new": "5133098578522855178806316904"
+        },
+        "operation_text_hash": {
+          "old": "6778310536575666503",
+          "new": "8522855178806316904"
+        }
+      }
+    }
+  ]
+}

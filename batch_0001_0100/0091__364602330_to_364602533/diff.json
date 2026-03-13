@@ -1,0 +1,37 @@
+{
+  "comparison_index": 91,
+  "comparison": {
+    "from_folder": "Instagram_24600072_alpha",
+    "to_folder": "Instagram_24600079_alpha",
+    "from_version_code": 364602330,
+    "to_version_code": 364602533,
+    "from_version_name": "246.0.0.0.72",
+    "to_version_name": "246.0.0.0.79"
+  },
+  "summary": {
+    "old_total": 146,
+    "new_total": 146,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGFxIdentityManagementQuery",
+      "old_client_doc_id": "8498625707619683556359377592",
+      "new_client_doc_id": "84986257016310513797702928788",
+      "changes": {
+        "client_doc_id": {
+          "old": "8498625707619683556359377592",
+          "new": "84986257016310513797702928788"
+        },
+        "operation_text_hash": {
+          "old": "7619683556359377592",
+          "new": "16310513797702928788"
+        }
+      }
+    }
+  ]
+}

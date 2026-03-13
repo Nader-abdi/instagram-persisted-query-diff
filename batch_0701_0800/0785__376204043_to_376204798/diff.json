@@ -1,0 +1,42 @@
+{
+  "comparison_index": 785,
+  "comparison": {
+    "from_folder": "Instagram_36200048_alpha",
+    "to_folder": "Instagram_36200057_alpha",
+    "from_version_code": 376204043,
+    "to_version_code": 376204798,
+    "from_version_name": "362.0.0.0.48",
+    "to_version_name": "362.0.0.0.57"
+  },
+  "summary": {
+    "old_total": 960,
+    "new_total": 961,
+    "added": 1,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "LeadGenDeepLinkSendPhoneOTPMutation",
+      "client_doc_id": "188352575712613016647556778586"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "ClipsProfileQuery",
+      "old_client_doc_id": "209049231610289307187644069679",
+      "new_client_doc_id": "209049231614685382737238866578",
+      "changes": {
+        "client_doc_id": {
+          "old": "209049231610289307187644069679",
+          "new": "209049231614685382737238866578"
+        },
+        "operation_text_hash": {
+          "old": "10289307187644069679",
+          "new": "14685382737238866578"
+        }
+      }
+    }
+  ]
+}

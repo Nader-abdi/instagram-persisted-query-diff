@@ -1,0 +1,125 @@
+{
+  "comparison_index": 888,
+  "comparison": {
+    "from_folder": "Instagram_36800063_alpha",
+    "to_folder": "Instagram_36800074_alpha",
+    "from_version_code": 377205301,
+    "to_version_code": 377206225,
+    "from_version_name": "368.0.0.0.63",
+    "to_version_name": "368.0.0.0.74"
+  },
+  "summary": {
+    "old_total": 974,
+    "new_total": 977,
+    "added": 3,
+    "removed": 0,
+    "changed": 6
+  },
+  "added": [
+    {
+      "operation": "BulkMatchUsernamesFromOtherPlatforms",
+      "client_doc_id": "219825733373171743136525917"
+    },
+    {
+      "operation": "CreateManyV2",
+      "client_doc_id": "295075447213447084263464845644"
+    },
+    {
+      "operation": "GetCreatorImportFlowText",
+      "client_doc_id": "224825901617051807611430650822"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "ArEffectsFlmCapabilityQuery",
+      "old_client_doc_id": "269601404216331979049343920538",
+      "new_client_doc_id": "269601404214562257281789804386",
+      "changes": {
+        "client_doc_id": {
+          "old": "269601404216331979049343920538",
+          "new": "269601404214562257281789804386"
+        },
+        "operation_text_hash": {
+          "old": "16331979049343920538",
+          "new": "14562257281789804386"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineCanvasAPI",
+      "old_client_doc_id": "18902327391435560065781768853",
+      "new_client_doc_id": "189023273911858610269730045386",
+      "changes": {
+        "client_doc_id": {
+          "old": "18902327391435560065781768853",
+          "new": "189023273911858610269730045386"
+        },
+        "operation_text_hash": {
+          "old": "1435560065781768853",
+          "new": "11858610269730045386"
+        }
+      }
+    },
+    {
+      "operation": "IGAREffectCollectionQuery",
+      "old_client_doc_id": "22419679282199795953024542007",
+      "new_client_doc_id": "224196792814907533214276741922",
+      "changes": {
+        "client_doc_id": {
+          "old": "22419679282199795953024542007",
+          "new": "224196792814907533214276741922"
+        },
+        "operation_text_hash": {
+          "old": "2199795953024542007",
+          "new": "14907533214276741922"
+        }
+      }
+    },
+    {
+      "operation": "IGAREffectsByIdQuery",
+      "old_client_doc_id": "2213008372342228100952524620",
+      "new_client_doc_id": "22130083721783138537361572545",
+      "changes": {
+        "client_doc_id": {
+          "old": "2213008372342228100952524620",
+          "new": "22130083721783138537361572545"
+        },
+        "operation_text_hash": {
+          "old": "342228100952524620",
+          "new": "1783138537361572545"
+        }
+      }
+    },
+    {
+      "operation": "IGAdsCollectionInfoODLQuery",
+      "old_client_doc_id": "34627271646140593741330729922",
+      "new_client_doc_id": "346272716410484511769976149824",
+      "changes": {
+        "client_doc_id": {
+          "old": "34627271646140593741330729922",
+          "new": "346272716410484511769976149824"
+        },
+        "operation_text_hash": {
+          "old": "6140593741330729922",
+          "new": "10484511769976149824"
+        }
+      }
+    },
+    {
+      "operation": "VestaServerLoginBeginMutation",
+      "old_client_doc_id": "16111274415501455605293146877",
+      "new_client_doc_id": "16111274413736183685120033934",
+      "changes": {
+        "client_doc_id": {
+          "old": "16111274415501455605293146877",
+          "new": "16111274413736183685120033934"
+        },
+        "operation_text_hash": {
+          "old": "5501455605293146877",
+          "new": "3736183685120033934"
+        }
+      }
+    }
+  ]
+}

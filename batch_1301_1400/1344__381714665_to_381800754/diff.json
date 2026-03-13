@@ -1,0 +1,37 @@
+{
+  "comparison_index": 1344,
+  "comparison": {
+    "from_folder": "Instagram_4110023257",
+    "to_folder": "Instagram_41200014_alpha",
+    "from_version_code": 381714665,
+    "to_version_code": 381800754,
+    "from_version_name": "411.0.0.23.257",
+    "to_version_name": "412.0.0.0.14"
+  },
+  "summary": {
+    "old_total": 1427,
+    "new_total": 1427,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGStickerConsolidatedQuery",
+      "old_client_doc_id": "3386478411577786938655490731",
+      "new_client_doc_id": "3386478413816454947565501566",
+      "changes": {
+        "client_doc_id": {
+          "old": "3386478411577786938655490731",
+          "new": "3386478413816454947565501566"
+        },
+        "operation_text_hash": {
+          "old": "1577786938655490731",
+          "new": "3816454947565501566"
+        }
+      }
+    }
+  ]
+}

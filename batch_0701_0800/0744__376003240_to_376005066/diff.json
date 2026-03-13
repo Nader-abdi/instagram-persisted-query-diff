@@ -1,0 +1,35 @@
+{
+  "comparison_index": 744,
+  "comparison": {
+    "from_folder": "Instagram_36000037_alpha",
+    "to_folder": "Instagram_36000059_alpha",
+    "from_version_code": 376003240,
+    "to_version_code": 376005066,
+    "from_version_name": "360.0.0.0.37",
+    "to_version_name": "360.0.0.0.59"
+  },
+  "summary": {
+    "old_total": 936,
+    "new_total": 935,
+    "added": 1,
+    "removed": 2,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "ODRCoinflipData",
+      "client_doc_id": "512060263661910355196173342"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "AvatarConfig",
+      "client_doc_id": "23225266503710749957287672450"
+    },
+    {
+      "operation": "ExpressoTemplatePackAndUserInfoQuery",
+      "client_doc_id": "18795032142494953590068424502"
+    }
+  ],
+  "changed": []
+}

@@ -1,0 +1,340 @@
+{
+  "comparison_index": 1197,
+  "comparison": {
+    "from_folder": "Instagram_3940007_alpha",
+    "to_folder": "Instagram_39400014_alpha",
+    "from_version_code": 380000358,
+    "to_version_code": 380000740,
+    "from_version_name": "394.0.0.0.7",
+    "to_version_name": "394.0.0.0.14"
+  },
+  "summary": {
+    "old_total": 1254,
+    "new_total": 1222,
+    "added": 16,
+    "removed": 48,
+    "changed": 4
+  },
+  "added": [
+    {
+      "operation": "AiStudioFetchAdvancedSettingsQuery",
+      "client_doc_id": "26217393325821845769609563141"
+    },
+    {
+      "operation": "BcnMentionNullStateQuery",
+      "client_doc_id": "38318764815035001755026709820"
+    },
+    {
+      "operation": "CreateServerDraftMutation",
+      "client_doc_id": "19187905259281766329588648461"
+    },
+    {
+      "operation": "DeleteServerDraftMutation",
+      "client_doc_id": "225358754114041385006202451664"
+    },
+    {
+      "operation": "GetMentionSuggestionsQuery",
+      "client_doc_id": "305637542312154738386977939030"
+    },
+    {
+      "operation": "IGAdsPersonalizationMetadataQuery",
+      "client_doc_id": "165920462615917123229426119815"
+    },
+    {
+      "operation": "IGDInteractiveThemeRemoveYoursMutation",
+      "client_doc_id": "36487065789287994747424051936"
+    },
+    {
+      "operation": "PostLiveMetricsQuery",
+      "client_doc_id": "88872704915365823392349343722"
+    },
+    {
+      "operation": "ProfileTagSearchQuery",
+      "client_doc_id": "363823374214024635230411960471"
+    },
+    {
+      "operation": "ScheduleDraftMutation",
+      "client_doc_id": "21369570892517036611845452919"
+    },
+    {
+      "operation": "ScheduleDraftReminderMutation",
+      "client_doc_id": "23857223559548916600607638450"
+    },
+    {
+      "operation": "ServerDraftsAndScheduledPostsCountQuery",
+      "client_doc_id": "387080866618205797529500885873"
+    },
+    {
+      "operation": "ServerDraftsQuery",
+      "client_doc_id": "39911467569841188984257350093"
+    },
+    {
+      "operation": "TagTypeaheadNullState",
+      "client_doc_id": "56926223716514527669671321051"
+    },
+    {
+      "operation": "UnscheduleDraftReminderMutation",
+      "client_doc_id": "38990074332076810502078408088"
+    },
+    {
+      "operation": "UpdateServerDraftMutation",
+      "client_doc_id": "3954563370787246535376614064"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "CTDAutomatedResponsesStateMutation",
+      "client_doc_id": "314081520616666049877126136296"
+    },
+    {
+      "operation": "CoWatchCatalogQuery",
+      "client_doc_id": "257271123112642749348363509843"
+    },
+    {
+      "operation": "CreateRoomMutation",
+      "client_doc_id": "11039218936638800144630470114"
+    },
+    {
+      "operation": "EndRoomMutation",
+      "client_doc_id": "426261632013404471844471665803"
+    },
+    {
+      "operation": "EnterRoomMutation",
+      "client_doc_id": "11265033156524371769268301943"
+    },
+    {
+      "operation": "FetchCapabilityMetadataQuery",
+      "client_doc_id": "36192541086722597837618335665"
+    },
+    {
+      "operation": "FetchChannelPageSectionQuery",
+      "client_doc_id": "10119482092906981904339507368"
+    },
+    {
+      "operation": "FxIgClearImpressionsForACUpsell",
+      "client_doc_id": "243170571115490938794208346054"
+    },
+    {
+      "operation": "FxSettingsAccountsCenterTransitionQuery",
+      "client_doc_id": "254599334714471177384515656580"
+    },
+    {
+      "operation": "FxSettingsCookiesSubtitle",
+      "client_doc_id": "5489791545363141929935959696"
+    },
+    {
+      "operation": "FxUpSellTargeting",
+      "client_doc_id": "422812047111707270616379560253"
+    },
+    {
+      "operation": "IGDGetThreadItems",
+      "client_doc_id": "135415151912444359393994202541"
+    },
+    {
+      "operation": "IGDInboxPendingRequestsQuery",
+      "client_doc_id": "5818630034574045384906469771"
+    },
+    {
+      "operation": "IGDSearchOrderedNullstateSectionConfigQuery",
+      "client_doc_id": "24164859249230538510828068911"
+    },
+    {
+      "operation": "IGDirectDebigPayoutACHCompletion",
+      "client_doc_id": "39249458272894306813210365510"
+    },
+    {
+      "operation": "IGDirectDebitPayoutACHInitialization",
+      "client_doc_id": "73435787216999043343095099963"
+    },
+    {
+      "operation": "IGFXGrowthACUpsellEligibilityConfigQuery",
+      "client_doc_id": "20965109918563715404380150167"
+    },
+    {
+      "operation": "IGFetchSuggestedNotePrompts",
+      "client_doc_id": "304664872517793415012690395300"
+    },
+    {
+      "operation": "IGFullyDisconnectFbPagesMutation",
+      "client_doc_id": "652799777107301466248116514"
+    },
+    {
+      "operation": "IGFxNativeAuthTokenVerificationQuery",
+      "client_doc_id": "16033926212489582276338367508"
+    },
+    {
+      "operation": "IGGraphQLNonprofitFundraiserCreateMutation",
+      "client_doc_id": "64647792715540686651254518486"
+    },
+    {
+      "operation": "IGIXTValidateTypes",
+      "client_doc_id": "362522588116008578525006207268"
+    },
+    {
+      "operation": "IGLocationBusinessUserPageLocationQuery",
+      "client_doc_id": "4174702361303155303359966612"
+    },
+    {
+      "operation": "IGNotificationMessagesMutationCall",
+      "client_doc_id": "270902570315935000825769206085"
+    },
+    {
+      "operation": "IGPayoutCreatePayPalCredential",
+      "client_doc_id": "234138135716465133397462579968"
+    },
+    {
+      "operation": "IGPayoutGetProductOnboardingType",
+      "client_doc_id": "270922399317273971763832062233"
+    },
+    {
+      "operation": "IGPayoutLinkFinancialEntity",
+      "client_doc_id": "8300600087827592081350578349"
+    },
+    {
+      "operation": "IGPayoutOnboardingAddressValidationQuery",
+      "client_doc_id": "36071655975761531506874620396"
+    },
+    {
+      "operation": "IGPayoutOnboardingBankValidationQuery",
+      "client_doc_id": "44532406516974661441090224074"
+    },
+    {
+      "operation": "IGPayoutOnboardingCreateDirectDebitCredentialMutation",
+      "client_doc_id": "346838059714460621508844594986"
+    },
+    {
+      "operation": "IGPayoutOnboardingDirectDebitConfigQuery",
+      "client_doc_id": "407198011450486206603373184"
+    },
+    {
+      "operation": "IGPayoutOnboardingPhoneValidationQuery",
+      "client_doc_id": "262855863012294482668825896170"
+    },
+    {
+      "operation": "IGPayoutOnboardingStatesTaxTypesPayoutMethodsQuery",
+      "client_doc_id": "110248139767394044374644813"
+    },
+    {
+      "operation": "IGPayoutPayPalURL",
+      "client_doc_id": "11074011414650054534503074173"
+    },
+    {
+      "operation": "IGProAFTooltipChannelQuery",
+      "client_doc_id": "316488051816565935868591310241"
+    },
+    {
+      "operation": "IGUserAPPlusCreationEligibleCheckQuery",
+      "client_doc_id": "405707859812930083178610914837"
+    },
+    {
+      "operation": "IgMakePageConnectionConsistentMutationV2",
+      "client_doc_id": "32822245946175022604437429415"
+    },
+    {
+      "operation": "IntegrityUserEligibleToUseRoomQuery",
+      "client_doc_id": "3989769842552621454850146825"
+    },
+    {
+      "operation": "InviteToRoomMutation",
+      "client_doc_id": "8863438595076358170524641750"
+    },
+    {
+      "operation": "ListRoomsQuery",
+      "client_doc_id": "6825401616547533390276590477"
+    },
+    {
+      "operation": "PokeUserQuery",
+      "client_doc_id": "49178430312220967336829562206"
+    },
+    {
+      "operation": "ProductDetailsPageUserExperienceQuery",
+      "client_doc_id": "2933907944725635812546905422"
+    },
+    {
+      "operation": "ReelsTogetherJoinInboxQuery",
+      "client_doc_id": "34527144342193117323792030373"
+    },
+    {
+      "operation": "ResolveRoomLinkQuery",
+      "client_doc_id": "151644640217001901238375954324"
+    },
+    {
+      "operation": "RoomParticipantsQuery",
+      "client_doc_id": "419074509214891269743823786370"
+    },
+    {
+      "operation": "TINValidationQuery",
+      "client_doc_id": "37343154168945649785735545394"
+    },
+    {
+      "operation": "UpdateRoomMutation",
+      "client_doc_id": "1600147047889373661008287540"
+    },
+    {
+      "operation": "ZeitgeistPollQuery",
+      "client_doc_id": "34984771098856246207990540025"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "AiStudioFetchAiPersonaVersionIdQuery",
+      "old_client_doc_id": "6311258657019298769128407739",
+      "new_client_doc_id": "6311258651210434423504975968",
+      "changes": {
+        "client_doc_id": {
+          "old": "6311258657019298769128407739",
+          "new": "6311258651210434423504975968"
+        },
+        "operation_text_hash": {
+          "old": "7019298769128407739",
+          "new": "1210434423504975968"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "56030350814150688114467035967",
+      "new_client_doc_id": "5603035084568207813096978134",
+      "changes": {
+        "client_doc_id": {
+          "old": "56030350814150688114467035967",
+          "new": "5603035084568207813096978134"
+        },
+        "operation_text_hash": {
+          "old": "14150688114467035967",
+          "new": "4568207813096978134"
+        }
+      }
+    },
+    {
+      "operation": "MetaAICustomizationSettings",
+      "old_client_doc_id": "13706013322639806188564702692",
+      "new_client_doc_id": "13706013321402413333805501488",
+      "changes": {
+        "client_doc_id": {
+          "old": "13706013322639806188564702692",
+          "new": "13706013321402413333805501488"
+        },
+        "operation_text_hash": {
+          "old": "2639806188564702692",
+          "new": "1402413333805501488"
+        }
+      }
+    },
+    {
+      "operation": "OAuthAccountLinkingGetLoginURLQuery",
+      "old_client_doc_id": "3015089459518024050378386196",
+      "new_client_doc_id": "301508945913056261754998474054",
+      "changes": {
+        "client_doc_id": {
+          "old": "3015089459518024050378386196",
+          "new": "301508945913056261754998474054"
+        },
+        "operation_text_hash": {
+          "old": "518024050378386196",
+          "new": "13056261754998474054"
+        }
+      }
+    }
+  ]
+}

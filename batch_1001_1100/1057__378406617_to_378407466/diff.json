@@ -1,0 +1,42 @@
+{
+  "comparison_index": 1057,
+  "comparison": {
+    "from_folder": "Instagram_38000059_alpha",
+    "to_folder": "Instagram_38000066_alpha",
+    "from_version_code": 378406617,
+    "to_version_code": 378407466,
+    "from_version_name": "380.0.0.0.59",
+    "to_version_name": "380.0.0.0.66"
+  },
+  "summary": {
+    "old_total": 1162,
+    "new_total": 1163,
+    "added": 1,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "IGUserDictFromFBIDQuery",
+      "client_doc_id": "4173238018929268881338973984"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "ImagineVideoGen",
+      "old_client_doc_id": "14822833805002203059498421254",
+      "new_client_doc_id": "148228338013585220325803225225",
+      "changes": {
+        "client_doc_id": {
+          "old": "14822833805002203059498421254",
+          "new": "148228338013585220325803225225"
+        },
+        "operation_text_hash": {
+          "old": "5002203059498421254",
+          "new": "13585220325803225225"
+        }
+      }
+    }
+  ]
+}

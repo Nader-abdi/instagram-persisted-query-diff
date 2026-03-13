@@ -1,0 +1,38 @@
+{
+  "comparison_index": 753,
+  "comparison": {
+    "from_folder": "Instagram_360000157_alpha",
+    "to_folder": "Instagram_360000164_alpha",
+    "from_version_code": 376013362,
+    "to_version_code": 376013952,
+    "from_version_name": "360.0.0.0.157",
+    "to_version_name": "360.0.0.0.164"
+  },
+  "summary": {
+    "old_total": 949,
+    "new_total": 953,
+    "added": 4,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "ShareableListsFollowAllMutation",
+      "client_doc_id": "42751268686484588411069180076"
+    },
+    {
+      "operation": "ShareableListsForNuxQuery",
+      "client_doc_id": "20296126509141178376858549436"
+    },
+    {
+      "operation": "ShareableListsUnfollowAllMutation",
+      "client_doc_id": "18471624026918637385479971983"
+    },
+    {
+      "operation": "UpdateMifuLastHideTime",
+      "client_doc_id": "40096893784648038139100604725"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

@@ -1,0 +1,67 @@
+{
+  "comparison_index": 466,
+  "comparison": {
+    "from_folder": "Instagram_3410016100_beta",
+    "to_folder": "Instagram_3410024100_beta",
+    "from_version_code": 374109708,
+    "to_version_code": 374110372,
+    "from_version_name": "341.0.0.16.100",
+    "to_version_name": "341.0.0.24.100"
+  },
+  "summary": {
+    "old_total": 767,
+    "new_total": 767,
+    "added": 0,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IABMetadataContentQuery",
+      "old_client_doc_id": "32388910615339645454067142863",
+      "new_client_doc_id": "32388910616582590330237006333",
+      "changes": {
+        "client_doc_id": {
+          "old": "32388910615339645454067142863",
+          "new": "32388910616582590330237006333"
+        },
+        "operation_text_hash": {
+          "old": "5339645454067142863",
+          "new": "6582590330237006333"
+        }
+      }
+    },
+    {
+      "operation": "IGGraphQLGenAIImagineGenerateFlashMutation",
+      "old_client_doc_id": "32494321829153510473980765550",
+      "new_client_doc_id": "32494321827016807858418294833",
+      "changes": {
+        "client_doc_id": {
+          "old": "32494321829153510473980765550",
+          "new": "32494321827016807858418294833"
+        },
+        "operation_text_hash": {
+          "old": "9153510473980765550",
+          "new": "7016807858418294833"
+        }
+      }
+    },
+    {
+      "operation": "IGGraphQLGenAIImagineRootCall",
+      "old_client_doc_id": "418565764214073015466407183141",
+      "new_client_doc_id": "418565764217853408378275004845",
+      "changes": {
+        "client_doc_id": {
+          "old": "418565764214073015466407183141",
+          "new": "418565764217853408378275004845"
+        },
+        "operation_text_hash": {
+          "old": "14073015466407183141",
+          "new": "17853408378275004845"
+        }
+      }
+    }
+  ]
+}

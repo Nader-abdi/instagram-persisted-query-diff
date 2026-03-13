@@ -1,0 +1,70 @@
+{
+  "comparison_index": 1249,
+  "comparison": {
+    "from_folder": "Instagram_40100061_alpha",
+    "to_folder": "Instagram_40100070_alpha",
+    "from_version_code": 380703173,
+    "to_version_code": 380703671,
+    "from_version_name": "401.0.0.0.61",
+    "to_version_name": "401.0.0.0.70"
+  },
+  "summary": {
+    "old_total": 1309,
+    "new_total": 1311,
+    "added": 3,
+    "removed": 1,
+    "changed": 2
+  },
+  "added": [
+    {
+      "operation": "AutofillBindCreditCardMutation",
+      "client_doc_id": "23854119514051842629283286890"
+    },
+    {
+      "operation": "IGDirectConfigureCutoutStickerMutation",
+      "client_doc_id": "12206059133749408634679598859"
+    },
+    {
+      "operation": "SetIGOriginalAudioToMetaAISettings",
+      "client_doc_id": "40319436491163778733615422836"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "IGDScheduledMessageMutation",
+      "client_doc_id": "13463129372201419274189815909"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "ClipsProfileQuery",
+      "old_client_doc_id": "209049231617369554194429841297",
+      "new_client_doc_id": "20904923168128069289633721976",
+      "changes": {
+        "client_doc_id": {
+          "old": "209049231617369554194429841297",
+          "new": "20904923168128069289633721976"
+        },
+        "operation_text_hash": {
+          "old": "17369554194429841297",
+          "new": "8128069289633721976"
+        }
+      }
+    },
+    {
+      "operation": "UserLinkedMediaSelectionFeed",
+      "old_client_doc_id": "462817011340674385385000474",
+      "new_client_doc_id": "46281706184655897777519106",
+      "changes": {
+        "client_doc_id": {
+          "old": "462817011340674385385000474",
+          "new": "46281706184655897777519106"
+        },
+        "operation_text_hash": {
+          "old": "11340674385385000474",
+          "new": "6184655897777519106"
+        }
+      }
+    }
+  ]
+}

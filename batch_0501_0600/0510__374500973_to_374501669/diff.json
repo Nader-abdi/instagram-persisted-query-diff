@@ -1,0 +1,91 @@
+{
+  "comparison_index": 510,
+  "comparison": {
+    "from_folder": "Instagram_34500011_alpha",
+    "to_folder": "Instagram_34500020_alpha",
+    "from_version_code": 374500973,
+    "to_version_code": 374501669,
+    "from_version_name": "345.0.0.0.11",
+    "to_version_name": "345.0.0.0.20"
+  },
+  "summary": {
+    "old_total": 810,
+    "new_total": 812,
+    "added": 2,
+    "removed": 0,
+    "changed": 4
+  },
+  "added": [
+    {
+      "operation": "CreatorInspirationSignalsPlaygroundSignalDetailsQuery",
+      "client_doc_id": "125122301812318969886168176450"
+    },
+    {
+      "operation": "CreatorInspirationSignalsPlaygroundSignalsQuery",
+      "client_doc_id": "263998159714236166414404146598"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FriendshipBulkFollowRequest",
+      "old_client_doc_id": "39921106346623902447469060860",
+      "new_client_doc_id": "399211063418152728820607821528",
+      "changes": {
+        "client_doc_id": {
+          "old": "39921106346623902447469060860",
+          "new": "399211063418152728820607821528"
+        },
+        "operation_text_hash": {
+          "old": "6623902447469060860",
+          "new": "18152728820607821528"
+        }
+      }
+    },
+    {
+      "operation": "MetaHCMQuery",
+      "old_client_doc_id": "166916289716569390221285624571",
+      "new_client_doc_id": "16691628975545350742037477316",
+      "changes": {
+        "client_doc_id": {
+          "old": "166916289716569390221285624571",
+          "new": "16691628975545350742037477316"
+        },
+        "operation_text_hash": {
+          "old": "16569390221285624571",
+          "new": "5545350742037477316"
+        }
+      }
+    },
+    {
+      "operation": "NUXConfirmContactPointMutation",
+      "old_client_doc_id": "201789510316146760580282583221",
+      "new_client_doc_id": "20178951037931766508689451268",
+      "changes": {
+        "client_doc_id": {
+          "old": "201789510316146760580282583221",
+          "new": "20178951037931766508689451268"
+        },
+        "operation_text_hash": {
+          "old": "16146760580282583221",
+          "new": "7931766508689451268"
+        }
+      }
+    },
+    {
+      "operation": "NUXUpdateContactPointMutation",
+      "old_client_doc_id": "200962182810656582265026494292",
+      "new_client_doc_id": "20096218289101784110492837842",
+      "changes": {
+        "client_doc_id": {
+          "old": "200962182810656582265026494292",
+          "new": "20096218289101784110492837842"
+        },
+        "operation_text_hash": {
+          "old": "10656582265026494292",
+          "new": "9101784110492837842"
+        }
+      }
+    }
+  ]
+}

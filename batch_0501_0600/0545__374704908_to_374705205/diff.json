@@ -1,0 +1,97 @@
+{
+  "comparison_index": 545,
+  "comparison": {
+    "from_folder": "Instagram_34700063_alpha",
+    "to_folder": "Instagram_34700076_alpha",
+    "from_version_code": 374704908,
+    "to_version_code": 374705205,
+    "from_version_name": "347.0.0.0.63",
+    "to_version_name": "347.0.0.0.76"
+  },
+  "summary": {
+    "old_total": 815,
+    "new_total": 815,
+    "added": 0,
+    "removed": 0,
+    "changed": 5
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGProfileTimelineByUsernameQuery",
+      "old_client_doc_id": "15052394584221646931581896984",
+      "new_client_doc_id": "15052394585938189419553023505",
+      "changes": {
+        "client_doc_id": {
+          "old": "15052394584221646931581896984",
+          "new": "15052394585938189419553023505"
+        },
+        "operation_text_hash": {
+          "old": "4221646931581896984",
+          "new": "5938189419553023505"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "5603035089503873832786595623",
+      "new_client_doc_id": "56030350812899070176274597362",
+      "changes": {
+        "client_doc_id": {
+          "old": "5603035089503873832786595623",
+          "new": "56030350812899070176274597362"
+        },
+        "operation_text_hash": {
+          "old": "9503873832786595623",
+          "new": "12899070176274597362"
+        }
+      }
+    },
+    {
+      "operation": "IgCreatorsAchievementsInfoQuery",
+      "old_client_doc_id": "402070482214761826679054380481",
+      "new_client_doc_id": "402070482217270523588419419614",
+      "changes": {
+        "client_doc_id": {
+          "old": "402070482214761826679054380481",
+          "new": "402070482217270523588419419614"
+        },
+        "operation_text_hash": {
+          "old": "14761826679054380481",
+          "new": "17270523588419419614"
+        }
+      }
+    },
+    {
+      "operation": "InboxQuery",
+      "old_client_doc_id": "348476755113228263488514911056",
+      "new_client_doc_id": "348476755115447782733177572455",
+      "changes": {
+        "client_doc_id": {
+          "old": "348476755113228263488514911056",
+          "new": "348476755115447782733177572455"
+        },
+        "operation_text_hash": {
+          "old": "13228263488514911056",
+          "new": "15447782733177572455"
+        }
+      }
+    },
+    {
+      "operation": "TifuALikesHasAcceptedNuxQuery",
+      "old_client_doc_id": "178563177117563059526685606360",
+      "new_client_doc_id": "178563177118209266104276352370",
+      "changes": {
+        "client_doc_id": {
+          "old": "178563177117563059526685606360",
+          "new": "178563177118209266104276352370"
+        },
+        "operation_text_hash": {
+          "old": "17563059526685606360",
+          "new": "18209266104276352370"
+        }
+      }
+    }
+  ]
+}

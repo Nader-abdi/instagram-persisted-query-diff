@@ -1,0 +1,52 @@
+{
+  "comparison_index": 756,
+  "comparison": {
+    "from_folder": "Instagram_360001192_beta",
+    "to_folder": "Instagram_3600010192_beta",
+    "from_version_code": 376016663,
+    "to_version_code": 376017587,
+    "from_version_name": "360.0.0.1.192",
+    "to_version_name": "360.0.0.10.192"
+  },
+  "summary": {
+    "old_total": 958,
+    "new_total": 958,
+    "added": 0,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "ExpressoTemplatePackRenderingMetadata",
+      "old_client_doc_id": "36046855874350373570360945670",
+      "new_client_doc_id": "36046855875067954120476742889",
+      "changes": {
+        "client_doc_id": {
+          "old": "36046855874350373570360945670",
+          "new": "36046855875067954120476742889"
+        },
+        "operation_text_hash": {
+          "old": "4350373570360945670",
+          "new": "5067954120476742889"
+        }
+      }
+    },
+    {
+      "operation": "ODRCoinflipData",
+      "old_client_doc_id": "512060263661910355196173342",
+      "new_client_doc_id": "51206026211121745318519216",
+      "changes": {
+        "client_doc_id": {
+          "old": "512060263661910355196173342",
+          "new": "51206026211121745318519216"
+        },
+        "operation_text_hash": {
+          "old": "3661910355196173342",
+          "new": "211121745318519216"
+        }
+      }
+    }
+  ]
+}

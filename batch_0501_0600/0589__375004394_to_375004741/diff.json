@@ -1,0 +1,42 @@
+{
+  "comparison_index": 589,
+  "comparison": {
+    "from_folder": "Instagram_35000049_alpha",
+    "to_folder": "Instagram_35000054_alpha",
+    "from_version_code": 375004394,
+    "to_version_code": 375004741,
+    "from_version_name": "350.0.0.0.49",
+    "to_version_name": "350.0.0.0.54"
+  },
+  "summary": {
+    "old_total": 834,
+    "new_total": 835,
+    "added": 1,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "GenAIAddBotsToExistingGroupChatMutation",
+      "client_doc_id": "40144555782388465550913580295"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "SchoolSettings",
+      "old_client_doc_id": "357997136310909150503567599221",
+      "new_client_doc_id": "35799713634053559769019597314",
+      "changes": {
+        "client_doc_id": {
+          "old": "357997136310909150503567599221",
+          "new": "35799713634053559769019597314"
+        },
+        "operation_text_hash": {
+          "old": "10909150503567599221",
+          "new": "4053559769019597314"
+        }
+      }
+    }
+  ]
+}

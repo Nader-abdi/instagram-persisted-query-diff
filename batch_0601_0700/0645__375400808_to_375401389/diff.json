@@ -1,0 +1,42 @@
+{
+  "comparison_index": 645,
+  "comparison": {
+    "from_folder": "Instagram_3540009_alpha",
+    "to_folder": "Instagram_35400017_alpha",
+    "from_version_code": 375400808,
+    "to_version_code": 375401389,
+    "from_version_name": "354.0.0.0.9",
+    "to_version_name": "354.0.0.0.17"
+  },
+  "summary": {
+    "old_total": 875,
+    "new_total": 876,
+    "added": 1,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "GenAIImagineSuggestionsQuery",
+      "client_doc_id": "7859683615578289871006755035"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "SchoolChannelsDirectory",
+      "old_client_doc_id": "31321681949211953655312080113",
+      "new_client_doc_id": "31321681942820756418206338402",
+      "changes": {
+        "client_doc_id": {
+          "old": "31321681949211953655312080113",
+          "new": "31321681942820756418206338402"
+        },
+        "operation_text_hash": {
+          "old": "9211953655312080113",
+          "new": "2820756418206338402"
+        }
+      }
+    }
+  ]
+}

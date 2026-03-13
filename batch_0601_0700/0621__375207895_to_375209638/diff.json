@@ -1,0 +1,26 @@
+{
+  "comparison_index": 621,
+  "comparison": {
+    "from_folder": "Instagram_352001100_beta",
+    "to_folder": "Instagram_3520016100_beta",
+    "from_version_code": 375207895,
+    "to_version_code": 375209638,
+    "from_version_name": "352.0.0.1.100",
+    "to_version_name": "352.0.0.16.100"
+  },
+  "summary": {
+    "old_total": 865,
+    "new_total": 866,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "IGDReceiverFetchACSOnly",
+      "client_doc_id": "9865305247306494623619821839"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}

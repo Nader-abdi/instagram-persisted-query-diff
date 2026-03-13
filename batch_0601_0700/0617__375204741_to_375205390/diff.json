@@ -1,0 +1,95 @@
+{
+  "comparison_index": 617,
+  "comparison": {
+    "from_folder": "Instagram_35200064_alpha",
+    "to_folder": "Instagram_35200071_alpha",
+    "from_version_code": 375204741,
+    "to_version_code": 375205390,
+    "from_version_name": "352.0.0.0.64",
+    "to_version_name": "352.0.0.0.71"
+  },
+  "summary": {
+    "old_total": 856,
+    "new_total": 859,
+    "added": 3,
+    "removed": 0,
+    "changed": 4
+  },
+  "added": [
+    {
+      "operation": "GenAIThreadSummaryQuery",
+      "client_doc_id": "88802691812259629177521289721"
+    },
+    {
+      "operation": "IgCreatorsLatestTrialQuery",
+      "client_doc_id": "338365472816998400468525294725"
+    },
+    {
+      "operation": "IgCreatorsTrialsQuery",
+      "client_doc_id": "33465401468265284881637039480"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "CreateInboxTrayItemRequest",
+      "old_client_doc_id": "3510400298176719824932915351",
+      "new_client_doc_id": "3510400299161863091792468775",
+      "changes": {
+        "client_doc_id": {
+          "old": "3510400298176719824932915351",
+          "new": "3510400299161863091792468775"
+        },
+        "operation_text_hash": {
+          "old": "8176719824932915351",
+          "new": "9161863091792468775"
+        }
+      }
+    },
+    {
+      "operation": "InboxTrayRequest",
+      "old_client_doc_id": "26838444199250418454998472979",
+      "new_client_doc_id": "26838444191256906232732864828",
+      "changes": {
+        "client_doc_id": {
+          "old": "26838444199250418454998472979",
+          "new": "26838444191256906232732864828"
+        },
+        "operation_text_hash": {
+          "old": "9250418454998472979",
+          "new": "1256906232732864828"
+        }
+      }
+    },
+    {
+      "operation": "InboxTrayRequestForUserQuery",
+      "old_client_doc_id": "2035639075826214525064760995",
+      "new_client_doc_id": "2035639077674380483915119932",
+      "changes": {
+        "client_doc_id": {
+          "old": "2035639075826214525064760995",
+          "new": "2035639077674380483915119932"
+        },
+        "operation_text_hash": {
+          "old": "5826214525064760995",
+          "new": "7674380483915119932"
+        }
+      }
+    },
+    {
+      "operation": "StoryTemplateDiscoverySurfaceSectionMediaQuery",
+      "old_client_doc_id": "22428625249997866526113645157",
+      "new_client_doc_id": "22428625243059819547385726333",
+      "changes": {
+        "client_doc_id": {
+          "old": "22428625249997866526113645157",
+          "new": "22428625243059819547385726333"
+        },
+        "operation_text_hash": {
+          "old": "9997866526113645157",
+          "new": "3059819547385726333"
+        }
+      }
+    }
+  ]
+}

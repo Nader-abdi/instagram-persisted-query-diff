@@ -1,0 +1,62 @@
+{
+  "comparison_index": 864,
+  "comparison": {
+    "from_folder": "Instagram_36600068_alpha",
+    "to_folder": "Instagram_36600077_alpha",
+    "from_version_code": 377005722,
+    "to_version_code": 377006478,
+    "from_version_name": "366.0.0.0.68",
+    "to_version_name": "366.0.0.0.77"
+  },
+  "summary": {
+    "old_total": 961,
+    "new_total": 961,
+    "added": 1,
+    "removed": 1,
+    "changed": 2
+  },
+  "added": [
+    {
+      "operation": "IGDirectGetThreadParticipantRequestsQuery",
+      "client_doc_id": "35388442785177149017999764217"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "ShareableListsForNuxQuery",
+      "client_doc_id": "20296126504259061551469186884"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "FriendMapMediaQuery",
+      "old_client_doc_id": "172915047715156860561229563992",
+      "new_client_doc_id": "172915047717553232646099403120",
+      "changes": {
+        "client_doc_id": {
+          "old": "172915047715156860561229563992",
+          "new": "172915047717553232646099403120"
+        },
+        "operation_text_hash": {
+          "old": "15156860561229563992",
+          "new": "17553232646099403120"
+        }
+      }
+    },
+    {
+      "operation": "FxIgCanUserSeeACUpsellMultiNativeAuthQuery",
+      "old_client_doc_id": "362158260918413603580112208054",
+      "new_client_doc_id": "36215826093055743877163854026",
+      "changes": {
+        "client_doc_id": {
+          "old": "362158260918413603580112208054",
+          "new": "36215826093055743877163854026"
+        },
+        "operation_text_hash": {
+          "old": "18413603580112208054",
+          "new": "3055743877163854026"
+        }
+      }
+    }
+  ]
+}

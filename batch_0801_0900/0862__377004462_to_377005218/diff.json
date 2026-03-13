@@ -1,0 +1,159 @@
+{
+  "comparison_index": 862,
+  "comparison": {
+    "from_folder": "Instagram_36600053_alpha",
+    "to_folder": "Instagram_36600062_alpha",
+    "from_version_code": 377004462,
+    "to_version_code": 377005218,
+    "from_version_name": "366.0.0.0.53",
+    "to_version_name": "366.0.0.0.62"
+  },
+  "summary": {
+    "old_total": 954,
+    "new_total": 958,
+    "added": 4,
+    "removed": 0,
+    "changed": 8
+  },
+  "added": [
+    {
+      "operation": "CommentDislikeMutation",
+      "client_doc_id": "353375976513061303133013684599"
+    },
+    {
+      "operation": "CommentUndislikeMutation",
+      "client_doc_id": "4975765799315725347587335840"
+    },
+    {
+      "operation": "IGSaveStickerFromMessageMutation",
+      "client_doc_id": "16424571654526479750835925146"
+    },
+    {
+      "operation": "StarterPacksNuxWithGraphImportQuery",
+      "client_doc_id": "31692445975390710931222776557"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "CoWatchCatalogQuery",
+      "old_client_doc_id": "25727112319409886013922190615",
+      "new_client_doc_id": "25727112317191126747000576228",
+      "changes": {
+        "client_doc_id": {
+          "old": "25727112319409886013922190615",
+          "new": "25727112317191126747000576228"
+        },
+        "operation_text_hash": {
+          "old": "9409886013922190615",
+          "new": "7191126747000576228"
+        }
+      }
+    },
+    {
+      "operation": "CommonAREffectSearchQuery",
+      "old_client_doc_id": "30900724359471591944567607654",
+      "new_client_doc_id": "309007243515225624215334837763",
+      "changes": {
+        "client_doc_id": {
+          "old": "30900724359471591944567607654",
+          "new": "309007243515225624215334837763"
+        },
+        "operation_text_hash": {
+          "old": "9471591944567607654",
+          "new": "15225624215334837763"
+        }
+      }
+    },
+    {
+      "operation": "FriendMapMediaQuery",
+      "old_client_doc_id": "172915047716682801185910340820",
+      "new_client_doc_id": "172915047715156860561229563992",
+      "changes": {
+        "client_doc_id": {
+          "old": "172915047716682801185910340820",
+          "new": "172915047715156860561229563992"
+        },
+        "operation_text_hash": {
+          "old": "16682801185910340820",
+          "new": "15156860561229563992"
+        }
+      }
+    },
+    {
+      "operation": "GetAllPresencePoints",
+      "old_client_doc_id": "8283516488559870652937105840",
+      "new_client_doc_id": "82835164815643809416999741230",
+      "changes": {
+        "client_doc_id": {
+          "old": "8283516488559870652937105840",
+          "new": "82835164815643809416999741230"
+        },
+        "operation_text_hash": {
+          "old": "8559870652937105840",
+          "new": "15643809416999741230"
+        }
+      }
+    },
+    {
+      "operation": "IGAREffectPreviewByIdQuery",
+      "old_client_doc_id": "11763532317577874944003599654",
+      "new_client_doc_id": "1176353231132577537834326912",
+      "changes": {
+        "client_doc_id": {
+          "old": "11763532317577874944003599654",
+          "new": "1176353231132577537834326912"
+        },
+        "operation_text_hash": {
+          "old": "7577874944003599654",
+          "new": "132577537834326912"
+        }
+      }
+    },
+    {
+      "operation": "MetaAiContentDeepDiveQuery",
+      "old_client_doc_id": "1189686847549726662506115367",
+      "new_client_doc_id": "118968684600130036607943217",
+      "changes": {
+        "client_doc_id": {
+          "old": "1189686847549726662506115367",
+          "new": "118968684600130036607943217"
+        },
+        "operation_text_hash": {
+          "old": "7549726662506115367",
+          "new": "600130036607943217"
+        }
+      }
+    },
+    {
+      "operation": "MetaHCMQuery",
+      "old_client_doc_id": "16691628977703720324696794206",
+      "new_client_doc_id": "166916289711464879205536576140",
+      "changes": {
+        "client_doc_id": {
+          "old": "16691628977703720324696794206",
+          "new": "166916289711464879205536576140"
+        },
+        "operation_text_hash": {
+          "old": "7703720324696794206",
+          "new": "11464879205536576140"
+        }
+      }
+    },
+    {
+      "operation": "ShareableListsForNuxQuery",
+      "old_client_doc_id": "20296126509141178376858549436",
+      "new_client_doc_id": "20296126504259061551469186884",
+      "changes": {
+        "client_doc_id": {
+          "old": "20296126509141178376858549436",
+          "new": "20296126504259061551469186884"
+        },
+        "operation_text_hash": {
+          "old": "9141178376858549436",
+          "new": "4259061551469186884"
+        }
+      }
+    }
+  ]
+}

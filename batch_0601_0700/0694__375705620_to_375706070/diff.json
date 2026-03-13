@@ -1,0 +1,51 @@
+{
+  "comparison_index": 694,
+  "comparison": {
+    "from_folder": "Instagram_35700068_alpha",
+    "to_folder": "Instagram_35700077_alpha",
+    "from_version_code": 375705620,
+    "to_version_code": 375706070,
+    "from_version_name": "357.0.0.0.68",
+    "to_version_name": "357.0.0.0.77"
+  },
+  "summary": {
+    "old_total": 902,
+    "new_total": 903,
+    "added": 2,
+    "removed": 1,
+    "changed": 1
+  },
+  "added": [
+    {
+      "operation": "MEmuPreviewPhotoMutation",
+      "client_doc_id": "32997939363518275690755029606"
+    },
+    {
+      "operation": "XAVSwitcherFetchLoggedInFBAccountNameQuery",
+      "client_doc_id": "401089142914772000086784449192"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "MEmuPhotoPreview",
+      "client_doc_id": "30926988179038140248746872437"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "SearchDiscoveryConnectionQuery",
+      "old_client_doc_id": "12322591613895763382258422006",
+      "new_client_doc_id": "123225916112419493471600857023",
+      "changes": {
+        "client_doc_id": {
+          "old": "12322591613895763382258422006",
+          "new": "123225916112419493471600857023"
+        },
+        "operation_text_hash": {
+          "old": "3895763382258422006",
+          "new": "12419493471600857023"
+        }
+      }
+    }
+  ]
+}

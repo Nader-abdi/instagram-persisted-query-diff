@@ -1,0 +1,52 @@
+{
+  "comparison_index": 704,
+  "comparison": {
+    "from_folder": "Instagram_3580004_alpha",
+    "to_folder": "Instagram_35800011_alpha",
+    "from_version_code": 375800341,
+    "to_version_code": 375800992,
+    "from_version_name": "358.0.0.0.4",
+    "to_version_name": "358.0.0.0.11"
+  },
+  "summary": {
+    "old_total": 916,
+    "new_total": 916,
+    "added": 0,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "ClipsProfileQuery",
+      "old_client_doc_id": "20904923162982742545647296888",
+      "new_client_doc_id": "209049231615899097703451827471",
+      "changes": {
+        "client_doc_id": {
+          "old": "20904923162982742545647296888",
+          "new": "209049231615899097703451827471"
+        },
+        "operation_text_hash": {
+          "old": "2982742545647296888",
+          "new": "15899097703451827471"
+        }
+      }
+    },
+    {
+      "operation": "IGDirectChannelCreatorEducationGoalQuery",
+      "old_client_doc_id": "27798976116664870359511617534",
+      "new_client_doc_id": "2779897612071726938549721679",
+      "changes": {
+        "client_doc_id": {
+          "old": "27798976116664870359511617534",
+          "new": "2779897612071726938549721679"
+        },
+        "operation_text_hash": {
+          "old": "16664870359511617534",
+          "new": "2071726938549721679"
+        }
+      }
+    }
+  ]
+}
