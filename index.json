@@ -23852,20 +23852,20 @@
   },
   {
     "comparison_index": 1404,
-    "from_version_code": 383000089,
-    "to_version_code": 383000750,
-    "from_version_name": "424.0.0.0.1",
-    "to_version_name": "424.0.0.0.13",
-    "from_folder": "Instagram_4240001_alpha",
-    "to_folder": "Instagram_42400013_alpha",
+    "from_version_code": 382903149,
+    "to_version_code": 382907090,
+    "from_version_name": "423.0.0.0.55",
+    "to_version_name": "423.0.0.47.66",
+    "from_folder": "Instagram_42300055_alpha",
+    "to_folder": "Instagram_423004766",
     "summary": {
-      "old_total": 1516,
-      "new_total": 1522,
-      "added": 7,
-      "removed": 1,
-      "changed": 10
+      "old_total": 1554,
+      "new_total": 1517,
+      "added": 1,
+      "removed": 38,
+      "changed": 33
     },
-    "path": "batch_1401_1500/1404__383000089_to_383000750/diff.json"
+    "path": "batch_1401_1500/1404__382903149_to_382907090/diff.json"
   },
   {
     "comparison_index": 1405,
