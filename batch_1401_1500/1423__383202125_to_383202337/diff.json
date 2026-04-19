@@ -1,0 +1,26 @@
+{
+  "comparison_index": 1423,
+  "comparison": {
+    "from_folder": "Instagram_42600040_alpha",
+    "to_folder": "Instagram_42600044_alpha",
+    "from_version_code": 383202125,
+    "to_version_code": 383202337,
+    "from_version_name": "426.0.0.0.40",
+    "to_version_name": "426.0.0.0.44"
+  },
+  "summary": {
+    "old_total": 1523,
+    "new_total": 1524,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "FetchNoteComments",
+      "client_doc_id": "109429058016873463794120580210"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}
