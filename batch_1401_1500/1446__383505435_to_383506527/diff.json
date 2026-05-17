@@ -1,0 +1,26 @@
+{
+  "comparison_index": 1446,
+  "comparison": {
+    "from_folder": "Instagram_429001970_beta",
+    "to_folder": "Instagram_429003270_beta",
+    "from_version_code": 383505435,
+    "to_version_code": 383506527,
+    "from_version_name": "429.0.0.19.70",
+    "to_version_name": "429.0.0.32.70"
+  },
+  "summary": {
+    "old_total": 1577,
+    "new_total": 1578,
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "IABInfoHubPreClickQuery",
+      "client_doc_id": "10853504143787639165348931363"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}
