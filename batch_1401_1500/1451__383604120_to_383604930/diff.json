@@ -1,0 +1,132 @@
+{
+  "comparison_index": 1451,
+  "comparison": {
+    "from_folder": "Instagram_43000047_alpha",
+    "to_folder": "Instagram_43000057_alpha",
+    "from_version_code": 383604120,
+    "to_version_code": 383604930,
+    "from_version_name": "430.0.0.0.47",
+    "to_version_name": "430.0.0.0.57"
+  },
+  "summary": {
+    "old_total": 1581,
+    "new_total": 1582,
+    "added": 1,
+    "removed": 0,
+    "changed": 7
+  },
+  "added": [
+    {
+      "operation": "IGPlaceSearchQuery",
+      "client_doc_id": "18249696384320346445519107027"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "BlendSettingsQuery",
+      "old_client_doc_id": "6630602703747931948229225710",
+      "new_client_doc_id": "66306027015357242792632974279",
+      "changes": {
+        "client_doc_id": {
+          "old": "6630602703747931948229225710",
+          "new": "66306027015357242792632974279"
+        },
+        "operation_text_hash": {
+          "old": "3747931948229225710",
+          "new": "15357242792632974279"
+        }
+      }
+    },
+    {
+      "operation": "CreateTAChapterFromQueryMutationMutation",
+      "old_client_doc_id": "10771730049004443914118698704",
+      "new_client_doc_id": "10771730048923968616720878292",
+      "changes": {
+        "client_doc_id": {
+          "old": "10771730049004443914118698704",
+          "new": "10771730048923968616720878292"
+        },
+        "operation_text_hash": {
+          "old": "9004443914118698704",
+          "new": "8923968616720878292"
+        }
+      }
+    },
+    {
+      "operation": "CreateTAProjectMutation",
+      "old_client_doc_id": "210120839810574096652430800420",
+      "new_client_doc_id": "210120839817177522857677033291",
+      "changes": {
+        "client_doc_id": {
+          "old": "210120839810574096652430800420",
+          "new": "210120839817177522857677033291"
+        },
+        "operation_text_hash": {
+          "old": "10574096652430800420",
+          "new": "17177522857677033291"
+        }
+      }
+    },
+    {
+      "operation": "ExploreProjectsQuery",
+      "old_client_doc_id": "22546551104814023990919659489",
+      "new_client_doc_id": "22546551102344352255544126359",
+      "changes": {
+        "client_doc_id": {
+          "old": "22546551104814023990919659489",
+          "new": "22546551102344352255544126359"
+        },
+        "operation_text_hash": {
+          "old": "4814023990919659489",
+          "new": "2344352255544126359"
+        }
+      }
+    },
+    {
+      "operation": "FetchTeenAccountV3ProjectQuery",
+      "old_client_doc_id": "195740114418027861337400908842",
+      "new_client_doc_id": "19574011444476996943177077727",
+      "changes": {
+        "client_doc_id": {
+          "old": "195740114418027861337400908842",
+          "new": "19574011444476996943177077727"
+        },
+        "operation_text_hash": {
+          "old": "18027861337400908842",
+          "new": "4476996943177077727"
+        }
+      }
+    },
+    {
+      "operation": "IGRecommendedScheduleTimesQuery",
+      "old_client_doc_id": "340843283717739662489713732353",
+      "new_client_doc_id": "3408432837818132053846174644",
+      "changes": {
+        "client_doc_id": {
+          "old": "340843283717739662489713732353",
+          "new": "3408432837818132053846174644"
+        },
+        "operation_text_hash": {
+          "old": "17739662489713732353",
+          "new": "818132053846174644"
+        }
+      }
+    },
+    {
+      "operation": "PostInsightsQuery",
+      "old_client_doc_id": "18767382982885286651310093494",
+      "new_client_doc_id": "187673829816443640817114547517",
+      "changes": {
+        "client_doc_id": {
+          "old": "18767382982885286651310093494",
+          "new": "187673829816443640817114547517"
+        },
+        "operation_text_hash": {
+          "old": "2885286651310093494",
+          "new": "16443640817114547517"
+        }
+      }
+    }
+  ]
+}
