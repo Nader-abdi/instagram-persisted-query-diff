@@ -1,0 +1,67 @@
+{
+  "comparison_index": 1441,
+  "comparison": {
+    "from_folder": "Instagram_428004767",
+    "to_folder": "Instagram_4290005_alpha",
+    "from_version_code": 383406458,
+    "to_version_code": 383500274,
+    "from_version_name": "428.0.0.47.67",
+    "to_version_name": "429.0.0.0.5"
+  },
+  "summary": {
+    "old_total": 1558,
+    "new_total": 1558,
+    "added": 0,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FxIgCanUserSeeACUpsellMultiNativeAuthQuery",
+      "old_client_doc_id": "3621582609193143036570367014",
+      "new_client_doc_id": "36215826095982447057212309938",
+      "changes": {
+        "client_doc_id": {
+          "old": "3621582609193143036570367014",
+          "new": "36215826095982447057212309938"
+        },
+        "operation_text_hash": {
+          "old": "193143036570367014",
+          "new": "5982447057212309938"
+        }
+      }
+    },
+    {
+      "operation": "FxIgCanUserSeeACUpsellMultiNativeAuthTwoEntrypointQuery",
+      "old_client_doc_id": "9833509818041411761123350700",
+      "new_client_doc_id": "983350981398840465193866609",
+      "changes": {
+        "client_doc_id": {
+          "old": "9833509818041411761123350700",
+          "new": "983350981398840465193866609"
+        },
+        "operation_text_hash": {
+          "old": "8041411761123350700",
+          "new": "398840465193866609"
+        }
+      }
+    },
+    {
+      "operation": "StoryViewerSearchQuery",
+      "old_client_doc_id": "10982377394345202909283805044",
+      "new_client_doc_id": "109823773917229466194067937469",
+      "changes": {
+        "client_doc_id": {
+          "old": "10982377394345202909283805044",
+          "new": "109823773917229466194067937469"
+        },
+        "operation_text_hash": {
+          "old": "4345202909283805044",
+          "new": "17229466194067937469"
+        }
+      }
+    }
+  ]
+}
