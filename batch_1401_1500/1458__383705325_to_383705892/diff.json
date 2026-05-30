@@ -1,0 +1,127 @@
+{
+  "comparison_index": 1458,
+  "comparison": {
+    "from_folder": "Instagram_43100068_alpha",
+    "to_folder": "Instagram_43100075_alpha",
+    "from_version_code": 383705325,
+    "to_version_code": 383705892,
+    "from_version_name": "431.0.0.0.68",
+    "to_version_name": "431.0.0.0.75"
+  },
+  "summary": {
+    "old_total": 1607,
+    "new_total": 1607,
+    "added": 0,
+    "removed": 0,
+    "changed": 7
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FetchXPSFBStoryCardViewersQuery",
+      "old_client_doc_id": "4359851818044681294889739557",
+      "new_client_doc_id": "4359851816256451394772949877",
+      "changes": {
+        "client_doc_id": {
+          "old": "4359851818044681294889739557",
+          "new": "4359851816256451394772949877"
+        },
+        "operation_text_hash": {
+          "old": "8044681294889739557",
+          "new": "6256451394772949877"
+        }
+      }
+    },
+    {
+      "operation": "IGDirectBusinessThreadBucketMutation",
+      "old_client_doc_id": "42579725653578710052291269185",
+      "new_client_doc_id": "42579725657898737103123747279",
+      "changes": {
+        "client_doc_id": {
+          "old": "42579725653578710052291269185",
+          "new": "42579725657898737103123747279"
+        },
+        "operation_text_hash": {
+          "old": "3578710052291269185",
+          "new": "7898737103123747279"
+        }
+      }
+    },
+    {
+      "operation": "IGDirectGetE2EEThreadsQuery",
+      "old_client_doc_id": "3367607853565385835541211090",
+      "new_client_doc_id": "33676078532238404949333144041",
+      "changes": {
+        "client_doc_id": {
+          "old": "3367607853565385835541211090",
+          "new": "33676078532238404949333144041"
+        },
+        "operation_text_hash": {
+          "old": "565385835541211090",
+          "new": "2238404949333144041"
+        }
+      }
+    },
+    {
+      "operation": "IGDirectGetInboxQuery",
+      "old_client_doc_id": "34222999846400202800858889063",
+      "new_client_doc_id": "34222999847835811524197474039",
+      "changes": {
+        "client_doc_id": {
+          "old": "34222999846400202800858889063",
+          "new": "34222999847835811524197474039"
+        },
+        "operation_text_hash": {
+          "old": "6400202800858889063",
+          "new": "7835811524197474039"
+        }
+      }
+    },
+    {
+      "operation": "IGDirectGetPendingInboxQuery",
+      "old_client_doc_id": "400795349210638649146418741441",
+      "new_client_doc_id": "400795349212242197758526853692",
+      "changes": {
+        "client_doc_id": {
+          "old": "400795349210638649146418741441",
+          "new": "400795349212242197758526853692"
+        },
+        "operation_text_hash": {
+          "old": "10638649146418741441",
+          "new": "12242197758526853692"
+        }
+      }
+    },
+    {
+      "operation": "IGDirectGetThreadQuery",
+      "old_client_doc_id": "281690989911656997737085345800",
+      "new_client_doc_id": "28169098997824301227339175383",
+      "changes": {
+        "client_doc_id": {
+          "old": "281690989911656997737085345800",
+          "new": "28169098997824301227339175383"
+        },
+        "operation_text_hash": {
+          "old": "11656997737085345800",
+          "new": "7824301227339175383"
+        }
+      }
+    },
+    {
+      "operation": "XCXPIGStoryUnifiedFeedbackQuery",
+      "old_client_doc_id": "856563657728710141000969914",
+      "new_client_doc_id": "856563652496518968354265116",
+      "changes": {
+        "client_doc_id": {
+          "old": "856563657728710141000969914",
+          "new": "856563652496518968354265116"
+        },
+        "operation_text_hash": {
+          "old": "7728710141000969914",
+          "new": "2496518968354265116"
+        }
+      }
+    }
+  ]
+}
