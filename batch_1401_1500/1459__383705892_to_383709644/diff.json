@@ -1,0 +1,67 @@
+{
+  "comparison_index": 1459,
+  "comparison": {
+    "from_folder": "Instagram_43100075_alpha",
+    "to_folder": "Instagram_431003682_beta",
+    "from_version_code": 383705892,
+    "to_version_code": 383709644,
+    "from_version_name": "431.0.0.0.75",
+    "to_version_name": "431.0.0.36.82"
+  },
+  "summary": {
+    "old_total": 1607,
+    "new_total": 1607,
+    "added": 0,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "GenAISocialEntityDetailsQuery",
+      "old_client_doc_id": "375079443717937697230965035326",
+      "new_client_doc_id": "37507944379412392788059217171",
+      "changes": {
+        "client_doc_id": {
+          "old": "375079443717937697230965035326",
+          "new": "37507944379412392788059217171"
+        },
+        "operation_text_hash": {
+          "old": "17937697230965035326",
+          "new": "9412392788059217171"
+        }
+      }
+    },
+    {
+      "operation": "NullStateSuggestModuleQuery",
+      "old_client_doc_id": "39260235795224296517064160108",
+      "new_client_doc_id": "392602357915952439050253159457",
+      "changes": {
+        "client_doc_id": {
+          "old": "39260235795224296517064160108",
+          "new": "392602357915952439050253159457"
+        },
+        "operation_text_hash": {
+          "old": "5224296517064160108",
+          "new": "15952439050253159457"
+        }
+      }
+    },
+    {
+      "operation": "ShortDramaLanePaginationQuery",
+      "old_client_doc_id": "59190078914846004982924426923",
+      "new_client_doc_id": "59190078912389542499572877717",
+      "changes": {
+        "client_doc_id": {
+          "old": "59190078914846004982924426923",
+          "new": "59190078912389542499572877717"
+        },
+        "operation_text_hash": {
+          "old": "14846004982924426923",
+          "new": "12389542499572877717"
+        }
+      }
+    }
+  ]
+}
