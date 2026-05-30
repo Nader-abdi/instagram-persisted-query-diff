@@ -1,0 +1,125 @@
+{
+  "comparison_index": 1456,
+  "comparison": {
+    "from_folder": "Instagram_430005380",
+    "to_folder": "Instagram_4310008_alpha",
+    "from_version_code": 383611189,
+    "to_version_code": 383700708,
+    "from_version_name": "430.0.0.53.80",
+    "to_version_name": "431.0.0.0.8"
+  },
+  "summary": {
+    "old_total": 1596,
+    "new_total": 1599,
+    "added": 3,
+    "removed": 0,
+    "changed": 6
+  },
+  "added": [
+    {
+      "operation": "IgInstallScreenInfoQuery",
+      "client_doc_id": "83668844717713574114582234029"
+    },
+    {
+      "operation": "MetaAIRichPlaceDetailsQuery",
+      "client_doc_id": "84491851314163769487640650292"
+    },
+    {
+      "operation": "ShortDramaSeriesAddEpisodeMutation",
+      "client_doc_id": "70143773117441362425153657616"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "AffiliateSigningKeyQuery",
+      "old_client_doc_id": "29610674428912322026761857017",
+      "new_client_doc_id": "29610674422079904886500261781",
+      "changes": {
+        "client_doc_id": {
+          "old": "29610674428912322026761857017",
+          "new": "29610674422079904886500261781"
+        },
+        "operation_text_hash": {
+          "old": "8912322026761857017",
+          "new": "2079904886500261781"
+        }
+      }
+    },
+    {
+      "operation": "EBFetchVirtualDeviceInfoForDeviceAdditionV2Query",
+      "old_client_doc_id": "7628604413306561972205231041",
+      "new_client_doc_id": "7628604410829669721994117147",
+      "changes": {
+        "client_doc_id": {
+          "old": "7628604413306561972205231041",
+          "new": "7628604410829669721994117147"
+        },
+        "operation_text_hash": {
+          "old": "13306561972205231041",
+          "new": "10829669721994117147"
+        }
+      }
+    },
+    {
+      "operation": "EddyMessagesListQuery",
+      "old_client_doc_id": "312120522510753261127686304112",
+      "new_client_doc_id": "31212052255481030393525602646",
+      "changes": {
+        "client_doc_id": {
+          "old": "312120522510753261127686304112",
+          "new": "31212052255481030393525602646"
+        },
+        "operation_text_hash": {
+          "old": "10753261127686304112",
+          "new": "5481030393525602646"
+        }
+      }
+    },
+    {
+      "operation": "EddyMessagesSubscription",
+      "old_client_doc_id": "173100433412539165735967704115",
+      "new_client_doc_id": "17310043341835120643726571800",
+      "changes": {
+        "client_doc_id": {
+          "old": "173100433412539165735967704115",
+          "new": "17310043341835120643726571800"
+        },
+        "operation_text_hash": {
+          "old": "12539165735967704115",
+          "new": "1835120643726571800"
+        }
+      }
+    },
+    {
+      "operation": "IGQuickSnapGetQuickSnapsQuery",
+      "old_client_doc_id": "137791389010033692339266129742",
+      "new_client_doc_id": "13779138905208973122197637585",
+      "changes": {
+        "client_doc_id": {
+          "old": "137791389010033692339266129742",
+          "new": "13779138905208973122197637585"
+        },
+        "operation_text_hash": {
+          "old": "10033692339266129742",
+          "new": "5208973122197637585"
+        }
+      }
+    },
+    {
+      "operation": "NullStateSuggestModuleQuery",
+      "old_client_doc_id": "39260235795224296517064160108",
+      "new_client_doc_id": "39260235799316285551739041410",
+      "changes": {
+        "client_doc_id": {
+          "old": "39260235795224296517064160108",
+          "new": "39260235799316285551739041410"
+        },
+        "operation_text_hash": {
+          "old": "5224296517064160108",
+          "new": "9316285551739041410"
+        }
+      }
+    }
+  ]
+}
