@@ -1,0 +1,37 @@
+{
+  "comparison_index": 1472,
+  "comparison": {
+    "from_folder": "Instagram_43300037_alpha",
+    "to_folder": "Instagram_43300047_alpha",
+    "from_version_code": 383903016,
+    "to_version_code": 383903826,
+    "from_version_name": "433.0.0.0.37",
+    "to_version_name": "433.0.0.0.47"
+  },
+  "summary": {
+    "old_total": 1608,
+    "new_total": 1608,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "BaselFetchFontMetadataQuery",
+      "old_client_doc_id": "8716649894238833635037870993",
+      "new_client_doc_id": "87166498912435906427456650314",
+      "changes": {
+        "client_doc_id": {
+          "old": "8716649894238833635037870993",
+          "new": "87166498912435906427456650314"
+        },
+        "operation_text_hash": {
+          "old": "4238833635037870993",
+          "new": "12435906427456650314"
+        }
+      }
+    }
+  ]
+}
