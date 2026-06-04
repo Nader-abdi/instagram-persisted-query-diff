@@ -24941,19 +24941,19 @@
   {
     "comparison_index": 1468,
     "from_version_code": 383810131,
-    "to_version_code": 383900019,
+    "to_version_code": 383810338,
     "from_version_name": "432.0.0.42.80",
-    "to_version_name": "433.0.0.0.0",
+    "to_version_name": "432.1.0.44.80",
     "from_folder": "Instagram_432004280",
-    "to_folder": "Instagram_4330000_alpha",
+    "to_folder": "Instagram_432104480",
     "summary": {
       "old_total": 1614,
       "new_total": 1614,
       "added": 0,
       "removed": 0,
-      "changed": 15
+      "changed": 0
     },
-    "path": "batch_1401_1500/1468__383810131_to_383900019/diff.json"
+    "path": "batch_1401_1500/1468__383810131_to_383810338/diff.json"
   },
   {
     "comparison_index": 1469,
