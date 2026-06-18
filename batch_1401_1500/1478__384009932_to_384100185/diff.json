@@ -1,0 +1,72 @@
+{
+  "comparison_index": 1478,
+  "comparison": {
+    "from_folder": "Instagram_434004474",
+    "to_folder": "Instagram_4350002_alpha",
+    "from_version_code": 384009932,
+    "to_version_code": 384100185,
+    "from_version_name": "434.0.0.44.74",
+    "to_version_name": "435.0.0.0.2"
+  },
+  "summary": {
+    "old_total": 1625,
+    "new_total": 1626,
+    "added": 1,
+    "removed": 0,
+    "changed": 3
+  },
+  "added": [
+    {
+      "operation": "CreateMEmuProfileFromProfilePic",
+      "client_doc_id": "144652679918191061256018100239"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FetchCarreraPreferencesIncrementalQuery",
+      "old_client_doc_id": "23570557009046383819599209268",
+      "new_client_doc_id": "23570557001186923172077082333",
+      "changes": {
+        "client_doc_id": {
+          "old": "23570557009046383819599209268",
+          "new": "23570557001186923172077082333"
+        },
+        "operation_text_hash": {
+          "old": "9046383819599209268",
+          "new": "1186923172077082333"
+        }
+      }
+    },
+    {
+      "operation": "FetchCarreraPreferencesQuery",
+      "old_client_doc_id": "13656209365075822776411439620",
+      "new_client_doc_id": "13656209362263212590717062886",
+      "changes": {
+        "client_doc_id": {
+          "old": "13656209365075822776411439620",
+          "new": "13656209362263212590717062886"
+        },
+        "operation_text_hash": {
+          "old": "5075822776411439620",
+          "new": "2263212590717062886"
+        }
+      }
+    },
+    {
+      "operation": "GenAIImagineHasMEmuProfile",
+      "old_client_doc_id": "15096507291752751356168536316",
+      "new_client_doc_id": "15096507291849263675728596536",
+      "changes": {
+        "client_doc_id": {
+          "old": "15096507291752751356168536316",
+          "new": "15096507291849263675728596536"
+        },
+        "operation_text_hash": {
+          "old": "1752751356168536316",
+          "new": "1849263675728596536"
+        }
+      }
+    }
+  ]
+}
