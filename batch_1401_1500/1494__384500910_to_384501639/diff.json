@@ -1,0 +1,37 @@
+{
+  "comparison_index": 1494,
+  "comparison": {
+    "from_folder": "Instagram_43900011_alpha",
+    "to_folder": "Instagram_43900018_alpha",
+    "from_version_code": 384500910,
+    "to_version_code": 384501639,
+    "from_version_name": "439.0.0.0.11",
+    "to_version_name": "439.0.0.0.18"
+  },
+  "summary": {
+    "old_total": 1645,
+    "new_total": 1645,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "GenerateAiThemes",
+      "old_client_doc_id": "5169865138552960960283888773",
+      "new_client_doc_id": "5169865132144315377077935843",
+      "changes": {
+        "client_doc_id": {
+          "old": "5169865138552960960283888773",
+          "new": "5169865132144315377077935843"
+        },
+        "operation_text_hash": {
+          "old": "8552960960283888773",
+          "new": "2144315377077935843"
+        }
+      }
+    }
+  ]
+}
