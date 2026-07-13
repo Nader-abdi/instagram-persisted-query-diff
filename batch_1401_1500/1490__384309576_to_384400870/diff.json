@@ -1,0 +1,121 @@
+{
+  "comparison_index": 1490,
+  "comparison": {
+    "from_folder": "Instagram_437003378",
+    "to_folder": "Instagram_43800010_alpha",
+    "from_version_code": 384309576,
+    "to_version_code": 384400870,
+    "from_version_name": "437.0.0.33.78",
+    "to_version_name": "438.0.0.0.10"
+  },
+  "summary": {
+    "old_total": 1643,
+    "new_total": 1645,
+    "added": 2,
+    "removed": 0,
+    "changed": 6
+  },
+  "added": [
+    {
+      "operation": "IgZarFetchEligibilityQuery",
+      "client_doc_id": "2013175586192730848570149039"
+    },
+    {
+      "operation": "XdtAdminTiruDogfoodQuery",
+      "client_doc_id": "74773316313452346113530274118"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "CreateTAProjectMutation",
+      "old_client_doc_id": "210120839811932826950514069264",
+      "new_client_doc_id": "21012083988933725109686308109",
+      "changes": {
+        "client_doc_id": {
+          "old": "210120839811932826950514069264",
+          "new": "21012083988933725109686308109"
+        },
+        "operation_text_hash": {
+          "old": "11932826950514069264",
+          "new": "8933725109686308109"
+        }
+      }
+    },
+    {
+      "operation": "FetchTeenAccountV3ProjectQuery",
+      "old_client_doc_id": "195740114413845886590234965330",
+      "new_client_doc_id": "195740114415911031722594289496",
+      "changes": {
+        "client_doc_id": {
+          "old": "195740114413845886590234965330",
+          "new": "195740114415911031722594289496"
+        },
+        "operation_text_hash": {
+          "old": "13845886590234965330",
+          "new": "15911031722594289496"
+        }
+      }
+    },
+    {
+      "operation": "IGDirectGetThreadAndPaginatedMessageListQuery",
+      "old_client_doc_id": "41571454085718699324611589366",
+      "new_client_doc_id": "415714540811110797812489126078",
+      "changes": {
+        "client_doc_id": {
+          "old": "41571454085718699324611589366",
+          "new": "415714540811110797812489126078"
+        },
+        "operation_text_hash": {
+          "old": "5718699324611589366",
+          "new": "11110797812489126078"
+        }
+      }
+    },
+    {
+      "operation": "IGProfilePreviewQuery",
+      "old_client_doc_id": "36529376547618042956693294162",
+      "new_client_doc_id": "365293765411350990917618522000",
+      "changes": {
+        "client_doc_id": {
+          "old": "36529376547618042956693294162",
+          "new": "365293765411350990917618522000"
+        },
+        "operation_text_hash": {
+          "old": "7618042956693294162",
+          "new": "11350990917618522000"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "56030350811524650946244614092",
+      "new_client_doc_id": "5603035087578983688776014065",
+      "changes": {
+        "client_doc_id": {
+          "old": "56030350811524650946244614092",
+          "new": "5603035087578983688776014065"
+        },
+        "operation_text_hash": {
+          "old": "11524650946244614092",
+          "new": "7578983688776014065"
+        }
+      }
+    },
+    {
+      "operation": "IGWatchAndNavigateUnifiedProductInfoQuery",
+      "old_client_doc_id": "3799811429160188503804378620",
+      "new_client_doc_id": "37998114213197186910732782463",
+      "changes": {
+        "client_doc_id": {
+          "old": "3799811429160188503804378620",
+          "new": "37998114213197186910732782463"
+        },
+        "operation_text_hash": {
+          "old": "9160188503804378620",
+          "new": "13197186910732782463"
+        }
+      }
+    }
+  ]
+}
