@@ -1,0 +1,62 @@
+{
+  "comparison_index": 1485,
+  "comparison": {
+    "from_folder": "Instagram_436004173",
+    "to_folder": "Instagram_43700010_alpha",
+    "from_version_code": 384209414,
+    "to_version_code": 384300829,
+    "from_version_name": "436.0.0.41.73",
+    "to_version_name": "437.0.0.0.10"
+  },
+  "summary": {
+    "old_total": 1638,
+    "new_total": 1638,
+    "added": 1,
+    "removed": 1,
+    "changed": 2
+  },
+  "added": [
+    {
+      "operation": "PostPlayResultMutation",
+      "client_doc_id": "34787598048773497111804726161"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "GetClipsSpins",
+      "client_doc_id": "10664668989328903789289971360"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "AccountInsightsOverviewQuery",
+      "old_client_doc_id": "29785185622848039227935119167",
+      "new_client_doc_id": "29785185629427561247403890732",
+      "changes": {
+        "client_doc_id": {
+          "old": "29785185622848039227935119167",
+          "new": "29785185629427561247403890732"
+        },
+        "operation_text_hash": {
+          "old": "2848039227935119167",
+          "new": "9427561247403890732"
+        }
+      }
+    },
+    {
+      "operation": "GetSchoolNotes",
+      "old_client_doc_id": "150755235716532189926435401831",
+      "new_client_doc_id": "150755235718309177562741252353",
+      "changes": {
+        "client_doc_id": {
+          "old": "150755235716532189926435401831",
+          "new": "150755235718309177562741252353"
+        },
+        "operation_text_hash": {
+          "old": "16532189926435401831",
+          "new": "18309177562741252353"
+        }
+      }
+    }
+  ]
+}
