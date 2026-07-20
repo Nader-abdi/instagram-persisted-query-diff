@@ -1,0 +1,57 @@
+{
+  "comparison_index": 1490,
+  "comparison": {
+    "from_folder": "Instagram_437003378",
+    "to_folder": "Instagram_4380005_alpha",
+    "from_version_code": 384309576,
+    "to_version_code": 384400465,
+    "from_version_name": "437.0.0.33.78",
+    "to_version_name": "438.0.0.0.5"
+  },
+  "summary": {
+    "old_total": 1643,
+    "new_total": 1644,
+    "added": 1,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [
+    {
+      "operation": "IgZarFetchEligibilityQuery",
+      "client_doc_id": "2013175586192730848570149039"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "IGDirectGetThreadAndPaginatedMessageListQuery",
+      "old_client_doc_id": "41571454085718699324611589366",
+      "new_client_doc_id": "415714540811110797812489126078",
+      "changes": {
+        "client_doc_id": {
+          "old": "41571454085718699324611589366",
+          "new": "415714540811110797812489126078"
+        },
+        "operation_text_hash": {
+          "old": "5718699324611589366",
+          "new": "11110797812489126078"
+        }
+      }
+    },
+    {
+      "operation": "IGWatchAndNavigateUnifiedProductInfoQuery",
+      "old_client_doc_id": "3799811429160188503804378620",
+      "new_client_doc_id": "379981142277413140803371871",
+      "changes": {
+        "client_doc_id": {
+          "old": "3799811429160188503804378620",
+          "new": "379981142277413140803371871"
+        },
+        "operation_text_hash": {
+          "old": "9160188503804378620",
+          "new": "277413140803371871"
+        }
+      }
+    }
+  ]
+}
