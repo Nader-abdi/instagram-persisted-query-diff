@@ -1,0 +1,102 @@
+{
+  "comparison_index": 1491,
+  "comparison": {
+    "from_folder": "Instagram_4380005_alpha",
+    "to_folder": "Instagram_43800010_alpha",
+    "from_version_code": 384400465,
+    "to_version_code": 384400870,
+    "from_version_name": "438.0.0.0.5",
+    "to_version_name": "438.0.0.0.10"
+  },
+  "summary": {
+    "old_total": 1644,
+    "new_total": 1645,
+    "added": 1,
+    "removed": 0,
+    "changed": 5
+  },
+  "added": [
+    {
+      "operation": "XdtAdminTiruDogfoodQuery",
+      "client_doc_id": "74773316313452346113530274118"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "CreateTAProjectMutation",
+      "old_client_doc_id": "210120839811932826950514069264",
+      "new_client_doc_id": "21012083988933725109686308109",
+      "changes": {
+        "client_doc_id": {
+          "old": "210120839811932826950514069264",
+          "new": "21012083988933725109686308109"
+        },
+        "operation_text_hash": {
+          "old": "11932826950514069264",
+          "new": "8933725109686308109"
+        }
+      }
+    },
+    {
+      "operation": "FetchTeenAccountV3ProjectQuery",
+      "old_client_doc_id": "195740114413845886590234965330",
+      "new_client_doc_id": "195740114415911031722594289496",
+      "changes": {
+        "client_doc_id": {
+          "old": "195740114413845886590234965330",
+          "new": "195740114415911031722594289496"
+        },
+        "operation_text_hash": {
+          "old": "13845886590234965330",
+          "new": "15911031722594289496"
+        }
+      }
+    },
+    {
+      "operation": "IGProfilePreviewQuery",
+      "old_client_doc_id": "36529376547618042956693294162",
+      "new_client_doc_id": "365293765411350990917618522000",
+      "changes": {
+        "client_doc_id": {
+          "old": "36529376547618042956693294162",
+          "new": "365293765411350990917618522000"
+        },
+        "operation_text_hash": {
+          "old": "7618042956693294162",
+          "new": "11350990917618522000"
+        }
+      }
+    },
+    {
+      "operation": "IGProfileTimelineQuery",
+      "old_client_doc_id": "56030350811524650946244614092",
+      "new_client_doc_id": "5603035087578983688776014065",
+      "changes": {
+        "client_doc_id": {
+          "old": "56030350811524650946244614092",
+          "new": "5603035087578983688776014065"
+        },
+        "operation_text_hash": {
+          "old": "11524650946244614092",
+          "new": "7578983688776014065"
+        }
+      }
+    },
+    {
+      "operation": "IGWatchAndNavigateUnifiedProductInfoQuery",
+      "old_client_doc_id": "379981142277413140803371871",
+      "new_client_doc_id": "37998114213197186910732782463",
+      "changes": {
+        "client_doc_id": {
+          "old": "379981142277413140803371871",
+          "new": "37998114213197186910732782463"
+        },
+        "operation_text_hash": {
+          "old": "277413140803371871",
+          "new": "13197186910732782463"
+        }
+      }
+    }
+  ]
+}
