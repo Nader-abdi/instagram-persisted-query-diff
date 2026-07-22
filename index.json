@@ -25481,5 +25481,22 @@
       "changed": 32
     },
     "path": "batch_1401_1500/1499__384506337_to_384510913/diff.json"
+  },
+  {
+    "comparison_index": 1500,
+    "from_version_code": 384510913,
+    "to_version_code": 384605740,
+    "from_version_name": "439.0.0.38.89",
+    "to_version_name": "440.0.0.0.67",
+    "from_folder": "Instagram_439003889",
+    "to_folder": "Instagram_44000067_alpha",
+    "summary": {
+      "old_total": 1646,
+      "new_total": 1650,
+      "added": 6,
+      "removed": 2,
+      "changed": 50
+    },
+    "path": "batch_1401_1500/1500__384510913_to_384605740/diff.json"
   }
 ]
