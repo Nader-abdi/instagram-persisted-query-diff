@@ -1,0 +1,57 @@
+{
+  "comparison_index": 1507,
+  "comparison": {
+    "from_folder": "Instagram_44100020_alpha",
+    "to_folder": "Instagram_44100049_alpha",
+    "from_version_code": 384701674,
+    "to_version_code": 384704110,
+    "from_version_name": "441.0.0.0.20",
+    "to_version_name": "441.0.0.0.49"
+  },
+  "summary": {
+    "old_total": 1649,
+    "new_total": 1650,
+    "added": 1,
+    "removed": 0,
+    "changed": 2
+  },
+  "added": [
+    {
+      "operation": "IGShopLabPdpReviewsQuery",
+      "client_doc_id": "32024681653029955330344938982"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "KirbyTopicsAndTemplatesPaginationQuery",
+      "old_client_doc_id": "24374281162208073705121474334",
+      "new_client_doc_id": "243742811613740595713973592293",
+      "changes": {
+        "client_doc_id": {
+          "old": "24374281162208073705121474334",
+          "new": "243742811613740595713973592293"
+        },
+        "operation_text_hash": {
+          "old": "2208073705121474334",
+          "new": "13740595713973592293"
+        }
+      }
+    },
+    {
+      "operation": "KirbyTopicsAndTemplatesQuery",
+      "old_client_doc_id": "135161099313898381316626187831",
+      "new_client_doc_id": "135161099312513255282112724758",
+      "changes": {
+        "client_doc_id": {
+          "old": "135161099313898381316626187831",
+          "new": "135161099312513255282112724758"
+        },
+        "operation_text_hash": {
+          "old": "13898381316626187831",
+          "new": "12513255282112724758"
+        }
+      }
+    }
+  ]
+}
