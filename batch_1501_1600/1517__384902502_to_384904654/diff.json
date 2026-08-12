@@ -1,0 +1,57 @@
+{
+  "comparison_index": 1517,
+  "comparison": {
+    "from_folder": "Instagram_44300030_alpha",
+    "to_folder": "Instagram_44300057_alpha",
+    "from_version_code": 384902502,
+    "to_version_code": 384904654,
+    "from_version_name": "443.0.0.0.30",
+    "to_version_name": "443.0.0.0.57"
+  },
+  "summary": {
+    "old_total": 1679,
+    "new_total": 1678,
+    "added": 0,
+    "removed": 1,
+    "changed": 2
+  },
+  "added": [],
+  "removed": [
+    {
+      "operation": "NotificationFeedContextualRecommendationsSeenMutation",
+      "client_doc_id": "10726030546965151018883372850"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "AirwaveCoWatchValidateSessionMutation",
+      "old_client_doc_id": "298843700618403552206324623358",
+      "new_client_doc_id": "298843700618206932039681168527",
+      "changes": {
+        "client_doc_id": {
+          "old": "298843700618403552206324623358",
+          "new": "298843700618206932039681168527"
+        },
+        "operation_text_hash": {
+          "old": "18403552206324623358",
+          "new": "18206932039681168527"
+        }
+      }
+    },
+    {
+      "operation": "IGShopLabPdpBasicProductInfoQuery",
+      "old_client_doc_id": "37466152411727651469804594329",
+      "new_client_doc_id": "37466152411024022514083981276",
+      "changes": {
+        "client_doc_id": {
+          "old": "37466152411727651469804594329",
+          "new": "37466152411024022514083981276"
+        },
+        "operation_text_hash": {
+          "old": "11727651469804594329",
+          "new": "11024022514083981276"
+        }
+      }
+    }
+  ]
+}
