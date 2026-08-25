@@ -1,0 +1,175 @@
+{
+  "comparison_index": 1523,
+  "comparison": {
+    "from_folder": "Instagram_44400013_alpha",
+    "to_folder": "Instagram_44400039_alpha",
+    "from_version_code": 385001107,
+    "to_version_code": 385003294,
+    "from_version_name": "444.0.0.0.13",
+    "to_version_name": "444.0.0.0.39"
+  },
+  "summary": {
+    "old_total": 1687,
+    "new_total": 1689,
+    "added": 3,
+    "removed": 1,
+    "changed": 9
+  },
+  "added": [
+    {
+      "operation": "AccountInsightsHomeQuery",
+      "client_doc_id": "3844401144927190825175563229"
+    },
+    {
+      "operation": "BaselCreatorChannelContentQuery",
+      "client_doc_id": "33849367897999990519047893027"
+    },
+    {
+      "operation": "BaselCreatorChannelsQuery",
+      "client_doc_id": "15139020089267836073233367414"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "FBPayAuthFactorLoggedOutVerification",
+      "client_doc_id": "28179890025610999159776512859"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "DirectGamingWorldSectionsQuery",
+      "old_client_doc_id": "248418315918278737480634399200",
+      "new_client_doc_id": "24841831596933392723532221411",
+      "changes": {
+        "client_doc_id": {
+          "old": "248418315918278737480634399200",
+          "new": "24841831596933392723532221411"
+        },
+        "operation_text_hash": {
+          "old": "18278737480634399200",
+          "new": "6933392723532221411"
+        }
+      }
+    },
+    {
+      "operation": "FriendMapEventsMapRegionQuery",
+      "old_client_doc_id": "364918872217386994126830155516",
+      "new_client_doc_id": "36491887223451279926538247082",
+      "changes": {
+        "client_doc_id": {
+          "old": "364918872217386994126830155516",
+          "new": "36491887223451279926538247082"
+        },
+        "operation_text_hash": {
+          "old": "17386994126830155516",
+          "new": "3451279926538247082"
+        }
+      }
+    },
+    {
+      "operation": "IGStoryTrendingMidcardQuery",
+      "old_client_doc_id": "41655695193557572562897298807",
+      "new_client_doc_id": "416556951911481360015100999700",
+      "changes": {
+        "client_doc_id": {
+          "old": "41655695193557572562897298807",
+          "new": "416556951911481360015100999700"
+        },
+        "operation_text_hash": {
+          "old": "3557572562897298807",
+          "new": "11481360015100999700"
+        }
+      }
+    },
+    {
+      "operation": "IgXMetaInstallScreenInfoQuery",
+      "old_client_doc_id": "4328524398457901077086494148",
+      "new_client_doc_id": "4328524395930228305822082715",
+      "changes": {
+        "client_doc_id": {
+          "old": "4328524398457901077086494148",
+          "new": "4328524395930228305822082715"
+        },
+        "operation_text_hash": {
+          "old": "8457901077086494148",
+          "new": "5930228305822082715"
+        }
+      }
+    },
+    {
+      "operation": "LongformVideoQuery",
+      "old_client_doc_id": "227977032217866084475202816481",
+      "new_client_doc_id": "22797703229462478772116032489",
+      "changes": {
+        "client_doc_id": {
+          "old": "227977032217866084475202816481",
+          "new": "22797703229462478772116032489"
+        },
+        "operation_text_hash": {
+          "old": "17866084475202816481",
+          "new": "9462478772116032489"
+        }
+      }
+    },
+    {
+      "operation": "LootFetchCanvasQuery",
+      "old_client_doc_id": "7020227986299619362411900905",
+      "new_client_doc_id": "7020227985992369992287392928",
+      "changes": {
+        "client_doc_id": {
+          "old": "7020227986299619362411900905",
+          "new": "7020227985992369992287392928"
+        },
+        "operation_text_hash": {
+          "old": "6299619362411900905",
+          "new": "5992369992287392928"
+        }
+      }
+    },
+    {
+      "operation": "PendingFollows",
+      "old_client_doc_id": "33138429314827006311501392215",
+      "new_client_doc_id": "33138429312972974214352247663",
+      "changes": {
+        "client_doc_id": {
+          "old": "33138429314827006311501392215",
+          "new": "33138429312972974214352247663"
+        },
+        "operation_text_hash": {
+          "old": "14827006311501392215",
+          "new": "12972974214352247663"
+        }
+      }
+    },
+    {
+      "operation": "PendingFollows_At_Pando_Connection_Pagination_Query_users",
+      "old_client_doc_id": "18479333993850397283706303385",
+      "new_client_doc_id": "18479333998224576420717501230",
+      "changes": {
+        "client_doc_id": {
+          "old": "18479333993850397283706303385",
+          "new": "18479333998224576420717501230"
+        },
+        "operation_text_hash": {
+          "old": "3850397283706303385",
+          "new": "8224576420717501230"
+        }
+      }
+    },
+    {
+      "operation": "VultureMobileSampleRatesQuery",
+      "old_client_doc_id": "190340355513273350527437595190",
+      "new_client_doc_id": "190340355510677194406621325195",
+      "changes": {
+        "client_doc_id": {
+          "old": "190340355513273350527437595190",
+          "new": "190340355510677194406621325195"
+        },
+        "operation_text_hash": {
+          "old": "13273350527437595190",
+          "new": "10677194406621325195"
+        }
+      }
+    }
+  ]
+}
