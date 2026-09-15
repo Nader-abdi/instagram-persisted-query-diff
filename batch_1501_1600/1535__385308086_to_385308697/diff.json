@@ -1,0 +1,30 @@
+{
+  "comparison_index": 1535,
+  "comparison": {
+    "from_folder": "Instagram_447001581_beta",
+    "to_folder": "Instagram_447002181_beta",
+    "from_version_code": 385308086,
+    "to_version_code": 385308697,
+    "from_version_name": "447.0.0.15.81",
+    "to_version_name": "447.0.0.21.81"
+  },
+  "summary": {
+    "old_total": 1743,
+    "new_total": 1745,
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "ClipsOfflinePeakHourMetadataQuery",
+      "client_doc_id": "119860873417479193939772277041"
+    },
+    {
+      "operation": "IGSearchSerpDeliveryBaselineQuery",
+      "client_doc_id": "320955831910256781982931603333"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}
