@@ -1,0 +1,30 @@
+{
+  "comparison_index": 1542,
+  "comparison": {
+    "from_folder": "Instagram_44800584_beta",
+    "to_folder": "Instagram_448005284",
+    "from_version_code": 385407460,
+    "to_version_code": 385412025,
+    "from_version_name": "448.0.0.5.84",
+    "to_version_name": "448.0.0.52.84"
+  },
+  "summary": {
+    "old_total": 1764,
+    "new_total": 1766,
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "added": [
+    {
+      "operation": "EditFeaturedCreateMuseBannerMutation",
+      "client_doc_id": "198561818216174644375773821145"
+    },
+    {
+      "operation": "EditFeaturedDeleteMuseBannerMutation",
+      "client_doc_id": "295633611716630869532572943696"
+    }
+  ],
+  "removed": [],
+  "changed": []
+}
