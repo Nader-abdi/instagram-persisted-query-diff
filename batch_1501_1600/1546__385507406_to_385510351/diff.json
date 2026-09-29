@@ -1,0 +1,66 @@
+{
+  "comparison_index": 1546,
+  "comparison": {
+    "from_folder": "Instagram_44900484_beta",
+    "to_folder": "Instagram_449003684_beta",
+    "from_version_code": 385507406,
+    "to_version_code": 385510351,
+    "from_version_name": "449.0.0.4.84",
+    "to_version_name": "449.0.0.36.84"
+  },
+  "summary": {
+    "old_total": 1774,
+    "new_total": 1775,
+    "added": 2,
+    "removed": 1,
+    "changed": 2
+  },
+  "added": [
+    {
+      "operation": "IGPromptStickerByIdQuery",
+      "client_doc_id": "4581470436059555065073286085"
+    },
+    {
+      "operation": "MuseAddYoursAccountInfoQuery",
+      "client_doc_id": "426875991613561580804452891831"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "IGStoryCameraPromptQuery",
+      "client_doc_id": "15424518002062093897077613557"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "AccountInsightsHomeQuery",
+      "old_client_doc_id": "3844401144681896114743478072",
+      "new_client_doc_id": "3844401149962656937685604936",
+      "changes": {
+        "client_doc_id": {
+          "old": "3844401144681896114743478072",
+          "new": "3844401149962656937685604936"
+        },
+        "operation_text_hash": {
+          "old": "4681896114743478072",
+          "new": "9962656937685604936"
+        }
+      }
+    },
+    {
+      "operation": "SeriesInsightsOverviewQuery",
+      "old_client_doc_id": "38351563538056016187754158331",
+      "new_client_doc_id": "383515635315942074853924054442",
+      "changes": {
+        "client_doc_id": {
+          "old": "38351563538056016187754158331",
+          "new": "383515635315942074853924054442"
+        },
+        "operation_text_hash": {
+          "old": "8056016187754158331",
+          "new": "15942074853924054442"
+        }
+      }
+    }
+  ]
+}
