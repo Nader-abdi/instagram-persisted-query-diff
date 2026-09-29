@@ -1,0 +1,97 @@
+{
+  "comparison_index": 1550,
+  "comparison": {
+    "from_folder": "Instagram_45000026_alpha",
+    "to_folder": "Instagram_45000049_alpha",
+    "from_version_code": 385602247,
+    "to_version_code": 385604186,
+    "from_version_name": "450.0.0.0.26",
+    "to_version_name": "450.0.0.0.49"
+  },
+  "summary": {
+    "old_total": 1780,
+    "new_total": 1780,
+    "added": 0,
+    "removed": 0,
+    "changed": 5
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "FetchUserGlimmerTimelineQuery",
+      "old_client_doc_id": "25129430436448734385301555336",
+      "new_client_doc_id": "251294304314243991463833053110",
+      "changes": {
+        "client_doc_id": {
+          "old": "25129430436448734385301555336",
+          "new": "251294304314243991463833053110"
+        },
+        "operation_text_hash": {
+          "old": "6448734385301555336",
+          "new": "14243991463833053110"
+        }
+      }
+    },
+    {
+      "operation": "LikeMutation",
+      "old_client_doc_id": "1124967938911886571461370363",
+      "new_client_doc_id": "11249679385179789118272793925",
+      "changes": {
+        "client_doc_id": {
+          "old": "1124967938911886571461370363",
+          "new": "11249679385179789118272793925"
+        },
+        "operation_text_hash": {
+          "old": "911886571461370363",
+          "new": "5179789118272793925"
+        }
+      }
+    },
+    {
+      "operation": "OAuthAccountLinkingGetLoginURLQuery",
+      "old_client_doc_id": "301508945911097014813915680807",
+      "new_client_doc_id": "30150894594948307367747929099",
+      "changes": {
+        "client_doc_id": {
+          "old": "301508945911097014813915680807",
+          "new": "30150894594948307367747929099"
+        },
+        "operation_text_hash": {
+          "old": "11097014813915680807",
+          "new": "4948307367747929099"
+        }
+      }
+    },
+    {
+      "operation": "OAuthAccountLinkingGetLoginURLWithEntrypointQuery",
+      "old_client_doc_id": "7337648295254125132229613083",
+      "new_client_doc_id": "73376482914208245588400254547",
+      "changes": {
+        "client_doc_id": {
+          "old": "7337648295254125132229613083",
+          "new": "73376482914208245588400254547"
+        },
+        "operation_text_hash": {
+          "old": "5254125132229613083",
+          "new": "14208245588400254547"
+        }
+      }
+    },
+    {
+      "operation": "UnlikeMutation",
+      "old_client_doc_id": "366666866917264928568001850081",
+      "new_client_doc_id": "36666686698003728011245183019",
+      "changes": {
+        "client_doc_id": {
+          "old": "366666866917264928568001850081",
+          "new": "36666686698003728011245183019"
+        },
+        "operation_text_hash": {
+          "old": "17264928568001850081",
+          "new": "8003728011245183019"
+        }
+      }
+    }
+  ]
+}
