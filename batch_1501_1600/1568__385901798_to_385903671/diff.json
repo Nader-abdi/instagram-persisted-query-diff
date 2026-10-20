@@ -1,0 +1,126 @@
+{
+  "comparison_index": 1568,
+  "comparison": {
+    "from_folder": "Instagram_45300022_alpha",
+    "to_folder": "Instagram_45300045_alpha",
+    "from_version_code": 385901798,
+    "to_version_code": 385903671,
+    "from_version_name": "453.0.0.0.22",
+    "to_version_name": "453.0.0.0.45"
+  },
+  "summary": {
+    "old_total": 1845,
+    "new_total": 1845,
+    "added": 1,
+    "removed": 1,
+    "changed": 6
+  },
+  "added": [
+    {
+      "operation": "MainFeedParentControlQuery",
+      "client_doc_id": "33178863704427231510036859679"
+    }
+  ],
+  "removed": [
+    {
+      "operation": "DirectThreadContentShareUrl",
+      "client_doc_id": "275572620210081510657303523931"
+    }
+  ],
+  "changed": [
+    {
+      "operation": "AccountInsightsHomeQuery",
+      "old_client_doc_id": "3844401142486101186973586352",
+      "new_client_doc_id": "38444011412098991622225483328",
+      "changes": {
+        "client_doc_id": {
+          "old": "3844401142486101186973586352",
+          "new": "38444011412098991622225483328"
+        },
+        "operation_text_hash": {
+          "old": "2486101186973586352",
+          "new": "12098991622225483328"
+        }
+      }
+    },
+    {
+      "operation": "CreateInboxTrayReactionRequest",
+      "old_client_doc_id": "27135566714110848967241801634",
+      "new_client_doc_id": "27135566715503165023556277489",
+      "changes": {
+        "client_doc_id": {
+          "old": "27135566714110848967241801634",
+          "new": "27135566715503165023556277489"
+        },
+        "operation_text_hash": {
+          "old": "4110848967241801634",
+          "new": "5503165023556277489"
+        }
+      }
+    },
+    {
+      "operation": "IGFriendingCenterNotificationTargetUserByUsernameQuery",
+      "old_client_doc_id": "5354990136246645854206041943",
+      "new_client_doc_id": "5354990139398759183133872492",
+      "changes": {
+        "client_doc_id": {
+          "old": "5354990136246645854206041943",
+          "new": "5354990139398759183133872492"
+        },
+        "operation_text_hash": {
+          "old": "6246645854206041943",
+          "new": "9398759183133872492"
+        },
+        "schema": {
+          "old": "distillery",
+          "new": "instagram"
+        }
+      }
+    },
+    {
+      "operation": "IGStoryPublishedTrendByIdQuery",
+      "old_client_doc_id": "24122691324351990889078295421",
+      "new_client_doc_id": "24122691326131581372095916524",
+      "changes": {
+        "client_doc_id": {
+          "old": "24122691324351990889078295421",
+          "new": "24122691326131581372095916524"
+        },
+        "operation_text_hash": {
+          "old": "4351990889078295421",
+          "new": "6131581372095916524"
+        }
+      }
+    },
+    {
+      "operation": "IGStoryTrendingMidcardQuery",
+      "old_client_doc_id": "416556951918022594265359895721",
+      "new_client_doc_id": "416556951914634601531591072314",
+      "changes": {
+        "client_doc_id": {
+          "old": "416556951918022594265359895721",
+          "new": "416556951914634601531591072314"
+        },
+        "operation_text_hash": {
+          "old": "18022594265359895721",
+          "new": "14634601531591072314"
+        }
+      }
+    },
+    {
+      "operation": "ShortDramaCreatorSeriesPageQuery",
+      "old_client_doc_id": "19436201035512562091711666508",
+      "new_client_doc_id": "19436201031990450482340861596",
+      "changes": {
+        "client_doc_id": {
+          "old": "19436201035512562091711666508",
+          "new": "19436201031990450482340861596"
+        },
+        "operation_text_hash": {
+          "old": "5512562091711666508",
+          "new": "1990450482340861596"
+        }
+      }
+    }
+  ]
+}
