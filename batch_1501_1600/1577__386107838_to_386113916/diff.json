@@ -1,0 +1,82 @@
+{
+  "comparison_index": 1577,
+  "comparison": {
+    "from_folder": "Instagram_45500872_beta",
+    "to_folder": "Instagram_455005172",
+    "from_version_code": 386107838,
+    "to_version_code": 386113916,
+    "from_version_name": "455.0.0.8.72",
+    "to_version_name": "455.0.0.51.72"
+  },
+  "summary": {
+    "old_total": 1938,
+    "new_total": 1938,
+    "added": 0,
+    "removed": 0,
+    "changed": 4
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "CreateInterestFeedMutation",
+      "old_client_doc_id": "5293236924508336638411845705",
+      "new_client_doc_id": "5293236929335236968527457381",
+      "changes": {
+        "client_doc_id": {
+          "old": "5293236924508336638411845705",
+          "new": "5293236929335236968527457381"
+        },
+        "operation_text_hash": {
+          "old": "4508336638411845705",
+          "new": "9335236968527457381"
+        }
+      }
+    },
+    {
+      "operation": "CreateMultipleTopicFeedsMutation",
+      "old_client_doc_id": "125124693517530772577298752463",
+      "new_client_doc_id": "12512469357210615665371753215",
+      "changes": {
+        "client_doc_id": {
+          "old": "125124693517530772577298752463",
+          "new": "12512469357210615665371753215"
+        },
+        "operation_text_hash": {
+          "old": "17530772577298752463",
+          "new": "7210615665371753215"
+        }
+      }
+    },
+    {
+      "operation": "ShopEverythingMediaEligibilityBatchQuery",
+      "old_client_doc_id": "67316472313877324671388400297",
+      "new_client_doc_id": "6731647232467110552289496899",
+      "changes": {
+        "client_doc_id": {
+          "old": "67316472313877324671388400297",
+          "new": "6731647232467110552289496899"
+        },
+        "operation_text_hash": {
+          "old": "13877324671388400297",
+          "new": "2467110552289496899"
+        }
+      }
+    },
+    {
+      "operation": "YourFeedsTabsQuery",
+      "old_client_doc_id": "29445586123612566081113001435",
+      "new_client_doc_id": "29445586126199823021937720235",
+      "changes": {
+        "client_doc_id": {
+          "old": "29445586123612566081113001435",
+          "new": "29445586126199823021937720235"
+        },
+        "operation_text_hash": {
+          "old": "3612566081113001435",
+          "new": "6199823021937720235"
+        }
+      }
+    }
+  ]
+}
