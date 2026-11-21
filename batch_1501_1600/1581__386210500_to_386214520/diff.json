@@ -1,0 +1,37 @@
+{
+  "comparison_index": 1581,
+  "comparison": {
+    "from_folder": "Instagram_456002478_beta",
+    "to_folder": "Instagram_456005378",
+    "from_version_code": 386210500,
+    "to_version_code": 386214520,
+    "from_version_name": "456.0.0.24.78",
+    "to_version_name": "456.0.0.53.78"
+  },
+  "summary": {
+    "old_total": 1973,
+    "new_total": 1973,
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "operation": "WaContactShareFetch",
+      "old_client_doc_id": "12241124531305301468012397314",
+      "new_client_doc_id": "12241124537255605100411355926",
+      "changes": {
+        "client_doc_id": {
+          "old": "12241124531305301468012397314",
+          "new": "12241124537255605100411355926"
+        },
+        "operation_text_hash": {
+          "old": "1305301468012397314",
+          "new": "7255605100411355926"
+        }
+      }
+    }
+  ]
+}
